@@ -9,6 +9,9 @@ on:
     - cron: "0 0 * * *" # daily
   pull_request:
     types: [opened, synchronize, reopened]
+  push:
+    branches:
+      - main
   
 jobs:
   main:
