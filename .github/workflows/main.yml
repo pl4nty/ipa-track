@@ -46,14 +46,9 @@ jobs:
             dir_name=$(basename "$dir")
             output=$(python3 ipatool-py/main.py --json lookup -b "$dir_name" -c AU download -o ipaDown -s http://127.0.0.1:9000)
             echo "Got Downloading JSON result for $dir_name: $output"
-            python3 ipa-track/main.py --appBundleId "$dir_name" --downloadedIPA "$(echo "$output" | jq -r '.downloadedIPA')"
+            python3 ipa-track/main.py --appBundleId "ipa-track/$dir_name" --downloadedIPA "$(echo "$output" | jq -r '.downloadedIPA')"
           done
         shell: bash
-        
-      - name: "Upload package"
-        uses: NyaMisty/upload-artifact-as-is@master
-        with:
-          path: ipaDown\*
 
       - uses: EndBug/add-and-commit@v9.1.4
         with:
