@@ -17,17 +17,20 @@ jobs:
       contents: write # committing
     steps:
       - uses: actions/checkout@v4.2.2
+        with:
+          path: ipa-track
 
-      - uses: actions/checkout@v4.2.2
+      - name: Checkout ipatool-py
+        uses: actions/checkout@v4.2.2
         with:
           repository: NyaMisty/ipatool-py
-          path: ../ipatool-py
+          path: ipatool-py
       - uses: actions/setup-python@v5.3.0
         with:
           python-version: 3.x
           cache: pip
       - run: pip install -r requirements.txt
-        working-directory: ../ipatool-py
+        working-directory: ipatool-py
       - name: Setup iTunes Header Service
         uses: NyaMisty/actions-iTunes-header@master
         with:
@@ -38,21 +41,22 @@ jobs:
       - name: Execute operation
         id: operation
         run: |
-          mkdir ..\ipaDown
-          for dir in */; do
+          mkdir ipaDown
+          for dir in ipa-track/*/; do
             dir_name=$(basename "$dir")
-            output=$(python3 ../ipatool-py/main.py --json lookup -b "$dir_name" -c AU download -o ../ipaDown -s http://127.0.0.1:9000)
+            output=$(python3 ipatool-py/main.py --json lookup -b "$dir_name" -c AU download -o ipaDown -s http://127.0.0.1:9000)
             echo "Got Downloading JSON result for $dir_name: $output"
-            python3 main.py --appBundleId "$dir_name" --downloadedIPA "$(echo "$output" | jq -r '.downloadedIPA')"
+            python3 ipa-track/main.py --appBundleId "$dir_name" --downloadedIPA "$(echo "$output" | jq -r '.downloadedIPA')"
           done
         shell: bash
         
       - name: "Upload package"
         uses: NyaMisty/upload-artifact-as-is@master
         with:
-          path: ..\ipaDown\*
+          path: ipaDown\*
 
       - uses: EndBug/add-and-commit@v9.1.4
         with:
           default_author: github_actions
           message: Change detected
+          cwd: ipa-track
