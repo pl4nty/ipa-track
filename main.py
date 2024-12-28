@@ -4,6 +4,7 @@ import os
 import argparse
 import re
 
+
 def extract_info_plist(downloadedIPA, appBundleId):
     with zipfile.ZipFile(downloadedIPA, 'r') as zip_ref:
         for file_name in zip_ref.namelist():
@@ -28,6 +29,9 @@ def extract_entitlements(downloadedIPA, appBundleId):
                     entitlements_data = binary_data[start_idx:end_idx]
                     os.makedirs(appBundleId, exist_ok=True)
                     with open(os.path.join(appBundleId, "entitlements.plist"), "wb") as f:
+                        f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+                        f.write(
+                            b'<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">\n')
                         f.write(entitlements_data)
                 break
 
