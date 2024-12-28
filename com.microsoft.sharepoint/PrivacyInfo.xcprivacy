@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!--
+   PrivacyInfo.xcprivacy
+   SharePoint
+
+   Link to apple documentation regarding this manfiest requirement: https://developer.apple.com/documentation/bundleresources/privacy_manifest_files
+   Link to all the required reasons : https://developer.apple.com/documentation/bundleresources/privacy_manifest_files/describing_use_of_required_reason_api
+
+-->
+<dict>
+    <!--Our file references one or more APIs that require reasons, including the following API categories: NSPrivacyAccessedAPICategoryFileTimestamp, NSPrivacyAccessedAPICategoryUserDefaults etc. so starting from May 1, 2024, when we upload a new app or app update, we must include a NSPrivacyAccessedAPITypes array in your app’s privacy manifest to provide approved reasons for these APIs used by our app’s code. An example being DDA9.1 is used to "Declare reason to display file timestamps to the person using the device". Please refer to required reasons API link above
+    -->
+    <key>NSPrivacyAccessedAPITypes</key>
+    <array>
+        <dict>
+            <key>NSPrivacyAccessedAPIType</key>
+            <string>NSPrivacyAccessedAPICategoryFileTimestamp</string>
+            <key>NSPrivacyAccessedAPITypeReasons</key>
+            <array>
+                <string>DDA9.1</string>
+                <string>C617.1</string>
+                <string>3B52.1</string>
+            </array>
+        </dict>
+        <dict>
+            <key>NSPrivacyAccessedAPIType</key>
+            <string>NSPrivacyAccessedAPICategoryUserDefaults</string>
+            <key>NSPrivacyAccessedAPITypeReasons</key>
+            <array>
+                <string>CA92.1</string>
+                <string>1C8F.1</string>
+                <string>AC6B.1</string>
+            </array>
+        </dict>
+    </array>
+</dict>
+</plist>

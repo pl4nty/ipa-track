@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationIdentifier</key>
+	<string>T84QZS65DQ.com.facebook.talk</string>
+	<key>CFBuildDate</key>
+	<string>2024-10-14T09:36:50</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Messenger Kids</string>
+	<key>CFBundleExecutable</key>
+	<string>Talk</string>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>icon60x60</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>icon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>icon60x60</string>
+				<string>icon76x76</string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string>icon</string>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.facebook.talk</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Messenger Kids</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>274.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.facebook.talk</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb-mk</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>652356049</string>
+	<key>DTAppStoreToolsBuild</key>
+	<string>16A242d</string>
+	<key>DTPlatformBuild</key>
+	<string>22A3362</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>DTPlatformVersion</key>
+	<string>18.0</string>
+	<key>DTSDKBuild</key>
+	<string>22A3362</string>
+	<key>DTSDKName</key>
+	<string>iphoneos18.0</string>
+	<key>DTXcode</key>
+	<string>1600</string>
+	<key>DTXcodeBuild</key>
+	<string>16A242d</string>
+	<key>FBAppVersion</key>
+	<string>274.0.0.31.210</string>
+	<key>FBBuck2</key>
+	<true/>
+	<key>FBBuildBranchName</key>
+	<string>dev</string>
+	<key>FBBuildNumber</key>
+	<integer>652356049</integer>
+	<key>FBBuildRevision</key>
+	<string>e57e1d1afc05f146486ce9a4a3cf16db9938526d</string>
+	<key>FBBuildRevisionTime</key>
+	<string>1728897246.025200</string>
+	<key>FBBuildTime</key>
+	<integer>1728898610</integer>
+	<key>FBDisableAutoRegisterForPush</key>
+	<string>YES</string>
+	<key>FBKeychainAccessGroup</key>
+	<string>T84QZS65DQ.platformFamily</string>
+	<key>FBPlatformVersion</key>
+	<string>274.0</string>
+	<key>FacebookAppID</key>
+	<string>1174099472704185</string>
+	<key>FacebookAppPushTransmitterID</key>
+	<string>1174099472704185</string>
+	<key>FacebookAppToken</key>
+	<string>0722a7d5b5a4ac06b11450f7114eb2e9</string>
+	<key>FacebookAppUserAgent</key>
+	<string>TalkForiOS</string>
+	<key>FacebookDisplayName</key>
+	<string>Messenger Kids</string>
+	<key>FacebookFlytrapCategoryId</key>
+	<string>1775942919398166</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fb</string>
+		<string>fb-messenger</string>
+		<string>instagram</string>
+		<string>barcelona</string>
+		<string>oculus</string>
+		<string>whatsapp</string>
+		<string>otpauth</string>
+		<string>fb-pma</string>
+		<string>fb-ama</string>
+		<string>comgooglemaps</string>
+		<string>waze</string>
+		<string>duo</string>
+		<string>googleauthenticator</string>
+		<string>http</string>
+		<string>https</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>13.4</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<false/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>This lets you take photos, record video, and video chat your contacts.
+
+You can change this setting on your device at any time.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>This will allow features that use your contacts to work.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This lets you talk with contacts and record audio for videos and messages.
+
+You can change this setting on your device at any time.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This lets you save and send media such as photos and videos.
+
+You can change this setting on your device at any time.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This lets you save and send media such as photos and videos.
+
+You can change this setting on your device at any time.</string>
+	<key>NSUserActivityTypes</key>
+	<array>
+		<string>INStartAudioCallIntent</string>
+		<string>INStartVideoCallIntent</string>
+	</array>
+	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
+	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+		<string>fetch</string>
+		<string>audio</string>
+		<string>voip</string>
+	</array>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UIEnableMotionShake</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>arm64</string>
+	</array>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UIStatusBarTintParameters</key>
+	<dict>
+		<key>UINavigationBar</key>
+		<dict>
+			<key>Style</key>
+			<string>UIBarStyleDefault</string>
+			<key>Translucent</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+</dict>
+</plist>
