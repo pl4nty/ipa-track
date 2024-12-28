@@ -1,0 +1,75 @@
+name: Refresh data
+
+env:
+  PYTHONIOENCODING: utf-8
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" # hourly
+  pull_request:
+    types: [opened, synchronize, reopened]
+  
+jobs:
+  main:
+    runs-on: windows-latest
+    permissions:
+      contents: write # committing
+    steps:
+      - uses: actions/checkout@v4.2.2
+      - uses: actions/checkout@v4.2.2
+        with:
+          repository: NyaMisty/ipatool-py
+          path: ../ipatool-py
+      - uses: actions/setup-python@v5.3.0
+        with:
+          python-version: 3.x
+          cache: pip
+      - run: pip install -r requirements.txt
+        working-directory: ../ipatool-py
+      
+      - name: Masking inputs
+        run: |
+          SECRET_VALUE=$(cat $GITHUB_EVENT_PATH | jq -r '.inputs.appleId' )
+          echo "::add-mask::$SECRET_VALUE"
+          SECRET_VALUE=$(cat $GITHUB_EVENT_PATH | jq -r '.inputs.appleIdPwd' )
+          echo "::add-mask::$SECRET_VALUE"
+        shell: bash
+
+      - name: Setup iTunes Header Service
+        uses: NyaMisty/actions-iTunes-header@master
+        with:
+          apple_id: ${{ secrets.EMAIL }}
+          apple_id_pwd: ${{ secrets.PASSWORD }}
+          ngrok_token: ${{ secrets.NGROK_AUTH_TOKEN }}
+        
+      - name: Execute operation
+        id: operation
+        run: |
+          mkdir ..\ipaDown
+          output=$(python3 ../ipatool-py/main.py --json lookup -b ${{ github.event.inputs.appBundleId }} -c AU download -o ..\ipaDown -s http://127.0.0.1:9000)
+          echo "Got Downloading JSON result: $output"
+          echo "::set-output name=appName::$(echo "$output" | jq -r '.appName')"
+          echo "::set-output name=appBundleId::$(echo "$output" | jq -r '.appBundleId')"
+          echo "::set-output name=appVer::$(echo "$output" | jq -r '.appVer')"
+          echo "::set-output name=appId::$(echo "$output" | jq -r '.appId')"
+          echo "::set-output name=appVerId::$(echo "$output" | jq -r '.appVerId')"
+          echo "::set-output name=downloadedIPA::$(echo "$output" | jq -r '.downloadedIPA')"
+        shell: bash
+        
+      - name: "Upload package"
+        uses: NyaMisty/upload-artifact-as-is@master
+        with:
+          path: ..\ipaDown\*
+
+      - uses: EndBug/add-and-commit@v9.1.4
+        with:
+          default_author: github_actions
+          message: Change detected
+
+      # - name: Split ipa
+      #   run: |
+      #     mkdir -p ipaDown_split
+      #     (cd ipaDown; find . -name "*.ipa" -size +1879048192b -exec split --bytes=1879048192 --suffix-length=3 --numeric-suffix {} ../ipaDown_split/{}. \;)
+      #     (cd ipaDown; find . -name "*.ipa" -not -size +1879048192b -exec cp -r {} ../ipaDown_split \;)
+      #   shell: bash
