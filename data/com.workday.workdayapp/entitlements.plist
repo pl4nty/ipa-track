@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.developer.icloud-container-identifiers</key>
+	<array>
+		<string>iCloud.com.workday.workdayapp</string>
+	</array>
+	<key>com.apple.developer.ubiquity-container-identifiers</key>
+	<array>
+		<string>iCloud.com.workday.workdayapp</string>
+	</array>
+	<key>application-identifier</key>
+	<string>Q5J5UZBHE3.com.workday.workdayapp</string>
+	<key>com.apple.developer.icloud-services</key>
+	<array>
+		<string>CloudDocuments</string>
+	</array>
+	<key>com.apple.developer.team-identifier</key>
+	<string>798R94V79M</string>
+	<key>aps-environment</key>
+	<string>production</string>
+	<key>com.apple.developer.icloud-container-environment</key>
+	<string>Production</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:*.workday.com</string>
+		<string>applinks:*.myworkday.com</string>
+		<string>applinks:*.workday.net</string>
+		<string>applinks:*.workdayeducation.com</string>
+		<string>applinks:*.megaleo.com</string>
+		<string>applinks:*.workdaysuv.com</string>
+		<string>applinks:*.workdaybugbounty.com</string>
+		<string>applinks:*.wdscylla.de</string>
+		<string>applinks:k7vm6.app.goo.gl</string>
+		<string>applinks:workdayapp.page.link</string>
+	</array>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.workday.share.extension</string>
+		<string>group.com.workday.widget</string>
+	</array>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>Q5J5UZBHE3.com.workday.sharedKeychain</string>
+	</array>
+</dict>
+</plist>

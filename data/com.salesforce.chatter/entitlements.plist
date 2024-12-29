@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>62J96EUJ9N.com.salesforce.chatter</string>
+	</array>
+	<key>com.apple.developer.team-identifier</key>
+	<string>62J96EUJ9N</string>
+	<key>application-identifier</key>
+	<string>62J96EUJ9N.com.salesforce.chatter</string>
+	<key>com.apple.developer.nfc.readersession.formats</key>
+	<array>
+		<string>TAG</string>
+	</array>
+	<key>aps-environment</key>
+	<string>production</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:*.salesforce.com</string>
+		<string>applinks:*.force.com</string>
+		<string>applinks:mobileauth.salesforce.com</string>
+		<string>applinks:mobileauthentication.salesforce.com</string>
+	</array>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.salesforce.chatter</string>
+	</array>
+</dict>
+</plist>
