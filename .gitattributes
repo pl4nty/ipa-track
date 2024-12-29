@@ -1,1 +1,2 @@
-*.plist linguist-language=XML-Property-List
+*.plist linguist-detectable linguist-language=XML-Property-List
+*.xcprivacy linguist-detectable linguist-language=XML-Property-List
