@@ -45,11 +45,11 @@ jobs:
         id: operation
         run: |
           mkdir ipaDown
-          for dir in ipa-track/*/; do
+          for dir in ipa-track/data/*/; do
             dir_name=$(basename "$dir")
             output=$(python3 ipatool-py/main.py --json lookup -b "$dir_name" -c AU download  --purchase -o ipaDown -s http://127.0.0.1:9000)
             echo "Got Downloading JSON result for $dir_name: $output"
-            python3 ipa-track/main.py --appBundleId "ipa-track/$dir_name" --downloadedIPA "$(echo "$output" | jq -r '.downloadedIPA')"
+            python3 ipa-track/main.py --appBundleId "ipa-track/data/$dir_name" --downloadedIPA "$(echo "$output" | jq -r '.downloadedIPA')"
           done
         shell: bash
 

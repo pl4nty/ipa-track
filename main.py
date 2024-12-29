@@ -20,9 +20,10 @@ def extract_info_plist(downloadedIPA, appBundleId):
 def extract_entitlements(downloadedIPA, appBundleId):
     with zipfile.ZipFile(downloadedIPA, 'r') as zip_ref:
         for file_name in zip_ref.namelist():
-            if re.match(r'^Payload/[^/]+\.app/([^/]+)$', file_name):
+            if re.match(r'^Payload/[^/]+\.app/([^/.]+)$', file_name):
+                print(f"found binary {file_name}")
                 binary_data = zip_ref.read(file_name)
-                start_idx = binary_data.find(b"<plist")
+                start_idx = binary_data.find(b'<plist version="1.0">\n')
                 end_idx = binary_data.find(b"</plist>")
                 if start_idx != -1 and end_idx != -1:
                     end_idx += len(b"</plist>")
