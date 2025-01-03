@@ -10,7 +10,7 @@
 	<key>BreakpadProduct</key>
 	<string>Google_Search_App_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23H124</string>
+	<string>23F79</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -87,7 +87,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>346.1</string>
+	<string>346.2</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -125,7 +125,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>346.1.704810410</string>
+	<string>346.2.705979365</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
