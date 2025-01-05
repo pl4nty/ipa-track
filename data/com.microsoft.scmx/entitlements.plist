@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.developer.device-information.user-assigned-device-name</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>SGGM6D27TK.com.microsoft.workplacejoin</string>
+		<string>SGGM6D27TK.com.microsoft.workplacejoin.v2</string>
+		<string>SGGM6D27TK.com.microsoft.adalcache</string>
+		<string>SGGM6D27TK.com.microsoft.scmx.SharedItems</string>
+		<string>SGGM6D27TK.com.microsoft.intune.mam</string>
+		<string>SGGM6D27TK.com.microsoft.scmx</string>
+	</array>
+	<key>com.apple.developer.team-identifier</key>
+	<string>UBF8T346G9</string>
+	<key>application-identifier</key>
+	<string>SGGM6D27TK.com.microsoft.scmx</string>
+	<key>com.apple.developer.networking.HotspotHelper</key>
+	<true/>
+	<key>com.apple.developer.networking.networkextension</key>
+	<array>
+		<string>content-filter-provider</string>
+		<string>packet-tunnel-provider</string>
+	</array>
+	<key>aps-environment</key>
+	<string>production</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:mydefender.microsoft.com</string>
+		<string>applinks:gb-ppe.microsoft.com</string>
+		<string>applinks:mysecurity.microsoft.com</string>
+		<string>webcredentials:login.microsoft.com</string>
+		<string>webcredentials:login.microsoftonline.us</string>
+		<string>webcredentials:login.partner.microsoftonline.cn</string>
+	</array>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.microsoft.scmx</string>
+	</array>
+</dict>
+</plist>
