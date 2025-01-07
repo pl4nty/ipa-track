@@ -12,7 +12,7 @@ def extract_info_plist(downloadedIPA, appBundleId):
                 plist_data = zip_ref.read(file_name)
                 os.makedirs(appBundleId, exist_ok=True)
                 info_dict = plistlib.loads(plist_data)
-                with open(os.path.join(appBundleId, 'Info.plist.xml'), 'wb') as f:
+                with open(os.path.join(appBundleId, 'Info.xml'), 'wb') as f:
                     plistlib.dump(info_dict, f, fmt=plistlib.FMT_XML)
                 break
 
@@ -29,7 +29,7 @@ def extract_entitlements(downloadedIPA, appBundleId):
                     end_idx += len(b"</plist>")
                     entitlements_data = binary_data[start_idx:end_idx]
                     os.makedirs(appBundleId, exist_ok=True)
-                    with open(os.path.join(appBundleId, "entitlements.plist.xml"), "wb") as f:
+                    with open(os.path.join(appBundleId, "entitlements.xml"), "wb") as f:
                         f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
                         f.write(
                             b'<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">\n')
