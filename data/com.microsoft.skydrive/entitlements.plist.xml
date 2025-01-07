@@ -25,6 +25,8 @@
 		<string>applinks:photos.onedrive.com</string>
 		<string>applinks:photos.1drv-dogfood.net</string>
 		<string>applinks:krs.microsoft.com</string>
+		<string>applinks:safelinks.protection.outlook.com</string>
+		<string>applinks:*.safelinks.protection.outlook.com</string>
 		<string>webcredentials:login.microsoft.com</string>
 		<string>webcredentials:login.microsoftonline.us</string>
 		<string>webcredentials:login.partner.microsoftonline.cn</string>
