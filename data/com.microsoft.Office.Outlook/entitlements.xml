@@ -40,6 +40,7 @@
 		<string>SGGM6D27TK.com.microsoft.oneauth</string>
 		<string>SGGM6D27TK.com.microsoft.mfa.accounts.shared.group</string>
 		<string>SGGM6D27TK.com.microsoft.workplacejoin.v2</string>
+		<string>com.apple.token</string>
 	</array>
 	<key>com.apple.developer.mail-client</key>
 	<true/>
