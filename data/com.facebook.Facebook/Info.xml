@@ -19,7 +19,7 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBuildDate</key>
-	<string>2024-12-17T18:45:53</string>
+	<string>2025-01-07T19:49:05</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>494.0.0</string>
+	<string>495.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -113,43 +113,43 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>675122596</string>
+	<string>681969272</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTPlatformBuild</key>
-	<string>22A3362</string>
+	<string>22C146</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.0</string>
+	<string>18.2</string>
 	<key>DTSDKBuild</key>
-	<string>22A3362</string>
+	<string>22C146</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.0</string>
+	<string>iphoneos18.2</string>
 	<key>DTXcode</key>
-	<string>1600</string>
+	<string>1620</string>
 	<key>DTXcodeBuild</key>
-	<string>16A242d</string>
+	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>494.0.0.50.98</string>
+	<string>495.0.0.21.296</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>675122596</integer>
+	<integer>681969272</integer>
 	<key>FBBuildRevision</key>
-	<string>b418ed0d9bebd40c646489864d9a97cf95194754</string>
+	<string>5e319bd2bf3cac62712572a075fa55758e51459c</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1734458969.028800</string>
+	<string>1736277608.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1734461153</integer>
+	<integer>1736279345</integer>
 	<key>FBJSBundleRoot</key>
 	<string>EntryPoints/WildeBundle</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>494.0.0</string>
+	<string>495.0.0</string>
 	<key>FBSearchAppSpecificConfig</key>
 	<string>FBSearchWildeAppSpecificConfig</string>
 	<key>FacebookAppID</key>
@@ -165,72 +165,72 @@
 		<string>barcelona</string>
 		<string>oculus</string>
 		<string>whatsapp</string>
+		<string>fb-viewapp</string>
 		<string>fb-pma</string>
 		<string>line</string>
 		<string>snapchat</string>
 		<string>fb-biz</string>
-		<string>fb-viewapp</string>
 		<string>comgooglemaps</string>
 		<string>waze</string>
 		<string>fb1779658199047189</string>
 		<string>fb312563225523989</string>
 		<string>fb3284555318463805</string>
 		<string>fb709376360216583</string>
-		<string>fb2328240260794422</string>
 		<string>fb870206494237573</string>
-		<string>fb565174839280642</string>
-		<string>fb320796954236736</string>
-		<string>fb426786581540674</string>
-		<string>fb977113435819611</string>
-		<string>fb1023560685845135</string>
-		<string>fb973962204049033</string>
 		<string>fb551625605554229</string>
-		<string>fb420611815244724</string>
+		<string>fb2328240260794422</string>
+		<string>fb977113435819611</string>
+		<string>fb565174839280642</string>
+		<string>fb426786581540674</string>
 		<string>fb1926707991146747</string>
+		<string>fb420611815244724</string>
 		<string>fb198910933775388</string>
+		<string>fb320796954236736</string>
 		<string>fb608495662880177</string>
-		<string>fb182809591793403</string>
-		<string>fb124207444332529</string>
-		<string>fb123375407711200</string>
-		<string>fb277638822572073</string>
-		<string>fb841338400525592</string>
+		<string>fb1023560685845135</string>
 		<string>fb455212679582633</string>
+		<string>fb182809591793403</string>
 		<string>fb210831918949520</string>
-		<string>fb306284836640678</string>
-		<string>fb126328830844679</string>
+		<string>fb973962204049033</string>
+		<string>fb124207444332529</string>
+		<string>fb277638822572073</string>
+		<string>fb1055885851158192</string>
+		<string>fb841338400525592</string>
 		<string>fb2608685292627879</string>
+		<string>fb601621360285543</string>
 		<string>fb410181193191942</string>
 		<string>fb2673921099381214</string>
 		<string>fb1427615667454320</string>
 		<string>fb2575291882858826</string>
-		<string>fb1055885851158192</string>
-		<string>fb1557401524987395</string>
+		<string>fb166363243399924</string>
 		<string>fb1035527333163978</string>
+		<string>fb285025889266955</string>
+		<string>fb1784064312074548</string>
+		<string>fb746058510919834</string>
+		<string>fb1557401524987395</string>
+		<string>fb1219185349288788</string>
+		<string>fb891889767495675</string>
+		<string>fb1452516902052354</string>
+		<string>fb503934352950298</string>
+		<string>fb478459461817004</string>
+		<string>fb431882705344813</string>
+		<string>fb271617373615752</string>
+		<string>fb1409784043224018</string>
+		<string>fb126328830844679</string>
+		<string>fb428459580131265</string>
+		<string>fb1222123985060415</string>
+		<string>fb1841886549525082</string>
+		<string>fb725480251207859</string>
+		<string>fb737229396381522</string>
+		<string>fb169545139744270</string>
 		<string>fb1923291651293408</string>
 		<string>fb597615686992125</string>
-		<string>fb271617373615752</string>
-		<string>fb1219185349288788</string>
-		<string>fb737229396381522</string>
-		<string>fb1452516902052354</string>
-		<string>fb891889767495675</string>
-		<string>fb166363243399924</string>
-		<string>fb1049729741852134</string>
-		<string>fb431882705344813</string>
-		<string>fb285025889266955</string>
-		<string>fb462596768972930</string>
-		<string>fb169545139744270</string>
-		<string>fb601621360285543</string>
-		<string>fb236995639668665</string>
-		<string>fb1841886549525082</string>
-		<string>fb298043060224003</string>
-		<string>fb881533305321336</string>
-		<string>fb1247895089145935</string>
-		<string>fb865716821052410</string>
 		<string>fb141987249766567</string>
-		<string>fb300622223656426</string>
-		<string>fb725480251207859</string>
-		<string>fb878554604053772</string>
-		<string>fb158742637545893</string>
+		<string>fb1869661963180548</string>
+		<string>fb1132078647863398</string>
+		<string>fb977006657532352</string>
+		<string>fb174103646072524</string>
+		<string>fb462596768972930</string>
 		<string>http</string>
 		<string>https</string>
 	</array>
