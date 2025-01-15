@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.MAdMan</string>
 	<key>CFBuildDate</key>
-	<string>2025-01-05T22:27:30</string>
+	<string>2025-01-08T09:46:36</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>408.1</string>
+	<string>409.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -63,37 +63,37 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>681310589</string>
+	<string>682183720</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTPlatformBuild</key>
-	<string>22A3362</string>
+	<string>22C146</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.0</string>
+	<string>18.2</string>
 	<key>DTSDKBuild</key>
-	<string>22A3362</string>
+	<string>22C146</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.0</string>
+	<string>iphoneos18.2</string>
 	<key>DTXcode</key>
-	<string>1600</string>
+	<string>1620</string>
 	<key>DTXcodeBuild</key>
-	<string>16A242d</string>
+	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>408.1.0.56.107</string>
+	<string>409.0.0.23.326</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>681310589</integer>
+	<integer>682183720</integer>
 	<key>FBBuildRevision</key>
-	<string>a2b2b867a37faeb7980d621a037aea0cde4920e1</string>
+	<string>2e9fbae8e50de965df0919f6fd351737f238b4ba</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1736104185.028800</string>
+	<string>1736327090.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1736116050</integer>
+	<integer>1736329596</integer>
 	<key>FBCWAnalyticsModule</key>
 	<string>mobile_ads_manager</string>
 	<key>FBCWAppBugReportCategory</key>
@@ -115,7 +115,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>408.1</string>
+	<string>409.0</string>
 	<key>FBReactUpdatesNotificationEnabled</key>
 	<string>NO</string>
 	<key>FacebookAppID</key>
@@ -128,6 +128,7 @@
 		<string>barcelona</string>
 		<string>oculus</string>
 		<string>whatsapp</string>
+		<string>fb-viewapp</string>
 		<string>otpauth</string>
 		<string>fb-pma</string>
 		<string>comgooglemaps</string>

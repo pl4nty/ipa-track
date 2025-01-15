@@ -87,7 +87,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>350.1</string>
+	<string>351.0</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -125,7 +125,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>350.1.712346859</string>
+	<string>351.0.713349843</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>

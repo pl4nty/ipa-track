@@ -28,6 +28,7 @@
 		<string>webcredentials:login.microsoftonline.us</string>
 		<string>webcredentials:login.partner.microsoftonline.cn</string>
 		<string>applinks:ercz.adj.st</string>
+		<string>applinks:copilot.microsoft.com</string>
 		<string>webcredentials:microsoft-ai.msft-ai.auth0app.com</string>
 	</array>
 </dict>

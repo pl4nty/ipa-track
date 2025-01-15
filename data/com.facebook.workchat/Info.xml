@@ -9,7 +9,7 @@
 		<string>com.facebook.workchat.bgrefresh</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2024-12-09T09:10:10</string>
+	<string>2025-01-07T02:58:57</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>493.0</string>
+	<string>495.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -109,41 +109,41 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>672407742</string>
+	<string>681731004</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTPlatformBuild</key>
-	<string>22A3362</string>
+	<string>22C146</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.0</string>
+	<string>18.2</string>
 	<key>DTSDKBuild</key>
-	<string>22A3362</string>
+	<string>22C146</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.0</string>
+	<string>iphoneos18.2</string>
 	<key>DTXcode</key>
-	<string>1600</string>
+	<string>1620</string>
 	<key>DTXcodeBuild</key>
-	<string>16A242d</string>
+	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>493.0.0.43.215</string>
+	<string>495.0.0.16.317</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>672407742</integer>
+	<integer>681731004</integer>
 	<key>FBBuildRevision</key>
-	<string>7cd013c729e2d0639dd96a02e2a692f5d44e74b1</string>
+	<string>78958b39a293c7f64e2cd51449a8aad0b8f8480c</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1733733989.028800</string>
+	<string>1736217801.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1733735410</integer>
+	<integer>1736218737</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>493.0</string>
+	<string>495.0</string>
 	<key>FBToolchain</key>
 	<string>Experimental</string>
 	<key>FacebookAppID</key>
@@ -158,6 +158,7 @@
 		<string>barcelona</string>
 		<string>oculus</string>
 		<string>whatsapp</string>
+		<string>fb-viewapp</string>
 		<string>otpauth</string>
 		<string>fb-pma</string>
 		<string>fb-ama</string>

@@ -5,7 +5,7 @@
 	<key>BreakpadProduct</key>
 	<string>Google_Earth_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>23H124</string>
 	<key>CADisableMinimumFrameDuration</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -71,7 +71,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>10.69.0</string>
+	<string>10.71.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -138,25 +138,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>10.69.0.24120600</string>
+	<string>10.71.0.25010602</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>21F77</string>
+	<string>22A3362</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>17.5</string>
+	<string>18.0</string>
 	<key>DTSDKBuild</key>
-	<string>21F77</string>
+	<string>22A3362</string>
 	<key>DTSDKName</key>
-	<string>iphoneos17.5</string>
+	<string>iphoneos18.0</string>
 	<key>DTXcode</key>
-	<string>1540</string>
+	<string>1600</string>
 	<key>DTXcodeBuild</key>
-	<string>15F31d</string>
+	<string>16A242d</string>
 	<key>FLTEnableWideGamut</key>
 	<true/>
 	<key>FirebaseAppDelegateProxyEnabled</key>

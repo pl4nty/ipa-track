@@ -52,7 +52,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.11.0</string>
+	<string>7.12.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -73,7 +73,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.11.704760610</string>
+	<string>7.12.713338449</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>

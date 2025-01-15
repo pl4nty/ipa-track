@@ -11,7 +11,7 @@
 	<key>BreakpadProduct</key>
 	<string>Timely_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23H124</string>
+	<string>23F79</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -52,7 +52,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>24.52.0</string>
+	<string>25.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -81,7 +81,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>24.52.0.54088500</string>
+	<string>25.0.0.54096000</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>

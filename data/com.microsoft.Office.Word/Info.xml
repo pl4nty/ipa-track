@@ -10,7 +10,7 @@
 		<string>com.microsoft.office.bgtask.expunge_cache</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24B83</string>
+	<string>24C101</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -228,7 +228,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.92.1</string>
+	<string>2.93</string>
 	<key>CFBundleSignature</key>
 	<string>MSWD</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -283,25 +283,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.92.24121313</string>
+	<string>2.93.25011023</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22A3362</string>
+	<string>22C146</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.0</string>
+	<string>18.2</string>
 	<key>DTSDKBuild</key>
-	<string>22A3362</string>
+	<string>22C146</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.0</string>
+	<string>iphoneos18.2</string>
 	<key>DTXcode</key>
-	<string>1600</string>
+	<string>1620</string>
 	<key>DTXcodeBuild</key>
-	<string>16A242d</string>
+	<string>16C5032a</string>
 	<key>DocsUISettings</key>
 	<dict>
 		<key>DocsUISettingsHelpProductLinkIDForIPad</key>
@@ -510,7 +510,7 @@
 	<key>NSFaceIDUsageDescription</key>
 	<string>This lets you enable Intune using Face ID.</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2024 Microsoft Corporation. All rights reserved.</string>
+	<string>© 2025 Microsoft Corporation. All rights reserved.</string>
 	<key>NSMainNibFile</key>
 	<string>CUILaunchScreen_ios</string>
 	<key>NSMicrophoneUsageDescription</key>
@@ -537,7 +537,7 @@
 		<string>com.microsoft.word.clouddocumentedit-dogfood</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>2.92.1213.1</string>
+	<string>2.93.110.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

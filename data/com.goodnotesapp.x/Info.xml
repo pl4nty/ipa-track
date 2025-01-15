@@ -218,7 +218,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.6.0</string>
+	<string>6.6.2</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -281,7 +281,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2999682.385516176</string>
+	<string>3037362.328089675</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>

@@ -306,7 +306,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>421228001.30.0</string>
+	<string>430110002.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -329,7 +329,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>421228001</string>
+	<string>430110002</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -466,6 +466,11 @@
 	<string>copilotn</string>
 	<key>environment</key>
 	<string>prod</string>
+	<key>localMapConfig</key>
+	<dict>
+		<key>copyrightKey</key>
+		<string>AtAYmmv9nk-KRSzfFYz_S6iYhq0DcUGvXmZXl-_QJmm96oLyMa6qAk9hingpjmNe</string>
+	</dict>
 	<key>oneAuthConfig</key>
 	<dict>
 		<key>aadConfig</key>

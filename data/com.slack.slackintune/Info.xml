@@ -48,7 +48,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>24.12.21</string>
+	<string>25.01.20</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSpokenName</key>
@@ -87,25 +87,27 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>445637</string>
+	<string>445973</string>
+	<key>CoreSpotlightContinuation</key>
+	<true/>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22B74</string>
+	<string>22C146</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.1</string>
+	<string>18.2</string>
 	<key>DTSDKBuild</key>
-	<string>22B74</string>
+	<string>22C146</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.1</string>
+	<string>iphoneos18.2</string>
 	<key>DTXcode</key>
-	<string>1610</string>
+	<string>1620</string>
 	<key>DTXcodeBuild</key>
-	<string>16B40</string>
+	<string>16C5032a</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>IntuneMAMSettings</key>
@@ -206,6 +208,8 @@
 	<string>Add photos and videos from Slack to your photo library.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Upload photos and videos to share with your Slack workspaces.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Slack recognizes your speech to speak with Slackbot AI.</string>
 	<key>NSUser</key>
 	<string></string>
 	<key>NSUserActivityTypes</key>
