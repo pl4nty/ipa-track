@@ -34,6 +34,17 @@
 				<key>UIPrerenderedIcon</key>
 				<false/>
 			</dict>
+			<key>aurora</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>aurora</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>aurora</string>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
 			<key>coral</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
@@ -75,17 +86,6 @@
 				</array>
 				<key>CFBundleIconName</key>
 				<string>groove</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
-			</dict>
-			<key>holiday</key>
-			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>holiday</string>
-				</array>
-				<key>CFBundleIconName</key>
-				<string>holiday</string>
 				<key>UIPrerenderedIcon</key>
 				<false/>
 			</dict>
@@ -175,6 +175,17 @@
 				<key>UIPrerenderedIcon</key>
 				<false/>
 			</dict>
+			<key>aurora</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>aurora</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>aurora</string>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
 			<key>coral</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
@@ -216,17 +227,6 @@
 				</array>
 				<key>CFBundleIconName</key>
 				<string>groove</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
-			</dict>
-			<key>holiday</key>
-			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>holiday</string>
-				</array>
-				<key>CFBundleIconName</key>
-				<string>holiday</string>
 				<key>UIPrerenderedIcon</key>
 				<false/>
 			</dict>
@@ -306,7 +306,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>430110002.30.0</string>
+	<string>430114001.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -329,7 +329,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430110002</string>
+	<string>430114001</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>

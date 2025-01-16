@@ -11,11 +11,11 @@
 		<string>com.microsoft.office.bgtask.metaosnotification</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24A348</string>
+	<string>24C101</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>Microsoft 365 (Office)</string>
+	<string>M365 Copilot</string>
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
@@ -685,11 +685,11 @@
 		<string>zh_TW</string>
 	</array>
 	<key>CFBundleName</key>
-	<string>Microsoft 365</string>
+	<string>Microsoft 365 Copilot</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.92.2</string>
+	<string>2.93</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -784,25 +784,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.92.24122016</string>
+	<string>2.93.25011032</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22A3362</string>
+	<string>22C146</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.0</string>
+	<string>18.2</string>
 	<key>DTSDKBuild</key>
-	<string>22A3362</string>
+	<string>22C146</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.0</string>
+	<string>iphoneos18.2</string>
 	<key>DTXcode</key>
-	<string>1600</string>
+	<string>1620</string>
 	<key>DTXcodeBuild</key>
-	<string>16A242d</string>
+	<string>16C5032a</string>
 	<key>DocsUISettings</key>
 	<dict>
 		<key>DocsUISettingsHelpProductLinkIDForIPad</key>
@@ -971,7 +971,7 @@
 	<key>NSFaceIDUsageDescription</key>
 	<string>This lets you enable Intune using Face ID.</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2024 Microsoft Corporation. All rights reserved.</string>
+	<string>© 2025 Microsoft Corporation. All rights reserved.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Accessing your location enables search and filter of your scans using location names (city, country, etc). We will not use your location for any other purpose.</string>
 	<key>NSMainNibFile</key>
@@ -998,7 +998,7 @@
 	<key>NSUserTrackingUsageDescription</key>
 	<string>Your data will be used to deliver personalised ads to you.</string>
 	<key>OfficeLegacyVersion</key>
-	<string>2.92.1220.2</string>
+	<string>2.93.110.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

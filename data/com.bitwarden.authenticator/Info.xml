@@ -5,7 +5,7 @@
 	<key>BitwardenAuthenticatorSharedAppGroup</key>
 	<string>group.com.bitwarden.bitwarden-authenticator</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23H222</string>
+	<string>23H311</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -86,15 +86,15 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2024.12.0</string>
+	<string>2025.1.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>71</string>
+	<string>76</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16B39</string>
+	<string>16C5031b</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
