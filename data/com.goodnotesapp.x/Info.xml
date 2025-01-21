@@ -218,7 +218,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.6.2</string>
+	<string>6.6.4</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -281,7 +281,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3037362.328089675</string>
+	<string>3051811.482992718</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -677,6 +677,31 @@
 				<key>public.mime-type</key>
 				<array>
 					<string>application/vnd.com.goodnotesapp.gntemplate</string>
+				</array>
+			</dict>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.zip-archive</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>GoodNotes Tape</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.goodnotes.tape</string>
+			<key>UTTypeSize320IconFile</key>
+			<string>Document_icon_320.png</string>
+			<key>UTTypeSize64IconFile</key>
+			<string>Document_icon_64.png</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>gntape</string>
+				</array>
+				<key>public.mime-type</key>
+				<array>
+					<string>application/vnd.com.goodnotesapp.gntape</string>
 				</array>
 			</dict>
 		</dict>
