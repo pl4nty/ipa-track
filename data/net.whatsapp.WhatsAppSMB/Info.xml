@@ -14,12 +14,13 @@
 		<string>com.whatsapp.signal_account_migration</string>
 		<string>com.whatsapp.background_fetch</string>
 		<string>com.whatsapp.message_search_engine_indexing</string>
+		<string>com.whatsapp.newsletter_message_search_engine_indexing</string>
 		<string>com.whatsapp.icloud_backup</string>
 		<string>com.whatsapp.db_maintenance</string>
 		<string>com.whatsapp.db_migration</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>24B91</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -155,7 +156,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>24.25.90</string>
+	<string>25.1.79</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -178,7 +179,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>675457663</string>
+	<string>686167937</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -198,7 +199,7 @@
 	<key>DTXcodeBuild</key>
 	<string>16A242d</string>
 	<key>FBBuildNumber</key>
-	<string>675457663</string>
+	<string>686167937</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
