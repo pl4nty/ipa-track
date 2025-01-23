@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>23G93</string>
+	<string>23H311</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -82,7 +82,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.10.56</string>
+	<string>8.10.58</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -123,7 +123,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>81056028</string>
+	<string>81058041</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -274,6 +274,30 @@
 				</array>
 				<key>public.mime-type</key>
 				<string>application/x-1pux</string>
+			</dict>
+		</dict>
+	</array>
+	<key>UTImportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>1Password File Import</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.1password.1pux</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>1pux</string>
+				</array>
+				<key>public.mime-type</key>
+				<array>
+					<string>application/x-1pux</string>
+				</array>
 			</dict>
 		</dict>
 	</array>
