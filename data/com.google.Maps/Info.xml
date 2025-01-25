@@ -59,7 +59,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.03.2</string>
+	<string>25.04.0</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google Maps</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -89,7 +89,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>25.03.2.7184687190</string>
+	<string>25.04.0.7176127420</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -207,7 +207,7 @@
 	<key>NSContactsUsageDescription</key>
 	<string>Maps can show addresses from your phone contacts in search results.</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2024 Google LLC</string>
+	<string>© 2025 Google LLC</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>To get real-time traffic updates and personalized recommendations, choose Always Allow.</string>
 	<key>NSLocationAlwaysUsageDescription</key>
