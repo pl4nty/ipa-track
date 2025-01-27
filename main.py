@@ -91,7 +91,8 @@ def update_readme(readme_path, apps_info):
 
     table_rows = [
         f"| {name} | `{bundle_id}` | `{url_schemes}` | {universal_links} |\n"
-        for name, bundle_id, url_schemes, universal_links in apps_info
+        for app in apps_info
+        for name, bundle_id, url_schemes, universal_links in app
     ]
 
     with open(readme_path, 'w') as f:
