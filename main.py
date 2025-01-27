@@ -65,7 +65,7 @@ def extract_app_info(app_dir):
         for scheme in url_type.get('CFBundleURLSchemes', [])
     )
     universal_links = ', '.join(
-        f"http://{domain[9:]}/\*, https://{domain[9:]}/\*"
+        f"http://{domain[9:]}/\\*, https://{domain[9:]}/\\*"
         for domain in entitlements.get('com.apple.developer.associated-domains', [])
         if domain.startswith('applinks:')
     )
@@ -110,13 +110,14 @@ def main():
     apps = json.loads(args.apps)
 
     for app in apps:
-        extract_info_plist(app['downloadedIPA'], app['appBundleId'])
-        extract_entitlements(app['downloadedIPA'], app['appBundleId'])
-        extract_privacy_info(app['downloadedIPA'], app['appBundleId'])
+        appBundleId = f"ipa-track/data/{app['appBundleId']}"
+        extract_info_plist(app['downloadedIPA'], appBundleId)
+        extract_entitlements(app['downloadedIPA'], appBundleId)
+        extract_privacy_info(app['downloadedIPA'], appBundleId)
 
     apps_info = [
         extract_app_info(os.path.join(app_dir))
-        for app_dir in os.listdir('../data')
+        for app_dir in os.listdir('ipa-track/data')
     ]
 
     update_readme(apps_info)
