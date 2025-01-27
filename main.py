@@ -3,6 +3,7 @@ import zipfile
 import os
 import argparse
 import re
+import json
 
 
 def extract_info_plist(downloadedIPA, appBundleId):
@@ -103,18 +104,19 @@ def update_readme(apps_info):
 def main():
     parser = argparse.ArgumentParser(
         description="Extract Info.plist and entitlements from an IPA file.")
-    parser.add_argument("--downloadedIPA", required=True,
-                        help="Path to the IPA file")
-    parser.add_argument("--appBundleId", required=True, help="The Bundle ID")
+    parser.add_argument("--apps", required=True,
+                        help="JSON string containing list of apps with appBundleId and downloadedIPA")
     args = parser.parse_args()
-    extract_info_plist(args.downloadedIPA, args.appBundleId)
-    extract_entitlements(args.downloadedIPA, args.appBundleId)
-    extract_privacy_info(args.downloadedIPA, args.appBundleId)
+    apps = json.loads(args.apps)
+
+    for app in apps:
+        extract_info_plist(app['downloadedIPA'], app['appBundleId'])
+        extract_entitlements(app['downloadedIPA'], app['appBundleId'])
+        extract_privacy_info(app['downloadedIPA'], app['appBundleId'])
 
     apps_info = [
-        extract_app_info(os.path.join('data', app_dir))
-        for app_dir in os.listdir('data')
-        if os.path.isdir(os.path.join('data', app_dir))
+        extract_app_info(os.path.join(app_dir))
+        for app_dir in os.listdir('../data')
     ]
 
     update_readme(apps_info)
