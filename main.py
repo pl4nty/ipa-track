@@ -116,7 +116,7 @@ def main():
         extract_privacy_info(app['downloadedIPA'], appBundleId)
 
     apps_info = [
-        extract_app_info(os.path.join(app_dir))
+        extract_app_info(os.path.join('ipa-track/data', app_dir))
         for app_dir in os.listdir('ipa-track/data')
     ]
 
