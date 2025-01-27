@@ -74,7 +74,7 @@ def extract_app_info(app_dir):
 
 def update_readme(readme_path, app_info):
     # Single app info tuple: (name, bundle_id, url_schemes, universal_links)
-    with open(readme_path, 'r') as f:
+    with open(readme_path, 'r', encoding='utf-8') as f:
         readme_content = f.readlines()
 
     apps_section_index = next(
@@ -103,7 +103,7 @@ def update_readme(readme_path, app_info):
         for row in existing_apps.values()
     ]
 
-    with open(readme_path, 'w') as f:
+    with open(readme_path, 'w', encoding='utf-8') as f:
         f.writelines(readme_content[:apps_section_index + 3])
         f.writelines(table_rows)
 
