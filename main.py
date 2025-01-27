@@ -115,7 +115,7 @@ def main():
         extract_info_plist(app['downloadedIPA'], appBundleId)
         extract_entitlements(app['downloadedIPA'], appBundleId)
         extract_privacy_info(app['downloadedIPA'], appBundleId)
-        apps_info.append(appBundleId)
+        apps_info.append(extract_app_info(appBundleId))
     update_readme(os.path.join('ipa-track', 'README.md'), apps_info)
 
 
