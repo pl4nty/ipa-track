@@ -47,6 +47,74 @@ def extract_privacy_info(downloadedIPA, appBundleId):
                 break
 
 
+def extract_app_info(app_dir):
+    info_plist_path = os.path.join(app_dir, 'Info.xml')
+    entitlements_path = os.path.join(app_dir, 'entitlements.xml')
+
+    with open(info_plist_path, 'rb') as f:
+        info_plist = plistlib.load(f)
+
+    with open(entitlements_path, 'rb') as f:
+        entitlements = plistlib.load(f)
+
+    name = info_plist.get('CFBundleName', 'N/A')
+    bundle_id = info_plist.get('CFBundleIdentifier', 'N/A')
+    url_schemes = ';'.join(
+        scheme for url_type in info_plist.get('CFBundleURLTypes', [])
+        for scheme in url_type.get('CFBundleURLSchemes', [])
+    )
+    universal_links = '<br>'.join(
+        f"`http://{domain[9:]}/\\*`<br>`https://{domain[9:]}/\\*`"
+        for domain in entitlements.get('com.apple.developer.associated-domains', [])
+        if domain.startswith('applinks:')
+    )
+
+    return name, bundle_id, url_schemes, universal_links
+
+
+def update_readme(readme_path, app_info):
+    # Single app info tuple: (name, bundle_id, url_schemes, universal_links)
+    with open(readme_path, 'r') as f:
+        readme_content = f.readlines()
+
+    apps_section_index = next(
+        (i for i, line in enumerate(readme_content) if line.strip() == '## Apps'), None
+    )
+
+    if apps_section_index is None:
+        return
+
+    # Parse existing table into a dictionary
+    existing_apps = {}
+    table_start = apps_section_index + 3  # Skip header and separator
+    for line in readme_content[table_start:]:
+        if not line.strip().startswith('|'):
+            break
+        parts = [p.strip() for p in line.split('|')[1:-1]]
+        if len(parts) == 4:
+            existing_apps[parts[1].strip('` ')] = parts
+
+    # Update or add the new app info
+    name, bundle_id, url_schemes, universal_links = app_info
+    existing_apps[bundle_id] = [name, f'`{bundle_id}`', f'`{url_schemes}`', universal_links]
+
+    # Reconstruct the table
+    table_header = (
+        "| Name       | Bundle ID                     | URL Schemes         | Universal Links                                                                 |\n"
+        "|------------|-------------------------------|---------------------|--------------------------------------------------------------------------------|\n"
+    )
+
+    table_rows = [
+        f"| {' | '.join(row)} |\n"
+        for row in existing_apps.values()
+    ]
+
+    with open(readme_path, 'w') as f:
+        f.writelines(readme_content[:apps_section_index + 1])
+        f.write(table_header)
+        f.writelines(table_rows)
+
+
 def main():
     parser = argparse.ArgumentParser(
         description="Extract Info.plist and entitlements from an IPA file.")
@@ -57,6 +125,7 @@ def main():
     extract_info_plist(args.downloadedIPA, args.appBundleId)
     extract_entitlements(args.downloadedIPA, args.appBundleId)
     extract_privacy_info(args.downloadedIPA, args.appBundleId)
+    update_readme(os.path.join('ipa-track', 'README.md'), extract_app_info(args.appBundleId))
 
 
 if __name__ == '__main__':
