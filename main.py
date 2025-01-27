@@ -73,8 +73,7 @@ def extract_app_info(app_dir):
     return name, bundle_id, url_schemes, universal_links
 
 
-def update_readme(apps_info):
-    readme_path = 'README.md'
+def update_readme(readme_path, apps_info):
     with open(readme_path, 'r') as f:
         readme_content = f.readlines()
 
@@ -107,20 +106,17 @@ def main():
     parser.add_argument("--apps", required=True,
                         help="JSON string containing list of apps with appBundleId and downloadedIPA")
     args = parser.parse_args()
+    root = os.path.join('ipa-track', 'data')
     apps = json.loads(args.apps)
 
+    apps_info = []
     for app in apps:
-        appBundleId = f"ipa-track/data/{app['appBundleId']}"
+        appBundleId = os.path.join(root, app['appBundleId'])
         extract_info_plist(app['downloadedIPA'], appBundleId)
         extract_entitlements(app['downloadedIPA'], appBundleId)
         extract_privacy_info(app['downloadedIPA'], appBundleId)
-
-    apps_info = [
-        extract_app_info(os.path.join('ipa-track/data', app_dir))
-        for app_dir in os.listdir('ipa-track/data')
-    ]
-
-    update_readme(apps_info)
+        apps_info.append(appBundleId)
+    update_readme(os.path.join('ipa-track', 'README.md'), apps_info)
 
 
 if __name__ == '__main__':
