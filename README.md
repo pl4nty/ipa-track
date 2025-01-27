@@ -9,7 +9,7 @@ Want to track a new app? Just add a bundle ID folder under `data` with an empty 
 ## Apps
 
 | Name       | Bundle ID                     | URL Schemes         | Universal Links                                                                 |
-|------------|-------------------------------|---------------------|--------------------------------------------------------------------------------|
+| ------------ | ------------------------------- | --------------------- | -------------------------------------------------------------------------------- |
 | Proton Mail | `ch.protonmail.protonmail` | `protonmail;mailto` | `` |
 | N/A | `com.1password.1password` | `onepassword;onepassword8;onepassword8;otpauth;otpauth-apple` | `http://1password.com/*;https://1password.com/*;http://*.1password.com/*;https://*.1password.com/*;http://b5dev.com/*;https://b5dev.com/*;http://b5test.com/*;https://b5test.com/*;http://b5dev.ca/*;https://b5dev.ca/*;http://*.b5dev.com/*;https://*.b5dev.com/*;http://*.b5test.com/*;https://*.b5test.com/*;http://*.b5dev.ca/*;https://*.b5dev.ca/*;http://*.b5rev.ca/*;https://*.b5rev.ca/*` |
 | Bitwarden | `com.8bit.bitwarden` | `bitwarden;org-appextension-feature-password-management;otpauth` | `http://*.bitwarden.com/*;https://*.bitwarden.com/*;http://*.bitwarden.eu/*;https://*.bitwarden.eu/*;http://*.bitwarden.pw/*;https://*.bitwarden.pw/*` |
