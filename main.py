@@ -57,14 +57,14 @@ def extract_app_info(app_dir):
     with open(entitlements_path, 'rb') as f:
         entitlements = plistlib.load(f)
 
-    name = info_plist.get('CFBundleName', 'N/A')
+    name = info_plist.get('CFBundleDisplayName', 'N/A')
     bundle_id = info_plist.get('CFBundleIdentifier', 'N/A')
     url_schemes = ';'.join(
         scheme for url_type in info_plist.get('CFBundleURLTypes', [])
         for scheme in url_type.get('CFBundleURLSchemes', [])
     )
-    universal_links = '<br>'.join(
-        f"`http://{domain[9:]}/\\*`<br>`https://{domain[9:]}/\\*`"
+    universal_links = ';'.join(
+        f"http://{domain[9:]}/*;https://{domain[9:]}/*"
         for domain in entitlements.get('com.apple.developer.associated-domains', [])
         if domain.startswith('applinks:')
     )
@@ -96,13 +96,7 @@ def update_readme(readme_path, app_info):
 
     # Update or add the new app info
     name, bundle_id, url_schemes, universal_links = app_info
-    existing_apps[bundle_id] = [name, f'`{bundle_id}`', f'`{url_schemes}`', universal_links]
-
-    # Reconstruct the table
-    table_header = (
-        "| Name       | Bundle ID                     | URL Schemes         | Universal Links                                                                 |\n"
-        "|------------|-------------------------------|---------------------|--------------------------------------------------------------------------------|\n"
-    )
+    existing_apps[bundle_id] = [name, f'`{bundle_id}`', f'`{url_schemes}`', f'`{universal_links}`']
 
     table_rows = [
         f"| {' | '.join(row)} |\n"
@@ -110,8 +104,7 @@ def update_readme(readme_path, app_info):
     ]
 
     with open(readme_path, 'w') as f:
-        f.writelines(readme_content[:apps_section_index + 1])
-        f.write(table_header)
+        f.writelines(readme_content[:apps_section_index + 3])
         f.writelines(table_rows)
 
 
