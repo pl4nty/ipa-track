@@ -65,7 +65,7 @@ def extract_app_info(app_dir):
         for scheme in url_type.get('CFBundleURLSchemes', [])
     )
     universal_links = ', '.join(
-        f"http://{domain[9:]}/*, https://{domain[9:]}/*"
+        f"http://{domain[9:]}/\*, https://{domain[9:]}/\*"
         for domain in entitlements.get('com.apple.developer.associated-domains', [])
         if domain.startswith('applinks:')
     )
@@ -91,7 +91,7 @@ def update_readme(apps_info):
     )
 
     table_rows = [
-        f"| {name} | {bundle_id} | {url_schemes} | {universal_links} |\n"
+        f"| {name} | `{bundle_id}` | `{url_schemes}` | {universal_links} |\n"
         for name, bundle_id, url_schemes, universal_links in apps_info
     ]
 

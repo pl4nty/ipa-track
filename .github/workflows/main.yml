@@ -46,7 +46,7 @@ jobs:
         run: |
           mkdir ipaDown
           apps_json="[]"
-          for dir in ipa-track/data/*/; do
+          for dir in ipa-track/data/com.microsoft.skydrive/; do
             dir_name=$(basename "$dir")
             output=$(python3 ipatool-py/main.py --json lookup -b "$dir_name" -c AU download  --purchase -o ipaDown -s http://127.0.0.1:9000)
             echo "Got Downloading JSON result for $dir_name: $output"
