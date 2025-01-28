@@ -57,7 +57,7 @@ def extract_app_info(app_dir):
     with open(entitlements_path, 'rb') as f:
         entitlements = plistlib.load(f)
 
-    name = info_plist.get('CFBundleDisplayName', 'N/A')
+    name = info_plist.get('CFBundleDisplayName', info_plist.get('CFBundleName', 'N/A'))
     bundle_id = info_plist.get('CFBundleIdentifier', 'N/A')
     url_schemes = ';'.join(
         scheme for url_type in info_plist.get('CFBundleURLTypes', [])
@@ -96,7 +96,7 @@ def update_readme(readme_path, app_info):
 
     # Update or add the new app info
     name, bundle_id, url_schemes, universal_links = app_info
-    existing_apps[bundle_id] = [name, f'`{bundle_id}`', f'`{url_schemes}`', f'`{universal_links}`']
+    existing_apps[bundle_id] = [name, f'`{bundle_id}`', "N/A" if url_schemes == "" else f'`{url_schemes}`', f'`{universal_links}`']
 
     table_rows = [
         f"| {' | '.join(row)} |\n"
