@@ -156,7 +156,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.1.83</string>
+	<string>25.2.3</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -180,7 +180,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>688754917</string>
+	<string>690584295</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -200,7 +200,7 @@
 	<key>DTXcodeBuild</key>
 	<string>16A242d</string>
 	<key>FBBuildNumber</key>
-	<string>688754917</string>
+	<string>690584295</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
@@ -239,7 +239,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<string>NO</string>
 	<key>MinimumOSVersion</key>
-	<string>12.0</string>
+	<string>15.1</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
