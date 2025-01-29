@@ -96,8 +96,8 @@ def update_readme(readme_path, app_info):
 
     # Update or add the new app info
     name, bundle_id, url_schemes, universal_links = app_info
-    url_schemes = f'<details>`{url_schemes}`</details>' if len(url_schemes) > 50 else f'`{url_schemes}`' if url_schemes != "" else "N/A"
-    universal_links = f'<details>`{universal_links}`</details>' if len(universal_links) > 50 else f'`{universal_links}`'
+    url_schemes = f'<details>`{url_schemes}`</details>' if len(url_schemes) > 40 else f'`{url_schemes}`' if url_schemes != "" else "N/A"
+    universal_links = f'<details>`{universal_links}`</details>' if len(universal_links) > 40 else f'`{universal_links}`' if universal_links != "" else "N/A"
     existing_apps[bundle_id] = [name, f'`{bundle_id}`', url_schemes, universal_links]
 
     table_rows = [
