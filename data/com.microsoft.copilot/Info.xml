@@ -306,7 +306,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>430124004.30.0</string>
+	<string>430128003.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -329,7 +329,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430124004</string>
+	<string>430128003</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -441,6 +441,8 @@
 		<string>https://copilot.microsoft.com/c/api</string>
 		<key>bingvizURL</key>
 		<string>https://gateway-copilot.bingviz.microsoftapp.net/receive</string>
+		<key>copilotPayURL</key>
+		<string>https://api.webxtsvc.microsoft.com/mswallet/buynow/v1</string>
 		<key>feebackBaseURL</key>
 		<string>https://petrol.office.microsoft.com</string>
 		<key>rewardsURL</key>
@@ -519,5 +521,7 @@
 		<key>traceSampleRate</key>
 		<string></string>
 	</dict>
+	<key>universalLinkHostUrl</key>
+	<string>copilot.microsoft.com</string>
 </dict>
 </plist>
