@@ -4,7 +4,7 @@ Track changes to iOS app metadata from source archives (`.ipa`). [Click here](ht
 
 This tool can also find [URL schemes](https://github.com/search?q=repo%3Apl4nty%2Fipa-track%20%22CFBundleURLSchemes%22&type=code) and [Universal Links](https://github.com/search?q=repo%3Apl4nty%2Fipa-track+%22associated-domains%22&type=code) for [Intune app protection policies](https://learn.microsoft.com/en-us/mem/intune/apps/app-protection-policy-settings-ios). Looking for [Intune app config policies](https://learn.microsoft.com/en-us/mem/intune/apps/app-configuration-policies-use-ios)? Check out Jamf's [config generator](https://beta.appconfig.jamfresearch.com/generator).
 
-Want to track a new app? [Click here](https://iosbundleidfinder.vercel.app/) to find its bundle ID. Then open this URL, replacing "my.bundle.id" with your bundle ID: `https://github.com/pl4nty/ipa-track/new/main/data/my.bundle.id`. Name the empty file `Info.plist`, and [send a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+Want to track a new app? [Click here](https://iosbundleidfinder.vercel.app/) to find its bundle ID. Then open this URL, replacing "my.bundle.id" with your bundle ID: `https://github.com/pl4nty/ipa-track/new/main/data/my.bundle.id`. Name the empty file `Info.xml`, and [send a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 ## Apps
 

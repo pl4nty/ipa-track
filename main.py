@@ -100,9 +100,12 @@ def update_readme(readme_path, app_info):
     universal_links = f'<details>`{universal_links}`</details>' if len(universal_links) > 40 else f'`{universal_links}`' if universal_links != "" else "N/A"
     existing_apps[bundle_id] = [name, f'`{bundle_id}`', url_schemes, universal_links]
 
+    # Sort the apps by bundle_id
+    sorted_apps = sorted(existing_apps.values(), key=lambda x: x[1])
+
     table_rows = [
         f"| {' | '.join(row)} |\n"
-        for row in existing_apps.values()
+        for row in sorted_apps
     ]
 
     with open(readme_path, 'w', encoding='utf-8') as f:
