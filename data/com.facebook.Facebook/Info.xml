@@ -19,7 +19,7 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBuildDate</key>
-	<string>2025-01-28T23:46:42</string>
+	<string>2025-02-04T18:49:29</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>498.0.0</string>
+	<string>499.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -113,7 +113,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>691089697</string>
+	<string>693867054</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTPlatformBuild</key>
@@ -131,25 +131,25 @@
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>498.0.0.35.105</string>
+	<string>499.0.0.53.105</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>691089697</integer>
+	<integer>693867054</integer>
 	<key>FBBuildRevision</key>
-	<string>cad3cf75334db7216f373f867513388c1eceef97</string>
+	<string>88c80a0e1afe166ddd59cbfc5cf21aa46ef214db</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1738103756.028800</string>
+	<string>1738693028.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1738108002</integer>
+	<integer>1738694969</integer>
 	<key>FBJSBundleRoot</key>
 	<string>EntryPoints/WildeBundle</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>498.0.0</string>
+	<string>499.0.0</string>
 	<key>FBSearchAppSpecificConfig</key>
 	<string>FBSearchWildeAppSpecificConfig</string>
 	<key>FacebookAppID</key>
@@ -174,64 +174,64 @@
 		<string>waze</string>
 		<string>fb1779658199047189</string>
 		<string>fb312563225523989</string>
-		<string>fb977113435819611</string>
 		<string>fb709376360216583</string>
+		<string>fb977113435819611</string>
 		<string>fb870206494237573</string>
 		<string>fb565174839280642</string>
 		<string>fb198910933775388</string>
 		<string>fb210831918949520</string>
 		<string>fb420611815244724</string>
-		<string>fb2328240260794422</string>
-		<string>fb551625605554229</string>
-		<string>fb271617373615752</string>
 		<string>fb182809591793403</string>
+		<string>fb2328240260794422</string>
+		<string>fb271617373615752</string>
+		<string>fb551625605554229</string>
 		<string>fb1023560685845135</string>
 		<string>fb894703657238109</string>
-		<string>fb608495662880177</string>
-		<string>fb345999505942144</string>
-		<string>fb1839011602994843</string>
 		<string>fb1926707991146747</string>
 		<string>fb604425153801157</string>
 		<string>fb269151666914010</string>
+		<string>fb608495662880177</string>
+		<string>fb345999505942144</string>
 		<string>fb841338400525592</string>
 		<string>fb410181193191942</string>
-		<string>fb426786581540674</string>
 		<string>fb3284555318463805</string>
-		<string>fb1035688990906438</string>
-		<string>fb1055885851158192</string>
-		<string>fb277638822572073</string>
-		<string>fb455212679582633</string>
+		<string>fb1839011602994843</string>
 		<string>fb601621360285543</string>
-		<string>fb991818938050668</string>
-		<string>fb514936018017165</string>
-		<string>fb2673921099381214</string>
-		<string>fb2575291882858826</string>
 		<string>fb298043060224003</string>
+		<string>fb1055885851158192</string>
+		<string>fb1572064580392617</string>
 		<string>fb1035527333163978</string>
-		<string>fb1452516902052354</string>
-		<string>fb166363243399924</string>
-		<string>fb367266627241061</string>
+		<string>fb2510535265626343</string>
+		<string>fb2673921099381214</string>
+		<string>fb991818938050668</string>
 		<string>fb1841886549525082</string>
 		<string>fb1923291651293408</string>
-		<string>fb891889767495675</string>
-		<string>fb383807854255719</string>
-		<string>fb285025889266955</string>
-		<string>fb2510535265626343</string>
-		<string>fb512030275555616</string>
-		<string>fb1078231728854145</string>
-		<string>fb1459455184834740</string>
-		<string>fb1777365365898806</string>
-		<string>fb1791105821059748</string>
-		<string>fb2278022672520157</string>
+		<string>fb277638822572073</string>
+		<string>fb2575291882858826</string>
 		<string>fb1222123985060415</string>
-		<string>fb124207444332529</string>
-		<string>fb295682026117871</string>
+		<string>fb1777365365898806</string>
+		<string>fb166363243399924</string>
+		<string>fb1035688990906438</string>
 		<string>fb428250913904849</string>
-		<string>fb320796954236736</string>
-		<string>fb1219185349288788</string>
+		<string>fb1049729741852134</string>
+		<string>fb512030275555616</string>
+		<string>fb285025889266955</string>
+		<string>fb891889767495675</string>
+		<string>fb1114509399991640</string>
+		<string>fb356472188587810</string>
+		<string>fb2278022672520157</string>
 		<string>fb1459361278159151</string>
+		<string>fb1791105821059748</string>
+		<string>fb158742637545893</string>
+		<string>fb880042447447769</string>
+		<string>fb629274312371363</string>
 		<string>fb174103646072524</string>
-		<string>fb996123557121337</string>
+		<string>fb431882705344813</string>
+		<string>fb1247895089145935</string>
+		<string>fb462596768972930</string>
+		<string>fb1784064312074548</string>
+		<string>fb712237168882096</string>
+		<string>fb1219185349288788</string>
 		<string>http</string>
 		<string>https</string>
 	</array>
