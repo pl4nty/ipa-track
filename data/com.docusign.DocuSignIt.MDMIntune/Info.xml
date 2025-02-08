@@ -5,7 +5,7 @@
 	<key>AppIdentifierPrefix</key>
 	<string>RR65JMWDP3.</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24C101</string>
+	<string>24D60</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -333,10 +333,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon60x60</string>
+				<string>AppIcon-Intune60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>AppIcon</string>
+			<string>AppIcon-Intune</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -345,11 +345,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon60x60</string>
-				<string>AppIcon76x76</string>
+				<string>AppIcon-Intune60x60</string>
+				<string>AppIcon-Intune76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>AppIcon</string>
+			<string>AppIcon-Intune</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -361,7 +361,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.35.3</string>
+	<string>3.36.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -411,7 +411,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>21080594.3.3</string>
+	<string>844668</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -452,6 +452,8 @@
 		<string>RR65JMWDP3</string>
 		<key>OrigBundleIdPrefix</key>
 		<string>com.docusign.DocuSignIt.MDMIntune</string>
+		<key>SafariViewControllerBlockedOverride</key>
+		<string>YES</string>
 	</dict>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
