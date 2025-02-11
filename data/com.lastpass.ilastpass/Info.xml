@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.23.0</string>
+	<string>6.24.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -137,7 +137,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6.23.0.8889</string>
+	<string>6.24.0.8987</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -185,7 +185,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>15.0</string>
+	<string>16.0</string>
 	<key>NFCReaderUsageDescription</key>
 	<string>This lets you use the app to scan your YubiKey NFC device.</string>
 	<key>NSCameraUsageDescription</key>

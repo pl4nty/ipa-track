@@ -34,6 +34,7 @@
 		<string>applinks:lens.google</string>
 		<string>applinks:gemini.google.com</string>
 		<string>applinks:iga.google.com</string>
+		<string>applinks:lenssearch.google.com</string>
 		<string>webcredentials:google.com</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
