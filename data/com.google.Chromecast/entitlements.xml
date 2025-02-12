@@ -40,6 +40,7 @@
 	<key>com.apple.security.application-groups</key>
 	<array>
 		<string>group.com.google.common</string>
+		<string>group.com.google.aiedge</string>
 		<string>group.com.google.Home</string>
 	</array>
 </dict>
