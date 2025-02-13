@@ -30,6 +30,7 @@
 		<string>applinks:ercz.adj.st</string>
 		<string>applinks:copilot.microsoft.com</string>
 		<string>webcredentials:copilot.msft-ai.auth0app.com</string>
+		<string>webcredentials:auth.copilot.microsoft.com</string>
 	</array>
 </dict>
 </plist>

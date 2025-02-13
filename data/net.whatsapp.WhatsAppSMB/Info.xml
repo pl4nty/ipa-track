@@ -20,7 +20,7 @@
 		<string>com.whatsapp.db_migration</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24B91</string>
+	<string>23F79</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -156,7 +156,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.2.82</string>
+	<string>25.2.83</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -179,7 +179,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>694003808</string>
+	<string>694759697</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -199,7 +199,7 @@
 	<key>DTXcodeBuild</key>
 	<string>16A242d</string>
 	<key>FBBuildNumber</key>
-	<string>694003808</string>
+	<string>694759697</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>

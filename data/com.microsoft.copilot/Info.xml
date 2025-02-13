@@ -11,7 +11,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Copilot</string>
 	<key>CFBundleExecutable</key>
-	<string>copilotn</string>
+	<string>Copilot</string>
 	<key>CFBundleIconName</key>
 	<string>AppIcon_Production</string>
 	<key>CFBundleIcons</key>
@@ -302,11 +302,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>copilotn</string>
+	<string>Copilot</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>430204002.30.0</string>
+	<string>430212001.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -329,7 +329,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430204002</string>
+	<string>430212001</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -457,7 +457,7 @@
 		<key>clientId</key>
 		<string>oMaeiYWq1nJ1Yhk3xeZVg7ofZi3XGHZk</string>
 		<key>domain</key>
-		<string>copilot.msft-ai.auth0app.com</string>
+		<string>auth.copilot.microsoft.com</string>
 	</dict>
 	<key>bingvizConfig</key>
 	<dict>
