@@ -228,7 +228,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.94</string>
+	<string>2.94.1</string>
 	<key>CFBundleSignature</key>
 	<string>MSWD</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -283,7 +283,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.94.25020422</string>
+	<string>2.94.25021420</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -537,7 +537,7 @@
 		<string>com.microsoft.word.clouddocumentedit-dogfood</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>2.94.204.0</string>
+	<string>2.94.214.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
