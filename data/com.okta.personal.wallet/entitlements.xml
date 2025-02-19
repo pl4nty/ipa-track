@@ -17,6 +17,11 @@
 	<string>production</string>
 	<key>com.apple.developer.usernotifications.time-sensitive</key>
 	<true/>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:login.trexcloud.com</string>
+		<string>applinks:login.okta.com</string>
+	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
 		<string>group.okta.personal.wallet.shared</string>

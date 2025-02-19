@@ -150,7 +150,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>133.3065.54</string>
+	<string>133.3065.65</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -206,7 +206,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>133.0.3065.54</string>
+	<string>133.0.3065.65</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -230,7 +230,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Edge</string>
 	<key>GTMUserAgentVersion</key>
-	<string>133.0.3065.54</string>
+	<string>133.0.3065.65</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>ADALClientId</key>
@@ -343,7 +343,7 @@
 		<string>OpenEdgeCopilotIntent</string>
 	</array>
 	<key>SCMRevision</key>
-	<string>f8dd3287fa36e07211d0327311185460088684bd</string>
+	<string>351e6afb409aecab0352479343a18eac928a5fce</string>
 	<key>SSOAuthURLScheme</key>
 	<string>x-msauth-microsoft-edge-https</string>
 	<key>UIApplicationDelegate</key>

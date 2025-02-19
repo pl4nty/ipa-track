@@ -66,7 +66,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>133.6943.84</string>
+	<string>133.6943.120</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -98,7 +98,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>133.0.6943.84</string>
+	<string>133.0.6943.120</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
@@ -124,7 +124,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Chrome</string>
 	<key>GTMUserAgentVersion</key>
-	<string>133.0.6943.84</string>
+	<string>133.0.6943.120</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
@@ -233,7 +233,7 @@
 		<string>SearchInChromeIntent</string>
 	</array>
 	<key>SCMRevision</key>
-	<string>3cd6ce2f8643646df2842b7b9684bb82ec8e65d3-refs/branch-heads/6943@{#1500}</string>
+	<string>67dba039d5aa11392b10736c08797e729996bc94-refs/branch-heads/6943@{#1561}</string>
 	<key>SSOAuthURLScheme</key>
 	<string>com.google.sso.chrome.stable</string>
 	<key>UIApplicationDelegate</key>
