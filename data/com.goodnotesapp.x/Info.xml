@@ -218,7 +218,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.6.11</string>
+	<string>6.6.13</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -281,7 +281,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3089467.251171380</string>
+	<string>3099547.250884493</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -293,7 +293,7 @@
 	<key>CSAN_PUBLISHERS_HOST</key>
 	<string>publisher.csan.goodnotes.com</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C5031b</string>
+	<string>16C7009</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -864,7 +864,7 @@
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>6.6.11
+		<string>6.6.13
 </string>
 	</dict>
 </dict>
