@@ -390,7 +390,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>267.1</string>
+	<string>268.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -410,7 +410,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>72063</string>
+	<string>72189</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7009</string>
 	<key>DTCompiler</key>
@@ -490,10 +490,12 @@
 	<array>
 		<string>INSendMessageIntent</string>
 	</array>
+	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
+	<true/>
 	<key>RELEASE_CHANNEL</key>
 	<string>ptb</string>
 	<key>SENTRY_RELEASE</key>
-	<string>discord_ios@267.1.72063+72063</string>
+	<string>discord_ios@268.0.72189+72189</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>abcgintonord-800-extrabold.ttf</string>
