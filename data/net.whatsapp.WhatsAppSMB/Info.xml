@@ -19,8 +19,6 @@
 		<string>com.whatsapp.db_maintenance</string>
 		<string>com.whatsapp.db_migration</string>
 	</array>
-	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -145,6 +143,8 @@
 				<string>AppIconSMB60x60</string>
 				<string>AppIconSMB76x76</string>
 			</array>
+			<key>CFBundleIconName</key>
+			<string>AppIconSMB</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -156,7 +156,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.3.80</string>
+	<string>25.4.77</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -179,11 +179,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>698023593</string>
+	<string>701661638</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C5031b</string>
-	<key>DTCompiler</key>
-	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<string>16C7009</string>
 	<key>DTPlatformBuild</key>
 	<string>22C146</string>
 	<key>DTPlatformName</key>
@@ -198,8 +196,10 @@
 	<string>1620</string>
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
+	<key>FBBuck2</key>
+	<true/>
 	<key>FBBuildNumber</key>
-	<string>698023593</string>
+	<string>701661638</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
