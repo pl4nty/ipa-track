@@ -20,10 +20,13 @@
 	<array>
 		<string>applinks:*.slack.com</string>
 		<string>applinks:*.slack-gov.com</string>
+		<string>applinks:*.slack.mil</string>
 		<string>webcredentials:slack.com</string>
 		<string>webcredentials:*.slack.com</string>
 		<string>webcredentials:slack-gov.com</string>
 		<string>webcredentials:*.slack-gov.com</string>
+		<string>webcredentials:slack.mil</string>
+		<string>webcredentials:*.slack.mil</string>
 	</array>
 	<key>com.apple.developer.siri</key>
 	<true/>
