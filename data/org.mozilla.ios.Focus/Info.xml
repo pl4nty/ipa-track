@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24C101</string>
+	<string>23F79</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -42,7 +42,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>135.0</string>
+	<string>136.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -63,9 +63,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>50175</string>
+	<string>51388</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C5031b</string>
+	<string>16C7009</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -81,7 +81,7 @@
 	<key>DTXcode</key>
 	<string>1620</string>
 	<key>DTXcodeBuild</key>
-	<string>16C5031c</string>
+	<string>16C5032a</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationCategoryType</key>
@@ -127,7 +127,7 @@
 	<key>NimbusStagingServerURL</key>
 	<string></string>
 	<key>SentryDSN</key>
-	<string>https://a016ca5727e3437fba2540a35b1972c8@sentry-fm.prod.mozaws.net/56</string>
+	<string>https://357027a392ae4b92913105e935ed669e@o1069899.ingest.sentry.io/6162501</string>
 	<key>UIApplicationShortcutItems</key>
 	<array>
 		<dict>

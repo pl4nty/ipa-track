@@ -22,9 +22,6 @@
 	<true/>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:*.mozilla.org</string>
-		<string>applinks:blog.mozilla.org</string>
-		<string>applinks:mozilla.org</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
