@@ -5,7 +5,7 @@
 	<key>AppIdentifierPrefix</key>
 	<string>RR65JMWDP3.</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24B91</string>
+	<string>24D60</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -361,7 +361,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.36.0</string>
+	<string>3.37.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -401,9 +401,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>842631</string>
+	<string>848579</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C5031b</string>
+	<string>16C7009</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -420,6 +420,11 @@
 	<string>1610</string>
 	<key>DTXcodeBuild</key>
 	<string>16B40</string>
+	<key>IntuneMAMSettings</key>
+	<dict>
+		<key>SafariViewControllerBlockedOverride</key>
+		<string>YES</string>
+	</dict>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>com.salesforce.salesforce1</string>
