@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>22G90</string>
+	<string>24D70</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -44,7 +44,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.77.1</string>
+	<string>2.94.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -71,25 +71,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.77.23092102</string>
+	<string>2.94.25030411</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>15A240a</string>
+	<string>16C7009</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>20E238</string>
+	<string>22C146</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>16.4</string>
+	<string>18.2</string>
 	<key>DTSDKBuild</key>
-	<string>20E238</string>
+	<string>22C146</string>
 	<key>DTSDKName</key>
-	<string>iphoneos16.4</string>
+	<string>iphoneos18.2</string>
 	<key>DTXcode</key>
-	<string>1430</string>
+	<string>1620</string>
 	<key>DTXcodeBuild</key>
-	<string>14E222b</string>
+	<string>16C5032a</string>
 	<key>InTuneMAMLSApplicationQueriesSchemes</key>
 	<array>
 		<string>ms-excel</string>
@@ -154,9 +154,9 @@
 		<string>ms-powerpoint</string>
 		<string>ms-outlook-accepts-attachments</string>
 		<string>ms-delve</string>
-		<string>ms-visio</string>
 		<string>opal</string>
 		<string>excel</string>
+		<string>launch-loop</string>
 		<string>lync</string>
 		<string>ms-onedrive</string>
 		<string>msauthv2</string>
@@ -179,6 +179,7 @@
 		<string>microsoft-edge-http-intunemam</string>
 		<string>companyportal</string>
 		<string>ms-officemobile</string>
+		<string>sapphire</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -188,10 +189,8 @@
 	<true/>
 	<key>MbuLoggingFullLegacyUpload</key>
 	<true/>
-	<key>MicrosoftBuildNumber</key>
-	<string>230921</string>
 	<key>MinimumOSVersion</key>
-	<string>15.0</string>
+	<string>17.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -206,7 +205,7 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>This app needs access to the photo library to save and import images of your documents.</string>
 	<key>OfficeLegacyVersion</key>
-	<string>2.77.921.1</string>
+	<string>2.94.304.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

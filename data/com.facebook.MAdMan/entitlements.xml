@@ -39,6 +39,7 @@
 	<key>com.apple.security.application-groups</key>
 	<array>
 		<string>group.com.facebook.MAdMan</string>
+		<string>group.com.facebook.family</string>
 	</array>
 </dict>
 </plist>

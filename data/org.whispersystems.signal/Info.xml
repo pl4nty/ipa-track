@@ -11,11 +11,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Thu Feb 27 18:57:14 UTC 2025</string>
+		<string>Wed Mar  5 21:13:15 UTC 2025</string>
 		<key>SignalCommit</key>
-		<string>1489e7aaab33e8069e6c7c8596d42b3307671dd3 Bump version to 7.48.1</string>
+		<string>bef3e7af11395a369a31165f2e7d94885eed70b4 Properly fall back to setting the master key during provisioning</string>
 		<key>Timestamp</key>
-		<integer>1740682634</integer>
+		<integer>1741209195</integer>
 		<key>XCodeVersion</key>
 		<string>1600.1620</string>
 	</dict>
@@ -177,7 +177,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.48.1</string>
+	<string>7.49</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -198,7 +198,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>645</string>
+	<string>654</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7009</string>
 	<key>DTCompiler</key>

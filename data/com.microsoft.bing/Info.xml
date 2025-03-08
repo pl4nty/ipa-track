@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>30.8.430227001</string>
+	<string>30.9.430307002</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -110,9 +110,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430227001</string>
+	<string>430307002</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7009</string>
+	<string>16C7015</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -207,11 +207,11 @@
 	<key>NSFaceIDUsageDescription</key>
 	<string>Bing uses Face ID to ensure authorized access to your passwords.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Make the world revolve around you: Select 'Allow' for better local results.</string>
+	<string>Access to your location helps us provide relevant local information, including weather, news, and search results.</string>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>Deprecated message (We don't deploy to iOS10 or eariler)</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Make the world revolve around you: Select 'Allow' for better local results.</string>
+	<string>Access to your location helps us provide relevant local information, including weather, news, and search results.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Speak to search instead of typing.</string>
 	<key>NSMotionUsageDescription</key>
