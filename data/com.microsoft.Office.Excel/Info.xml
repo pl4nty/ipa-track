@@ -243,7 +243,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.94.2</string>
+	<string>2.95</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -300,9 +300,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.94.25022113</string>
+	<string>2.95.25030623</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7009</string>
+	<string>16C7015</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -379,7 +379,7 @@
 		<string>msteams</string>
 		<string>onenote</string>
 		<string>onenote-cmd</string>
-		<string>opal</string>
+		<string>sapphirebing</string>
 		<string>powerpoint</string>
 		<string>skype</string>
 		<string>swiftkey</string>
@@ -440,7 +440,7 @@
 		<string>launch-officemobile</string>
 		<string>ms-outlook-accepts-attachments</string>
 		<string>ms-delve</string>
-		<string>opal</string>
+		<string>sapphirebing</string>
 		<string>excel</string>
 		<string>lync</string>
 		<string>swiftkey</string>
@@ -468,7 +468,7 @@
 		<string>http-intunemam</string>
 		<string>microsoft-edge-https-intunemam</string>
 		<string>microsoft-edge-http-intunemam</string>
-		<string>sapphire</string>
+		<string>sapphirecopilot</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -521,7 +521,7 @@
 		<string>com.microsoft.excel.executesearch-dogfood</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>2.94.221.2</string>
+	<string>2.95.306.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

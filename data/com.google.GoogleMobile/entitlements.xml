@@ -37,6 +37,7 @@
 		<string>applinks:lenssearch.google.com</string>
 		<string>applinks:share.google</string>
 		<string>webcredentials:google.com</string>
+		<string>appclips:iga.google.com</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

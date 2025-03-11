@@ -390,7 +390,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>269.0</string>
+	<string>270.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -410,9 +410,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>72783</string>
+	<string>73182</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7009</string>
+	<string>16C7015</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -495,7 +495,7 @@
 	<key>RELEASE_CHANNEL</key>
 	<string>ptb</string>
 	<key>SENTRY_RELEASE</key>
-	<string>discord_ios@269.0.72783+72783</string>
+	<string>discord_ios@270.0.73182+73182</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>abcgintonord-800-extrabold.ttf</string>

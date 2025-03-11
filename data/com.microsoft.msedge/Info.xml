@@ -150,7 +150,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>133.3065.92</string>
+	<string>134.3124.51</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -206,9 +206,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>133.0.3065.92</string>
+	<string>134.0.3124.51</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7009</string>
+	<string>16C7015</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -230,7 +230,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Edge</string>
 	<key>GTMUserAgentVersion</key>
-	<string>133.0.3065.92</string>
+	<string>134.0.3124.51</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>ADALClientId</key>
@@ -264,23 +264,25 @@
 	<string>microsoft-edge</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>sapphire</string>
-		<string>sapphire-intunemam</string>
-		<string>companyportal</string>
-		<string>googlechrome</string>
-		<string>googlechrome-intunemam</string>
-		<string>appcenter-38d063d1-2da6-4ba6-aedc-6a95209e5950</string>
-		<string>appcenter-38d063d1-2da6-4ba6-aedc-6a95209e5950-intunemam</string>
-		<string>microsoft-edge-x</string>
-		<string>microsoft-edge-x-intunemam</string>
-		<string>msa-devicekey-share</string>
-		<string>msa-devicekey-share-intunemam</string>
-		<string>msauth</string>
-		<string>msauthv2</string>
-		<string>msauthv3</string>
-		<string>intunemam-mtd</string>
 		<string>googledrive</string>
 		<string>googledrive-intunemam</string>
+		<string>sapphire</string>
+		<string>sapphire-intunemam</string>
+		<string>msauthv2</string>
+		<string>googlechrome</string>
+		<string>googlechrome-intunemam</string>
+		<string>msauthv3</string>
+		<string>microsoft-edge-x</string>
+		<string>microsoft-edge-x-intunemam</string>
+		<string>intunemam-mtd</string>
+		<string>companyportal</string>
+		<string>msauth</string>
+		<string>msa-devicekey-share</string>
+		<string>msa-devicekey-share-intunemam</string>
+		<string>appcenter-38d063d1-2da6-4ba6-aedc-6a95209e5950</string>
+		<string>appcenter-38d063d1-2da6-4ba6-aedc-6a95209e5950-intunemam</string>
+		<string>appcenter-998d3a1a-d1bb-4b53-8a33-00b410b451c5</string>
+		<string>appcenter-998d3a1a-d1bb-4b53-8a33-00b410b451c5-intunemam</string>
 		<string>https-intunemam</string>
 		<string>http-intunemam</string>
 		<string>microsoft-edge-https</string>
@@ -342,10 +344,8 @@
 		<string>SearchInChromeIntent</string>
 		<string>OpenEdgeCopilotIntent</string>
 	</array>
-	<key>NSUserTrackingUsageDescription</key>
-	<string>IDS_IOS_EDGE_USER_TRACKING_USAGE_DESCRIPTION</string>
 	<key>SCMRevision</key>
-	<string>e8591772eda3b2261b6db85816523f0480a06278</string>
+	<string>10e0bb621722da8f1133fefb3a86b7b71bd83fbf</string>
 	<key>SSOAuthURLScheme</key>
 	<string>x-msauth-microsoft-edge-https</string>
 	<key>UIApplicationDelegate</key>

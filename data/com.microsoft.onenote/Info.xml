@@ -9,7 +9,7 @@
 		<string>com.microsoft.onenote.backgroundFetchTask</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24C101</string>
+	<string>24D70</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -576,7 +576,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>16.94.1</string>
+	<string>16.95</string>
 	<key>CFBundleSignature</key>
 	<string>MSON</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -607,9 +607,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>16094001.25021119</string>
+	<string>16095000.25030522</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C5031b</string>
+	<string>16C7009</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -658,7 +658,7 @@
 		<string>msteams</string>
 		<string>onenote</string>
 		<string>onenote-cmd</string>
-		<string>opal</string>
+		<string>sapphirebing</string>
 		<string>PencilByFiftyThree</string>
 		<string>powerpoint</string>
 		<string>skype</string>
@@ -744,9 +744,9 @@
 		<string>lync</string>
 		<string>swiftkey</string>
 		<string>ms-delve</string>
-		<string>opal</string>
+		<string>sapphirebing</string>
 		<string>PencilByFiftyThree</string>
-		<string>sapphire</string>
+		<string>sapphirecopilot</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -761,7 +761,7 @@
 	<key>MSOfeedbackPhoneAppID</key>
 	<string>248</string>
 	<key>MicrosoftExtendedBuildNumber</key>
-	<string>16.94.1/250211</string>
+	<string>16.95/250305</string>
 	<key>MinimumOSVersion</key>
 	<string>17.0</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
@@ -789,7 +789,7 @@
 		<string>com.microsoft.onenote.viewing-page</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>16.94.211.1</string>
+	<string>16.95.305.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

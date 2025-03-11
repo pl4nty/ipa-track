@@ -7,7 +7,7 @@
 		<string>ch.protonmail.protonmail.eventloop</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>23C71</string>
+	<string>23H420</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -81,7 +81,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.19.0</string>
+	<string>4.20.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -112,7 +112,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>10276</string>
+	<string>10280</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C5031b</string>
 	<key>DTCompiler</key>
