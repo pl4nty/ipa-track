@@ -9,7 +9,7 @@
 		<string>com.authy</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24C101</string>
+	<string>24D70</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>27.0.1</string>
+	<string>28.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -80,9 +80,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20250108.1</string>
+	<string>20250307.1</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C5031b</string>
+	<string>16C7015</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -99,20 +99,6 @@
 	<string>1620</string>
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
-	<key>Fabric</key>
-	<dict>
-		<key>APIKey</key>
-		<string>8ce988f5bb55c89e65e23eb9cdd16c6cb01948b6</string>
-		<key>Kits</key>
-		<array>
-			<dict>
-				<key>KitInfo</key>
-				<dict/>
-				<key>KitName</key>
-				<string>Crashlytics</string>
-			</dict>
-		</array>
-	</dict>
 	<key>FacebookAppID</key>
 	<string>478660785554616</string>
 	<key>FacebookDisplayName</key>
@@ -201,10 +187,8 @@
 	<array>
 		<string>arm64</string>
 	</array>
-	<key>UIStatusBarHidden</key>
-	<true/>
 	<key>UIStatusBarStyle</key>
-	<string>UIStatusBarStyleDarkContent</string>
+	<string>UIStatusBarStyleDefault</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>23H311</string>
+	<string>23H420</string>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -306,7 +306,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>430305002.30.0</string>
+	<string>430312006.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -329,9 +329,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430305002</string>
+	<string>430312006</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7009</string>
+	<string>16C7015</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -445,6 +445,8 @@
 		<string>https://api.webxtsvc.microsoft.com/mswallet/buynow/v1</string>
 		<key>feebackBaseURL</key>
 		<string>https://petrol.office.microsoft.com</string>
+		<key>pagesURL</key>
+		<string>https://copilot.microsoft.com/pages</string>
 		<key>rewardsURL</key>
 		<string>https://prod.rewardsplatform.microsoft.com</string>
 		<key>streamURL</key>
@@ -512,6 +514,8 @@
 	</dict>
 	<key>oneDSTelemetryIngestionToken</key>
 	<string>be6e4c19699f4fdf9f8c0ec9f9b398ef-25d58bb9-9926-4df7-8e36-bc7afb4b2c34-7563</string>
+	<key>overriddenFlags</key>
+	<string></string>
 	<key>picassoPNRegistration</key>
 	<string>true</string>
 	<key>sentryConfig</key>

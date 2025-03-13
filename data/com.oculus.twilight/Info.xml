@@ -9,7 +9,7 @@
 		<string>com.facebook.bgfetch</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-03-07T00:00:31</string>
+	<string>2025-03-12T19:32:04</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>309.1</string>
+	<string>310.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -72,7 +72,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>705616411</string>
+	<string>707900450</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTPlatformBuild</key>
@@ -90,19 +90,19 @@
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>309.1.0.13.108</string>
+	<string>310.0.0.28.109</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
-	<string>dev</string>
+	<string>fbobjc/releases/release-twilight-ios-2025.03.10</string>
 	<key>FBBuildNumber</key>
-	<integer>705616411</integer>
+	<integer>707900450</integer>
 	<key>FBBuildRevision</key>
-	<string>8a471e878f70b85b069c77e88e72d51b5bde51da</string>
+	<string>f48c6a659bd1c761f26800f4eee05c49044421ab</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1741304535.028800</string>
+	<string>1741805441.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1741305631</integer>
+	<integer>1741807924</integer>
 	<key>FBCWAppBugReportCategory</key>
 	<string>1945899645655301</string>
 	<key>FBCWAppName</key>
@@ -118,7 +118,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>309.1</string>
+	<string>310.0</string>
 	<key>FBThisAppKeychainGroup</key>
 	<string>V9WTTPBFK9.com.oculus.twilight</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
@@ -245,6 +245,8 @@
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 	<key>com.apple.developer.usernotifications.communication</key>
+	<true/>
+	<key>com.apple.developer.usernotifications.time-sensitive</key>
 	<true/>
 </dict>
 </plist>

@@ -118,7 +118,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.27.300034385</string>
+	<string>3.28.300034980</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -135,11 +135,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.27.727990346</string>
+	<string>3.28.734598321</string>
 	<key>CrashBackendEnvironment</key>
 	<string>production</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C5031b</string>
+	<string>16C7015</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

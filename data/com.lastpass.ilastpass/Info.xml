@@ -5,7 +5,7 @@
 	<key>AppIdentifierPrefix</key>
 	<string>RNDLY9ZML8.</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23G80</string>
+	<string>24B83</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.25.0</string>
+	<string>6.26.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -137,9 +137,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6.25.0.9188</string>
+	<string>6.26.0.9438</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C5031b</string>
+	<string>16C7009</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
