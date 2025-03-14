@@ -2,10 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>APP_BUNDLE_IDENTIFIER</key>
+	<string>com.swiftkey.SwiftKeyApp</string>
+	<key>APP_GROUP</key>
+	<string>group.com.swiftkey</string>
+	<key>AUTHENTICATION_SERVER_URL</key>
+	<string>https://swiftkey-sync-production.touchtype-fluency.com</string>
+	<key>BACKUP_AND_SYNC_URL</key>
+	<string>https://swiftkey-sync-production.touchtype-fluency.com</string>
+	<key>BASE_URL</key>
+	<string>release</string>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
 		<string>com.swiftkey.bibo-refresh</string>
 	</array>
+	<key>BIBO_URL</key>
+	<string>https://bibo.api.swiftkey.com</string>
 	<key>BuildMachineOSBuild</key>
 	<string>24D70</string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -48,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.1.7</string>
+	<string>4.1.8</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -92,11 +104,17 @@
 				<string>com.swiftkey.SwiftKeyApp</string>
 			</array>
 		</dict>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>msauth.com.swiftkey.SwiftKeyApp</string>
+			</array>
+		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>417.0.0</string>
+	<string>418.0.1</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7009</string>
+	<string>16C7015</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -113,6 +131,8 @@
 	<string>1620</string>
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
+	<key>EMOJI_PREDICTIONS_URL</key>
+	<string>emojicloudfrontend.api.swiftkey.com</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
 	<false/>
 	<key>FacebookAppID</key>
@@ -123,6 +143,12 @@
 	<string>SwiftKey Cloud</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
+	<key>KEYBOARD_BUNDLE_IDENTIFIER</key>
+	<string>com.swiftkey.SwiftKeyApp.Keyboard</string>
+	<key>KEYCHAIN_ACCESS_GROUP</key>
+	<string>67CQB453B2.com.swiftkey.SwiftKeyApp</string>
+	<key>LANGUAGE_PACKS_URL</key>
+	<string>/market/languagePacksSSL.json</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>copilotn</string>
@@ -138,6 +164,9 @@
 		<string>onenote</string>
 		<string>twitter</string>
 		<string>twitterauth</string>
+		<string>msauthv2</string>
+		<string>msauthv3</string>
+		<string>msa-devicekey-share</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -200,6 +229,16 @@
 	<string>Save your Tap Map to image library</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Enter your photos directly from the keyboard or use them to design your own keyboard theme</string>
+	<key>ONE_AUTH_DEFAULT_ENABLED</key>
+	<string>0</string>
+	<key>TELEMETRY_API_KEY</key>
+	<string>SwiftKey_iOS_prod</string>
+	<key>TELEMETRY_APP_SECRET_ID</key>
+	<string>sk_ios_market</string>
+	<key>TELEMETRY_URL</key>
+	<string>telemetry.api.swiftkey.com</string>
+	<key>TOKEN_SERVER_URL</key>
+	<string>https://tokens-auth.touchtype-fluency.com</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>Roboto-Regular.ttf</string>
@@ -265,5 +304,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+	<key>USERS_AUTH</key>
+	<string>https://users-auth.touchtype-fluency.com</string>
 </dict>
 </plist>
