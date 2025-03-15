@@ -59,7 +59,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.10.2</string>
+	<string>25.11.0</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google Maps</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -85,11 +85,12 @@
 				<string>com-google-maps-fitbit-navinfo</string>
 				<string>com.google.Maps</string>
 				<string>comgooglemapsurl</string>
+				<string>geo-navigation</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>25.10.2.7330240520</string>
+	<string>25.11.0.7354889600</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTCompiler</key>
