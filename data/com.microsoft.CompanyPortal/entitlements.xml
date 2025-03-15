@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>SGGM6D27TK.com.microsoft.sso.intunemam</string>
+		<string>SGGM6D27TK.com.microsoft.sso</string>
+		<string>SGGM6D27TK.com.microsoft.workplacejoin</string>
+		<string>SGGM6D27TK.com.microsoft.intune.mam</string>
+		<string>SGGM6D27TK.com.microsoft.adalcache</string>
+		<string>SGGM6D27TK.com.microsoft.companyportal.est</string>
+		<string>SGGM6D27TK.com.microsoft.companyportal.derivedcreds</string>
+		<string>SGGM6D27TK.com.microsoft.shared.smime</string>
+		<string>SGGM6D27TK.com.intercede.SoftCertStore</string>
+		<string>SGGM6D27TK.com.microsoft.ssoseeding</string>
+		<string>SGGM6D27TK.com.microsoft.CompanyPortal.enrollment</string>
+		<string>SGGM6D27TK.com.microsoft.workplacejoin.v2</string>
+	</array>
+	<key>com.apple.developer.team-identifier</key>
+	<string>UBF8T346G9</string>
+	<key>application-identifier</key>
+	<string>SGGM6D27TK.com.microsoft.CompanyPortal</string>
+	<key>aps-environment</key>
+	<string>production</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:portal.manage-beta.microsoft.com</string>
+		<string>applinks:portal.manage-selfhost.microsoft.com</string>
+		<string>applinks:portal.manage-dogfood.microsoft.com</string>
+		<string>applinks:portal.manage.microsoft.com</string>
+		<string>applinks:portal.manage-ppe.microsoft.us</string>
+		<string>applinks:portal.manage.microsoft.us</string>
+		<string>applinks:portal.manage.microsoftonline.cn</string>
+		<string>applinks:portal.manage-ppe.microsoftonline.cn</string>
+		<string>webcredentials:login.microsoft.com</string>
+		<string>webcredentials:login.microsoftonline.us</string>
+		<string>webcredentials:login.partner.microsoftonline.cn</string>
+	</array>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.microsoft.CompanyPortal</string>
+	</array>
+</dict>
+</plist>
