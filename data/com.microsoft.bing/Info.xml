@@ -13,7 +13,7 @@
 	<key>BING_MAPS_KEY</key>
 	<string>AnG6pvmlxuPe85X7PEFJ7EP18DKkpcwTxTvIz7T-7j-TMGstR4CwHr1SRtCWY1CZ</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24C101</string>
+	<string>24D70</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>30.9.430307002</string>
+	<string>31.0.430314001</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -110,7 +110,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430307002</string>
+	<string>430314001</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTCompiler</key>
@@ -286,6 +286,8 @@
 		<string>https://copilot.microsoft.com/c/api</string>
 		<key>bingvizURL</key>
 		<string>https://gateway-copilot.bingviz.microsoftapp.net/receive</string>
+		<key>copilotPayURL</key>
+		<string>https://api.webxtsvc.microsoft.com/mswallet/buynow/v1</string>
 		<key>feebackBaseURL</key>
 		<string>https://petrol.office.microsoft.com</string>
 		<key>rewardsURL</key>
@@ -300,6 +302,11 @@
 	</dict>
 	<key>environment</key>
 	<string>prod</string>
+	<key>localMapConfig</key>
+	<dict>
+		<key>copyrightKey</key>
+		<string>AtAYmmv9nk-KRSzfFYz_S6iYhq0DcUGvXmZXl-_QJmm96oLyMa6qAk9hingpjmNe</string>
+	</dict>
 	<key>oneAuthConfig</key>
 	<dict>
 		<key>aadConfig</key>
@@ -345,5 +352,7 @@
 	<string>be6e4c19699f4fdf9f8c0ec9f9b398ef-25d58bb9-9926-4df7-8e36-bc7afb4b2c34-7563</string>
 	<key>picassoPNRegistration</key>
 	<string>true</string>
+	<key>universalLinkHostUrl</key>
+	<string>copilot.microsoft.com</string>
 </dict>
 </plist>
