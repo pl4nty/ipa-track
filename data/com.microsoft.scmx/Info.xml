@@ -8,7 +8,7 @@
 		<string>com.microsoft.scmx.app_processing</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>22H313</string>
+	<string>22H420</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -49,7 +49,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.62040103</string>
+	<string>1.1.63070101</string>
 	<key>CFBundleSpokenName</key>
 	<string>MS Defender</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -75,9 +75,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.1.62040103</string>
+	<string>1.1.63070101</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C5031b</string>
+	<string>16C7015</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
