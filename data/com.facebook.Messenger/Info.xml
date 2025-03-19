@@ -16,7 +16,7 @@
 		<string>com.facebook.messenger.contact_search_ranking</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-03-11T05:34:00</string>
+	<string>2025-03-18T02:34:46</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -57,7 +57,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>498.0.0</string>
+	<string>499.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -270,7 +270,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>707243005</string>
+	<string>710113156</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTPlatformBuild</key>
@@ -288,23 +288,23 @@
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>498.0.0.62.105</string>
+	<string>499.0.0.49.110</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>707243005</integer>
+	<integer>710113156</integer>
 	<key>FBBuildRevision</key>
-	<string>161947575e2e792417f09cb4295f000f3eb35f6e</string>
+	<string>d35fbd51e8ab3b0fb5c364208da8f587ff69814f</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1741669933.025200</string>
+	<string>1742262843.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1741671240</integer>
+	<integer>1742265286</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>498.0.0</string>
+	<string>499.0.0</string>
 	<key>FacebookAppID</key>
 	<string>437626316973788</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -323,66 +323,63 @@
 		<string>bualuangmbanking</string>
 		<string>krungsri-kma</string>
 		<string>ktbnext</string>
-		<string>fb868262030333865</string>
-		<string>fb1777365365898806</string>
-		<string>fb2575291882858826</string>
-		<string>fb174103646072524</string>
-		<string>fb1132078647863398</string>
-		<string>fb271617373615752</string>
-		<string>fb597615686992125</string>
-		<string>fb431882705344813</string>
-		<string>fb2673921099381214</string>
-		<string>fb277638822572073</string>
-		<string>fb2328240260794422</string>
-		<string>fb706056846556355</string>
-		<string>fb367266627241061</string>
-		<string>fb285025889266955</string>
-		<string>fb1923291651293408</string>
-		<string>fb1250647258936050</string>
-		<string>fb2303380839957579</string>
-		<string>fb1762183444556056</string>
-		<string>fb1222123985060415</string>
-		<string>fb158742637545893</string>
-		<string>fb141987249766567</string>
-		<string>fb462596768972930</string>
-		<string>fb1639703493639275</string>
-		<string>fb501175270943342</string>
-		<string>fb763138661210377</string>
-		<string>fb559199915030115</string>
-		<string>fb169545139744270</string>
-		<string>fb403591763184357</string>
-		<string>fb364649920320790</string>
-		<string>fb725480251207859</string>
-		<string>fb619860452243352</string>
-		<string>fb267115216418950</string>
-		<string>fb604425153801157</string>
-		<string>fb312815509118300</string>
-		<string>fb1791105821059748</string>
-		<string>fb654935278355098</string>
-		<string>fb131538103586818</string>
-		<string>fb811523543802991</string>
-		<string>fb293978624117724</string>
-		<string>fb847818459140645</string>
-		<string>fb246559161388001</string>
-		<string>fb326605667418591</string>
 		<string>fb1427615667454320</string>
-		<string>fb712237168882096</string>
-		<string>fb1459361278159151</string>
-		<string>fb1459455184834740</string>
-		<string>fb636848254535914</string>
-		<string>fb1409784043224018</string>
-		<string>fb1839011602994843</string>
-		<string>fb401696723281463</string>
-		<string>fb1381533275345358</string>
-		<string>fb649488135133155</string>
-		<string>fb428657035975615</string>
-		<string>fb1266195561390359</string>
-		<string>fb1219185349288788</string>
-		<string>fb1042106420657099</string>
+		<string>fb2673921099381214</string>
+		<string>fb2303380839957579</string>
+		<string>fb601621360285543</string>
+		<string>com.googleusercontent.apps.126716726094-5hl4sq18a499pjm5vabts7bgpo9b5tnh</string>
+		<string>fb1055885851158192</string>
+		<string>fb597615686992125</string>
+		<string>fb285025889266955</string>
+		<string>fb1250647258936050</string>
+		<string>fb2328240260794422</string>
+		<string>fb141987249766567</string>
+		<string>fb1777365365898806</string>
+		<string>wayfairapp</string>
+		<string>fb1603460197048846</string>
+		<string>taobao</string>
+		<string>fb2566007107002013</string>
+		<string>fb654935278355098</string>
+		<string>fb763138661210377</string>
+		<string>dkcs</string>
 		<string>fb268692577001613</string>
-		<string>fb1758257754955792</string>
-		<string>fb338683812854773</string>
+		<string>waymo</string>
+		<string>fb1222123985060415</string>
+		<string>fb737229396381522</string>
+		<string>fb462596768972930</string>
+		<string>fb1791105821059748</string>
+		<string>ubereats</string>
+		<string>fb1409784043224018</string>
+		<string>fb619201583251002</string>
+		<string>fb512030275555616</string>
+		<string>fb256916317137151</string>
+		<string>smartgiftapp</string>
+		<string>solitairemaster</string>
+		<string>fb3689343254709043</string>
+		<string>fb469048192917220</string>
+		<string>fb326605667418591</string>
+		<string>fb725480251207859</string>
+		<string>fb1459361278159151</string>
+		<string>fb604425153801157</string>
+		<string>fb616724070703207</string>
+		<string>fb1459455184834740</string>
+		<string>fb811523543802991</string>
+		<string>fb367266627241061</string>
+		<string>fb1926707991146747</string>
+		<string>fb293978624117724</string>
+		<string>fb1381533275345358</string>
+		<string>fb636848254535914</string>
+		<string>slotomania</string>
+		<string>fb958207989052831</string>
 		<string>fb298043060224003</string>
+		<string>fb338683812854773</string>
+		<string>fb392957202811228</string>
+		<string>fb559199915030115</string>
+		<string>fb341973327401293</string>
+		<string>fb336007886875256</string>
+		<string>fb153277661752118</string>
+		<string>fb123375407711200</string>
+		<string>fb8386380491438694</string>
 		<string>http</string>
 		<string>https</string>
 	</array>
@@ -467,6 +464,8 @@
 	<string>This lets you use Siri to do things like make calls and read messages.</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>Messenger will use speech recognition to generate captions as people speak.</string>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
 	<key>NSUserActivityTypes</key>
 	<array>
 		<string>INSendMessageIntent</string>

@@ -7,7 +7,7 @@
 	<key>BRAVE_URL_SCHEME</key>
 	<string>brave</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24B83</string>
+	<string>24D70</string>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -18,6 +18,59 @@
 	<string>Client</string>
 	<key>CFBundleIcons</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>3d</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>3d</string>
+			</dict>
+			<key>80s</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>80s</string>
+			</dict>
+			<key>aqua</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>aqua</string>
+			</dict>
+			<key>bat</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>bat</string>
+			</dict>
+			<key>holo</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>holo</string>
+			</dict>
+			<key>neon</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>neon</string>
+			</dict>
+			<key>netscape</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>netscape</string>
+			</dict>
+			<key>supernova</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>supernova</string>
+			</dict>
+			<key>terminal</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>terminal</string>
+			</dict>
+			<key>windows</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>windows</string>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -30,6 +83,59 @@
 	</dict>
 	<key>CFBundleIcons~ipad</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>3d</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>3d</string>
+			</dict>
+			<key>80s</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>80s</string>
+			</dict>
+			<key>aqua</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>aqua</string>
+			</dict>
+			<key>bat</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>bat</string>
+			</dict>
+			<key>holo</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>holo</string>
+			</dict>
+			<key>neon</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>neon</string>
+			</dict>
+			<key>netscape</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>netscape</string>
+			</dict>
+			<key>supernova</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>supernova</string>
+			</dict>
+			<key>terminal</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>terminal</string>
+			</dict>
+			<key>windows</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>windows</string>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -50,7 +156,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.75</string>
+	<string>1.76</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -73,9 +179,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>179</string>
+	<string>77</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C5031b</string>
+	<string>16C7015</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

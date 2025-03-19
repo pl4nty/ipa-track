@@ -6,18 +6,10 @@
 	<true/>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
-		<string>com.whatsapp.chat_session_origin_migration</string>
-		<string>com.whatsapp.chat_session_unknown_contact_migration</string>
-		<string>com.whatsapp.chat_session_account_migration</string>
 		<string>com.whatsapp.nse_merge</string>
-		<string>com.whatsapp.lid_account_migration</string>
-		<string>com.whatsapp.signal_account_migration</string>
 		<string>com.whatsapp.background_fetch</string>
-		<string>com.whatsapp.message_search_engine_indexing</string>
-		<string>com.whatsapp.newsletter_message_search_engine_indexing</string>
 		<string>com.whatsapp.icloud_backup</string>
 		<string>com.whatsapp.db_maintenance</string>
-		<string>com.whatsapp.db_migration</string>
 	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
@@ -156,7 +148,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.6.74</string>
+	<string>25.7.77</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -179,7 +171,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>707925378</string>
+	<string>710027829</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTPlatformBuild</key>
@@ -199,7 +191,7 @@
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>707925378</string>
+	<string>710027829</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>

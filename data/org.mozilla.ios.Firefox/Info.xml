@@ -23,29 +23,6 @@
 	<string>Client</string>
 	<key>CFBundleIcons</key>
 	<dict>
-		<key>CFBundleAlternateIcons</key>
-		<dict>
-			<key>AppIcon_Alt_BlueGradient</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_BlueGradient</string>
-			</dict>
-			<key>AppIcon_Alt_OrangeGradient</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_OrangeGradient</string>
-			</dict>
-			<key>AppIcon_Beta</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Beta</string>
-			</dict>
-			<key>AppIcon_Developer</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Developer</string>
-			</dict>
-		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -58,29 +35,6 @@
 	</dict>
 	<key>CFBundleIcons~ipad</key>
 	<dict>
-		<key>CFBundleAlternateIcons</key>
-		<dict>
-			<key>AppIcon_Alt_BlueGradient</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_BlueGradient</string>
-			</dict>
-			<key>AppIcon_Alt_OrangeGradient</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_OrangeGradient</string>
-			</dict>
-			<key>AppIcon_Beta</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Beta</string>
-			</dict>
-			<key>AppIcon_Developer</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Developer</string>
-			</dict>
-		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -99,7 +53,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>136.2</string>
+	<string>136.3</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -121,7 +75,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>51977</string>
+	<string>52294</string>
 	<key>CHANNEL</key>
 	<string>RELEASE</string>
 	<key>DTAppStoreToolsBuild</key>
