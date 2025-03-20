@@ -13,7 +13,7 @@
 	<key>BING_MAPS_KEY</key>
 	<string>AnG6pvmlxuPe85X7PEFJ7EP18DKkpcwTxTvIz7T-7j-TMGstR4CwHr1SRtCWY1CZ</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24D70</string>
+	<string>24C101</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>31.0.430314001</string>
+	<string>31.0.430319002</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -110,7 +110,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430314001</string>
+	<string>430319002</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTCompiler</key>
@@ -203,7 +203,7 @@
 		</dict>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>To search with images, tap 'OK' The photos you take for searching help improve results. See settings for more.</string>
+	<string>Our app uses your camera to scan QR code and lets you take the photos to use for image searches.</string>
 	<key>NSFaceIDUsageDescription</key>
 	<string>Bing uses Face ID to ensure authorized access to your passwords.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
@@ -219,7 +219,7 @@
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>Tap 'OK' to save images directly to your camera roll.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>To search with images, tap 'OK' The photos you take for searching help improve results. See settings for more.</string>
+	<string>This allows you to save content to your photo library, upload local images, and search using photos from your camera roll.</string>
 	<key>NSPrivacyTrackingDomains</key>
 	<array>
 		<string>https://consent.adjust.cn</string>

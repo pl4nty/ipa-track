@@ -9,7 +9,7 @@
 		<string>com.facebook.bgfetch</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-03-12T19:32:04</string>
+	<string>2025-03-18T20:01:11</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>310.0</string>
+	<string>311.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -72,7 +72,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>707900450</string>
+	<string>710425481</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTPlatformBuild</key>
@@ -90,19 +90,19 @@
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>310.0.0.28.109</string>
+	<string>311.0.0.13.109</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
-	<string>fbobjc/releases/release-twilight-ios-2025.03.10</string>
+	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>707900450</integer>
+	<integer>710425481</integer>
 	<key>FBBuildRevision</key>
-	<string>f48c6a659bd1c761f26800f4eee05c49044421ab</string>
+	<string>745429c9609646506c34751ecb5321f830d90b2e</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1741805441.025200</string>
+	<string>1742325515.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1741807924</integer>
+	<integer>1742328071</integer>
 	<key>FBCWAppBugReportCategory</key>
 	<string>1945899645655301</string>
 	<key>FBCWAppName</key>
@@ -118,7 +118,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>310.0</string>
+	<string>311.0</string>
 	<key>FBThisAppKeychainGroup</key>
 	<string>V9WTTPBFK9.com.oculus.twilight</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>

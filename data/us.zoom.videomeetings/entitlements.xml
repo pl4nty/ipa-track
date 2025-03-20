@@ -4,8 +4,6 @@
 <dict>
 	<key>com.apple.developer.default-data-protection</key>
 	<string>NSFileProtectionCompleteUntilFirstUserAuthentication</string>
-	<key>com.apple.developer.usernotifications.time-sensitive</key>
-	<true/>
 	<key>com.apple.developer.icloud-container-identifiers</key>
 	<array>
 		<string>iCloud.us.zoom.videomeetings</string>
@@ -14,46 +12,13 @@
 	<true/>
 	<key>application-identifier</key>
 	<string>BJ4HAAB9B3.us.zoom.videomeetings</string>
-	<key>com.apple.developer.device-information.user-assigned-device-name</key>
-	<true/>
-	<key>aps-environment</key>
-	<string>production</string>
-	<key>com.apple.developer.icloud-container-environment</key>
-	<string>Production</string>
-	<key>com.apple.developer.carplay-communication</key>
-	<true/>
-	<key>com.apple.developer.associated-domains</key>
-	<array>
-		<string>applinks:zoom.us</string>
-		<string>applinks:*.zoom.us</string>
-		<string>applinks:zoomgov.com</string>
-		<string>applinks:*.zoomgov.com</string>
-		<string>applinks:zoom.com</string>
-		<string>applinks:*.zoom.com</string>
-	</array>
-	<key>com.apple.developer.icloud-services</key>
-	<array>
-		<string>CloudDocuments</string>
-	</array>
 	<key>com.apple.developer.push-to-talk</key>
-	<true/>
-	<key>com.apple.developer.networking.wifi-info</key>
 	<true/>
 	<key>com.apple.developer.siri</key>
 	<true/>
-	<key>com.apple.developer.team-identifier</key>
-	<string>BJ4HAAB9B3</string>
-	<key>com.apple.developer.ubiquity-container-identifiers</key>
-	<array>
-		<string>iCloud.us.zoom.videomeetings</string>
-	</array>
 	<key>com.apple.developer.applesignin</key>
 	<array>
 		<string>Default</string>
-	</array>
-	<key>com.apple.developer.nfc.readersession.formats</key>
-	<array>
-		<string>TAG</string>
 	</array>
 	<key>com.apple.developer.carplay-calling</key>
 	<true/>
@@ -65,6 +30,43 @@
 	<key>com.apple.security.application-groups</key>
 	<array>
 		<string>group.us.zoom</string>
+	</array>
+	<key>com.apple.developer.carplay-communication</key>
+	<true/>
+	<key>com.apple.developer.ubiquity-container-identifiers</key>
+	<array>
+		<string>iCloud.us.zoom.videomeetings</string>
+	</array>
+	<key>com.apple.developer.networking.wifi-info</key>
+	<true/>
+	<key>aps-environment</key>
+	<string>production</string>
+	<key>com.apple.developer.icloud-container-environment</key>
+	<string>Production</string>
+	<key>com.apple.developer.usernotifications.time-sensitive</key>
+	<true/>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:zoom.us</string>
+		<string>applinks:*.zoom.us</string>
+		<string>applinks:zoomgov.com</string>
+		<string>applinks:*.zoomgov.com</string>
+		<string>applinks:zoom.com</string>
+		<string>applinks:*.zoom.com</string>
+	</array>
+	<key>com.apple.developer.device-information.user-assigned-device-name</key>
+	<true/>
+	<key>com.apple.developer.calling-app</key>
+	<true/>
+	<key>com.apple.developer.team-identifier</key>
+	<string>BJ4HAAB9B3</string>
+	<key>com.apple.developer.nfc.readersession.formats</key>
+	<array>
+		<string>TAG</string>
+	</array>
+	<key>com.apple.developer.icloud-services</key>
+	<array>
+		<string>CloudDocuments</string>
 	</array>
 </dict>
 </plist>

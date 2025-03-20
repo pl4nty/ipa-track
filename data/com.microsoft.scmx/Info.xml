@@ -49,7 +49,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.63070101</string>
+	<string>1.1.63100101</string>
 	<key>CFBundleSpokenName</key>
 	<string>MS Defender</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -71,11 +71,12 @@
 				<string>intunemam-mtd</string>
 				<string>com.googleusercontent.apps.785119424070-l21dmmqg0ofodamljvm3e3ge0toktefv</string>
 				<string>com.googleusercontent.apps.785119424070-tjuruun1gh1vs6r1nu2jmigusd4isscc</string>
+				<string>ms-defender</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.1.63070101</string>
+	<string>1.1.63100101</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTCompiler</key>
@@ -115,6 +116,7 @@
 	<array>
 		<string>msauthv2</string>
 		<string>msauthv3</string>
+		<string>ms-log-azureauthenticator</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
