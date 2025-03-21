@@ -5,13 +5,13 @@
 	<key>AXPApplicationGroupIdentifier</key>
 	<string>group.com.microsoft.skype.teams</string>
 	<key>AppBuildDate</key>
-	<string>0313</string>
+	<string>0319</string>
 	<key>AppCenterAppDelegateForwarderEnabled</key>
 	<string>0</string>
 	<key>AppIdentifierPrefix</key>
 	<string>SGGM6D27TK.</string>
 	<key>AppVersionWithBuildInfo</key>
-	<string>1.077.2025052402</string>
+	<string>1.077.2025053001</string>
 	<key>BuildMachineOSBuild</key>
 	<string>24D70</string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.5.0</string>
+	<string>7.5.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -111,7 +111,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>100772025052402</string>
+	<string>100772025053001</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTCompiler</key>
@@ -202,19 +202,12 @@
 		<string>msauthv2</string>
 		<string>msauthv3</string>
 		<string>ms-excel-standalone</string>
-		<string>ms-excel-standalone-intunemam</string>
 		<string>ms-excel</string>
-		<string>ms-excel-intunemam</string>
 		<string>ms-powerpoint-standalone</string>
-		<string>ms-powerpoint-standalone-intunemam</string>
 		<string>ms-powerpoint</string>
-		<string>ms-powerpoint-intunemam</string>
 		<string>ms-word-standalone</string>
-		<string>ms-word-standalone-intunemam</string>
 		<string>ms-word</string>
-		<string>ms-word-intunemam</string>
 		<string>onenote</string>
-		<string>onenote-intunemam</string>
 		<string>telprompt</string>
 		<string>microsoft-edge-http</string>
 		<string>microsoft-edge-https</string>
@@ -222,19 +215,15 @@
 		<string>https-intunemam</string>
 		<string>http</string>
 		<string>https</string>
-		<string>ms-outlook-intunemam</string>
 		<string>msteams</string>
-		<string>msteams-intunemam</string>
 		<string>googlechromes</string>
 		<string>googlechromes-intunemam</string>
 		<string>comgooglemaps</string>
 		<string>comgooglemaps-intunemam</string>
 		<string>tel</string>
 		<string>ms-whiteboard-preview</string>
-		<string>ms-whiteboard-preview-intunemam</string>
 		<string>companyportal</string>
 		<string>yammer</string>
-		<string>yammer-intunemam</string>
 		<string>whatsapp</string>
 		<string>mailto</string>
 		<string>ms-appx-web</string>
