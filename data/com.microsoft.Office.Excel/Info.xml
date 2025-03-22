@@ -10,7 +10,7 @@
 		<string>com.microsoft.office.bgtask.expunge_cache</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24D70</string>
+	<string>24D81</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -243,7 +243,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.95</string>
+	<string>2.95.2</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -300,7 +300,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.95.25030623</string>
+	<string>2.95.25032110</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTCompiler</key>
@@ -521,7 +521,7 @@
 		<string>com.microsoft.excel.executesearch-dogfood</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>2.95.306.0</string>
+	<string>2.95.321.2</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
