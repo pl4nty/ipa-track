@@ -20,6 +20,8 @@
 	<string>production</string>
 	<key>com.apple.developer.icloud-container-environment</key>
 	<string>Production</string>
+	<key>com.apple.developer.messaging-app</key>
+	<true/>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:api.whatsapp.com</string>
@@ -35,6 +37,8 @@
 	</array>
 	<key>com.apple.developer.siri</key>
 	<true/>
+	<key>com.apple.developer.calling-app</key>
+	<true/>
 	<key>com.apple.developer.team-identifier</key>
 	<string>57T9237FN3</string>
 	<key>com.apple.developer.ubiquity-container-identifiers</key>
@@ -44,7 +48,6 @@
 	<key>com.apple.developer.icloud-services</key>
 	<array>
 		<string>CloudDocuments</string>
-		<string>CloudKit</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

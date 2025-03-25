@@ -49,7 +49,9 @@
 	<string>6.0</string>
 	<key>CFBundleLocalizations</key>
 	<array>
+		<string>af</string>
 		<string>ar</string>
+		<string>as</string>
 		<string>bg</string>
 		<string>bn</string>
 		<string>ca</string>
@@ -68,6 +70,7 @@
 		<string>fi</string>
 		<string>fil</string>
 		<string>fr</string>
+		<string>fr_CA</string>
 		<string>gu</string>
 		<string>he</string>
 		<string>hi</string>
@@ -75,9 +78,11 @@
 		<string>hu</string>
 		<string>id</string>
 		<string>in</string>
+		<string>is</string>
 		<string>it</string>
 		<string>iw</string>
 		<string>ja</string>
+		<string>kk</string>
 		<string>kn</string>
 		<string>ko</string>
 		<string>lt</string>
@@ -100,6 +105,7 @@
 		<string>sl</string>
 		<string>sr</string>
 		<string>sv</string>
+		<string>sw</string>
 		<string>ta</string>
 		<string>te</string>
 		<string>th</string>
@@ -118,7 +124,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.28.300034980</string>
+	<string>3.29.300035330</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -135,7 +141,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.28.734598321</string>
+	<string>3.29.737819600</string>
 	<key>CrashBackendEnvironment</key>
 	<string>production</string>
 	<key>DTAppStoreToolsBuild</key>

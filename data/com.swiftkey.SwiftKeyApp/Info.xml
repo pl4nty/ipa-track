@@ -19,7 +19,7 @@
 	<key>BIBO_URL</key>
 	<string>https://bibo.api.swiftkey.com</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24D70</string>
+	<string>23H420</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.1.8</string>
+	<string>4.1.9</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -112,7 +112,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>418.0.1</string>
+	<string>419.0.4</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTCompiler</key>
