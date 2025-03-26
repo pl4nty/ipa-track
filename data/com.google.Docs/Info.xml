@@ -13,7 +13,7 @@
 	<key>BreakpadProductDisplay</key>
 	<string>Docs</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>23H124</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -45,10 +45,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_docs_2020q4_color60x60</string>
+				<string>logo_docs_2024q3_color60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_docs_2020q4_color</string>
+			<string>logo_docs_2024q3_color</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -57,11 +57,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_docs_2020q4_color60x60</string>
-				<string>logo_docs_2020q4_color76x76</string>
+				<string>logo_docs_2024q3_color60x60</string>
+				<string>logo_docs_2024q3_color76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_docs_2020q4_color</string>
+			<string>logo_docs_2024q3_color</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -73,7 +73,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2025.11202</string>
+	<string>1.2025.12202</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -97,25 +97,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.2025.11202</string>
+	<string>1.2025.12202</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>21F77</string>
+	<string>22A3362</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>17.5</string>
+	<string>18.0</string>
 	<key>DTSDKBuild</key>
-	<string>21F77</string>
+	<string>22A3362</string>
 	<key>DTSDKName</key>
-	<string>iphoneos17.5</string>
+	<string>iphoneos18.0</string>
 	<key>DTXcode</key>
-	<string>1540</string>
+	<string>1600</string>
 	<key>DTXcodeBuild</key>
-	<string>15F31d</string>
+	<string>16A242d</string>
 	<key>GoogleProductName</key>
 	<string>Docs</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
