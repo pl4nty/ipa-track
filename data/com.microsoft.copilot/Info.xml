@@ -10,6 +10,25 @@
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
 	<string>Copilot</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Copilot Chat Documents</string>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.jpeg</string>
+				<string>public.png</string>
+				<string>public.jpg</string>
+				<string>public.plain-text</string>
+				<string>com.adobe.pdf</string>
+			</array>
+		</dict>
+	</array>
 	<key>CFBundleExecutable</key>
 	<string>Copilot</string>
 	<key>CFBundleIconName</key>
@@ -306,7 +325,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>430318008.30.0</string>
+	<string>430325005.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -329,7 +348,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430318008</string>
+	<string>430325005</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTCompiler</key>
@@ -442,7 +461,7 @@
 		<key>bingvizURL</key>
 		<string>https://gateway-copilot.bingviz.microsoftapp.net/receive</string>
 		<key>copilotPayURL</key>
-		<string>https://api.webxtsvc.microsoft.com/mswallet/buynow/v1</string>
+		<string>https://api.webxtsvc.microsoft.com</string>
 		<key>feebackBaseURL</key>
 		<string>https://petrol.office.microsoft.com</string>
 		<key>pagesURL</key>

@@ -21,7 +21,7 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-03-15T02:37:43</string>
+	<string>2025-03-24T22:42:51</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleExecutable</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>210.0.0</string>
+	<string>211.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -73,11 +73,12 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>fb-viewapp</string>
+				<string>meta-ai</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>708934689</string>
+	<string>712957467</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16C7015</string>
 	<key>DTPlatformBuild</key>
@@ -95,23 +96,23 @@
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>210.0.0.19.175</string>
+	<string>211.0.0.36.169</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>708934689</integer>
+	<integer>712957467</integer>
 	<key>FBBuildRevision</key>
-	<string>f73c8807dba4b097ce0a6429cbf91399e5d644e6</string>
+	<string>f2ec6823d27a3562e820079926e6114717d4396b</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1742004516.025200</string>
+	<string>1742854021.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1742006263</integer>
+	<integer>1742856171</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>210.0.0</string>
+	<string>211.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -180,6 +181,8 @@
 	<string>This allows the app to save media to your phone's camera roll by creating and accessing a Ray-Ban Stories album.</string>
 	<key>NSRemindersUsageDescription</key>
 	<string>This allows you to access and manage reminders with your glasses.</string>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
 	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
 	<true/>
 	<key>UIAppFonts</key>
@@ -193,6 +196,7 @@
 		<string>Optimistic_DisplayVF_A_Wght.ttf</string>
 		<string>Optimistic_TextVF_A_Wght.ttf</string>
 		<string>OptimisticVF_A_WghtItalDrkmWdth.ttf</string>
+		<string>Optimistic_VF_App_Lite.ttf</string>
 		<string>Segoe_UI.ttf</string>
 		<string>Lato-Regular.ttf</string>
 		<string>Lato-Italic.ttf</string>
