@@ -52,7 +52,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.20.2</string>
+	<string>7.22.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -73,9 +73,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.20.738660793</string>
+	<string>7.22.740525398</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -153,7 +153,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>16.1</string>
+	<string>17.0</string>
 	<key>NSAppleMusicUsageDescription</key>
 	<string>Google Photos needs access to your music library to use your own music in movies</string>
 	<key>NSBonjourServices</key>

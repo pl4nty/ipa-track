@@ -11,7 +11,7 @@
 		<string>com.microsoft.office.bgtask.metaosnotification</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24D70</string>
+	<string>24D81</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -689,7 +689,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.95</string>
+	<string>2.95.3</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -784,9 +784,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.95.25030623</string>
+	<string>2.95.25032614</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -998,7 +998,7 @@
 	<key>NSUserTrackingUsageDescription</key>
 	<string>Your data will be used to deliver personalised ads to you.</string>
 	<key>OfficeLegacyVersion</key>
-	<string>2.95.306.0</string>
+	<string>2.95.326.3</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
