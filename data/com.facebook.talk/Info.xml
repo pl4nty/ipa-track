@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.talk</string>
 	<key>CFBuildDate</key>
-	<string>2024-11-12T22:59:50</string>
+	<string>2025-03-21T23:56:41</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>276.0</string>
+	<string>282.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -67,43 +67,43 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>662872644</string>
+	<string>711819604</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16B39</string>
+	<string>16C7015</string>
 	<key>DTPlatformBuild</key>
-	<string>22A3362</string>
+	<string>22C146</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.0</string>
+	<string>18.2</string>
 	<key>DTSDKBuild</key>
-	<string>22A3362</string>
+	<string>22C146</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.0</string>
+	<string>iphoneos18.2</string>
 	<key>DTXcode</key>
-	<string>1600</string>
+	<string>1620</string>
 	<key>DTXcodeBuild</key>
-	<string>16A242d</string>
+	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>276.0.0.35.215</string>
+	<string>282.0.0.39.175</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>662872644</integer>
+	<integer>711819604</integer>
 	<key>FBBuildRevision</key>
-	<string>4b0fbf485b37384045da7ee04160020971c17356</string>
+	<string>0cdaa1e5ed40b50ce61377b3fb4657615f3778ee</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1731451353.028800</string>
+	<string>1742598350.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1731452390</integer>
+	<integer>1742601401</integer>
 	<key>FBDisableAutoRegisterForPush</key>
 	<string>YES</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>276.0</string>
+	<string>282.0</string>
 	<key>FacebookAppID</key>
 	<string>1174099472704185</string>
 	<key>FacebookAppPushTransmitterID</key>
@@ -124,6 +124,7 @@
 		<string>barcelona</string>
 		<string>oculus</string>
 		<string>whatsapp</string>
+		<string>fb-viewapp</string>
 		<string>otpauth</string>
 		<string>fb-pma</string>
 		<string>fb-ama</string>
@@ -154,7 +155,7 @@
 		</dict>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>This lets you take photos, record video, and video chat your contacts.
+	<string>This lets you take photos, record video, video chat your contacts, and use face and hand effects.
 
 You can change this setting on your device at any time.</string>
 	<key>NSContactsUsageDescription</key>

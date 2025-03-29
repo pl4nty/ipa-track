@@ -8,32 +8,6 @@
 	</array>
 	<key>com.apple.developer.carplay-maps</key>
 	<true/>
-	<key>keychain-access-groups</key>
-	<array>
-		<string>EQHXZ8M8AV.com.google.Maps</string>
-		<string>EQHXZ8M8AV.com.google.common.SSO</string>
-		<string>EQHXZ8M8AV.com.google.common.ULR</string>
-		<string>EQHXZ8M8AV.com.google.common.folsom</string>
-		<string>EQHXZ8M8AV.com.google.maps.fitbit.navinfo</string>
-		<string>EQHXZ8M8AV.com.fitbit.serverinfo</string>
-		<string>EQHXZ8M8AV.com.google.Maps.notifications</string>
-	</array>
-	<key>application-identifier</key>
-	<string>EQHXZ8M8AV.com.google.Maps</string>
-	<key>com.apple.developer.shared-with-you</key>
-	<true/>
-	<key>com.apple.security.application-groups</key>
-	<array>
-		<string>group.com.google.Maps</string>
-		<string>group.com.google.common</string>
-		<string>group.com.google.lighter</string>
-	</array>
-	<key>aps-environment</key>
-	<string>production</string>
-	<key>com.apple.developer.siri</key>
-	<true/>
-	<key>com.apple.developer.usernotifications.time-sensitive</key>
-	<true/>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>webcredentials:google.com</string>
@@ -776,7 +750,35 @@
 		<string>appclips:www.google.vu</string>
 		<string>appclips:www.google.ws</string>
 	</array>
+	<key>com.apple.developer.siri</key>
+	<true/>
+	<key>application-identifier</key>
+	<string>EQHXZ8M8AV.com.google.Maps</string>
+	<key>aps-environment</key>
+	<string>production</string>
+	<key>com.apple.developer.usernotifications.time-sensitive</key>
+	<true/>
+	<key>com.apple.developer.navigation-app</key>
+	<true/>
 	<key>com.apple.developer.location.push</key>
 	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>EQHXZ8M8AV.com.google.Maps</string>
+		<string>EQHXZ8M8AV.com.google.common.SSO</string>
+		<string>EQHXZ8M8AV.com.google.common.ULR</string>
+		<string>EQHXZ8M8AV.com.google.common.folsom</string>
+		<string>EQHXZ8M8AV.com.google.maps.fitbit.navinfo</string>
+		<string>EQHXZ8M8AV.com.fitbit.serverinfo</string>
+		<string>EQHXZ8M8AV.com.google.Maps.notifications</string>
+	</array>
+	<key>com.apple.developer.shared-with-you</key>
+	<true/>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.google.Maps</string>
+		<string>group.com.google.common</string>
+		<string>group.com.google.lighter</string>
+	</array>
 </dict>
 </plist>
