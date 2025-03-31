@@ -23,6 +23,129 @@
 	<string>Client</string>
 	<key>CFBundleIcons</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon_Alt_Color_Blue</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Blue</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Cyan</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Cyan</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Green</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Green</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Orange</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Orange</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Pink</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Pink</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Purple</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Purple</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Red</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Red</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Yellow</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Yellow</string>
+			</dict>
+			<key>AppIcon_Alt_DarkPurple</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_DarkPurple</string>
+			</dict>
+			<key>AppIcon_Alt_Drawn_Hug</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Drawn_Hug</string>
+			</dict>
+			<key>AppIcon_Alt_Drawn_Lazy</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Drawn_Lazy</string>
+			</dict>
+			<key>AppIcon_Alt_Drawn_Pixelated</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Drawn_Pixelated</string>
+			</dict>
+			<key>AppIcon_Alt_Drawn_Pride</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Drawn_Pride</string>
+			</dict>
+			<key>AppIcon_Alt_Drawn_Retro</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Drawn_Retro</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_BlueHour</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_BlueHour</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_GoldenHour</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_GoldenHour</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_Midday</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_Midday</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_Midnight</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_Midnight</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_NorthernLights</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_NorthernLights</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_Sunrise</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_Sunrise</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_Sunset</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_Sunset</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_Twilight</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_Twilight</string>
+			</dict>
+			<key>AppIcon_Beta</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Beta</string>
+			</dict>
+			<key>AppIcon_Developer</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Developer</string>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -35,6 +158,129 @@
 	</dict>
 	<key>CFBundleIcons~ipad</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon_Alt_Color_Blue</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Blue</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Cyan</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Cyan</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Green</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Green</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Orange</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Orange</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Pink</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Pink</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Purple</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Purple</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Red</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Red</string>
+			</dict>
+			<key>AppIcon_Alt_Color_Yellow</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Color_Yellow</string>
+			</dict>
+			<key>AppIcon_Alt_DarkPurple</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_DarkPurple</string>
+			</dict>
+			<key>AppIcon_Alt_Drawn_Hug</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Drawn_Hug</string>
+			</dict>
+			<key>AppIcon_Alt_Drawn_Lazy</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Drawn_Lazy</string>
+			</dict>
+			<key>AppIcon_Alt_Drawn_Pixelated</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Drawn_Pixelated</string>
+			</dict>
+			<key>AppIcon_Alt_Drawn_Pride</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Drawn_Pride</string>
+			</dict>
+			<key>AppIcon_Alt_Drawn_Retro</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Drawn_Retro</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_BlueHour</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_BlueHour</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_GoldenHour</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_GoldenHour</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_Midday</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_Midday</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_Midnight</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_Midnight</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_NorthernLights</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_NorthernLights</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_Sunrise</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_Sunrise</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_Sunset</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_Sunset</string>
+			</dict>
+			<key>AppIcon_Alt_Gradient_Twilight</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Gradient_Twilight</string>
+			</dict>
+			<key>AppIcon_Beta</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Beta</string>
+			</dict>
+			<key>AppIcon_Developer</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Developer</string>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -53,7 +299,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>136.3</string>
+	<string>137.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -75,11 +321,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>52294</string>
+	<string>52703</string>
 	<key>CHANNEL</key>
-	<string>RELEASE</string>
+	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -153,6 +399,8 @@
 	<string>Firefox uses your microphone to record and upload audio.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>This lets you save photos.</string>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
 	<key>NSUserActivityTypes</key>
 	<array>
 		<string>QuickActionIntent</string>
