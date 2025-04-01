@@ -11,7 +11,7 @@
 		<string>com.microsoft.powerbimobile.BGAppRefresh.refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24D70</string>
+	<string>24D81</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -80,7 +80,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>33.8</string>
+	<string>33.9</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -108,9 +108,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.2.250318.2140358</string>
+	<string>1.2.250327.2141896</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

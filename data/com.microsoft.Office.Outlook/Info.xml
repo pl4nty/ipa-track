@@ -630,7 +630,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2511.0</string>
+	<string>4.2512.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -717,9 +717,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>35523273</string>
+	<string>35722622</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -777,6 +777,8 @@
 			<string>mention-tapped</string>
 			<string>mention-long-pressed</string>
 		</array>
+		<key>isLifecycleSimulationDisabled</key>
+		<true/>
 	</dict>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
