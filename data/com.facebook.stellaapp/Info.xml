@@ -21,7 +21,7 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-03-24T22:42:51</string>
+	<string>2025-03-31T22:44:24</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleExecutable</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>211.0.0</string>
+	<string>212.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -78,9 +78,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>712957467</string>
+	<string>715948235</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>16E137</string>
 	<key>DTPlatformBuild</key>
 	<string>22C146</string>
 	<key>DTPlatformName</key>
@@ -96,23 +96,23 @@
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>211.0.0.36.169</string>
+	<string>212.0.0.27.165</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>712957467</integer>
+	<integer>715948235</integer>
 	<key>FBBuildRevision</key>
-	<string>f2ec6823d27a3562e820079926e6114717d4396b</string>
+	<string>e3a00cb247687ae2db61957059c10d79bb8fdb74</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1742854021.025200</string>
+	<string>1743457851.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1742856171</integer>
+	<integer>1743461064</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>211.0.0</string>
+	<string>212.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>

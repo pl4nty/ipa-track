@@ -12,11 +12,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Tue Mar 25 22:22:30 UTC 2025</string>
+		<string>Wed Apr  2 00:04:50 UTC 2025</string>
 		<key>SignalCommit</key>
-		<string>5c2770234ec7af0be932dab8321da654c58156ab Feature flags for .production.</string>
+		<string>518a1be8d679f5168f367e397726f9234cf26e19 Feature flags for .production.</string>
 		<key>Timestamp</key>
-		<integer>1742941350</integer>
+		<integer>1743552290</integer>
 		<key>XCodeVersion</key>
 		<string>1600.1620</string>
 	</dict>
@@ -178,7 +178,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.52</string>
+	<string>7.53</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -199,7 +199,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>692</string>
+	<string>703</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -241,20 +241,6 @@
 			<key>amazonaws.com</key>
 			<dict>
 				<key>NSIncludesSubdomains</key>
-				<true/>
-				<key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
-				<false/>
-			</dict>
-			<key>api-staging.backup.signal.org</key>
-			<dict>
-				<key>NSExceptionAllowsInsecureHTTPLoads</key>
-				<true/>
-				<key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
-				<false/>
-			</dict>
-			<key>api.backup.signal.org</key>
-			<dict>
-				<key>NSExceptionAllowsInsecureHTTPLoads</key>
 				<true/>
 				<key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
 				<false/>
