@@ -52,7 +52,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.22.0</string>
+	<string>7.23.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -73,7 +73,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.22.740525398</string>
+	<string>7.23.743346610</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -192,30 +192,6 @@
 	</array>
 	<key>UIAppFonts</key>
 	<array>
-		<string>MaterialRobotoFontLoader.bundle/Roboto-Black.ttf</string>
-		<string>MaterialRobotoFontLoader.bundle/Roboto-BlackItalic.ttf</string>
-		<string>MaterialRobotoFontLoader.bundle/Roboto-Bold.ttf</string>
-		<string>MaterialRobotoFontLoader.bundle/Roboto-BoldItalic.ttf</string>
-		<string>MaterialRobotoFontLoader.bundle/Roboto-Italic.ttf</string>
-		<string>MaterialRobotoFontLoader.bundle/Roboto-Light.ttf</string>
-		<string>MaterialRobotoFontLoader.bundle/Roboto-LightItalic.ttf</string>
-		<string>MaterialRobotoFontLoader.bundle/Roboto-Medium.ttf</string>
-		<string>MaterialRobotoFontLoader.bundle/Roboto-MediumItalic.ttf</string>
-		<string>MaterialRobotoFontLoader.bundle/Roboto-Regular.ttf</string>
-		<string>MaterialRobotoFontLoader.bundle/Roboto-Thin.ttf</string>
-		<string>MaterialRobotoFontLoader.bundle/Roboto-ThinItalic.ttf</string>
-		<string>Roboto-Black.ttf</string>
-		<string>Roboto-Bold.ttf</string>
-		<string>Roboto-Italic.ttf</string>
-		<string>Roboto-Regular.ttf</string>
-		<string>Roboto-Thin.ttf</string>
-		<string>Roboto-ThinItalic.ttf</string>
-		<string>RobotoCondensed-Bold.ttf</string>
-		<string>RobotoCondensed-BoldItalic.ttf</string>
-		<string>RobotoCondensed-Italic.ttf</string>
-		<string>RobotoCondensed-Regular.ttf</string>
-		<string>RobotoSlab-Bold.ttf</string>
-		<string>RobotoSlab-Regular.ttf</string>
 		<string>ProductSans-Regular.ttf</string>
 	</array>
 	<key>UIBackgroundModes</key>
