@@ -9,7 +9,7 @@
 	<key>BitwardenKeychainAccessGroup</key>
 	<string>LTZ2PFU5D6.com.8bit.bitwarden</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24C101</string>
+	<string>24D81</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -90,7 +90,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2025.2.0</string>
+	<string>2025.3.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -118,9 +118,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1974</string>
+	<string>2034</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7009</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
