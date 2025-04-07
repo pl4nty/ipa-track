@@ -14,6 +14,99 @@
 	<string>Opera</string>
 	<key>CFBundleIcons</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon 1</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 1</string>
+			</dict>
+			<key>AppIcon 10</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 10</string>
+			</dict>
+			<key>AppIcon 11</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 11</string>
+			</dict>
+			<key>AppIcon 12</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 12</string>
+			</dict>
+			<key>AppIcon 13</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 13</string>
+			</dict>
+			<key>AppIcon 14</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 14</string>
+			</dict>
+			<key>AppIcon 15</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 15</string>
+			</dict>
+			<key>AppIcon 16</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 16</string>
+			</dict>
+			<key>AppIcon 17</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 17</string>
+			</dict>
+			<key>AppIcon 18</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 18</string>
+			</dict>
+			<key>AppIcon 2</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 2</string>
+			</dict>
+			<key>AppIcon 3</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 3</string>
+			</dict>
+			<key>AppIcon 4</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 4</string>
+			</dict>
+			<key>AppIcon 5</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 5</string>
+			</dict>
+			<key>AppIcon 6</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 6</string>
+			</dict>
+			<key>AppIcon 7</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 7</string>
+			</dict>
+			<key>AppIcon 8</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 8</string>
+			</dict>
+			<key>AppIcon 9</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 9</string>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -26,6 +119,99 @@
 	</dict>
 	<key>CFBundleIcons~ipad</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon 1</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 1</string>
+			</dict>
+			<key>AppIcon 10</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 10</string>
+			</dict>
+			<key>AppIcon 11</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 11</string>
+			</dict>
+			<key>AppIcon 12</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 12</string>
+			</dict>
+			<key>AppIcon 13</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 13</string>
+			</dict>
+			<key>AppIcon 14</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 14</string>
+			</dict>
+			<key>AppIcon 15</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 15</string>
+			</dict>
+			<key>AppIcon 16</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 16</string>
+			</dict>
+			<key>AppIcon 17</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 17</string>
+			</dict>
+			<key>AppIcon 18</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 18</string>
+			</dict>
+			<key>AppIcon 2</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 2</string>
+			</dict>
+			<key>AppIcon 3</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 3</string>
+			</dict>
+			<key>AppIcon 4</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 4</string>
+			</dict>
+			<key>AppIcon 5</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 5</string>
+			</dict>
+			<key>AppIcon 6</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 6</string>
+			</dict>
+			<key>AppIcon 7</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 7</string>
+			</dict>
+			<key>AppIcon 8</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 8</string>
+			</dict>
+			<key>AppIcon 9</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon 9</string>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -46,7 +232,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.4.3</string>
+	<string>5.5.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -106,7 +292,7 @@
 	<key>CFBundleVersion</key>
 	<string>0</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
