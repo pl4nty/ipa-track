@@ -116,15 +116,13 @@
 		<string>zh_CN</string>
 		<string>zh_HK</string>
 		<string>zh_TW</string>
-		<string>en_XA</string>
-		<string>ar_XB</string>
 	</array>
 	<key>CFBundleName</key>
 	<string>Classroom</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.29.300035330</string>
+	<string>3.30.300035890</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -141,11 +139,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.29.737819600</string>
+	<string>3.30.743214121</string>
 	<key>CrashBackendEnvironment</key>
 	<string>production</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

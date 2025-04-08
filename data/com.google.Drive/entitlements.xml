@@ -30,6 +30,7 @@
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:client-side-encryption.google.com</string>
+		<string>applinks:krahsc.google.com</string>
 		<string>applinks:docs.google.com</string>
 		<string>applinks:drive.google.com</string>
 		<string>applinks:drive.app.goo.gl</string>
