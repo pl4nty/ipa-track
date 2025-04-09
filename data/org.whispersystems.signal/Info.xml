@@ -12,11 +12,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Wed Apr  2 00:04:50 UTC 2025</string>
+		<string>Mon Apr  7 17:39:48 UTC 2025</string>
 		<key>SignalCommit</key>
-		<string>518a1be8d679f5168f367e397726f9234cf26e19 Feature flags for .production.</string>
+		<string>8f42bd43fdef5fb2c26bd0b7c4ac73dce5930ca4 Use relativeString instead of relativePath</string>
 		<key>Timestamp</key>
-		<integer>1743552290</integer>
+		<integer>1744047588</integer>
 		<key>XCodeVersion</key>
 		<string>1600.1620</string>
 	</dict>
@@ -178,7 +178,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.53</string>
+	<string>7.53.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -199,7 +199,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>703</string>
+	<string>715</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>

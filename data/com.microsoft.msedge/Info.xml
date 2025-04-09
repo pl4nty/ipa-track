@@ -36,39 +36,53 @@
 		<dict>
 			<key>AppIcon-Beta</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>AppIcon-Beta60x60</string>
-				</array>
-				<key>UIPrerenderedIcon</key>
-				<false/>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Beta</string>
 			</dict>
 			<key>AppIcon-Canary</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>AppIcon-Canary60x60</string>
-				</array>
-				<key>UIPrerenderedIcon</key>
-				<false/>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Canary</string>
 			</dict>
 			<key>AppIcon-Dev</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>AppIcon-Dev60x60</string>
-				</array>
-				<key>UIPrerenderedIcon</key>
-				<false/>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Dev</string>
 			</dict>
-			<key>AppIcon-Dogfood</key>
+			<key>AppIcon-Icon1</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>AppIcon-Dogfood60x60</string>
-				</array>
-				<key>UIPrerenderedIcon</key>
-				<false/>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon1</string>
+			</dict>
+			<key>AppIcon-Icon2</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon2</string>
+			</dict>
+			<key>AppIcon-Icon3</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon3</string>
+			</dict>
+			<key>AppIcon-Icon4</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon4</string>
+			</dict>
+			<key>AppIcon-Icon5</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon5</string>
+			</dict>
+			<key>AppIcon-Icon6</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon6</string>
+			</dict>
+			<key>AppIcon-Icon7</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon7</string>
 			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
@@ -89,43 +103,53 @@
 		<dict>
 			<key>AppIcon-Beta</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>AppIcon-Beta76x76</string>
-					<string>AppIcon-Beta83.5x83.5</string>
-				</array>
-				<key>UIPrerenderedIcon</key>
-				<false/>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Beta</string>
 			</dict>
 			<key>AppIcon-Canary</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>AppIcon-Canary76x76</string>
-					<string>AppIcon-Canary83.5x83.5</string>
-				</array>
-				<key>UIPrerenderedIcon</key>
-				<false/>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Canary</string>
 			</dict>
 			<key>AppIcon-Dev</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>AppIcon-Dev76x76</string>
-					<string>AppIcon-Dev83.5x83.5</string>
-				</array>
-				<key>UIPrerenderedIcon</key>
-				<false/>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Dev</string>
 			</dict>
-			<key>AppIcon-Dogfood</key>
+			<key>AppIcon-Icon1</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>AppIcon-Dogfood76x76</string>
-					<string>AppIcon-Dogfood83.5x83.5</string>
-				</array>
-				<key>UIPrerenderedIcon</key>
-				<false/>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon1</string>
+			</dict>
+			<key>AppIcon-Icon2</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon2</string>
+			</dict>
+			<key>AppIcon-Icon3</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon3</string>
+			</dict>
+			<key>AppIcon-Icon4</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon4</string>
+			</dict>
+			<key>AppIcon-Icon5</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon5</string>
+			</dict>
+			<key>AppIcon-Icon6</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon6</string>
+			</dict>
+			<key>AppIcon-Icon7</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon7</string>
 			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
@@ -145,12 +169,20 @@
 	<string>com.microsoft.msedge</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>ja</string>
+		<string>ko</string>
+		<string>zh_CN</string>
+		<string>zh_TW</string>
+	</array>
 	<key>CFBundleName</key>
 	<string>Edge</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>134.3124.95</string>
+	<string>135.3179.54</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -206,7 +238,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>134.0.3124.95</string>
+	<string>135.0.3179.54</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -230,7 +262,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Edge</string>
 	<key>GTMUserAgentVersion</key>
-	<string>134.0.3124.95</string>
+	<string>135.0.3179.54</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>ADALClientId</key>
@@ -344,8 +376,10 @@
 		<string>SearchInChromeIntent</string>
 		<string>OpenEdgeCopilotIntent</string>
 	</array>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>IDS_IOS_EDGE_USER_TRACKING_USAGE_DESCRIPTION</string>
 	<key>SCMRevision</key>
-	<string>92cd2f8e466e48366ad6ba96f77e190cddb68907</string>
+	<string>c435295f8c13eceb13116deca49ed9a3fd77378f</string>
 	<key>SSOAuthURLScheme</key>
 	<string>x-msauth-microsoft-edge-https</string>
 	<key>UIApplicationDelegate</key>
