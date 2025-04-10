@@ -299,7 +299,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>137.0</string>
+	<string>137.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -321,7 +321,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>52703</string>
+	<string>53321</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
@@ -455,14 +455,6 @@
 			<string>New Private Tab</string>
 			<key>UIApplicationShortcutItemType</key>
 			<string>org.mozilla.ios.Firefox.NewPrivateTab</string>
-		</dict>
-		<dict>
-			<key>UIApplicationShortcutItemIconFile</key>
-			<string>qrCodeLarge</string>
-			<key>UIApplicationShortcutItemTitle</key>
-			<string>Scan QR Code</string>
-			<key>UIApplicationShortcutItemType</key>
-			<string>org.mozilla.ios.Firefox.QRCode</string>
 		</dict>
 	</array>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
