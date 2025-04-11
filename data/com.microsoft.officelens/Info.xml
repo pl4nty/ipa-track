@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24D70</string>
+	<string>24D81</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -44,7 +44,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.94.1</string>
+	<string>2.96.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -71,9 +71,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.94.25030411</string>
+	<string>2.96.25040141</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7009</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -104,7 +104,7 @@
 		<string>ms-outlook-accepts-attachments</string>
 		<string>ms-delve</string>
 		<string>ms-visio</string>
-		<string>opal</string>
+		<string>sapphirebing</string>
 		<string>excel</string>
 		<string>ms-outlook</string>
 		<string>msteams</string>
@@ -154,7 +154,7 @@
 		<string>ms-powerpoint</string>
 		<string>ms-outlook-accepts-attachments</string>
 		<string>ms-delve</string>
-		<string>opal</string>
+		<string>sapphirebing</string>
 		<string>excel</string>
 		<string>launch-loop</string>
 		<string>lync</string>
@@ -179,7 +179,7 @@
 		<string>microsoft-edge-http-intunemam</string>
 		<string>companyportal</string>
 		<string>ms-officemobile</string>
-		<string>sapphire</string>
+		<string>sapphirecopilot</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -205,7 +205,7 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>This app needs access to the photo library to save and import images of your documents.</string>
 	<key>OfficeLegacyVersion</key>
-	<string>2.94.304.1</string>
+	<string>2.96.401.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

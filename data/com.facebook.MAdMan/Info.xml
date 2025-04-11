@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.MAdMan</string>
 	<key>CFBuildDate</key>
-	<string>2025-04-08T15:04:23</string>
+	<string>2025-04-09T19:15:29</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>421.3</string>
+	<string>422.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -63,7 +63,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>719258340</string>
+	<string>719763012</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTPlatformBuild</key>
@@ -81,19 +81,19 @@
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>421.3.0.77.108</string>
+	<string>422.0.0.67.108</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>719258340</integer>
+	<integer>719763012</integer>
 	<key>FBBuildRevision</key>
-	<string>86204c067a43a2a3033e3357097a089518359017</string>
+	<string>a56d5988b725f1d8224b65b6f64c638426190da9</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1744122803.025200</string>
+	<string>1744222258.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1744124663</integer>
+	<integer>1744226129</integer>
 	<key>FBCWAnalyticsModule</key>
 	<string>mobile_ads_manager</string>
 	<key>FBCWAppBugReportCategory</key>
@@ -115,7 +115,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>421.3</string>
+	<string>422.0</string>
 	<key>FBReactUpdatesNotificationEnabled</key>
 	<string>NO</string>
 	<key>FacebookAppID</key>
@@ -182,6 +182,9 @@
 		<string>Optimistic_Text_A_Bd.ttf</string>
 		<string>Optimistic_Text_A_Md.ttf</string>
 		<string>Optimistic_Text_A_Rg.ttf</string>
+		<string>Optimistic_A_Bold95.ttf</string>
+		<string>Optimistic_A_Medium95.ttf</string>
+		<string>Optimistic_A_Regular95.ttf</string>
 	</array>
 	<key>UIBackgroundModes</key>
 	<array>
