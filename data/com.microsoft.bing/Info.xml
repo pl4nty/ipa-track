@@ -13,7 +13,7 @@
 	<key>BING_MAPS_KEY</key>
 	<string>AnG6pvmlxuPe85X7PEFJ7EP18DKkpcwTxTvIz7T-7j-TMGstR4CwHr1SRtCWY1CZ</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24C101</string>
+	<string>24D81</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>31.2.430402003</string>
+	<string>31.3.430410002</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -110,7 +110,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430402003</string>
+	<string>430410002</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -290,6 +290,8 @@
 		<string>https://api.webxtsvc.microsoft.com/mswallet/buynow/v1</string>
 		<key>feebackBaseURL</key>
 		<string>https://petrol.office.microsoft.com</string>
+		<key>pagesURL</key>
+		<string>https://copilot.microsoft.com/pages</string>
 		<key>rewardsURL</key>
 		<string>https://prod.rewardsplatform.microsoft.com</string>
 		<key>streamURL</key>
