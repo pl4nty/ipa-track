@@ -42,7 +42,7 @@
 		<string>com.goodnotesapp.x.sync</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24B2083</string>
+	<string>24C101</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -218,7 +218,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.6.24</string>
+	<string>6.6.26</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -271,17 +271,19 @@
 				<string>msauth.com.goodnotesapp.x</string>
 				<string>msauth.com.goodnotesapp.x-intunemam</string>
 				<string>msauth.com.microsoft.intunemam</string>
+				<string>msauth.com.microsoft.intunemam-intunemam</string>
 			</array>
 		</dict>
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>msauth.com.goodnotesapp.x</string>
+				<string>msauth.com.goodnotesapp.x-intunemam</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3151278.166408538</string>
+	<string>3170177.210761024</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -333,7 +335,7 @@
 		</array>
 	</dict>
 	<key>LANGUAGES_RESOURCES_PREFIX</key>
-	<string>language_resources_20250106_</string>
+	<string>language_resources_20250407_</string>
 	<key>LEGACY_SHARE_LINK_HOST</key>
 	<string>share.goodnotes.com</string>
 	<key>LSApplicationQueriesSchemes</key>
@@ -352,6 +354,7 @@
 		<string>https</string>
 		<string>https-intunemam</string>
 		<string>msauthv2</string>
+		<string>intunemam-mtd</string>
 		<string>wandera</string>
 		<string>betteractiveshield</string>
 		<string>msauthv3</string>
@@ -368,6 +371,8 @@
 		<string>dbapi-8-emm</string>
 		<string>dbapi-8-emm-intunemam</string>
 	</array>
+	<key>LSBundleContainsCoreMLmlmodelc</key>
+	<true/>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>LSSupportsOpeningDocumentsInPlace</key>
@@ -868,7 +873,7 @@
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>6.6.24
+		<string>6.6.26
 </string>
 	</dict>
 </dict>
