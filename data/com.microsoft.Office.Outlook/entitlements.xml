@@ -41,6 +41,7 @@
 		<string>SGGM6D27TK.com.microsoft.mfa.accounts.shared.group</string>
 		<string>SGGM6D27TK.com.microsoft.workplacejoin.v2</string>
 		<string>com.apple.token</string>
+		<string>SGGM6D27TK.com.microsoft.azureauthenticator.msa</string>
 	</array>
 	<key>com.apple.developer.mail-client</key>
 	<true/>

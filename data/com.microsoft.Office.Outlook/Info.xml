@@ -630,7 +630,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2513.1</string>
+	<string>4.2514.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -717,7 +717,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>36014211</string>
+	<string>36087690</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -827,6 +827,7 @@
 		<string>linkedin-intunemam</string>
 		<string>msauthv2</string>
 		<string>intunemam-mtd</string>
+		<string>msa-devicekey-share</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>

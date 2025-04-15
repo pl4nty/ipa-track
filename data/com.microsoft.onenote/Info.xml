@@ -9,7 +9,7 @@
 		<string>com.microsoft.onenote.backgroundFetchTask</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24D70</string>
+	<string>24D81</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -531,6 +531,8 @@
 			</array>
 			<key>CFBundleIconName</key>
 			<string>AppIcon</string>
+			<key>NSAppIconActionTintColorName</key>
+			<string>ONIAppShortcutIconColor</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -576,7 +578,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>16.95</string>
+	<string>16.96</string>
 	<key>CFBundleSignature</key>
 	<string>MSON</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -607,9 +609,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>16095000.25030522</string>
+	<string>16096000.25040710</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7009</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -761,7 +763,7 @@
 	<key>MSOfeedbackPhoneAppID</key>
 	<string>248</string>
 	<key>MicrosoftExtendedBuildNumber</key>
-	<string>16.95/250305</string>
+	<string>16.96/250407</string>
 	<key>MinimumOSVersion</key>
 	<string>17.0</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
@@ -789,7 +791,7 @@
 		<string>com.microsoft.onenote.viewing-page</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>16.95.305.0</string>
+	<string>16.96.407.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
