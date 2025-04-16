@@ -84,7 +84,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2025.7.1</string>
+	<string>2025.8</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -117,17 +117,9 @@
 				<string>com.googleusercontent.apps.28300235456-38jg23ondpn6b26ldm68davuqij4tkl4</string>
 			</array>
 		</dict>
-		<dict>
-			<key>CFBundleTypeRole</key>
-			<string>Editor</string>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>appcenter-633e6d51-bf34-4bb9-a7c4-8db726e48bc2</string>
-			</array>
-		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20250401.222523</string>
+	<string>20250411.224210</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -180,6 +172,8 @@
 	<true/>
 	<key>MinimumOSVersion</key>
 	<string>17.0</string>
+	<key>NSAccentColorName</key>
+	<string>AccentColor</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSExceptionDomains</key>

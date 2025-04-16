@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>23H420</string>
+	<string>24D81</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -82,7 +82,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.10.68</string>
+	<string>8.10.70</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -123,9 +123,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>81068014</string>
+	<string>81070027</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -165,6 +165,8 @@
 		<string>ComplicationWidgetIntent</string>
 		<string>com.1password.1password.handoff.item</string>
 	</array>
+	<key>OPBundleVersionFull</key>
+	<string>8.10.70</string>
 	<key>SFSafariCorrespondingMacOSAppBundleIdentifier</key>
 	<string>com.1password.safari</string>
 	<key>UIApplicationSceneManifest</key>
