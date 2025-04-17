@@ -21,26 +21,7 @@
 			<string>Default</string>
 			<key>LSItemContentTypes</key>
 			<array>
-				<string>public.text</string>
-				<string>public.image</string>
-				<string>public.presentation</string>
-				<string>com.adobe.pdf</string>
-				<string>com.apple.keynote.key</string>
-				<string>com.apple.iwork.keynote.key</string>
-				<string>com.apple.iwork.keynote.kth</string>
-				<string>com.apple.numbers.numbers</string>
-				<string>com.apple.iwork.numbers.numbers</string>
-				<string>com.apple.iwork.numbers.template</string>
-				<string>com.apple.page.pages</string>
-				<string>com.apple.iwork.pages.pages</string>
-				<string>com.apple.iwork.pages.template</string>
-				<string>com.microsoft.word.doc</string>
-				<string>com.microsoft.word.wordml</string>
-				<string>com.microsoft.excel.xls</string>
-				<string>com.microsoft.powerpoint.​ppt</string>
-				<string>org.openxmlformats.wordprocessingml.document</string>
-				<string>org.openxmlformats.spreadsheetml.sheet</string>
-				<string>org.openxmlformats.presentationml.presentation</string>
+				<string>public.data</string>
 			</array>
 		</dict>
 	</array>
@@ -87,7 +68,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.4.3</string>
+	<string>6.4.5</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -97,6 +78,8 @@
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
 			<key>CFBundleURLName</key>
 			<string>us.zoom.videomeetings</string>
 			<key>CFBundleURLSchemes</key>
@@ -104,11 +87,12 @@
 				<string>zoomus</string>
 				<string>zoomphonecall</string>
 				<string>zoomphonesms</string>
+				<string>im</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>23526</string>
+	<string>24064</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -271,5 +255,28 @@
 	<true/>
 	<key>ZM_APP_GROUPS_IDENTIFIER</key>
 	<string>group.us.zoom</string>
+	<key>ZM_MEETING_SHARE_3RD_FILE_TYPES</key>
+	<array>
+		<string>public.text</string>
+		<string>public.image</string>
+		<string>public.presentation</string>
+		<string>com.adobe.pdf</string>
+		<string>com.apple.keynote.key</string>
+		<string>com.apple.iwork.keynote.key</string>
+		<string>com.apple.iwork.keynote.kth</string>
+		<string>com.apple.numbers.numbers</string>
+		<string>com.apple.iwork.numbers.numbers</string>
+		<string>com.apple.iwork.numbers.template</string>
+		<string>com.apple.page.pages</string>
+		<string>com.apple.iwork.pages.pages</string>
+		<string>com.apple.iwork.pages.template</string>
+		<string>com.microsoft.word.doc</string>
+		<string>com.microsoft.word.wordml</string>
+		<string>com.microsoft.excel.xls</string>
+		<string>com.microsoft.powerpoint.​ppt</string>
+		<string>org.openxmlformats.wordprocessingml.document</string>
+		<string>org.openxmlformats.spreadsheetml.sheet</string>
+		<string>org.openxmlformats.presentationml.presentation</string>
+	</array>
 </dict>
 </plist>
