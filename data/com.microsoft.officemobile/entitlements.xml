@@ -48,6 +48,8 @@
 		<string>applinks:print.print-next.microsoft.com</string>
 		<string>applinks:print.print-ppe.microsoft.com</string>
 		<string>applinks:print.print.azure.us</string>
+		<string>applinks:print.print-dod.azure.us</string>
+		<string>applinks:www.microsoft365.com</string>
 		<string>webcredentials:login.microsoftonline.com</string>
 		<string>webcredentials:login.partner.microsoftonline.cn</string>
 		<string>webcredentials:login.microsoftonline.us</string>

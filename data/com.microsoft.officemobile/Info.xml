@@ -689,7 +689,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.95.3</string>
+	<string>2.96</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -784,7 +784,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.95.25032614</string>
+	<string>2.96.25041112</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -818,6 +818,17 @@
 		<key>DocsUISettingsHelpProductVersionForIPhone</key>
 		<string>90</string>
 	</dict>
+	<key>INAlternativeAppNames</key>
+	<array>
+		<dict>
+			<key>INAlternativeAppName</key>
+			<string>Copilot</string>
+		</dict>
+		<dict>
+			<key>INAlternativeAppName</key>
+			<string>Microsoft 365 Copilot</string>
+		</dict>
+	</array>
 	<key>InTuneMAMLSApplicationQueriesSchemes</key>
 	<array>
 		<string>dbapi-2</string>
@@ -998,7 +1009,7 @@
 	<key>NSUserTrackingUsageDescription</key>
 	<string>Your data will be used to deliver personalised ads to you.</string>
 	<key>OfficeLegacyVersion</key>
-	<string>2.95.326.3</string>
+	<string>2.96.411.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
