@@ -74,6 +74,7 @@
 		<string>applinks:teams.microsoftonline.cn</string>
 		<string>webcredentials:login.partner.microsoftonline.cn</string>
 		<string>applinks:krs.microsoft.com</string>
+		<string>applinks:teams.cloud.microsoft</string>
 	</array>
 	<key>com.apple.developer.networking.wifi-info</key>
 	<true/>

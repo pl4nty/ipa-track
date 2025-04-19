@@ -5,13 +5,13 @@
 	<key>AXPApplicationGroupIdentifier</key>
 	<string>group.com.microsoft.skype.teams</string>
 	<key>AppBuildDate</key>
-	<string>0407</string>
+	<string>0416</string>
 	<key>AppCenterAppDelegateForwarderEnabled</key>
 	<string>0</string>
 	<key>AppIdentifierPrefix</key>
 	<string>SGGM6D27TK.</string>
 	<key>AppVersionWithBuildInfo</key>
-	<string>1.077.2025063501</string>
+	<string>1.077.2025073002</string>
 	<key>BuildMachineOSBuild</key>
 	<string>24D70</string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.6.2</string>
+	<string>7.7.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -111,25 +111,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>100772025063501</string>
+	<string>100772025073002</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>21F77</string>
+	<string>22C146</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>17.5</string>
+	<string>18.2</string>
 	<key>DTSDKBuild</key>
-	<string>21F77</string>
+	<string>22C146</string>
 	<key>DTSDKName</key>
-	<string>iphoneos17.5</string>
+	<string>iphoneos18.2</string>
 	<key>DTXcode</key>
-	<string>1540</string>
+	<string>1620</string>
 	<key>DTXcodeBuild</key>
-	<string>15F31d</string>
+	<string>16C5032a</string>
 	<key>GIDClientID</key>
 	<string>445112211283-i3tvsbc5dhp3p0n5co5c1in6ih4v23un.apps.googleusercontent.com</string>
 	<key>GIDServerClientID</key>
