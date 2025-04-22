@@ -353,7 +353,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.96</string>
+	<string>2.96.1</string>
 	<key>CFBundleSignature</key>
 	<string>PPT3</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -408,7 +408,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.96.25041112</string>
+	<string>2.96.25041812</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -633,7 +633,7 @@
 		<string>com.microsoft.powerpoint.executesearch-dogfood</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>2.96.411.0</string>
+	<string>2.96.418.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

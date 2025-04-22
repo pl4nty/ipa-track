@@ -10,7 +10,7 @@
 		<string>36f046b223bad2ff273360762b4bca68</string>
 	</dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24C101</string>
+	<string>24E248</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -51,7 +51,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.86.0</string>
+	<string>4.87.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -92,7 +92,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.86.0.1165.1</string>
+	<string>4.87.0.1184.1</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -130,7 +130,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>15.0</string>
+	<string>16.0</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
 	<string>Use Bluetooth with Duo Desktop on your computer to autofill verification codes</string>
 	<key>NSCameraUsageDescription</key>

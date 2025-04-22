@@ -19,7 +19,7 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBuildDate</key>
-	<string>2025-04-15T08:23:11</string>
+	<string>2025-04-20T23:07:43</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>509.0.0</string>
+	<string>510.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -113,7 +113,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>721998097</string>
+	<string>724276253</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTPlatformBuild</key>
@@ -131,25 +131,25 @@
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>509.0.0.52.94</string>
+	<string>510.0.0.38.93</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>721998097</integer>
+	<integer>724276253</integer>
 	<key>FBBuildRevision</key>
-	<string>def76afc246eb8bfcce4fa2c5b1c2e78bc6de912</string>
+	<string>c5600adca4bd1ab3595e7bf759095d26b9776c88</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1744703425.025200</string>
+	<string>1745188683.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1744705391</integer>
+	<integer>1745190463</integer>
 	<key>FBJSBundleRoot</key>
 	<string>EntryPoints/WildeBundle</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>509.0.0</string>
+	<string>510.0.0</string>
 	<key>FBSearchAppSpecificConfig</key>
 	<string>FBSearchWildeAppSpecificConfig</string>
 	<key>FacebookAppID</key>
@@ -169,67 +169,68 @@
 		<string>fb-pma</string>
 		<string>line</string>
 		<string>snapchat</string>
+		<string>com.amazon.mobile.map.3psso</string>
 		<string>fb-biz</string>
 		<string>comgooglemaps</string>
 		<string>waze</string>
 		<string>fb1779658199047189</string>
 		<string>fb312563225523989</string>
 		<string>fb709376360216583</string>
-		<string>fb426786581540674</string>
-		<string>fb894703657238109</string>
-		<string>fb182809591793403</string>
 		<string>fb414796964699887</string>
+		<string>turbotax</string>
 		<string>vrbo</string>
-		<string>rocketmoney</string>
-		<string>fb891889767495675</string>
+		<string>fb182809591793403</string>
+		<string>fb894703657238109</string>
 		<string>fb410181193191942</string>
+		<string>fb426786581540674</string>
 		<string>fb608495662880177</string>
-		<string>fb269151666914010</string>
-		<string>fb174103646072524</string>
-		<string>fb565174839280642</string>
-		<string>fb516459850770447</string>
-		<string>fb1411045516218795</string>
-		<string>fb1470245623619022</string>
-		<string>fb166363243399924</string>
-		<string>fb551625605554229</string>
-		<string>fb1023560685845135</string>
 		<string>fb841338400525592</string>
+		<string>fb891889767495675</string>
+		<string>fb565174839280642</string>
+		<string>fb174103646072524</string>
+		<string>fb166363243399924</string>
+		<string>rocketmoney</string>
+		<string>fb551625605554229</string>
 		<string>fb124207444332529</string>
+		<string>fb1023560685845135</string>
 		<string>fb3284555318463805</string>
+		<string>fb1470245623619022</string>
+		<string>fb516459850770447</string>
+		<string>fb269151666914010</string>
+		<string>com.googleusercontent.apps.571975861600-jrkks5b15s5mr7mhqarlg4e91huerf5l</string>
 		<string>fb597615686992125</string>
-		<string>dksb</string>
-		<string>fb1246677086535218</string>
-		<string>fb1035527333163978</string>
-		<string>apples6505095234</string>
-		<string>fb991818938050668</string>
-		<string>playpickshub</string>
-		<string>fb512030275555616</string>
-		<string>fb922007509851618</string>
-		<string>fb2673921099381214</string>
-		<string>fb706056846556355</string>
-		<string>fb1055885851158192</string>
-		<string>fb161319903648</string>
-		<string>fb277638822572073</string>
-		<string>fb2328240260794422</string>
-		<string>fb210831918949520</string>
-		<string>wayfairapp</string>
-		<string>fb503934352950298</string>
-		<string>fb1923291651293408</string>
-		<string>fb1427615667454320</string>
-		<string>fb1049729741852134</string>
-		<string>duet</string>
-		<string>fb1250647258936050</string>
-		<string>fb428250913904849</string>
-		<string>fb1222123985060415</string>
-		<string>fb3885639978341306</string>
 		<string>fb1839011602994843</string>
-		<string>fb1791105821059748</string>
-		<string>fb2303380839957579</string>
+		<string>fb1411045516218795</string>
+		<string>wayfairapp</string>
+		<string>apples6505095234</string>
+		<string>fb512030275555616</string>
+		<string>fb1035527333163978</string>
+		<string>playpickshub</string>
+		<string>fb1055885851158192</string>
+		<string>fb604425153801157</string>
+		<string>dksb</string>
+		<string>fb503934352950298</string>
+		<string>fb161319903648</string>
 		<string>slotomania</string>
-		<string>fb737229396381522</string>
-		<string>fb356472188587810</string>
+		<string>fb1528052015256817</string>
+		<string>fb2021341544988359</string>
+		<string>fb2328240260794422</string>
+		<string>duet</string>
+		<string>fb277638822572073</string>
+		<string>invinciblepromotests</string>
+		<string>fb1049729741852134</string>
+		<string>fb1250647258936050</string>
 		<string>fb141987249766567</string>
-		<string>fb462596768972930</string>
+		<string>dkcs</string>
+		<string>fb1791105821059748</string>
+		<string>fb1155010764702324</string>
+		<string>fb706056846556355</string>
+		<string>waymo</string>
+		<string>fb1549401105718987</string>
+		<string>fb2303380839957579</string>
+		<string>fb153277661752118</string>
+		<string>fb285025889266955</string>
+		<string>ubereats</string>
 		<string>http</string>
 		<string>https</string>
 	</array>
@@ -387,6 +388,7 @@ You can always change this in your device settings.</string>
 	<string>UIStatusBarStyleLightContent</string>
 	<key>UISupportedExternalAccessoryProtocols</key>
 	<array>
+		<string>com.meta.ar.wearable</string>
 		<string>com.facebook.stella</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>

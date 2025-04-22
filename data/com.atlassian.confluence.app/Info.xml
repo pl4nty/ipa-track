@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.10.4</string>
+	<string>4.11.4</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -68,9 +68,17 @@
 				<string>exp+confluence-rn</string>
 			</array>
 		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>confluence</string>
+			</array>
+		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7</string>
+	<string>10</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -94,6 +102,11 @@
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>microsoft-edge-https</string>
+		<string>jira</string>
+		<string>jira-server</string>
+		<string>confluence-server</string>
+		<string>trello</string>
+		<string>OpsGenie</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
