@@ -21,6 +21,7 @@
 			<string>Alternate</string>
 			<key>LSItemContentTypes</key>
 			<array>
+				<string>public.heic</string>
 				<string>public.jpeg</string>
 				<string>public.png</string>
 				<string>public.jpg</string>
@@ -325,7 +326,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>430415002.30.0</string>
+	<string>430423003.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -348,7 +349,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430415002</string>
+	<string>430423003</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -374,6 +375,8 @@
 		<string>ms-officemobile</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<true/>
 	<key>MinimumOSVersion</key>
 	<string>16.0</string>
