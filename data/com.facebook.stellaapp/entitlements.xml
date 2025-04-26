@@ -21,6 +21,9 @@
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:facebook.com</string>
+		<string>applinks:meta.ai</string>
+		<string>applinks:www.meta.ai</string>
+		<string>applinks:m.meta.ai</string>
 		<string>webcredentials:www.facebook.com</string>
 		<string>webcredentials:m.facebook.com</string>
 		<string>webcredentials:facebook.com</string>
