@@ -70,31 +70,6 @@
 				<key>CFBundleIconName</key>
 				<string>AppIcon_Alt_DarkPurple</string>
 			</dict>
-			<key>AppIcon_Alt_Drawn_Hug</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_Drawn_Hug</string>
-			</dict>
-			<key>AppIcon_Alt_Drawn_Lazy</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_Drawn_Lazy</string>
-			</dict>
-			<key>AppIcon_Alt_Drawn_Pixelated</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_Drawn_Pixelated</string>
-			</dict>
-			<key>AppIcon_Alt_Drawn_Pride</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_Drawn_Pride</string>
-			</dict>
-			<key>AppIcon_Alt_Drawn_Retro</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_Drawn_Retro</string>
-			</dict>
 			<key>AppIcon_Alt_Gradient_BlueHour</key>
 			<dict>
 				<key>CFBundleIconName</key>
@@ -205,31 +180,6 @@
 				<key>CFBundleIconName</key>
 				<string>AppIcon_Alt_DarkPurple</string>
 			</dict>
-			<key>AppIcon_Alt_Drawn_Hug</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_Drawn_Hug</string>
-			</dict>
-			<key>AppIcon_Alt_Drawn_Lazy</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_Drawn_Lazy</string>
-			</dict>
-			<key>AppIcon_Alt_Drawn_Pixelated</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_Drawn_Pixelated</string>
-			</dict>
-			<key>AppIcon_Alt_Drawn_Pride</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_Drawn_Pride</string>
-			</dict>
-			<key>AppIcon_Alt_Drawn_Retro</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_Alt_Drawn_Retro</string>
-			</dict>
 			<key>AppIcon_Alt_Gradient_BlueHour</key>
 			<dict>
 				<key>CFBundleIconName</key>
@@ -299,7 +249,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>137.2</string>
+	<string>138.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -321,7 +271,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>53903</string>
+	<string>54110</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>

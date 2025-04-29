@@ -42,7 +42,7 @@
 		<string>com.goodnotesapp.x.sync</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24C101</string>
+	<string>24B2083</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -218,7 +218,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.6.33</string>
+	<string>6.6.36</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -283,7 +283,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3187577.217551951</string>
+	<string>3187666.69025450</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -873,7 +873,7 @@
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>6.6.33
+		<string>6.6.36
 </string>
 	</dict>
 </dict>

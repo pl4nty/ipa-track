@@ -148,7 +148,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.12.73</string>
+	<string>25.13.74</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -172,7 +172,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>723575569</string>
+	<string>726516642</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTPlatformBuild</key>
@@ -192,7 +192,7 @@
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>723575569</string>
+	<string>726516642</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
@@ -292,6 +292,7 @@
 	<key>UIAppFonts</key>
 	<array>
 		<string>WhatsAppPaymentsIcons.ttf</string>
+		<string>Optimistic_VF_App_Lite.ttf</string>
 	</array>
 	<key>UIBackgroundModes</key>
 	<array>
