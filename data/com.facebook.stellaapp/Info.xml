@@ -21,11 +21,11 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-04-22T20:00:54</string>
+	<string>2025-04-28T02:22:28</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleExecutable</key>
-	<string>MetaView</string>
+	<string>MetaAI</string>
 	<key>CFBundleIcons</key>
 	<dict>
 		<key>CFBundlePrimaryIcon</key>
@@ -56,11 +56,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Meta View</string>
+	<string>Meta AI</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>216.0.0</string>
+	<string>217.0.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -78,7 +78,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>725048328</string>
+	<string>727350823</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTPlatformBuild</key>
@@ -96,23 +96,23 @@
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>216.0.0.48.169</string>
+	<string>217.0.1.56.169</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>725048328</integer>
+	<integer>727350823</integer>
 	<key>FBBuildRevision</key>
-	<string>2d08580233e4539497af5a565574302e20b7d8cb</string>
+	<string>7520b6de62444dec4ea0ec8ec9639050a5a4c6e0</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1745349452.025200</string>
+	<string>1745802803.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1745352054</integer>
+	<integer>1745806948</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>216.0.0</string>
+	<string>217.0.1</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -150,7 +150,7 @@
 	<key>MinimumOSVersion</key>
 	<string>15.2</string>
 	<key>NSAppleMusicUsageDescription</key>
-	<string>Meta View uses your Apple Music account to access and play music on your glasses.</string>
+	<string>Meta AI uses your Apple Music account to access and play music on your glasses.</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
 	<string>This allows your phone to find and connect to the glasses using a Bluetooth connection.</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
@@ -160,13 +160,13 @@
 		<string>_bonjour._tcp</string>
 	</array>
 	<key>NSCalendarsFullAccessUsageDescription</key>
-	<string>Meta View would like to access your Calendar Events.</string>
+	<string>Meta AI would like to access your Calendar Events.</string>
 	<key>NSCalendarsUsageDescription</key>
 	<string>This gives you access to the calendars that stores reminders with your glasses.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>This lets you save to your camera roll, and enables other features for photos and videos.</string>
 	<key>NSContactsUsageDescription</key>
-	<string>View will need access to make calls and send texts.</string>
+	<string>Meta AI will need access to make calls and send texts.</string>
 	<key>NSLocalNetworkUsageDescription</key>
 	<string>This allows your phone to find and connect to your glasses over Wi-Fi.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
@@ -174,9 +174,9 @@
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Location access is required to discover and connect to your glasses on Wi-Fi networks and help some location features work.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>This allows you to use your device's microphone to record videos with sound.</string>
+	<string>This allows you to talk to Meta AI and ask questions using your voice.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>This will let Meta View save captures to your phone's Photos app.</string>
+	<string>This will let Meta AI save captures to your phone's Photos app.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>This allows the app to save media to your phone's camera roll by creating and accessing a Ray-Ban Stories album.</string>
 	<key>NSRemindersUsageDescription</key>

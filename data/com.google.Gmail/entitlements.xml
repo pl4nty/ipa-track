@@ -18,6 +18,7 @@
 	<array>
 		<string>EQHXZ8M8AV.com.google.Gmail</string>
 		<string>EQHXZ8M8AV.com.google.common.SSO</string>
+		<string>EQHXZ8M8AV.com.google.common.folsom</string>
 		<string>EQHXZ8M8AV.com.google.gmail.notifications</string>
 	</array>
 	<key>com.apple.developer.usernotifications.time-sensitive</key>
