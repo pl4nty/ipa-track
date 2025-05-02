@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>9.38.0</string>
+	<string>9.40.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -66,8 +66,6 @@
 			<string>com.okta.ios.verify.scheme</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>pendo-fff64c0d</string>
-				<string>pendo-882fa741</string>
 				<string>oktav</string>
 				<string>oktaverify</string>
 				<string>otpauth</string>
@@ -75,9 +73,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2025.321.1650</string>
+	<string>2025.417.2016</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
