@@ -390,7 +390,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>277.0</string>
+	<string>278.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -410,7 +410,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>76383</string>
+	<string>76799</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -433,14 +433,22 @@
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
+		<string>at</string>
+		<string>asana</string>
+		<string>bestbuy</string>
+		<string>bluesky</string>
+		<string>bsky</string>
 		<string>discordconnect</string>
+		<string>fb</string>
 		<string>fb-messenger</string>
 		<string>googlechrome</string>
 		<string>googlechrome-x-callback</string>
 		<string>googlegmail</string>
+		<string>homedepot</string>
 		<string>instagram</string>
 		<string>itms-apps</string>
 		<string>line</string>
+		<string>notion</string>
 		<string>org-appextension-feature-password-management</string>
 		<string>photos-redirect</string>
 		<string>spotify</string>
@@ -452,9 +460,6 @@
 		<string>whatsapp</string>
 		<string>youtube</string>
 		<string>xbox</string>
-		<string>bsky</string>
-		<string>bluesky</string>
-		<string>at</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -498,7 +503,7 @@
 	<key>RELEASE_CHANNEL</key>
 	<string>ptb</string>
 	<key>SENTRY_RELEASE</key>
-	<string>discord_ios@277.0.76383+76383</string>
+	<string>discord_ios@278.0.76799+76799</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>abcgintonord-800-extrabold.ttf</string>
