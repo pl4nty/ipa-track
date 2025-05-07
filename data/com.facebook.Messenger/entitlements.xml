@@ -9,8 +9,6 @@
 		<string>iCloud.com.facebook.Messenger</string>
 		<string>iCloud.com.facebook.Messenger.encryptedBackups</string>
 	</array>
-	<key>com.apple.developer.pushkit.unrestricted-voip</key>
-	<true/>
 	<key>com.apple.developer.avfoundation.multitasking-camera-access</key>
 	<true/>
 	<key>application-identifier</key>
