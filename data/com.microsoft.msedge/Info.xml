@@ -6,11 +6,10 @@
 	<array>
 		<string>com.microsoft.msedge.sync-processing-task</string>
 		<string>com.microsoft.msedge.refresh-task</string>
-		<string>chrome.feed.refresh</string>
 		<string>chrome.app.refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>23H222</string>
+	<string>23H527</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -182,7 +181,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>135.3179.98</string>
+	<string>136.3240.61</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -238,7 +237,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>135.0.3179.98</string>
+	<string>136.0.3240.61</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -262,7 +261,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Edge</string>
 	<key>GTMUserAgentVersion</key>
-	<string>135.0.3179.98</string>
+	<string>136.0.3240.61</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>ADALClientId</key>
@@ -379,7 +378,7 @@
 	<key>NSUserTrackingUsageDescription</key>
 	<string>IDS_IOS_EDGE_USER_TRACKING_USAGE_DESCRIPTION</string>
 	<key>SCMRevision</key>
-	<string>4215a10badb66dfc30740c51223c7cd6a6d557fc</string>
+	<string>64dab09cf6d736f3d0d3b2840f5d93bffbd1c8e5</string>
 	<key>SSOAuthURLScheme</key>
 	<string>x-msauth-microsoft-edge-https</string>
 	<key>UIApplicationDelegate</key>

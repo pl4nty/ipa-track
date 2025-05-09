@@ -6,8 +6,8 @@
 	<array>
 		<string>iCloud.com.facebook.workchat</string>
 	</array>
-	<key>com.apple.developer.pushkit.unrestricted-voip</key>
-	<true/>
+	<key>com.apple.developer.team-identifier</key>
+	<string>V9WTTPBFK9</string>
 	<key>com.apple.developer.ubiquity-container-identifiers</key>
 	<array>
 		<string>iCloud.com.facebook.workchat</string>
@@ -38,7 +38,5 @@
 		<string>group.com.facebook.workchat.workspeed</string>
 		<string>group.com.facebookwork.family</string>
 	</array>
-	<key>com.apple.developer.team-identifier</key>
-	<string>V9WTTPBFK9</string>
 </dict>
 </plist>
