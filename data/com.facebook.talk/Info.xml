@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.talk</string>
 	<key>CFBuildDate</key>
-	<string>2025-04-08T15:33:10</string>
+	<string>2025-04-29T03:24:02</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>285.0</string>
+	<string>287.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -67,7 +67,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>719262592</string>
+	<string>727800331</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTPlatformBuild</key>
@@ -85,25 +85,25 @@
 	<key>DTXcodeBuild</key>
 	<string>16C5032a</string>
 	<key>FBAppVersion</key>
-	<string>285.0.0.59.221</string>
+	<string>287.0.0.36.123</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>719262592</integer>
+	<integer>727800331</integer>
 	<key>FBBuildRevision</key>
-	<string>f7e7425cd56db7ca92003c1cfc62c94a7b773aa4</string>
+	<string>2efa32502272382cfb9bcb4c702ebedd3a960ae9</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1744125342.025200</string>
+	<string>1745896184.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1744126390</integer>
+	<integer>1745897042</integer>
 	<key>FBDisableAutoRegisterForPush</key>
 	<string>YES</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>285.0</string>
+	<string>287.0</string>
 	<key>FacebookAppID</key>
 	<string>1174099472704185</string>
 	<key>FacebookAppPushTransmitterID</key>
