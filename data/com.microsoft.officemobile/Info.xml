@@ -11,7 +11,7 @@
 		<string>com.microsoft.office.bgtask.metaosnotification</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24D81</string>
+	<string>24E263</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -689,7 +689,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.96.1</string>
+	<string>2.97</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -784,25 +784,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.96.25042118</string>
+	<string>2.97.25050841</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22C146</string>
+	<string>22E235</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.2</string>
+	<string>18.4</string>
 	<key>DTSDKBuild</key>
-	<string>22C146</string>
+	<string>22E235</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.2</string>
+	<string>iphoneos18.4</string>
 	<key>DTXcode</key>
-	<string>1620</string>
+	<string>1630</string>
 	<key>DTXcodeBuild</key>
-	<string>16C5032a</string>
+	<string>16E140</string>
 	<key>DocsUISettings</key>
 	<dict>
 		<key>DocsUISettingsHelpProductLinkIDForIPad</key>
@@ -876,6 +876,8 @@
 			<string>group.com.microsoft.shared</string>
 			<string>group.com.microsoft.union</string>
 		</array>
+		<key>AppIdPrefix</key>
+		<string>SGGM6D27TK.</string>
 		<key>AutoFileEncryptionEnabled</key>
 		<string>Preview</string>
 		<key>DocumentBrowserFileCachePath</key>
@@ -1009,7 +1011,7 @@
 	<key>NSUserTrackingUsageDescription</key>
 	<string>Your data will be used to deliver personalised ads to you.</string>
 	<key>OfficeLegacyVersion</key>
-	<string>2.96.421.1</string>
+	<string>2.97.508.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
