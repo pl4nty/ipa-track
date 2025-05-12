@@ -12,11 +12,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Fri May  2 19:41:13 UTC 2025</string>
+		<string>Fri May  9 19:58:16 UTC 2025</string>
 		<key>SignalCommit</key>
-		<string>3a01bf118c8cc01b68da7ad2822f7d80633e1fd5 Bump version to 7.57.1</string>
+		<string>14743621a2bf7b5d0288eee755dad150060be734 Feature flags for .production.</string>
 		<key>Timestamp</key>
-		<integer>1746214873</integer>
+		<integer>1746820696</integer>
 		<key>XCodeVersion</key>
 		<string>1600.1630</string>
 	</dict>
@@ -178,7 +178,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.57.1</string>
+	<string>7.58</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -199,7 +199,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>762</string>
+	<string>774</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -238,13 +238,6 @@
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>amazonaws.com</key>
-			<dict>
-				<key>NSIncludesSubdomains</key>
-				<true/>
-				<key>NSThirdPartyExceptionRequiresForwardSecrecy</key>
-				<false/>
-			</dict>
 			<key>signal.org</key>
 			<dict>
 				<key>NSExceptionAllowsInsecureHTTPLoads</key>

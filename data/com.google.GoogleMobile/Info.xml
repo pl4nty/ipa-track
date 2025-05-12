@@ -21,10 +21,10 @@
 	<dict>
 		<key>CFBundleAlternateIcons</key>
 		<dict>
-			<key>AppIcon_01</key>
+			<key>AppIcon_01_Gradient</key>
 			<dict>
 				<key>CFBundleIconName</key>
-				<string>AppIcon_01</string>
+				<string>AppIcon_01_Gradient</string>
 			</dict>
 			<key>AppIcon_02</key>
 			<dict>
@@ -41,20 +41,20 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_gsa_ios_color60x60</string>
+				<string>logo_gsa_gradient_ios_color60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_gsa_ios_color</string>
+			<string>logo_gsa_gradient_ios_color</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
 	<dict>
 		<key>CFBundleAlternateIcons</key>
 		<dict>
-			<key>AppIcon_01</key>
+			<key>AppIcon_01_Gradient</key>
 			<dict>
 				<key>CFBundleIconName</key>
-				<string>AppIcon_01</string>
+				<string>AppIcon_01_Gradient</string>
 			</dict>
 			<key>AppIcon_02</key>
 			<dict>
@@ -71,11 +71,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_gsa_ios_color60x60</string>
-				<string>logo_gsa_ios_color76x76</string>
+				<string>logo_gsa_gradient_ios_color60x60</string>
+				<string>logo_gsa_gradient_ios_color76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_gsa_ios_color</string>
+			<string>logo_gsa_gradient_ios_color</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -87,7 +87,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>367.0</string>
+	<string>368.0</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -125,7 +125,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>367.0.752095380</string>
+	<string>368.0.756386193</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
