@@ -9,7 +9,7 @@
 		<string>com.microsoft.onenote.backgroundFetchTask</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24D81</string>
+	<string>24E263</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -533,6 +533,11 @@
 			<string>AppIcon</string>
 			<key>NSAppIconActionTintColorName</key>
 			<string>ONIAppShortcutIconColor</string>
+			<key>NSAppIconComplementingColorNames</key>
+			<array>
+				<string>ONIBrand130</string>
+				<string>ONIBrand80</string>
+			</array>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -578,7 +583,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>16.96</string>
+	<string>16.97</string>
 	<key>CFBundleSignature</key>
 	<string>MSON</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -609,25 +614,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>16096000.25040710</string>
+	<string>16097000.25050911</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22C146</string>
+	<string>22E235</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.2</string>
+	<string>18.4</string>
 	<key>DTSDKBuild</key>
-	<string>22C146</string>
+	<string>22E235</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.2</string>
+	<string>iphoneos18.4</string>
 	<key>DTXcode</key>
-	<string>1620</string>
+	<string>1630</string>
 	<key>DTXcodeBuild</key>
-	<string>16C5032a</string>
+	<string>16E140</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
@@ -678,6 +683,8 @@
 			<string>group.com.microsoft.onenote</string>
 			<string>group.com.microsoft.shared</string>
 		</array>
+		<key>AppIdPrefix</key>
+		<string>SGGM6D27TK.</string>
 		<key>AriaMaxTeardownUploadTimeInSec</key>
 		<integer>10</integer>
 		<key>MAMServiceDisabled</key>
@@ -763,7 +770,7 @@
 	<key>MSOfeedbackPhoneAppID</key>
 	<string>248</string>
 	<key>MicrosoftExtendedBuildNumber</key>
-	<string>16.96/250407</string>
+	<string>16.97/250509</string>
 	<key>MinimumOSVersion</key>
 	<string>17.0</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
@@ -791,7 +798,7 @@
 		<string>com.microsoft.onenote.viewing-page</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>16.96.407.0</string>
+	<string>16.97.509.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
