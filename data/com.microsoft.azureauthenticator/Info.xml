@@ -7,7 +7,7 @@
 		<string>com.microsoft.identity-broker.operation.refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24D81</string>
+	<string>24E263</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -48,7 +48,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.8.24</string>
+	<string>6.8.25</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -80,7 +80,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3</string>
+	<string>8</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTCompiler</key>
@@ -105,6 +105,7 @@
 		<string>msauthv2</string>
 		<string>msauthv3</string>
 		<string>googlechrome</string>
+		<string>microsoft-edge</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>

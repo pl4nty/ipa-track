@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.atwork</string>
 	<key>CFBuildDate</key>
-	<string>2025-05-07T15:32:05</string>
+	<string>2025-05-12T02:44:20</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>512.0</string>
+	<string>513.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -121,7 +121,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>731498321</string>
+	<string>733375729</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTPlatformBuild</key>
@@ -139,19 +139,19 @@
 	<key>DTXcodeBuild</key>
 	<string>16E140</string>
 	<key>FBAppVersion</key>
-	<string>512.0.0.57.107</string>
+	<string>513.0.0.37.106</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>731498321</integer>
+	<integer>733375729</integer>
 	<key>FBBuildRevision</key>
-	<string>061fa7647ece6a201265f4c4c1182f8c1f06d460</string>
+	<string>1ff3b3b76275167dcf56b19d022eb479773ccff6</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1746628228.025200</string>
+	<string>1747015585.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1746631925</integer>
+	<integer>1747017860</integer>
 	<key>FBColorPalette</key>
 	<string>FBAtWorkColorPalette</string>
 	<key>FBComposeAppSpecificConfig</key>
@@ -161,7 +161,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>512.0</string>
+	<string>513.0</string>
 	<key>FBSearchAppSpecificConfig</key>
 	<string>FBSearchAtWorkAppSpecificConfig</string>
 	<key>FacebookAppID</key>
