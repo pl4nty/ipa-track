@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.PageAdminApp</string>
 	<key>CFBuildDate</key>
-	<string>2025-05-06T11:38:23</string>
+	<string>2025-05-13T23:38:14</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>440.0</string>
+	<string>441.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -91,7 +91,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>730975346</string>
+	<string>734205444</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16E137</string>
 	<key>DTPlatformBuild</key>
@@ -109,19 +109,19 @@
 	<key>DTXcodeBuild</key>
 	<string>16E140</string>
 	<key>FBAppVersion</key>
-	<string>440.0.0.49.107</string>
+	<string>441.0.0.51.106</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>730975346</integer>
+	<integer>734205444</integer>
 	<key>FBBuildRevision</key>
-	<string>e878e1d28e0e3441571c68ecfbd2a09b99a0f309</string>
+	<string>918373f1768f9208c4770c2a229f09d183382b2d</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1746526117.025200</string>
+	<string>1747177783.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1746531503</integer>
+	<integer>1747179494</integer>
 	<key>FBColorPalette</key>
 	<string>PMAStandardColorPalette</string>
 	<key>FBDisableAutoRegisterForPush</key>
@@ -133,7 +133,7 @@
 	<key>FBPhotoActionSheetHideSendAsMessageOption</key>
 	<true/>
 	<key>FBPlatformVersion</key>
-	<string>440.0</string>
+	<string>441.0</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
 	<false/>
 	<key>FacebookAppID</key>
@@ -249,6 +249,7 @@
 		<string>Optimistic_Text_A_Bd.ttf</string>
 		<string>Optimistic_Text_A_Md.ttf</string>
 		<string>Optimistic_Text_A_Rg.ttf</string>
+		<string>Optimistic_VF_App_Lite.ttf</string>
 	</array>
 	<key>UIBackgroundModes</key>
 	<array>
