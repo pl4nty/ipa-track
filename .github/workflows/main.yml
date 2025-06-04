@@ -31,7 +31,7 @@ jobs:
       - run: pip install -r requirements.txt
         working-directory: ipatool-py
       - name: Setup iTunes Header Service
-        uses: NyaMisty/actions-iTunes-header@master
+        uses: Yakov5776/actions-iTunes-header@master
         with:
           apple_id: ${{ secrets.EMAIL }}
           apple_id_pwd: ${{ secrets.PASSWORD }}
