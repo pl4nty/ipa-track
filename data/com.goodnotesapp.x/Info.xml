@@ -43,7 +43,7 @@
 		<string>com.goodnotesapp.x.config-download</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24C101</string>
+	<string>24B2083</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -219,7 +219,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.6.38</string>
+	<string>6.6.44</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -262,6 +262,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
+				<string>goodnotes6-classroom</string>
 				<string>goodnotes6</string>
 				<string>goodnotes6-intunemam</string>
 			</array>
@@ -284,7 +285,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3209171.185635172</string>
+	<string>3237762.15091976</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -296,7 +297,7 @@
 	<key>CSAN_PUBLISHERS_HOST</key>
 	<string>publisher.csan.goodnotes.com</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -874,7 +875,7 @@
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>6.6.38
+		<string>6.6.44
 </string>
 	</dict>
 </dict>

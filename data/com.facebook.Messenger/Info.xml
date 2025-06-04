@@ -16,7 +16,7 @@
 		<string>com.facebook.messenger.contact_search_ranking</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-05-13T23:27:32</string>
+	<string>2025-05-28T00:42:37</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -57,7 +57,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>507.0.0</string>
+	<string>509.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -270,9 +270,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>734202868</string>
+	<string>740376955</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F3</string>
 	<key>DTPlatformBuild</key>
 	<string>22E235</string>
 	<key>DTPlatformName</key>
@@ -288,23 +288,23 @@
 	<key>DTXcodeBuild</key>
 	<string>16E140</string>
 	<key>FBAppVersion</key>
-	<string>507.0.0.50.107</string>
+	<string>509.0.0.52.108</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>734202868</integer>
+	<integer>740376955</integer>
 	<key>FBBuildRevision</key>
-	<string>918373f1768f9208c4770c2a229f09d183382b2d</string>
+	<string>22d057360049bfc54abe1209d76e5187aa491aec</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1747177783.025200</string>
+	<string>1748390972.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1747178852</integer>
+	<integer>1748392957</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>507.0.0</string>
+	<string>509.0.0</string>
 	<key>FacebookAppID</key>
 	<string>437626316973788</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -324,65 +324,65 @@
 		<string>krungsri-kma</string>
 		<string>ktbnext</string>
 		<string>tcb</string>
-		<string>slotomania</string>
+		<string>fb401696723281463</string>
+		<string>fb1023560685845135</string>
+		<string>apples6505095234</string>
+		<string>fb1049729741852134</string>
 		<string>fb503934352950298</string>
-		<string>fb1055885851158192</string>
-		<string>com.googleusercontent.apps.571975861600-jrkks5b15s5mr7mhqarlg4e91huerf5l</string>
-		<string>fb974161694326229</string>
-		<string>fb153277661752118</string>
-		<string>fb654935278355098</string>
-		<string>fb763138661210377</string>
-		<string>fb1791105821059748</string>
-		<string>fb601621360285543</string>
-		<string>fb597615686992125</string>
-		<string>fb364634554166944</string>
-		<string>fb1967959223658101</string>
-		<string>fb1923291651293408</string>
-		<string>fb1250647258936050</string>
+		<string>com.amazon.mobile.shopping</string>
+		<string>sapphirecopilot</string>
 		<string>fb2328240260794422</string>
-		<string>fb141987249766567</string>
-		<string>fb685579326455927</string>
+		<string>fb1250647258936050</string>
+		<string>fb1459455184834740</string>
 		<string>fb236995639668665</string>
-		<string>waymo</string>
-		<string>ubereats</string>
-		<string>fb1072520353844086</string>
-		<string>fb590102355870134</string>
-		<string>fb342073336607831</string>
-		<string>dkcs</string>
-		<string>bingoRoyal</string>
-		<string>fb462596768972930</string>
-		<string>fb2303380839957579</string>
-		<string>fb516459850770447</string>
-		<string>fb881533305321336</string>
-		<string>fb2673921099381214</string>
-		<string>fb285025889266955</string>
-		<string>fb958207989052831</string>
-		<string>fb1528052015256817</string>
-		<string>fb230249317100486</string>
-		<string>fb326605667418591</string>
-		<string>fb788159262447755</string>
+		<string>fb1967959223658101</string>
+		<string>fb185940304807983</string>
+		<string>fb1411045516218795</string>
+		<string>wayfairapp</string>
 		<string>fb597136000919815</string>
-		<string>fb832520974160908</string>
-		<string>fb455212679582633</string>
-		<string>fb123375407711200</string>
-		<string>fb618799394447006</string>
-		<string>fb293978624117724</string>
-		<string>fb367266627241061</string>
-		<string>fb208479887343676</string>
-		<string>fb2510535265626343</string>
-		<string>fb623247434776745</string>
-		<string>fb300622223656426</string>
-		<string>fb161319903648</string>
-		<string>fb341973327401293</string>
-		<string>fb1777365365898806</string>
-		<string>fb439388451121540</string>
+		<string>fb601621360285543</string>
+		<string>waymo</string>
+		<string>playpickshub</string>
+		<string>fb342073336607831</string>
+		<string>ubereats</string>
+		<string>fb762090949124383</string>
+		<string>dksb</string>
+		<string>bingoRoyal</string>
+		<string>fb1155010764702324</string>
+		<string>fb881533305321336</string>
+		<string>fb285025889266955</string>
 		<string>fb922007509851618</string>
-		<string>fb1209155879124141</string>
-		<string>fb570184288872509</string>
+		<string>fb462596768972930</string>
+		<string>fb788159262447755</string>
+		<string>fb958207989052831</string>
+		<string>fb293978624117724</string>
+		<string>dkcs</string>
+		<string>fb1622587551282581</string>
+		<string>fb953765522855891</string>
+		<string>fb356472188587810</string>
+		<string>slotomania</string>
+		<string>fb974161694326229</string>
 		<string>fb600046849315790</string>
-		<string>fb277638822572073</string>
-		<string>fb1427615667454320</string>
-		<string>fb712237168882096</string>
+		<string>fb1528052015256817</string>
+		<string>fb3260110694302004</string>
+		<string>fb326605667418591</string>
+		<string>fb2566007107002013</string>
+		<string>fb685579326455927</string>
+		<string>fb2303380839957579</string>
+		<string>duet</string>
+		<string>fb123375407711200</string>
+		<string>fb570184288872509</string>
+		<string>fb832520974160908</string>
+		<string>fb341973327401293</string>
+		<string>fb3833784630241184</string>
+		<string>fb556351508871479</string>
+		<string>fb497325330726677</string>
+		<string>fb367266627241061</string>
+		<string>fb450031601463669</string>
+		<string>fb1777365365898806</string>
+		<string>fb566133779760955</string>
+		<string>fb455212679582633</string>
+		<string>fb466750141283709</string>
 		<string>http</string>
 		<string>https</string>
 	</array>

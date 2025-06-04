@@ -39,6 +39,8 @@
 		<string>applinks:org-admin.goodnotesbeta.com</string>
 		<string>applinks:edu-admin.goodnotes.com</string>
 		<string>applinks:edu-admin.goodnotesbeta.com</string>
+		<string>applinks:marketplace.goodnotes.com</string>
+		<string>applinks:marketplace.goodnotesbeta.com</string>
 	</array>
 	<key>com.apple.developer.icloud-services</key>
 	<array>

@@ -390,7 +390,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>279.0</string>
+	<string>282.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -410,9 +410,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>77189</string>
+	<string>78390</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -492,12 +492,14 @@
 	<array>
 		<string>INSendMessageIntent</string>
 	</array>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Allowing tracking helps us show you Quests for games you play or are interested in. You can opt out anytime in your iOS settings.</string>
 	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
 	<true/>
 	<key>RELEASE_CHANNEL</key>
 	<string>ptb</string>
 	<key>SENTRY_RELEASE</key>
-	<string>discord_ios@279.0.77189+77189</string>
+	<string>discord_ios@282.1.78390+78390</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>abcgintonord-800-extrabold.ttf</string>

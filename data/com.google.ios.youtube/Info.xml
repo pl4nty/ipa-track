@@ -55,7 +55,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>20.19.3</string>
+	<string>20.22.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -78,9 +78,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20.19.3</string>
+	<string>20.22.1</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -145,6 +145,7 @@
 		<string>googlechrome</string>
 		<string>googleapp</string>
 		<string>googlegmail</string>
+		<string>vnd.google.calendar</string>
 		<string>com.google.chat</string>
 		<string>com.google.fit</string>
 		<string>com.google.hangouts</string>
@@ -171,13 +172,12 @@
 		<string>googlevoice</string>
 		<string>playmovies</string>
 		<string>streetview</string>
-		<string>vnd.google.calendar</string>
 		<string>waze</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>15.0</string>
+	<string>16.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsLocalNetworking</key>
@@ -235,6 +235,7 @@
 		<string>com.google.ios.youtube.siri.subs-tab</string>
 		<string>com.google.ios.youtube.siri.text-search</string>
 		<string>com.google.ios.youtube.siri.voice-search</string>
+		<string>INSendMessageIntent</string>
 	</array>
 	<key>NSUserTrackingUsageDescription</key>
 	<string>To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.</string>

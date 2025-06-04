@@ -5,7 +5,7 @@
 	<key>BreakpadProduct</key>
 	<string>Google_Play_Movies_iOS</string>
 	<key>BreakpadVersion</key>
-	<string>3.26.00003</string>
+	<string>3.27.00003</string>
 	<key>BuildMachineOSBuild</key>
 	<string>23F79</string>
 	<key>BuildVersion</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.26.00003</string>
+	<string>3.27.00003</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -73,25 +73,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.26.00003</string>
+	<string>3.27.00003</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>21F77</string>
+	<string>22A3362</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>17.5</string>
+	<string>18.0</string>
 	<key>DTSDKBuild</key>
-	<string>21F77</string>
+	<string>22A3362</string>
 	<key>DTSDKName</key>
-	<string>iphoneos17.5</string>
+	<string>iphoneos18.0</string>
 	<key>DTXcode</key>
-	<string>1540</string>
+	<string>1600</string>
 	<key>DTXcodeBuild</key>
-	<string>15F31d</string>
+	<string>16A242d</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>ITSAppUsesNonExemptEncryption</key>

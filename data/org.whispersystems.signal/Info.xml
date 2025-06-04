@@ -12,16 +12,16 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Tue May 13 17:34:30 UTC 2025</string>
+		<string>Wed May 28 17:58:32 UTC 2025</string>
 		<key>SignalCommit</key>
-		<string>e24224ba54b35fa273173781f91a94a6405013eb Feature flags for .production.</string>
+		<string>b24c0f069b566fde9235ff02b248319bccbcadba Feature flags for .production.</string>
 		<key>Timestamp</key>
-		<integer>1747157670</integer>
+		<integer>1748455112</integer>
 		<key>XCodeVersion</key>
 		<string>1600.1630</string>
 	</dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24D60</string>
+	<string>24F74</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -178,7 +178,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.59</string>
+	<string>7.61</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -199,9 +199,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>780</string>
+	<string>807</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

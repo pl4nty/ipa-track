@@ -19,7 +19,7 @@
 	<key>BIBO_URL</key>
 	<string>https://bibo.api.swiftkey.com</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23H420</string>
+	<string>24E263</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2.1</string>
+	<string>4.2.3</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -112,25 +112,27 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>421.0.3</string>
+	<string>423.0.1</string>
+	<key>CLARITY_PROJECT_ID</key>
+	<string>r1yya1mssl</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22C146</string>
+	<string>22E235</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.2</string>
+	<string>18.4</string>
 	<key>DTSDKBuild</key>
-	<string>22C146</string>
+	<string>22E235</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.2</string>
+	<string>iphoneos18.4</string>
 	<key>DTXcode</key>
-	<string>1620</string>
+	<string>1630</string>
 	<key>DTXcodeBuild</key>
-	<string>16C5032a</string>
+	<string>16E140</string>
 	<key>EMOJI_PREDICTIONS_URL</key>
 	<string>emojicloudfrontend.api.swiftkey.com</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
@@ -230,7 +232,7 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Enter your photos directly from the keyboard or use them to design your own keyboard theme</string>
 	<key>ONE_AUTH_DEFAULT_ENABLED</key>
-	<string>0</string>
+	<string>1</string>
 	<key>TELEMETRY_API_KEY</key>
 	<string>SwiftKey_iOS_prod</string>
 	<key>TELEMETRY_APP_SECRET_ID</key>

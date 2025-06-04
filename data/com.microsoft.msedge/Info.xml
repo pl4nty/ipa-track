@@ -9,7 +9,7 @@
 		<string>chrome.app.refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>23H222</string>
+	<string>24F74</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -181,7 +181,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>136.3240.71</string>
+	<string>137.3296.53</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -237,9 +237,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>136.0.3240.71</string>
+	<string>137.0.3296.53</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -261,7 +261,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Edge</string>
 	<key>GTMUserAgentVersion</key>
-	<string>136.0.3240.71</string>
+	<string>137.0.3296.53</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>ADALClientId</key>
@@ -373,12 +373,11 @@
 		<string>OpenInChromeIncognitoIntent</string>
 		<string>OpenInChromeIntent</string>
 		<string>SearchInChromeIntent</string>
-		<string>OpenEdgeCopilotIntent</string>
 	</array>
 	<key>NSUserTrackingUsageDescription</key>
 	<string>IDS_IOS_EDGE_USER_TRACKING_USAGE_DESCRIPTION</string>
 	<key>SCMRevision</key>
-	<string>cc40c65da2da0321849a0c03aeb76e135e2f4388</string>
+	<string>354b331ad16d27595d906c13cb7259c9aef92597</string>
 	<key>SSOAuthURLScheme</key>
 	<string>x-msauth-microsoft-edge-https</string>
 	<key>UIApplicationDelegate</key>

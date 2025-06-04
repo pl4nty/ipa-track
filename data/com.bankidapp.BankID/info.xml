@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24B83</string>
+	<string>24D81</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -44,7 +44,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.42.0</string>
+	<string>7.43.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -63,9 +63,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.42.0.1960</string>
+	<string>7.43.0.2619</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>16E137</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

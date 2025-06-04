@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.atwork</string>
 	<key>CFBuildDate</key>
-	<string>2025-05-12T02:44:20</string>
+	<string>2025-05-26T02:33:06</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>513.0</string>
+	<string>515.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -121,9 +121,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>733375729</string>
+	<string>739590254</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F3</string>
 	<key>DTPlatformBuild</key>
 	<string>22E235</string>
 	<key>DTPlatformName</key>
@@ -139,19 +139,19 @@
 	<key>DTXcodeBuild</key>
 	<string>16E140</string>
 	<key>FBAppVersion</key>
-	<string>513.0.0.37.106</string>
+	<string>515.0.0.39.108</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>733375729</integer>
+	<integer>739590254</integer>
 	<key>FBBuildRevision</key>
-	<string>1ff3b3b76275167dcf56b19d022eb479773ccff6</string>
+	<string>79f02cb66446f72e573550772fd3e9afd8a4e2d4</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1747015585.025200</string>
+	<string>1748224863.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1747017860</integer>
+	<integer>1748226786</integer>
 	<key>FBColorPalette</key>
 	<string>FBAtWorkColorPalette</string>
 	<key>FBComposeAppSpecificConfig</key>
@@ -161,7 +161,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>513.0</string>
+	<string>515.0</string>
 	<key>FBSearchAppSpecificConfig</key>
 	<string>FBSearchAtWorkAppSpecificConfig</string>
 	<key>FacebookAppID</key>
@@ -220,6 +220,8 @@
 	<key>NSAppleMusicUsageDescription</key>
 	<string>This enables sharing from your music library.</string>
 	<key>NSCalendarsUsageDescription</key>
+	<string>This will let Workplace sync events you're hosting or attending to your calendar.</string>
+	<key>NSCalendarsWriteOnlyAccessUsageDescription</key>
 	<string>This will let Workplace sync events you're hosting or attending to your calendar.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Workplace uses access to your camera so you can do things like take photos, record and stream videos.</string>

@@ -150,7 +150,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.05.20</string>
+	<string>25.05.41</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSpokenName</key>
@@ -181,11 +181,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>449039</string>
+	<string>449358</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

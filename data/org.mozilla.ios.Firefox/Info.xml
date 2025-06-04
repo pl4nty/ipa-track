@@ -249,7 +249,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>138.2</string>
+	<string>139.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -271,11 +271,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>55280</string>
+	<string>56119</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -360,6 +360,17 @@
 	<string>https://firefox.settings.services.mozilla.com</string>
 	<key>PocketEnvironmentAPIKey</key>
 	<string>69688-0187b8205b7a75b05d897e97</string>
+	<key>SKAdNetworkItems</key>
+	<array>
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			<string>4fzdc2evr5.skadnetwork</string>
+		</dict>
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			<string>cstr6suwn9.skadnetwork</string>
+		</dict>
+	</array>
 	<key>SentryCloudDSN</key>
 	<string>https://b9f5592bcf624d3495dda7126f43bc17@o1069899.ingest.sentry.io/6176941</string>
 	<key>UIAppFonts</key>
