@@ -21,7 +21,7 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-05-27T23:48:43</string>
+	<string>2025-07-01T22:07:03</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleExecutable</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>222.0.0</string>
+	<string>227.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -78,41 +78,41 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>740359198</string>
+	<string>756809134</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTPlatformBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.4</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.4</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1630</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16E140</string>
+	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>222.0.0.29.168</string>
+	<string>227.0.0.26.168</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>740359198</integer>
+	<integer>756809134</integer>
 	<key>FBBuildRevision</key>
-	<string>f22783a333793668ffa498e8b45d20367d658efa</string>
+	<string>e205ff152902c7a259f8e77797444cfed5f539a0</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1748388454.025200</string>
+	<string>1751406465.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1748389723</integer>
+	<integer>1751407623</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>222.0.0</string>
+	<string>227.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>

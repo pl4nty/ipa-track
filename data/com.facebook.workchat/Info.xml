@@ -9,7 +9,7 @@
 		<string>com.facebook.workchat.bgrefresh</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-05-26T02:32:58</string>
+	<string>2025-06-23T02:28:16</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>515.0</string>
+	<string>519.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -109,41 +109,41 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>739590252</string>
+	<string>752507750</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTPlatformBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.4</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.4</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1630</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16E140</string>
+	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>515.0.0.39.108</string>
+	<string>519.0.0.26.106</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>739590252</integer>
+	<integer>752507750</integer>
 	<key>FBBuildRevision</key>
-	<string>79f02cb66446f72e573550772fd3e9afd8a4e2d4</string>
+	<string>3a3eb9748b13228a0d11f7242b5b53d279e3c6de</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1748224863.025200</string>
+	<string>1750644197.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1748226778</integer>
+	<integer>1750645696</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>515.0</string>
+	<string>519.0</string>
 	<key>FBToolchain</key>
 	<string>Experimental</string>
 	<key>FacebookAppID</key>

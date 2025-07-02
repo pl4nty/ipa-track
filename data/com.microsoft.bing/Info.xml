@@ -13,7 +13,7 @@
 	<key>BING_MAPS_KEY</key>
 	<string>AnG6pvmlxuPe85X7PEFJ7EP18DKkpcwTxTvIz7T-7j-TMGstR4CwHr1SRtCWY1CZ</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24E263</string>
+	<string>24F5068b</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>31.8.430528002</string>
+	<string>32.0.430627001</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -110,25 +110,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430528002</string>
+	<string>430627001</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22A3362</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.0</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22A3362</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.0</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1600</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16A242d</string>
+	<string>16F6</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>IntuneMAMSettings</key>

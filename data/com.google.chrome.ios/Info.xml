@@ -65,7 +65,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>137.7151.79</string>
+	<string>138.7204.119</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -97,7 +97,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>137.0.7151.79</string>
+	<string>138.0.7204.119</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
@@ -123,7 +123,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Chrome</string>
 	<key>GTMUserAgentVersion</key>
-	<string>137.0.7151.79</string>
+	<string>138.0.7204.119</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
@@ -195,7 +195,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>16.0</string>
+	<string>17.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -233,7 +233,7 @@
 		<string>SearchInChromeIntent</string>
 	</array>
 	<key>SCMRevision</key>
-	<string>7a7496a056751c043f2156961148bd21d0a8a119-refs/branch-heads/7151@{#1897}</string>
+	<string>215b8037b0ebe9f8d8513ce860bf381d7b15e273-refs/branch-heads/7204_56@{#3}</string>
 	<key>SSOAuthURLScheme</key>
 	<string>com.google.sso.chrome.stable</string>
 	<key>UIApplicationDelegate</key>

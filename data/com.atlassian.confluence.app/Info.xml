@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.13.1</string>
+	<string>4.16.2</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -56,16 +56,25 @@
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
+			<key>CFBundleURLName</key>
+			<string>msauth.com.atlassian.confluence.app</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.atlassian.confluence</string>
-				<string>confluenceauth</string>
+				<string>msauth.com.atlassian.confluence.app</string>
+				<string>msauth.com.atlassian.confluence.app-intunemam</string>
 			</array>
 		</dict>
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
+				<string>com.atlassian.confluence</string>
+				<string>com.atlassian.confluence-intunemam</string>
+				<string>confluenceauth</string>
+				<string>confluenceauth-intunemam</string>
+				<string>conf-e2e-links</string>
 				<string>exp+confluence-rn</string>
+				<string>msauth.com.microsoft.intunemam</string>
+				<string>msauth.com.microsoft.intunemam-intunemam</string>
 			</array>
 		</dict>
 		<dict>
@@ -78,7 +87,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3</string>
+	<string>14</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
@@ -99,19 +108,52 @@
 	<string>16C5032a</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
+	<key>IntuneMAMSettings</key>
+	<dict>
+		<key>ADALAuthority</key>
+		<string>https://login.microsoftonline.com/organizations</string>
+		<key>ADALClientId</key>
+		<string>6337eee3-da0f-4c22-a340-9b72146c78ff</string>
+		<key>ADALRedirectUri</key>
+		<string>msauth.com.atlassian.confluence.app://auth</string>
+		<key>AppGroupIdentifiers</key>
+		<array>
+			<string>group.com.atlassian.confluence.app</string>
+		</array>
+		<key>MaxFileProtectionLevel</key>
+		<string>NSFileProtectionCompleteUntilFirstUserAuthentication</string>
+		<key>SafariViewControllerBlockedOverride</key>
+		<true/>
+	</dict>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
+		<string>scmx</string>
+		<string>smsec</string>
+		<string>microsoft-edge-http</string>
+		<string>microsoft-edge-http-intunemam</string>
+		<string>lookoutwork-ase</string>
+		<string>skycure</string>
+		<string>mvisionmobile</string>
+		<string>companyportal</string>
+		<string>lacoonsecurity</string>
+		<string>intunemam-mtd</string>
+		<string>msauthv2</string>
+		<string>wandera</string>
+		<string>betteractiveshield</string>
+		<string>msauthv3</string>
 		<string>microsoft-edge-https</string>
-		<string>jira</string>
-		<string>jira-server</string>
-		<string>confluence-server</string>
-		<string>trello</string>
-		<string>OpsGenie</string>
+		<string>microsoft-edge-https-intunemam</string>
+		<string>zips</string>
+		<string>ms-outlook</string>
+		<string>ms-outlook-intunemam</string>
+		<string>smart-ns</string>
+		<string>https-intunemam</string>
+		<string>http-intunemam</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>16.0</string>
+	<string>17.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -271,7 +313,7 @@
 	<key>NSFaceIDUsageDescription</key>
 	<string>Use FaceID to unlock Confluence</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>To record attachments for Confluence pages</string>
+	<string>Allow microphone access to record your voice for attachments and talking with Rovo.</string>
 	<key>NSMotionUsageDescription</key>
 	<string>This app needs to be able to access your motion use</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
@@ -279,7 +321,7 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>To add images to Confluence pages</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
-	<string>For voice input</string>
+	<string>Allow access to speech recognition if you'd like to talk with Rovo.</string>
 	<key>SegmentEnvironment</key>
 	<string>prod</string>
 	<key>UIAppFonts</key>

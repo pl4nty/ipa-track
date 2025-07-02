@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>8GEK6X5YPT.com.boardbooks.boardbooks</string>
+		<string>8GEK6X5YPT.com.microsoft.intune.mam</string>
+		<string>8GEK6X5YPT.com.microsoft.adalcache</string>
+	</array>
+	<key>com.apple.developer.team-identifier</key>
+	<string>NW9G8G6ZH4</string>
+	<key>application-identifier</key>
+	<string>8GEK6X5YPT.com.boardbooks.boardbooks</string>
+	<key>com.apple.developer.networking.multipath</key>
+	<true/>
+	<key>aps-environment</key>
+	<string>production</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:director.diligentboards.com</string>
+		<string>applinks:director-software01.diligentdatasystems.com?mode=developer</string>
+		<string>applinks:director-software02.diligentdatasystems.com?mode=developer</string>
+		<string>applinks:director-software03.diligentdatasystems.com?mode=developer</string>
+		<string>applinks:director-yankees01.diligentdatasystems.com?mode=developer</string>
+		<string>applinks:director-yankees02.diligentdatasystems.com?mode=developer</string>
+		<string>applinks:questionnaires-prod01.diligentcloudservices.com</string>
+		<string>applinks:questionnaires-prod02.diligentcloudservices.com</string>
+		<string>applinks:questionnaires-prod03.diligentcloudservices.com</string>
+		<string>applinks:questionnaires-prod04.diligentcloudservices.com</string>
+		<string>applinks:questionnaires-prod05.diligentcloudservices.com</string>
+	</array>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.boardbooks.boardbooks</string>
+	</array>
+</dict>
+</plist>

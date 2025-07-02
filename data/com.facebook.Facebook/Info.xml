@@ -19,7 +19,7 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBuildDate</key>
-	<string>2025-05-29T01:59:57</string>
+	<string>2025-07-01T00:00:29</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>515.0.0</string>
+	<string>520.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -113,43 +113,43 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>740881359</string>
+	<string>756351453</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTPlatformBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.4</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.4</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1630</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16E140</string>
+	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>515.0.0.59.91</string>
+	<string>520.0.0.38.101</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>740881359</integer>
+	<integer>756351453</integer>
 	<key>FBBuildRevision</key>
-	<string>48b3badc525dd7fd6e30cd56670a036bee5edaa2</string>
+	<string>693820eef5e34f053f8c97e4c3cd96cc1996a111</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1748482106.025200</string>
+	<string>1751326295.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1748483997</integer>
+	<integer>1751328029</integer>
 	<key>FBJSBundleRoot</key>
 	<string>EntryPoints/WildeBundle</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>515.0.0</string>
+	<string>520.0.0</string>
 	<key>FBSearchAppSpecificConfig</key>
 	<string>FBSearchWildeAppSpecificConfig</string>
 	<key>FacebookAppID</key>
@@ -170,6 +170,7 @@
 		<string>line</string>
 		<string>snapchat</string>
 		<string>com.amazon.mobile.map.3psso</string>
+		<string>com.amazon.mobile.map.3pssov2</string>
 		<string>fb-biz</string>
 		<string>comgooglemaps</string>
 		<string>waze</string>
@@ -179,57 +180,58 @@
 		<string>fb709376360216583</string>
 		<string>fb1623473454852234</string>
 		<string>fb3284555318463805</string>
+		<string>fb410181193191942</string>
+		<string>fb1657433568360804</string>
 		<string>vrbo</string>
 		<string>fb166363243399924</string>
-		<string>fb410181193191942</string>
-		<string>fb2021341544988359</string>
 		<string>fb182809591793403</string>
-		<string>fb891889767495675</string>
-		<string>fb841338400525592</string>
-		<string>fb1470245623619022</string>
+		<string>fb1165516550877174</string>
+		<string>rocketmoney</string>
 		<string>fb1222123985060415</string>
-		<string>fb124207444332529</string>
+		<string>fb841338400525592</string>
+		<string>fb312815509118300</string>
+		<string>com.epicgames.fortnite</string>
 		<string>fb608495662880177</string>
+		<string>fb891889767495675</string>
+		<string>fb124207444332529</string>
+		<string>fb2021341544988359</string>
+		<string>fb153277661752118</string>
+		<string>fb1791105821059748</string>
+		<string>fb762090949124383</string>
+		<string>fb597136000919815</string>
+		<string>fb1035527333163978</string>
+		<string>fb1470245623619022</string>
+		<string>fb426786581540674</string>
 		<string>fb894703657238109</string>
-		<string>fb597615686992125</string>
-		<string>solitairemaster</string>
-		<string>fb551625605554229</string>
+		<string>fb706056846556355</string>
+		<string>fb763138661210377</string>
 		<string>fb269151666914010</string>
-		<string>fb174103646072524</string>
 		<string>fb565174839280642</string>
 		<string>triumphapp</string>
-		<string>fb1165516550877174</string>
-		<string>fb153277661752118</string>
-		<string>fb706056846556355</string>
-		<string>fb1035527333163978</string>
+		<string>fb138633686268248</string>
+		<string>duet</string>
 		<string>fb1839011602994843</string>
-		<string>fb2539896226221181</string>
-		<string>fb763138661210377</string>
-		<string>fb428250913904849</string>
-		<string>fb1791105821059748</string>
-		<string>fb1055885851158192</string>
-		<string>fb426786581540674</string>
-		<string>rocketmoney</string>
+		<string>fb597615686992125</string>
 		<string>fb654935278355098</string>
-		<string>fb401696723281463</string>
-		<string>fb1023560685845135</string>
-		<string>apples6505095234</string>
-		<string>fb1049729741852134</string>
-		<string>fb503934352950298</string>
-		<string>com.amazon.mobile.shopping</string>
 		<string>sapphirecopilot</string>
-		<string>fb2328240260794422</string>
-		<string>fb1250647258936050</string>
-		<string>fb1459455184834740</string>
-		<string>fb236995639668665</string>
-		<string>fb1967959223658101</string>
-		<string>fb185940304807983</string>
-		<string>fb1411045516218795</string>
-		<string>wayfairapp</string>
-		<string>fb597136000919815</string>
+		<string>fb2446891192176100</string>
+		<string>fb174103646072524</string>
+		<string>com.amazon.mobile.shopping</string>
 		<string>fb601621360285543</string>
-		<string>waymo</string>
-		<string>playpickshub</string>
+		<string>fb1049729741852134</string>
+		<string>apples6505095234</string>
+		<string>fb503934352950298</string>
+		<string>fb342073336607831</string>
+		<string>fb185940304807983</string>
+		<string>fb788159262447755</string>
+		<string>fb3833784630241184</string>
+		<string>fb958207989052831</string>
+		<string>fb1250647258936050</string>
+		<string>fb1182626749866212</string>
+		<string>fb551625605554229</string>
+		<string>fb428250913904849</string>
+		<string>fb516459850770447</string>
+		<string>fb1411045516218795</string>
 		<string>http</string>
 		<string>https</string>
 	</array>

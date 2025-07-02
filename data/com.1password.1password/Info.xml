@@ -82,7 +82,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.10.78</string>
+	<string>8.10.82</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -123,7 +123,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>81078043</string>
+	<string>81082029</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
@@ -160,13 +160,15 @@
 	<string>Use your location to tag items and find items near you.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>Save images from 1Password to your Photo Library.</string>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
 	<key>NSUserActivityTypes</key>
 	<array>
 		<string>ComplicationWidgetIntent</string>
 		<string>com.1password.1password.handoff.item</string>
 	</array>
 	<key>OPBundleVersionFull</key>
-	<string>8.10.78</string>
+	<string>8.10.82</string>
 	<key>SFSafariCorrespondingMacOSAppBundleIdentifier</key>
 	<string>com.1password.safari</string>
 	<key>UIApplicationSceneManifest</key>

@@ -9,7 +9,7 @@
 		<string>com.microsoft.onenote.backgroundFetchTask</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24E263</string>
+	<string>24F74</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -583,7 +583,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>16.97</string>
+	<string>16.98.3</string>
 	<key>CFBundleSignature</key>
 	<string>MSON</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -614,9 +614,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>16097000.25050911</string>
+	<string>16098003.25062647</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -668,7 +668,6 @@
 		<string>sapphirebing</string>
 		<string>PencilByFiftyThree</string>
 		<string>powerpoint</string>
-		<string>skype</string>
 		<string>swiftkey</string>
 		<string>word</string>
 	</array>
@@ -745,7 +744,6 @@
 		<string>onenote-cmd</string>
 		<string>mspbi</string>
 		<string>companyportal</string>
-		<string>skype</string>
 		<string>https-intunemam</string>
 		<string>http-intunemam</string>
 		<string>microsoft-edge-https-intunemam</string>
@@ -770,7 +768,7 @@
 	<key>MSOfeedbackPhoneAppID</key>
 	<string>248</string>
 	<key>MicrosoftExtendedBuildNumber</key>
-	<string>16.97/250509</string>
+	<string>16.98.3/250626</string>
 	<key>MinimumOSVersion</key>
 	<string>17.0</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
@@ -798,7 +796,7 @@
 		<string>com.microsoft.onenote.viewing-page</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>16.97.509.0</string>
+	<string>16.98.626.3</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

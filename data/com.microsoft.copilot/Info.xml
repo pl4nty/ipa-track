@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>23H527</string>
+	<string>23H626</string>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -326,7 +326,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>430527001.30.0</string>
+	<string>430627001.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -349,7 +349,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430527001</string>
+	<string>430627001</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
@@ -398,6 +398,8 @@
 		<string>https://consent.tr.adjust.com</string>
 		<string>https://consent.us.adjust.com</string>
 	</array>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
 	<key>NSUserTrackingUsageDescription</key>
 	<string>This gives Copilot a clearer picture of your interests to talk about things that matter to you.</string>
 	<key>UIApplicationSceneManifest</key>
@@ -534,6 +536,8 @@
 	</dict>
 	<key>overriddenFlags</key>
 	<string></string>
+	<key>picassoCookieDomain</key>
+	<string>copilot.microsoft.com</string>
 	<key>picassoPNRegistration</key>
 	<string>true</string>
 	<key>sentryConfig</key>

@@ -43,7 +43,7 @@
 		<string>com.goodnotesapp.x.config-download</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24B2083</string>
+	<string>24F74</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -219,7 +219,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.6.44</string>
+	<string>6.7.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -285,7 +285,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3237762.15091976</string>
+	<string>3281267.61676516</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -301,19 +301,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22C146</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.2</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22C146</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.2</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1620</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16C5032a</string>
+	<string>16F6</string>
 	<key>ENABLE_ON_DEMAND_RESOURCES</key>
 	<string>YES</string>
 	<key>FirebaseAutomaticScreenReportingEnabled</key>
@@ -382,7 +382,7 @@
 	<key>MSALSettingsFileName</key>
 	<string>MSALSettings</string>
 	<key>MinimumOSVersion</key>
-	<string>16.4</string>
+	<string>17.5</string>
 	<key>NSAdvertisingAttributionReportEndpoint</key>
 	<string>https://appsflyer-skadnetwork.com/</string>
 	<key>NSAppTransportSecurity</key>
@@ -526,6 +526,16 @@
 			<string>GoodNotes Text Pasteboard</string>
 			<key>UTTypeIdentifier</key>
 			<string>com.goodnotesapp.goodnotes5.text</string>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.composite-content</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>GoodNotes Text Pasteboard</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.goodnotesapp.goodnotes6.textBox</string>
 		</dict>
 		<dict>
 			<key>UTTypeConformsTo</key>
@@ -768,6 +778,29 @@
 			<key>UTTypeIdentifier</key>
 			<string>com.goodnotes.folder-item</string>
 		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.zip-archive</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>Goodnotes Blueprint</string>
+			<key>UTTypeIconFiles</key>
+			<array/>
+			<key>UTTypeIdentifier</key>
+			<string>com.goodnotes.blueprint</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>gnblueprint</string>
+				</array>
+				<key>public.mime-type</key>
+				<array>
+					<string>application/vnd.com.goodnotesapp.gnblueprint</string>
+				</array>
+			</dict>
+		</dict>
 	</array>
 	<key>UTImportedTypeDeclarations</key>
 	<array>
@@ -875,7 +908,7 @@
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>6.6.44
+		<string>6.7.0
 </string>
 	</dict>
 </dict>

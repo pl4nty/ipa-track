@@ -354,7 +354,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.97.3</string>
+	<string>2.98.3</string>
 	<key>CFBundleSignature</key>
 	<string>PPT3</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -409,7 +409,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.97.25053025</string>
+	<string>2.98.25062647</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
@@ -490,7 +490,6 @@
 		<string>onenote-cmd</string>
 		<string>sapphirebing</string>
 		<string>powerpoint</string>
-		<string>skype</string>
 		<string>swiftkey</string>
 		<string>word</string>
 		<string>youtube</string>
@@ -576,7 +575,6 @@
 		<string>onenote-cmd</string>
 		<string>mspbi</string>
 		<string>companyportal</string>
-		<string>skype</string>
 		<string>https-intunemam</string>
 		<string>http-intunemam</string>
 		<string>microsoft-edge-https-intunemam</string>
@@ -636,7 +634,7 @@
 		<string>com.microsoft.powerpoint.executesearch-dogfood</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>2.97.530.3</string>
+	<string>2.98.626.3</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

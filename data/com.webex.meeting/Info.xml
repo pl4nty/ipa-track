@@ -5,7 +5,7 @@
 	<key>AppGroups</key>
 	<string>group.com.webex</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23A5257q</string>
+	<string>23H311</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>45.2.0</string>
+	<string>45.6.0</string>
 	<key>CFBundleSignature</key>
 	<string>webx</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -176,25 +176,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>45200.949</string>
+	<string>45600.994</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C5031b</string>
+	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>21C52</string>
+	<string>22C146</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>17.2</string>
+	<string>18.2</string>
 	<key>DTSDKBuild</key>
-	<string>21C52</string>
+	<string>22C146</string>
 	<key>DTSDKName</key>
-	<string>iphoneos17.2</string>
+	<string>iphoneos18.2</string>
 	<key>DTXcode</key>
-	<string>1520</string>
+	<string>1620</string>
 	<key>DTXcodeBuild</key>
-	<string>15C500b</string>
+	<string>16C5032a</string>
 	<key>INAl</key>
 	<string></string>
 	<key>INAlternativeAppNames</key>

@@ -52,7 +52,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.31.0</string>
+	<string>7.35.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -73,7 +73,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.31.764368642</string>
+	<string>7.35.775299149</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
@@ -100,6 +100,8 @@
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
+		<string>adobelightroom</string>
+		<string>adobesparkpost</string>
 		<string>com.google.chat</string>
 		<string>com.google.fit</string>
 		<string>com.google.hangouts</string>
@@ -146,6 +148,7 @@
 		<string>vnd.youtube.kids</string>
 		<string>vnd.youtube.music</string>
 		<string>vnd.youtube.tv</string>
+		<string>vsco</string>
 		<string>waze</string>
 	</array>
 	<key>LSHasLocalizedDisplayName</key>

@@ -68,7 +68,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.4.10</string>
+	<string>6.5.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -92,7 +92,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>24950</string>
+	<string>25747</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
@@ -188,7 +188,7 @@
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
-		<false/>
+		<true/>
 		<key>UISceneConfigurations</key>
 		<dict>
 			<key>CPTemplateApplicationSceneSessionRoleApplication</key>
@@ -209,6 +209,18 @@
 					<string>Default Configuration</string>
 					<key>UISceneDelegateClassName</key>
 					<string>ZPMainSceneDelegate</string>
+				</dict>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Meeting Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>ZMMeetingSceneDelegate</string>
+				</dict>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Blank Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>ZMBlankSceneDelegate</string>
 				</dict>
 			</array>
 		</dict>

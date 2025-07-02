@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.talk</string>
 	<key>CFBuildDate</key>
-	<string>2025-05-28T17:41:08</string>
+	<string>2025-06-30T18:08:13</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>289.0</string>
+	<string>291.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -67,43 +67,43 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>740691941</string>
+	<string>756218091</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTPlatformBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.4</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.4</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1630</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16E140</string>
+	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>289.0.0.50.229</string>
+	<string>291.1.0.36.219</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>740691941</integer>
+	<integer>756218091</integer>
 	<key>FBBuildRevision</key>
-	<string>c14752fd9171c883071619e60ea9439da385d71a</string>
+	<string>f3f4b57a6ed3a62c7b22e7614260636ae18f6366</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1748452913.025200</string>
+	<string>1751305485.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1748454068</integer>
+	<integer>1751306893</integer>
 	<key>FBDisableAutoRegisterForPush</key>
 	<string>YES</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>289.0</string>
+	<string>291.1</string>
 	<key>FacebookAppID</key>
 	<string>1174099472704185</string>
 	<key>FacebookAppPushTransmitterID</key>

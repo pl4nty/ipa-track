@@ -5,7 +5,7 @@
 	<key>AppGroupIdentifier</key>
 	<string>group.com.atlassian.jira.app</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>24D81</string>
 	<key>BuildYear</key>
 	<string>2025</string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -101,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>231.0.0</string>
+	<string>233.3.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -111,6 +111,15 @@
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
+			<key>CFBundleURLName</key>
+			<string>msauth.com.atlassian.jira.app</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>msauth.com.atlassian.jira.app</string>
+				<string>msauth.com.atlassian.jira.app-intunemam</string>
+			</array>
+		</dict>
+		<dict>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
@@ -118,6 +127,7 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>jira</string>
+				<string>jira-intunemam</string>
 			</array>
 		</dict>
 		<dict>
@@ -128,6 +138,7 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>com.googleusercontent.apps.1065897371335-d7hdpn6lsht3v2ajg9si1s89vn59tu78</string>
+				<string>com.googleusercontent.apps.1065897371335-d7hdpn6lsht3v2ajg9si1s89vn59tu78-intunemam</string>
 			</array>
 		</dict>
 		<dict>
@@ -137,59 +148,107 @@
 			<string>jiraauth</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
+				<string>com.atlassian.jira.app</string>
+				<string>com.atlassian.jira.app-intunemam</string>
 				<string>jiraauth</string>
+				<string>jiraauth-intunemam</string>
+				<string>msauth.com.microsoft.intunemam</string>
+				<string>msauth.com.microsoft.intunemam-intunemam</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>231.0.0.2471</string>
+	<string>233.3.0.3315</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22C146</string>
+	<string>22E235</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.2</string>
+	<string>18.4</string>
 	<key>DTSDKBuild</key>
-	<string>22C146</string>
+	<string>22E235</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.2</string>
+	<string>iphoneos18.4</string>
 	<key>DTXcode</key>
-	<string>1620</string>
+	<string>1630</string>
 	<key>DTXcodeBuild</key>
-	<string>16C5032a</string>
+	<string>16E140</string>
 	<key>GIDClientId</key>
 	<string>1065897371335-d7hdpn6lsht3v2ajg9si1s89vn59tu78.apps.googleusercontent.com</string>
 	<key>GIDServerClientId</key>
 	<string>1065897371335-4qbq37mns8bi1h7stlhav17dgiul62ka.apps.googleusercontent.com</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
-	<key>LSApplicationCategoryType</key>
-	<string></string>
+	<key>IntuneMAMSettings</key>
+	<dict>
+		<key>ADALAuthority</key>
+		<string>https://login.microsoftonline.com/organizations</string>
+		<key>ADALClientId</key>
+		<string>def4cf53-d350-4ec9-b39e-96cd612c301e</string>
+		<key>ADALRedirectUri</key>
+		<string>msauth.com.atlassian.jira.app://auth</string>
+		<key>AppGroupIdentifiers</key>
+		<array>
+			<string>group.com.atlassian.jira.app</string>
+		</array>
+		<key>MaxFileProtectionLevel</key>
+		<string>NSFileProtectionCompleteUntilFirstUserAuthentication</string>
+		<key>SafariViewControllerBlockedOverride</key>
+		<true/>
+	</dict>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>slack</string>
-		<string>OpsGenie</string>
-		<string>confluence</string>
-		<string>jira</string>
 		<string>confluence-server</string>
-		<string>jira-server</string>
-		<string>trello</string>
-		<string>org-appextension-feature-password-management</string>
-		<string>http</string>
-		<string>https</string>
+		<string>confluence-server-intunemam</string>
 		<string>mailto</string>
+		<string>mailto-intunemam</string>
+		<string>jira</string>
+		<string>jira-intunemam</string>
 		<string>microsoft-edge-https</string>
+		<string>microsoft-edge-https-intunemam</string>
+		<string>confluence</string>
+		<string>confluence-intunemam</string>
+		<string>slack</string>
+		<string>slack-intunemam</string>
+		<string>jira-server</string>
+		<string>jira-server-intunemam</string>
+		<string>OpsGenie</string>
+		<string>OpsGenie-intunemam</string>
+		<string>trello</string>
+		<string>trello-intunemam</string>
+		<string>org-appextension-feature-password-management</string>
+		<string>org-appextension-feature-password-management-intunemam</string>
+		<string>http</string>
+		<string>http-intunemam</string>
+		<string>https</string>
+		<string>https-intunemam</string>
+		<string>microsoft-edge-http</string>
+		<string>ms-outlook</string>
+		<string>companyportal</string>
+		<string>smart-ns</string>
+		<string>zips</string>
+		<string>lacoonsecurity</string>
+		<string>wandera</string>
+		<string>lookoutwork-ase</string>
+		<string>skycure</string>
+		<string>betteractiveshield</string>
+		<string>smsec</string>
+		<string>mvisionmobile</string>
+		<string>scmx</string>
+		<string>intunemam-mtd</string>
+		<string>msauthv2</string>
+		<string>msauthv3</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>16.0</string>
+	<string>17.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSPinnedDomains</key>
@@ -333,7 +392,7 @@
 		</dict>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>Jira needs access to your device's camera in order to take photos or scan QR codes.</string>
+	<string>Jira needs access to your device’s camera in order to take photos or scan QR codes.</string>
 	<key>NSContactsUsageDescription</key>
 	<string>This will allow you to choose a contact to invite to Jira. Only the selected contact’s details will be sent to our servers.</string>
 	<key>NSFaceIDUsageDescription</key>

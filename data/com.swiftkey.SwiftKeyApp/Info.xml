@@ -19,7 +19,7 @@
 	<key>BIBO_URL</key>
 	<string>https://bibo.api.swiftkey.com</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24E263</string>
+	<string>24F5068b</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2.3</string>
+	<string>4.2.4</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -112,7 +112,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>423.0.1</string>
+	<string>424.0.4</string>
 	<key>CLARITY_PROJECT_ID</key>
 	<string>r1yya1mssl</string>
 	<key>DTAppStoreToolsBuild</key>
@@ -135,6 +135,8 @@
 	<string>16E140</string>
 	<key>EMOJI_PREDICTIONS_URL</key>
 	<string>emojicloudfrontend.api.swiftkey.com</string>
+	<key>ENVIRONMENT</key>
+	<string>Release</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
 	<false/>
 	<key>FacebookAppID</key>
@@ -173,7 +175,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>12.0</string>
+	<string>14.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSExceptionDomains</key>

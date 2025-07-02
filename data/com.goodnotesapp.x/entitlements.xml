@@ -39,6 +39,8 @@
 		<string>applinks:org-admin.goodnotesbeta.com</string>
 		<string>applinks:edu-admin.goodnotes.com</string>
 		<string>applinks:edu-admin.goodnotesbeta.com</string>
+		<string>applinks:web.goodnotesbeta.com</string>
+		<string>applinks:app.goodnotesbeta.com</string>
 		<string>applinks:marketplace.goodnotes.com</string>
 		<string>applinks:marketplace.goodnotesbeta.com</string>
 	</array>
@@ -71,6 +73,7 @@
 	<array>
 		<string>group.com.goodnotesapp.goodnotes</string>
 		<string>group.com.goodnotesapp.open-in-action-extension</string>
+		<string>group.com.goodnotesapp.nexushelper</string>
 	</array>
 </dict>
 </plist>
