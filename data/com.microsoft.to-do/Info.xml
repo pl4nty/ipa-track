@@ -12,7 +12,7 @@
 		<string>com.microsoft.to-do.bgProcessingTask</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24E263</string>
+	<string>24F5068b</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -53,7 +53,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.147</string>
+	<string>2.151</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -92,9 +92,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>250515.0908</string>
+	<string>250626.0542</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F3</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

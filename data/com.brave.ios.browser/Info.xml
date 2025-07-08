@@ -176,7 +176,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.79</string>
+	<string>1.80</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -199,7 +199,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>124</string>
+	<string>116</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
@@ -232,7 +232,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>16.0</string>
+	<string>17.0</string>
 	<key>MozDevelopmentTeam</key>
 	<string>KL8N8XSYF4</string>
 	<key>NFCReaderUsageDescription</key>
