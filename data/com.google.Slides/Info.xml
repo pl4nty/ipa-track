@@ -72,12 +72,90 @@
 	<string>com.google.Slides</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>af</string>
+		<string>am</string>
+		<string>ar</string>
+		<string>az</string>
+		<string>be</string>
+		<string>bg</string>
+		<string>bn</string>
+		<string>ca</string>
+		<string>cs</string>
+		<string>da</string>
+		<string>de</string>
+		<string>el</string>
+		<string>en</string>
+		<string>en_CA</string>
+		<string>en_GB</string>
+		<string>es</string>
+		<string>es_419</string>
+		<string>et</string>
+		<string>eu</string>
+		<string>fa</string>
+		<string>fi</string>
+		<string>fil</string>
+		<string>fr</string>
+		<string>fr_CA</string>
+		<string>gl</string>
+		<string>gu</string>
+		<string>hi</string>
+		<string>hr</string>
+		<string>hu</string>
+		<string>hy</string>
+		<string>id</string>
+		<string>is</string>
+		<string>it</string>
+		<string>he</string>
+		<string>ja</string>
+		<string>ka</string>
+		<string>kk</string>
+		<string>km</string>
+		<string>kn</string>
+		<string>ko</string>
+		<string>lo</string>
+		<string>lt</string>
+		<string>lv</string>
+		<string>ml</string>
+		<string>mn</string>
+		<string>mr</string>
+		<string>ms</string>
+		<string>ne</string>
+		<string>nl</string>
+		<string>nb</string>
+		<string>pa</string>
+		<string>pl</string>
+		<string>pt</string>
+		<string>pt_BR</string>
+		<string>pt_PT</string>
+		<string>ro</string>
+		<string>ru</string>
+		<string>si</string>
+		<string>sk</string>
+		<string>sl</string>
+		<string>sr</string>
+		<string>sv</string>
+		<string>sw</string>
+		<string>ta</string>
+		<string>te</string>
+		<string>th</string>
+		<string>tr</string>
+		<string>uk</string>
+		<string>ur</string>
+		<string>vi</string>
+		<string>zh</string>
+		<string>zh_CN</string>
+		<string>zh_HK</string>
+		<string>zh_TW</string>
+		<string>zu</string>
+	</array>
 	<key>CFBundleName</key>
 	<string>Slides</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2025.26202</string>
+	<string>1.2025.27201</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -101,7 +179,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.2025.26202</string>
+	<string>1.2025.27201</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
