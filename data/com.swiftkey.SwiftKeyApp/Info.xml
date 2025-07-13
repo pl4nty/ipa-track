@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2.4</string>
+	<string>4.2.5</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -112,7 +112,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>424.0.4</string>
+	<string>425.0.3</string>
 	<key>CLARITY_PROJECT_ID</key>
 	<string>r1yya1mssl</string>
 	<key>DTAppStoreToolsBuild</key>

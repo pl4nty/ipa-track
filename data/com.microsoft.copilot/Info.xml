@@ -326,7 +326,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>430630001.30.0</string>
+	<string>430710001.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -349,7 +349,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430630001</string>
+	<string>430710001</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
@@ -373,6 +373,7 @@
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>ms-officemobile</string>
+		<string>copilotnbeta</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -392,6 +393,7 @@
 	<array>
 		<string>https://consent.adjust.cn</string>
 		<string>https://consent.adjust.com</string>
+		<string>https://consent.adjust.io</string>
 		<string>https://consent.adjust.net.in</string>
 		<string>https://consent.adjust.world</string>
 		<string>https://consent.eu.adjust.com</string>
