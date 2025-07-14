@@ -55,7 +55,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>20.26.7</string>
+	<string>20.28.2</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -78,7 +78,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20.26.7</string>
+	<string>20.28.2</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F3</string>
 	<key>DTCompiler</key>
@@ -171,7 +171,7 @@
 		<string>googletranslate</string>
 		<string>googlevoice</string>
 		<string>playmovies</string>
-		<string>streetview</string>
+		<string>tailwindAppShare</string>
 		<string>waze</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
