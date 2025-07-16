@@ -13,7 +13,7 @@
 		<string>com.salesforce.offlineApp.priming</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>23H626</string>
+	<string>24F74</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -80,7 +80,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>256.010</string>
+	<string>256.020</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -105,7 +105,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6209192</string>
+	<string>6209270</string>
 	<key>CloneHeaderHexColor</key>
 	<string></string>
 	<key>CloneJobNumber</key>
@@ -130,19 +130,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22B74</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.1</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22B74</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.1</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1610</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16B40</string>
+	<string>16F6</string>
 	<key>HelpURL</key>
 	<string>https:/help.salesforce.com</string>
 	<key>ITSAppUsesNonExemptEncryption</key>

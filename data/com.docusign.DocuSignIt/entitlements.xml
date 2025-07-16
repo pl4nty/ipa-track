@@ -52,6 +52,20 @@
 		<string>activitycontinuation:account-d.docusign.com</string>
 		<string>applinks:*.account.docusign.com</string>
 		<string>activitycontinuation:*.account.docusign.com</string>
+		<string>applinks:na1-b.docusign.net</string>
+		<string>activitycontinuation:na1-b.docusign.net</string>
+		<string>applinks:na2-b.docusign.net</string>
+		<string>activitycontinuation:na2-b.docusign.net</string>
+		<string>applinks:na3-b.docusign.net</string>
+		<string>activitycontinuation:na3-b.docusign.net</string>
+		<string>applinks:na4-b.docusign.net</string>
+		<string>activitycontinuation:na4-b.docusign.net</string>
+		<string>applinks:eu-b.docusign.net</string>
+		<string>activitycontinuation:eu-b.docusign.net</string>
+		<string>applinks:demo-b.docusign.net</string>
+		<string>activitycontinuation:demo-b.docusign.net</string>
+		<string>applinks:stage-b.docusign.net</string>
+		<string>activitycontinuation:stage-b.docusign.net</string>
 	</array>
 	<key>com.apple.developer.devicecheck.appattest-environment</key>
 	<string>production</string>
