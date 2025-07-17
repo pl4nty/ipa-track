@@ -23,6 +23,17 @@
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:authenticator.securid.com</string>
+		<string>webcredentials:*.auth-dev.securid.com</string>
+		<string>webcredentials:*.auth-prod0.securid.com</string>
+		<string>webcredentials:*.auth-demo.securid.com</string>
+		<string>webcredentials:*.auth.securid.com</string>
+		<string>webcredentials:*.auth-eu.securid.com</string>
+		<string>webcredentials:*.auth-anz.securid.com</string>
+		<string>webcredentials:*.auth.securidgov.com</string>
+		<string>webcredentials:*.auth-in.securid.com</string>
+		<string>webcredentials:*.auth-jp.securid.com</string>
+		<string>webcredentials:*.auth-ca.securid.com</string>
+		<string>webcredentials:*.auth-sg.securid.com</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

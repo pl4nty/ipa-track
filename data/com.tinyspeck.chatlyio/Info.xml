@@ -150,7 +150,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.07.20</string>
+	<string>25.07.30</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSpokenName</key>
@@ -181,7 +181,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>450277</string>
+	<string>450426</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
@@ -202,6 +202,8 @@
 	<string>1640</string>
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
+	<key>GIDClientID</key>
+	<string>331588195051-jsmlcgdl2li407e48kjpjqgrb50k7u7c.apps.googleusercontent.com</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
