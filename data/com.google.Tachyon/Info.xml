@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>315.0</string>
+	<string>316.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -77,9 +77,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>315.0.80500</string>
+	<string>316.0.80998</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F3</string>
+	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -142,7 +142,7 @@
 		<string>https</string>
 		<string>mailto</string>
 		<string>playmovies</string>
-		<string>streetview</string>
+		<string>tailwindAppShare</string>
 		<string>truecaller</string>
 		<string>vnd.google.calendar</string>
 		<string>vnd.youtube</string>

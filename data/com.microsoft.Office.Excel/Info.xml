@@ -249,7 +249,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.99</string>
+	<string>2.99.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -306,9 +306,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.99.25071113</string>
+	<string>2.99.25071811</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F3</string>
+	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -527,7 +527,7 @@
 		<string>com.microsoft.excel.executesearch-dogfood</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>2.99.711.0</string>
+	<string>2.99.718.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

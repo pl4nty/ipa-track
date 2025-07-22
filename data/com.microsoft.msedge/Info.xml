@@ -181,7 +181,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>138.3351.83</string>
+	<string>138.3351.98</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -237,9 +237,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>138.0.3351.83</string>
+	<string>138.0.3351.98</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F3</string>
+	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -261,7 +261,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Edge</string>
 	<key>GTMUserAgentVersion</key>
-	<string>138.0.3351.83</string>
+	<string>138.0.3351.98</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>ADALClientId</key>
@@ -377,7 +377,7 @@
 	<key>NSUserTrackingUsageDescription</key>
 	<string>IDS_IOS_EDGE_USER_TRACKING_USAGE_DESCRIPTION</string>
 	<key>SCMRevision</key>
-	<string>16e2a7bef3208e592c2c1a00548d2736a0d23ec7</string>
+	<string>c0b2c6f77820dc2ab2c30d00c6632db33983fcda</string>
 	<key>SSOAuthURLScheme</key>
 	<string>x-msauth-microsoft-edge-https</string>
 	<key>UIApplicationDelegate</key>
