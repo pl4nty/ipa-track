@@ -45,12 +45,75 @@
 	<string>com.google.Gmail</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>af</string>
+		<string>ar</string>
+		<string>bg</string>
+		<string>bn</string>
+		<string>ca</string>
+		<string>cs</string>
+		<string>da</string>
+		<string>de</string>
+		<string>el</string>
+		<string>en_GB</string>
+		<string>es_419</string>
+		<string>es</string>
+		<string>et</string>
+		<string>eu</string>
+		<string>fa</string>
+		<string>fi</string>
+		<string>fil</string>
+		<string>fr_CA</string>
+		<string>fr</string>
+		<string>gl</string>
+		<string>gu</string>
+		<string>he</string>
+		<string>hi</string>
+		<string>hr</string>
+		<string>hu</string>
+		<string>id</string>
+		<string>is</string>
+		<string>it</string>
+		<string>ja</string>
+		<string>kn</string>
+		<string>ko</string>
+		<string>lt</string>
+		<string>lv</string>
+		<string>ml</string>
+		<string>mr</string>
+		<string>ms</string>
+		<string>nb</string>
+		<string>nl</string>
+		<string>pl</string>
+		<string>pt_BR</string>
+		<string>pt_PT</string>
+		<string>ro</string>
+		<string>ru</string>
+		<string>sk</string>
+		<string>sl</string>
+		<string>sr</string>
+		<string>sv</string>
+		<string>sw</string>
+		<string>ta</string>
+		<string>te</string>
+		<string>th</string>
+		<string>tr</string>
+		<string>uk</string>
+		<string>ur</string>
+		<string>vi</string>
+		<string>zh_CN</string>
+		<string>zh_HK</string>
+		<string>zh_TW</string>
+		<string>zu</string>
+	</array>
 	<key>CFBundleName</key>
 	<string>Gmail</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.0.250706</string>
+	<string>6.0.250713</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -73,9 +136,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6.0.250706.1798560</string>
+	<string>6.0.250713.1798656</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F3</string>
+	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -93,7 +156,7 @@
 	<key>DTXcodeBuild</key>
 	<string>16A242d</string>
 	<key>DynamiteVersion</key>
-	<string>0.550.781249798</string>
+	<string>0.552.782672670</string>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
 	<false/>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -143,7 +206,7 @@
 		<string>mailto</string>
 		<string>meetchitchatcalling</string>
 		<string>playmovies</string>
-		<string>streetview</string>
+		<string>tailwindAppShare</string>
 		<string>vnd.google.calendar</string>
 		<string>vnd.youtube</string>
 		<string>vnd.youtube.kids</string>

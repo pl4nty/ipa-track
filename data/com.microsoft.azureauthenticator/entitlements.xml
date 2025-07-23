@@ -8,6 +8,10 @@
 	<array>
 		<string>iCloud.com.microsoft.azureauthenticator</string>
 	</array>
+	<key>com.apple.developer.ubiquity-container-identifiers</key>
+	<array>
+		<string>iCloud.com.microsoft.azureauthenticator</string>
+	</array>
 	<key>application-identifier</key>
 	<string>SGGM6D27TK.com.microsoft.azureauthenticator</string>
 	<key>com.apple.developer.openURL-source</key>
@@ -53,6 +57,7 @@
 	<key>com.apple.developer.icloud-services</key>
 	<array>
 		<string>CloudKit</string>
+		<string>CloudDocuments</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

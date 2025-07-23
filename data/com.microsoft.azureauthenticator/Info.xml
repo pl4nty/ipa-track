@@ -48,7 +48,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.8.27</string>
+	<string>6.8.28</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -80,9 +80,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6</string>
+	<string>5</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F3</string>
+	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -106,6 +106,7 @@
 		<string>msauthv3</string>
 		<string>googlechrome</string>
 		<string>microsoft-edge</string>
+		<string>microsoft-edge-x</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
