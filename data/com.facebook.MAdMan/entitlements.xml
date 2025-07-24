@@ -14,6 +14,8 @@
 	<string>production</string>
 	<key>com.apple.developer.icloud-container-environment</key>
 	<string>Production</string>
+	<key>com.apple.developer.usernotifications.time-sensitive</key>
+	<true/>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:m.facebook.com</string>
@@ -30,12 +32,12 @@
 	<array>
 		<string>iCloud.com.facebook.MAdMan</string>
 	</array>
-	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
-	<string>V9WTTPBFK9.com.facebook.MAdMan</string>
 	<key>com.apple.developer.icloud-services</key>
 	<array>
 		<string>CloudDocuments</string>
 	</array>
+	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+	<string>V9WTTPBFK9.com.facebook.MAdMan</string>
 	<key>com.apple.security.application-groups</key>
 	<array>
 		<string>group.com.facebook.MAdMan</string>

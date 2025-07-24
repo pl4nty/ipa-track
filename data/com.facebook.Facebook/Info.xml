@@ -19,7 +19,7 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBuildDate</key>
-	<string>2025-07-15T21:37:44</string>
+	<string>2025-07-21T21:42:24</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>522.0.0</string>
+	<string>523.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -113,9 +113,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>763693145</string>
+	<string>766554692</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F3</string>
+	<string>16F7</string>
 	<key>DTPlatformBuild</key>
 	<string>22F76</string>
 	<key>DTPlatformName</key>
@@ -131,25 +131,25 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>522.0.0.42.99</string>
+	<string>523.0.0.38.95</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>763693145</integer>
+	<integer>766554692</integer>
 	<key>FBBuildRevision</key>
-	<string>73da494efbbda015fca28ae21f104fe066a528be</string>
+	<string>1c054b617f44ac7e23bc84da001178cbcb7c631f</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1752613831.025200</string>
+	<string>1753130915.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1752615464</integer>
+	<integer>1753134144</integer>
 	<key>FBJSBundleRoot</key>
 	<string>EntryPoints/WildeBundle</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>522.0.0</string>
+	<string>523.0.0</string>
 	<key>FBSearchAppSpecificConfig</key>
 	<string>FBSearchWildeAppSpecificConfig</string>
 	<key>FacebookAppID</key>
@@ -169,7 +169,6 @@
 		<string>fb-pma</string>
 		<string>line</string>
 		<string>snapchat</string>
-		<string>com.amazon.mobile.map.3psso</string>
 		<string>com.amazon.mobile.map.3pssov2</string>
 		<string>fb-biz</string>
 		<string>comgooglemaps</string>
@@ -354,8 +353,6 @@ You can always change this in your device settings.</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>AvenyT_Regular.otf</string>
-		<string>Optimistic_DisplayVF_A_Wght.ttf</string>
-		<string>Optimistic_TextVF_A_Wght.ttf</string>
 		<string>Optimistic_VF_App_Lite.ttf</string>
 	</array>
 	<key>UIBackgroundModes</key>

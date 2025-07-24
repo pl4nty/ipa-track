@@ -21,7 +21,7 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-07-16T02:34:51</string>
+	<string>2025-07-22T23:40:11</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleExecutable</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>229.0.0</string>
+	<string>230.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -78,9 +78,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>763762240</string>
+	<string>767139559</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F3</string>
+	<string>16F7</string>
 	<key>DTPlatformBuild</key>
 	<string>22F76</string>
 	<key>DTPlatformName</key>
@@ -96,23 +96,23 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>229.0.0.15.167</string>
+	<string>230.0.0.20.164</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>763762240</integer>
+	<integer>767139559</integer>
 	<key>FBBuildRevision</key>
-	<string>7763690635e067804aa4f44a21b8980a80b3b364</string>
+	<string>d6c95e68e82b9f9f2178bb2d4ecd724ef3f122d6</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1752625979.025200</string>
+	<string>1753225903.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1752633291</integer>
+	<integer>1753227611</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>229.0.0</string>
+	<string>230.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -180,7 +180,7 @@
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>This will let Meta AI save captures to your phone's Photos app.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>This allows the app to save media to your phone's camera roll by creating and accessing a Ray-Ban Stories album.</string>
+	<string>This allows the app to save media to your phone's camera roll by creating and accessing a Meta AI album.</string>
 	<key>NSRemindersUsageDescription</key>
 	<string>This allows you to access and manage reminders with your glasses.</string>
 	<key>NSSupportsLiveActivities</key>
