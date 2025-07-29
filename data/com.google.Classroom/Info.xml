@@ -132,7 +132,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.37.300039145</string>
+	<string>3.38.300039775</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -149,11 +149,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.37.780333144</string>
+	<string>3.38.786843698</string>
 	<key>CrashBackendEnvironment</key>
 	<string>production</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F3</string>
+	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -217,7 +217,7 @@
 		<string>https</string>
 		<string>mailto</string>
 		<string>playmovies</string>
-		<string>streetview</string>
+		<string>tailwindAppShare</string>
 		<string>vnd.google.calendar</string>
 		<string>vnd.youtube</string>
 		<string>vnd.youtube.kids</string>

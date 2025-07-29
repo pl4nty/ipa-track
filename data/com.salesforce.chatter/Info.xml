@@ -80,7 +80,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>256.020</string>
+	<string>256.030</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -105,7 +105,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6209270</string>
+	<string>6209348</string>
 	<key>CloneHeaderHexColor</key>
 	<string></string>
 	<key>CloneJobNumber</key>
@@ -126,7 +126,7 @@
 	<key>CloneSplashBackgroundHexColor</key>
 	<string></string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F3</string>
+	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
