@@ -9,7 +9,7 @@
 		<string>com.google.notifications.bgtask.processing</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>24C101</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -113,7 +113,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.0.250713</string>
+	<string>6.0.250721</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -136,27 +136,27 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6.0.250713.1798656</string>
+	<string>6.0.250721.1798850</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22A3362</string>
+	<string>22E235</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.0</string>
+	<string>18.4</string>
 	<key>DTSDKBuild</key>
-	<string>22A3362</string>
+	<string>22E235</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.0</string>
+	<string>iphoneos18.4</string>
 	<key>DTXcode</key>
-	<string>1600</string>
+	<string>1630</string>
 	<key>DTXcodeBuild</key>
-	<string>16A242d</string>
+	<string>16E140</string>
 	<key>DynamiteVersion</key>
-	<string>0.552.782672670</string>
+	<string>0.554.786528663</string>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
 	<false/>
 	<key>ITSAppUsesNonExemptEncryption</key>
