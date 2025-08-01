@@ -21,7 +21,7 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-07-22T23:40:11</string>
+	<string>2025-07-29T20:30:24</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleExecutable</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>230.0.0</string>
+	<string>231.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -78,7 +78,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>767139559</string>
+	<string>770289393</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTPlatformBuild</key>
@@ -96,23 +96,23 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>230.0.0.20.164</string>
+	<string>231.0.0.12.169</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>767139559</integer>
+	<integer>770289393</integer>
 	<key>FBBuildRevision</key>
-	<string>d6c95e68e82b9f9f2178bb2d4ecd724ef3f122d6</string>
+	<string>10a793dcbb1316177280cd1d5eb546a695981260</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1753225903.025200</string>
+	<string>1753819806.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1753227611</integer>
+	<integer>1753821024</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>230.0.0</string>
+	<string>231.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -195,8 +195,6 @@
 		<string>pantograph_medium.otf</string>
 		<string>marche_super.otf</string>
 		<string>goodall_medium.otf</string>
-		<string>Optimistic_DisplayVF_A_Wght.ttf</string>
-		<string>Optimistic_TextVF_A_Wght.ttf</string>
 		<string>OptimisticVF_A_WghtItalDrkmWdth.ttf</string>
 		<string>Optimistic_VF_App_Lite.ttf</string>
 		<string>Segoe_UI.ttf</string>
