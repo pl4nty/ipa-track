@@ -689,7 +689,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.99.2</string>
+	<string>2.99.3</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -784,7 +784,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.99.25072328</string>
+	<string>2.99.25080110</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -1009,7 +1009,7 @@
 	<key>NSUserTrackingUsageDescription</key>
 	<string>Your data will be used to deliver personalised ads to you.</string>
 	<key>OfficeLegacyVersion</key>
-	<string>2.99.723.2</string>
+	<string>2.99.801.3</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
