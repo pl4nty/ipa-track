@@ -9,7 +9,7 @@
 	<key>BreakpadProduct</key>
 	<string>Google_Cast_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24C101</string>
+	<string>23F79</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -52,7 +52,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.37.56</string>
+	<string>3.38.55</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -82,7 +82,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.37.56.16</string>
+	<string>3.38.55.06</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -429,6 +429,7 @@
 	<string>Bluetooth is used to detect nearby devices.</string>
 	<key>NSBonjourServices</key>
 	<array>
+		<string>_googcrossdevice._tcp</string>
 		<string>_matter._tcp</string>
 		<string>_matterc._udp</string>
 		<string>_matterd._udp</string>

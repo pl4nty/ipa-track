@@ -84,7 +84,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2025.15</string>
+	<string>2025.16</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -119,7 +119,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20250717.164857</string>
+	<string>20250801.141439</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -167,6 +167,7 @@
 		<string>jira</string>
 		<string>confluence-server</string>
 		<string>jira-server</string>
+		<string>loom</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
