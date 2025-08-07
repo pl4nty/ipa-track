@@ -82,7 +82,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.11.3</string>
+	<string>8.11.4</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -121,9 +121,19 @@
 				<string>otpauth-apple</string>
 			</array>
 		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.1password.associate.scheme</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>one-password-associate-device</string>
+			</array>
+		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>81103003</string>
+	<string>81104027</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -146,6 +156,12 @@
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
 	<string>e44848c1-51b7-48da-9778-911d6889c20c</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>kolide</string>
+	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
@@ -168,7 +184,7 @@
 		<string>com.1password.1password.handoff.item</string>
 	</array>
 	<key>OPBundleVersionFull</key>
-	<string>8.11.3</string>
+	<string>8.11.4</string>
 	<key>SFSafariCorrespondingMacOSAppBundleIdentifier</key>
 	<string>com.1password.safari</string>
 	<key>UIApplicationSceneManifest</key>
