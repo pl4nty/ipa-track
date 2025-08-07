@@ -11,6 +11,7 @@ Want to track a new app? [Click here](https://iosbundleidfinder.vercel.app/) to 
 | Name       | Bundle ID                     | URL Schemes         | Universal Links                                                                 |
 | ------------ | ------------------------------- | --------------------- | -------------------------------------------------------------------------------- |
 | Proton Mail | `ch.protonmail.protonmail` | `protonmail;mailto` | N/A |
+| Gallagher CC | `co.gallagher.security.CommandCentreMobile` | N/A | N/A |
 | 1Password | `com.1password.1password` | <details>`onepassword;onepassword8;onepassword8;otpauth;otpauth-apple;one-password-associate-device`</details> | <details>`http://1password.com/*;https://1password.com/*;http://*.1password.com/*;https://*.1password.com/*;http://b5dev.com/*;https://b5dev.com/*;http://b5test.com/*;https://b5test.com/*;http://b5dev.ca/*;https://b5dev.ca/*;http://*.b5dev.com/*;https://*.b5dev.com/*;http://*.b5test.com/*;https://*.b5test.com/*;http://*.b5dev.ca/*;https://*.b5dev.ca/*;http://*.b5rev.ca/*;https://*.b5rev.ca/*`</details> |
 | Bitwarden | `com.8bit.bitwarden` | <details>`bitwarden;org-appextension-feature-password-management;otpauth`</details> | <details>`http://*.bitwarden.com/*;https://*.bitwarden.com/*;http://*.bitwarden.eu/*;https://*.bitwarden.eu/*;http://*.bitwarden.pw/*;https://*.bitwarden.pw/*`</details> |
 | Files | `com.apple.DocumentsApp` | N/A | N/A |
