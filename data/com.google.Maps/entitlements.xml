@@ -161,6 +161,7 @@
 		<string>applinks:maps.google.mk</string>
 		<string>applinks:maps.google.ml</string>
 		<string>applinks:maps.google.mn</string>
+		<string>applinks:maps.google.mo</string>
 		<string>applinks:maps.google.ms</string>
 		<string>applinks:maps.google.mu</string>
 		<string>applinks:maps.google.mv</string>
@@ -344,6 +345,7 @@
 		<string>applinks:www.google.mk</string>
 		<string>applinks:www.google.ml</string>
 		<string>applinks:www.google.mn</string>
+		<string>applinks:www.google.mo</string>
 		<string>applinks:www.google.ms</string>
 		<string>applinks:www.google.mu</string>
 		<string>applinks:www.google.mv</string>
@@ -530,6 +532,7 @@
 		<string>appclips:maps.google.mk</string>
 		<string>appclips:maps.google.ml</string>
 		<string>appclips:maps.google.mn</string>
+		<string>appclips:maps.google.mo</string>
 		<string>appclips:maps.google.ms</string>
 		<string>appclips:maps.google.mu</string>
 		<string>appclips:maps.google.mv</string>
@@ -713,6 +716,7 @@
 		<string>appclips:www.google.mk</string>
 		<string>appclips:www.google.ml</string>
 		<string>appclips:www.google.mn</string>
+		<string>appclips:www.google.mo</string>
 		<string>appclips:www.google.ms</string>
 		<string>appclips:www.google.mu</string>
 		<string>appclips:www.google.mv</string>
