@@ -390,7 +390,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>291.0</string>
+	<string>292.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -401,7 +401,7 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>discord firebase</string>
+			<string>discord://</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>com.hammerandchisel.discord</string>
@@ -410,7 +410,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>81988</string>
+	<string>82413</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -501,7 +501,7 @@
 	<key>RELEASE_CHANNEL</key>
 	<string>ptb</string>
 	<key>SENTRY_RELEASE</key>
-	<string>discord_ios@291.0.81988+81988</string>
+	<string>discord_ios@292.0.82413+82413</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>abcgintonord-800-extrabold.ttf</string>

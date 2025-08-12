@@ -132,7 +132,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.38.300039775</string>
+	<string>3.39.300040090</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -149,7 +149,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.38.786843698</string>
+	<string>3.39.790965871</string>
 	<key>CrashBackendEnvironment</key>
 	<string>production</string>
 	<key>DTAppStoreToolsBuild</key>
@@ -180,6 +180,8 @@
 	<string>8a5ddc2d-43ba-4207-83bb-f4997a88383d</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
+		<string>com.googleusercontent.apps.262921625321-1o8a007khgs9bhptf7tpaurgachtsv2q</string>
+		<string>com.googleusercontent.apps.353013613329-p6dtc7bv44a4udqd4g4fqfps4udahi44</string>
 		<string>com.google.chat</string>
 		<string>com.google.fit</string>
 		<string>com.google.hangouts</string>

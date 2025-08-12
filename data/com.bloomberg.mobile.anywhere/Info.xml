@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BBBuildDate</key>
-	<string>2025-07-25</string>
+	<string>2025-08-04</string>
 	<key>BBCommitId</key>
 	<string></string>
 	<key>BuildMachineOSBuild</key>
@@ -79,7 +79,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.2515</string>
+	<string>2.2516</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -99,7 +99,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2251520</string>
+	<string>2251617</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -143,7 +143,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<false/>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>18.0</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
 	<string>Bloomberg Professional uses Bluetooth to communicate with external input devices.</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
