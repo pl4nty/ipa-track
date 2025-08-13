@@ -113,7 +113,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.0.250728</string>
+	<string>6.0.250804</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -136,7 +136,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6.0.250728.1798938</string>
+	<string>6.0.250804.1799106</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -156,7 +156,7 @@
 	<key>DTXcodeBuild</key>
 	<string>16E140</string>
 	<key>DynamiteVersion</key>
-	<string>0.556.788012492</string>
+	<string>0.558.790928074</string>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
 	<false/>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -165,6 +165,8 @@
 	<string>f4561262-769c-4899-b4a1-19674ce49f9a</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
+		<string>com.googleusercontent.apps.262921625321-1o8a007khgs9bhptf7tpaurgachtsv2q</string>
+		<string>com.googleusercontent.apps.353013613329-p6dtc7bv44a4udqd4g4fqfps4udahi44</string>
 		<string>com.google.chat</string>
 		<string>com.google.fit</string>
 		<string>com.google.hangouts</string>
