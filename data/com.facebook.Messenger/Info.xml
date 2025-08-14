@@ -17,7 +17,7 @@
 		<string>com.facebook.messenger.psi</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-08-06T21:33:16</string>
+	<string>2025-08-12T15:16:19</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -58,7 +58,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>519.0.0</string>
+	<string>520.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -271,7 +271,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>774183298</string>
+	<string>776890074</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTPlatformBuild</key>
@@ -289,23 +289,23 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>519.0.0.52.111</string>
+	<string>520.0.0.62.107</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>774183298</integer>
+	<integer>776890074</integer>
 	<key>FBBuildRevision</key>
-	<string>53df3771cd7e387faf2a402bf342931145681cf7</string>
+	<string>42df6f3b9e213027f7eb2559eb7894c1093c5787</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1754513907.025200</string>
+	<string>1755007311.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1754515996</integer>
+	<integer>1755011779</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>519.0.0</string>
+	<string>520.0.0</string>
 	<key>FacebookAppID</key>
 	<string>437626316973788</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -325,66 +325,66 @@
 		<string>krungsri-kma</string>
 		<string>ktbnext</string>
 		<string>tcb</string>
-		<string>fb336485984258580</string>
+		<string>fb597615686992125</string>
 		<string>fb1657433568360804</string>
+		<string>fb958207989052831</string>
 		<string>fb24101460846123576</string>
-		<string>fb841338400525592</string>
-		<string>fb1470245623619022</string>
-		<string>fb2819481584869881</string>
-		<string>wayfairapp</string>
-		<string>fb153277661752118</string>
-		<string>fb969096818404170</string>
-		<string>fb654935278355098</string>
-		<string>hardrock</string>
-		<string>fb565174839280642</string>
-		<string>fb236995639668665</string>
-		<string>apples6505095234</string>
-		<string>fb503934352950298</string>
-		<string>fb342073336607831</string>
-		<string>fb1701380507466702</string>
-		<string>fb622121112850283</string>
-		<string>fb1411045516218795</string>
-		<string>kraken</string>
-		<string>fb3833784630241184</string>
-		<string>fb600046849315790</string>
-		<string>fb551625605554229</string>
-		<string>fb174103646072524</string>
-		<string>fb1065312064700600</string>
-		<string>fb285025889266955</string>
-		<string>fb1603460197048846</string>
-		<string>fb270446569162046</string>
-		<string>fb246559161388001</string>
-		<string>fb788159262447755</string>
-		<string>fb1938838706632844</string>
-		<string>fb872215033266255</string>
-		<string>fb1203243977843788</string>
-		<string>fb401696723281463</string>
-		<string>fb881533305321336</string>
-		<string>fb731736312761296</string>
 		<string>fb1601862990589808</string>
-		<string>fb2446891192176100</string>
-		<string>fb1023560685845135</string>
-		<string>fb531349919441502</string>
-		<string>ubereats</string>
-		<string>fb550036724764682</string>
+		<string>fb174103646072524</string>
+		<string>fb1411045516218795</string>
+		<string>fb622121112850283</string>
+		<string>fb342073336607831</string>
+		<string>fb565174839280642</string>
+		<string>apples6505095234</string>
+		<string>fb969096818404170</string>
+		<string>fb503934352950298</string>
+		<string>fb236995639668665</string>
 		<string>fb1571278137067038</string>
-		<string>fb1777365365898806</string>
-		<string>fb462596768972930</string>
-		<string>fb670059162069603</string>
-		<string>fb277638822572073</string>
-		<string>fb2328240260794422</string>
-		<string>fb293978624117724</string>
+		<string>fb3833784630241184</string>
+		<string>fb153277661752118</string>
+		<string>fb9683471121685678</string>
+		<string>fb270446569162046</string>
+		<string>fb1065312064700600</string>
+		<string>fb1129616953729755</string>
+		<string>fb600046849315790</string>
+		<string>fb788159262447755</string>
+		<string>fb285025889266955</string>
+		<string>fb1770754213109942</string>
+		<string>fb654935278355098</string>
 		<string>fb188147905342687</string>
-		<string>fb532160876956612</string>
-		<string>fb8192614290822603</string>
+		<string>fb882538547102214</string>
+		<string>fb872215033266255</string>
+		<string>fb1603460197048846</string>
+		<string>fb246559161388001</string>
+		<string>fb1203243977843788</string>
 		<string>fb208479887343676</string>
-		<string>fb556701839348586</string>
-		<string>fb2303380839957579</string>
+		<string>ubereats</string>
+		<string>fb551625605554229</string>
+		<string>fb881533305321336</string>
+		<string>fb401696723281463</string>
+		<string>fb1528052015256817</string>
 		<string>fb172594591747244</string>
 		<string>fb1155010764702324</string>
-		<string>dkcs</string>
 		<string>fb1353214035976287</string>
+		<string>fb462596768972930</string>
+		<string>wayfairapp</string>
+		<string>fb277638822572073</string>
+		<string>fb2303380839957579</string>
+		<string>fb1839011602994843</string>
+		<string>fb556701839348586</string>
+		<string>fb1777365365898806</string>
+		<string>fb293978624117724</string>
+		<string>fb550036724764682</string>
+		<string>fb1245150123633280</string>
+		<string>fb8192614290822603</string>
+		<string>dkcs</string>
+		<string>fb306284836640678</string>
 		<string>fb1463621440622064</string>
+		<string>fb326605667418591</string>
+		<string>fb2446891192176100</string>
+		<string>fb1023560685845135</string>
+		<string>fb832520974160908</string>
+		<string>fb1042157116238764</string>
 		<string>http</string>
 		<string>https</string>
 	</array>
@@ -470,7 +470,7 @@
 	<key>NSSiriUsageDescription</key>
 	<string>This lets you use Siri to do things like make calls and read messages.</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
-	<string>Messenger will use speech recognition to generate captions as people speak.</string>
+	<string>Messenger will use speech recognition to detect your confirmation.</string>
 	<key>NSSupportsLiveActivities</key>
 	<true/>
 	<key>NSUserActivityTypes</key>

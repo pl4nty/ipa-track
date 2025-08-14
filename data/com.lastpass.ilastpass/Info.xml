@@ -5,7 +5,7 @@
 	<key>AppIdentifierPrefix</key>
 	<string>RNDLY9ZML8.</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24B83</string>
+	<string>24F74</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.34.0</string>
+	<string>6.34.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -137,25 +137,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6.34.0.11210</string>
+	<string>6.34.1.11341</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22B74</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.1</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22B74</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.1</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1610</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16B40</string>
+	<string>16F6</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
