@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.PageAdminApp</string>
 	<key>CFBuildDate</key>
-	<string>2025-08-05T13:30:29</string>
+	<string>2025-08-14T00:35:16</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>453.0</string>
+	<string>454.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -91,7 +91,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>773470618</string>
+	<string>777605500</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTPlatformBuild</key>
@@ -109,19 +109,19 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>453.0.0.47.108</string>
+	<string>454.0.0.75.108</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>773470618</integer>
+	<integer>777605500</integer>
 	<key>FBBuildRevision</key>
-	<string>d961a36ac5470994d6d5dfe6e1ae6cf1a5f1d473</string>
+	<string>f24ba3a5eb2cdb2d32e507cf011e8cb65a8fe8ff</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1754399073.025200</string>
+	<string>1755130139.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1754400629</integer>
+	<integer>1755131716</integer>
 	<key>FBColorPalette</key>
 	<string>PMAStandardColorPalette</string>
 	<key>FBDisableAutoRegisterForPush</key>
@@ -133,7 +133,7 @@
 	<key>FBPhotoActionSheetHideSendAsMessageOption</key>
 	<true/>
 	<key>FBPlatformVersion</key>
-	<string>453.0</string>
+	<string>454.0</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
 	<false/>
 	<key>FacebookAppID</key>
@@ -233,6 +233,8 @@
 	<string>Meta Business Suite uses access to your photos to do things like help you share and apply visual effects to your photos and videos.</string>
 	<key>NSPrincipalClass</key>
 	<string>FBApplication</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Meta Business Suite will use speech recognition to detect your confirmation.</string>
 	<key>NSUserActivityTypes</key>
 	<array>
 		<string>INStartAudioCallIntent</string>
