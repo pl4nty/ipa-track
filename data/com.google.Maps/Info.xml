@@ -54,12 +54,65 @@
 	<string>com.google.Maps</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>ar</string>
+		<string>az</string>
+		<string>ca</string>
+		<string>cs</string>
+		<string>da</string>
+		<string>de</string>
+		<string>el</string>
+		<string>en_AU</string>
+		<string>en_GB</string>
+		<string>en_IN</string>
+		<string>es</string>
+		<string>es_419</string>
+		<string>es_MX</string>
+		<string>fi</string>
+		<string>fr</string>
+		<string>fr_CA</string>
+		<string>he</string>
+		<string>hi</string>
+		<string>hr</string>
+		<string>hu</string>
+		<string>hy</string>
+		<string>id</string>
+		<string>it</string>
+		<string>ja</string>
+		<string>ka</string>
+		<string>ko</string>
+		<string>lt</string>
+		<string>ms</string>
+		<string>my</string>
+		<string>nb</string>
+		<string>nl</string>
+		<string>pl</string>
+		<string>pt_BR</string>
+		<string>pt_PT</string>
+		<string>ro</string>
+		<string>ru</string>
+		<string>sk</string>
+		<string>sq</string>
+		<string>sr</string>
+		<string>sv</string>
+		<string>sw</string>
+		<string>th</string>
+		<string>tr</string>
+		<string>uk</string>
+		<string>uz</string>
+		<string>vi</string>
+		<string>zh_CN</string>
+		<string>zh_HK</string>
+		<string>zh_TW</string>
+	</array>
 	<key>CFBundleName</key>
 	<string>Google Maps</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.32.0</string>
+	<string>25.33.2</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google Maps</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -90,7 +143,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>25.32.0.7907634650</string>
+	<string>25.33.2.7935927040</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>

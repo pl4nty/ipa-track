@@ -21,7 +21,7 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-08-01T21:32:31</string>
+	<string>2025-08-13T00:00:22</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -62,7 +62,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>232.0.0</string>
+	<string>233.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -80,7 +80,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>771851211</string>
+	<string>777087957</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTPlatformBuild</key>
@@ -98,23 +98,23 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>232.0.0.16.168</string>
+	<string>233.0.0.21.167</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>771851211</integer>
+	<integer>777087957</integer>
 	<key>FBBuildRevision</key>
-	<string>126161440a945913f4df450aa3b7650219adddd5</string>
+	<string>16f07c7949dedd8c572d01bf9ffeedd2083c42d8</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1754081198.025200</string>
+	<string>1755042148.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1754083951</integer>
+	<integer>1755043222</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>232.0.0</string>
+	<string>233.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -197,7 +197,7 @@
 		<string>pantograph_medium.otf</string>
 		<string>marche_super.otf</string>
 		<string>goodall_medium.otf</string>
-		<string>OptimisticVF_A_WghtItalDrkmWdth.ttf</string>
+		<string>OptimisticAIVF_A_DrkmOpszWghtItal.ttf</string>
 		<string>Optimistic_VF_App_Lite.ttf</string>
 		<string>Segoe_UI.ttf</string>
 		<string>Lato-Regular.ttf</string>
