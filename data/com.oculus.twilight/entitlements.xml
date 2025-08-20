@@ -37,6 +37,8 @@
 		<string>webcredentials:www.facebook.com</string>
 		<string>webcredentials:m.facebook.com</string>
 		<string>webcredentials:facebook.com</string>
+		<string>webcredentials:meta.com</string>
+		<string>webcredentials:www.meta.com</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

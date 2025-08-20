@@ -249,7 +249,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>142.0</string>
+	<string>142.0.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -271,7 +271,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>59346</string>
+	<string>60131</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
@@ -325,9 +325,9 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<true/>
 	<key>LiteLLMAPIEndpoint</key>
-	<string>https://llm-proxy-nonprod-stage-mozilla.global.ssl.fastly.net/</string>
+	<string>https://llm-proxy-prod-prod-mozilla.global.ssl.fastly.net/</string>
 	<key>LiteLLMAPIKey</key>
-	<string>sk-K0mV22WP5K5v-jRX1XmKSg</string>
+	<string>sk-thtmZy1MNDR4B2bK0thGag</string>
 	<key>LiteLLMAPIModel</key>
 	<string>mistral-small-2503</string>
 	<key>MinimumOSVersion</key>

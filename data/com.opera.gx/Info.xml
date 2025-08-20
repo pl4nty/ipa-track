@@ -236,7 +236,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.9.0</string>
+	<string>2.9.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -256,7 +256,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3463</string>
+	<string>3507</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -285,6 +285,9 @@
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
+		<string>youtube</string>
+		<string>paypal</string>
+		<string>instagram</string>
 		<string>whatsapp</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>

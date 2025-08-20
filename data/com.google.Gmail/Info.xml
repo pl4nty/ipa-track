@@ -113,7 +113,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.0.250804</string>
+	<string>6.0.250811</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -136,7 +136,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6.0.250804.1799106</string>
+	<string>6.0.250811.1799356</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -156,7 +156,7 @@
 	<key>DTXcodeBuild</key>
 	<string>16E140</string>
 	<key>DynamiteVersion</key>
-	<string>0.558.790928074</string>
+	<string>0.560.795281919</string>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
 	<false/>
 	<key>ITSAppUsesNonExemptEncryption</key>

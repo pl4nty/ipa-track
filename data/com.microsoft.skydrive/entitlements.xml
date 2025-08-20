@@ -27,6 +27,7 @@
 		<string>applinks:krs.microsoft.com</string>
 		<string>applinks:safelinks.protection.outlook.com</string>
 		<string>applinks:*.safelinks.protection.outlook.com</string>
+		<string>applinks:onedrive.cloud.microsoft</string>
 		<string>webcredentials:login.microsoft.com</string>
 		<string>webcredentials:login.microsoftonline.us</string>
 		<string>webcredentials:login.partner.microsoftonline.cn</string>

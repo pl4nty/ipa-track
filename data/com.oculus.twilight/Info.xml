@@ -9,7 +9,7 @@
 		<string>com.facebook.bgfetch</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-08-12T01:06:56</string>
+	<string>2025-08-18T17:37:43</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>332.0</string>
+	<string>333.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -72,7 +72,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>776601144</string>
+	<string>779660551</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTPlatformBuild</key>
@@ -90,19 +90,19 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>332.0.0.13.109</string>
+	<string>333.0.0.19.109</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
-	<string>fbobjc/releases/release-twilight-ios-2025.08.11</string>
+	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>776601144</integer>
+	<integer>779660551</integer>
 	<key>FBBuildRevision</key>
-	<string>2f1c406e40673d55ec93893632eca379724a7c82</string>
+	<string>e1447fca7b8944f2e3b2b6f83a37fed53076ec9b</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1754958827.025200</string>
+	<string>1755536932.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1754960816</integer>
+	<integer>1755538663</integer>
 	<key>FBCWAppBugReportCategory</key>
 	<string>1945899645655301</string>
 	<key>FBCWAppName</key>
@@ -118,13 +118,11 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>332.0</string>
+	<string>333.0</string>
 	<key>FBThisAppKeychainGroup</key>
 	<string>V9WTTPBFK9.com.oculus.twilight</string>
 	<key>FacebookAppID</key>
 	<string>147781309031234</string>
-	<key>FacebookAutoLogAppEventsEnabled</key>
-	<false/>
 	<key>FacebookClientToken</key>
 	<string>b999b73f6fb8e2937f87293603de9a2e</string>
 	<key>FacebookDisplayName</key>

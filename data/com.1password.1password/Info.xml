@@ -82,7 +82,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.11.4</string>
+	<string>8.11.6</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -133,7 +133,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>81104027</string>
+	<string>81106027</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -184,7 +184,7 @@
 		<string>com.1password.1password.handoff.item</string>
 	</array>
 	<key>OPBundleVersionFull</key>
-	<string>8.11.4</string>
+	<string>8.11.6</string>
 	<key>SFSafariCorrespondingMacOSAppBundleIdentifier</key>
 	<string>com.1password.safari</string>
 	<key>UIApplicationSceneManifest</key>
