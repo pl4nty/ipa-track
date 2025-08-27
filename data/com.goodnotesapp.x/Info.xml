@@ -43,7 +43,7 @@
 		<string>com.goodnotesapp.x.config-download</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24F74</string>
+	<string>24D81</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -219,7 +219,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.7.14</string>
+	<string>6.7.16</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -285,7 +285,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3352843.168936012</string>
+	<string>3361619.233005576</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -463,6 +463,8 @@
 		<string>processing</string>
 		<string>remote-notification</string>
 	</array>
+	<key>UIDesignRequiresCompatibility</key>
+	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
@@ -908,7 +910,7 @@
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>6.7.14
+		<string>6.7.16
 </string>
 	</dict>
 </dict>

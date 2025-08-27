@@ -132,7 +132,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.39.300040090</string>
+	<string>3.40.300040580</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -149,7 +149,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.39.790965871</string>
+	<string>3.40.797302031</string>
 	<key>CrashBackendEnvironment</key>
 	<string>production</string>
 	<key>DTAppStoreToolsBuild</key>
@@ -172,6 +172,8 @@
 	<string>16A242d</string>
 	<key>FLTEnableWideGamut</key>
 	<false/>
+	<key>FLTLibraryPath</key>
+	<string>Frameworks/ios_prod__app.framework</string>
 	<key>FlutterDeepLinkingEnabled</key>
 	<true/>
 	<key>ITSAppUsesNonExemptEncryption</key>
