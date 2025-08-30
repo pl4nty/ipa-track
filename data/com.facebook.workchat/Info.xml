@@ -9,7 +9,7 @@
 		<string>com.facebook.workchat.bgrefresh</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-08-17T12:43:31</string>
+	<string>2025-08-24T19:35:21</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>527.0</string>
+	<string>528.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -109,7 +109,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>779178939</string>
+	<string>782559084</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTPlatformBuild</key>
@@ -127,23 +127,23 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>527.0.0.33.106</string>
+	<string>528.0.0.21.107</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>779178939</integer>
+	<integer>782559084</integer>
 	<key>FBBuildRevision</key>
-	<string>891c60fc4b275de63596b0ea370909638523f592</string>
+	<string>023ac6614356ea3c3f9b5c6d931ef5be40fdba35</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1755432820.025200</string>
+	<string>1756062771.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1755434611</integer>
+	<integer>1756064121</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>527.0</string>
+	<string>528.0</string>
 	<key>FBToolchain</key>
 	<string>Stable</string>
 	<key>FacebookAppID</key>

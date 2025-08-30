@@ -17,8 +17,6 @@
 	<true/>
 	<key>application-identifier</key>
 	<string>T84QZS65DQ.com.facebook.Facebook</string>
-	<key>com.apple.developer.networking.HotspotConfiguration</key>
-	<true/>
 	<key>aps-environment</key>
 	<string>production</string>
 	<key>com.apple.developer.usernotifications.time-sensitive</key>
@@ -68,17 +66,23 @@
 		<string>iCloud.com.facebook.Wilde</string>
 		<string>iCloud.com.facebook.Messenger.encryptedBackups</string>
 	</array>
+	<key>com.apple.developer.storekit.request-data</key>
+	<true/>
+	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+	<string>V9WTTPBFK9.com.facebook.Wilde</string>
+	<key>com.apple.developer.kernel.extended-virtual-addressing</key>
+	<true/>
+	<key>com.apple.developer.kernel.increased-memory-limit</key>
+	<true/>
 	<key>com.apple.developer.icloud-services</key>
 	<array>
 		<string>CloudDocuments</string>
 	</array>
-	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
-	<string>V9WTTPBFK9.com.facebook.Wilde</string>
 	<key>keychain-access-groups</key>
 	<array>
 		<string>T84QZS65DQ.platformFamily</string>
 	</array>
-	<key>com.apple.developer.storekit.request-data</key>
+	<key>com.apple.developer.networking.HotspotConfiguration</key>
 	<true/>
 	<key>com.apple.security.application-groups</key>
 	<array>

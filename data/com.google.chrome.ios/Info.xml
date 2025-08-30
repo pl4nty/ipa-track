@@ -7,7 +7,7 @@
 		<string>chrome.app.refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24F74</string>
+	<string>24G84</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -65,7 +65,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>139.7258.76</string>
+	<string>140.7339.39</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -97,7 +97,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>139.0.7258.76</string>
+	<string>140.0.7339.39</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -123,7 +123,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Chrome</string>
 	<key>GTMUserAgentVersion</key>
-	<string>139.0.7258.76</string>
+	<string>140.0.7339.39</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
@@ -145,35 +145,22 @@
 		<string>comgooglegemini</string>
 		<string>comgooglekeep</string>
 		<string>comgooglemaps</string>
-		<string>comgooglemaps-x-callback</string>
 		<string>creatorstudio</string>
 		<string>gmeet</string>
 		<string>googleapp</string>
 		<string>googlebooks</string>
 		<string>googlechrome</string>
-		<string>googlechrome-x-callback</string>
 		<string>googlechromes</string>
 		<string>googleclassroom</string>
 		<string>googledocs</string>
-		<string>googledocs-v2</string>
-		<string>googledocs-x-callback</string>
 		<string>googledrive</string>
-		<string>googledrive-v1</string>
-		<string>googledrive-v3</string>
-		<string>googleearth</string>
 		<string>googlegmail</string>
-		<string>googlegmail-x-callback</string>
 		<string>googlehome</string>
 		<string>googlenews</string>
 		<string>googlephotos</string>
-		<string>googlephotos-x-callback</string>
 		<string>googlepodcasts</string>
 		<string>googlesheets</string>
-		<string>googlesheets-v2</string>
-		<string>googlesheets-x-callback</string>
 		<string>googleslides</string>
-		<string>googleslides-v2</string>
-		<string>googleslides-x-callback</string>
 		<string>googletasks</string>
 		<string>googletranslate</string>
 		<string>googlevoice</string>
@@ -181,10 +168,9 @@
 		<string>https</string>
 		<string>mailto</string>
 		<string>playmovies</string>
-		<string>streetview</string>
+		<string>tailwindAppShare</string>
 		<string>vnd.google.calendar</string>
 		<string>vnd.youtube</string>
-		<string>vnd.youtube-broad-matching</string>
 		<string>vnd.youtube.kids</string>
 		<string>vnd.youtube.music</string>
 		<string>vnd.youtube.tv</string>
@@ -233,7 +219,7 @@
 		<string>SearchInChromeIntent</string>
 	</array>
 	<key>SCMRevision</key>
-	<string>512196812b193f5d6121d6e3cd64e5eb9c82bae4-refs/branch-heads/7258_60@{#3}</string>
+	<string>7a28f16966d2758a4843b7cb69bfe95e4df50aea-refs/branch-heads/7339@{#1346}</string>
 	<key>SSOAuthURLScheme</key>
 	<string>com.google.sso.chrome.stable</string>
 	<key>UIApplicationDelegate</key>
@@ -294,8 +280,6 @@
 		<string>fetch</string>
 		<string>remote-notification</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
@@ -313,10 +297,6 @@
 	</array>
 	<key>UIRequiresPersistentWiFi</key>
 	<true/>
-	<key>UIStatusBarHidden</key>
-	<true/>
-	<key>UIStatusBarStyle</key>
-	<string>UIStatusBarStyleLightContent</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
