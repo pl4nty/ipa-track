@@ -44,7 +44,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.43.21</string>
+	<string>7.44.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -63,9 +63,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.43.21.2877</string>
+	<string>7.44.0.3185</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F3</string>
+	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -87,7 +87,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>15.0</string>
+	<string>16.0</string>
 	<key>NFCReaderUsageDescription</key>
 	<string>The BankID app needs access to the NFC reader to be able to scan ID cards and passports.</string>
 	<key>NSAppTransportSecurity</key>
