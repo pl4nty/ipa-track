@@ -82,7 +82,7 @@ Want to track a new app? [Click here](https://iosbundleidfinder.vercel.app/) to 
 | Okta Mobile | `com.okta.ios.mobile` | `okta;oktaSSO` | <details>`http://login.trexcloud.com/*;https://login.trexcloud.com/*;http://login.okta1.com/*;https://login.okta1.com/*;http://login.okta.com/*;https://login.okta.com/*`</details> |
 | Okta Verify | `com.okta.mobile` | `oktav;oktaverify;otpauth` | <details>`http://login.okta1.com/*;https://login.okta1.com/*;http://login.okta.com/*;https://login.okta.com/*;http://login.trexcloud.com/*;https://login.trexcloud.com/*`</details> |
 | Okta Personal | `com.okta.personal.wallet` | <details>`okta-personal;pendo-120565c5;pendo-1d444ce4;otpauth`</details> | <details>`http://login.trexcloud.com/*;https://login.trexcloud.com/*;http://login.okta.com/*;https://login.okta.com/*`</details> |
-| Opera | `com.opera.OperaTouch` | <details>`http;https;touch-url;touch-http;touch-https;touch-widget`</details> | N/A |
+| Opera | `com.opera.OperaTouch` | <details>`http;https;touch-url;touch-http;touch-https;touch-widget;ofi`</details> | N/A |
 | Opera GX | `com.opera.gx` | `http;https;opera-gx;opera-gx-stickers` | <details>`http://operagx.page.link/*;https://operagx.page.link/*`</details> |
 | Authenticator | `com.rsa.securid.iphone.SecurID` | `com.rsa.securid` | <details>`http://authenticator.securid.com/*;https://authenticator.securid.com/*`</details> |
 | Authenticator | `com.salesforce.authenticator1` | `SalesforceAuthenticator` | N/A |

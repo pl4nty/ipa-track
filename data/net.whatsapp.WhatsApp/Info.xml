@@ -4,6 +4,8 @@
 <dict>
 	<key>AVUseSoftwareDecoderForAssetImageGenerator</key>
 	<true/>
+	<key>ApplicationIdentifier</key>
+	<string>UKFA9XBX6K.net.whatsapp.WhatsApp</string>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
 		<string>com.whatsapp.nse_merge</string>
@@ -149,7 +151,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.23.3</string>
+	<string>25.23.82</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -174,7 +176,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>781790863</string>
+	<string>784941593</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTPlatformBuild</key>
@@ -194,7 +196,7 @@
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>781790863</string>
+	<string>784941593</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
