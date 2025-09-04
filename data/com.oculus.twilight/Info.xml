@@ -9,7 +9,7 @@
 		<string>com.facebook.bgfetch</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-08-27T00:43:14</string>
+	<string>2025-09-02T21:41:26</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>334.0</string>
+	<string>335.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -66,13 +66,17 @@
 			<array>
 				<string>fb452673261749367</string>
 				<string>fb1517832211847102</string>
+				<string>fb1680871178595114</string>
+				<string>fb1635404796768116</string>
+				<string>fb147781309031234</string>
+				<string>fb1543576032349914</string>
 				<string>oculus</string>
 				<string>oculus.store</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>783553472</string>
+	<string>786516977</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTPlatformBuild</key>
@@ -90,19 +94,19 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>334.0.0.14.107</string>
+	<string>335.0.0.11.109</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>783553472</integer>
+	<integer>786516977</integer>
 	<key>FBBuildRevision</key>
-	<string>cabc4543d37dc90e4155f69f4e5c80d593a8526a</string>
+	<string>5a9c2a8f84fa7c022d2bb6a508e8093f574aa9e5</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1756251772.025200</string>
+	<string>1756848016.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1756255394</integer>
+	<integer>1756849286</integer>
 	<key>FBCWAppBugReportCategory</key>
 	<string>1945899645655301</string>
 	<key>FBCWAppName</key>
@@ -118,7 +122,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>334.0</string>
+	<string>335.0</string>
 	<key>FBThisAppKeychainGroup</key>
 	<string>V9WTTPBFK9.com.oculus.twilight</string>
 	<key>FacebookAppID</key>

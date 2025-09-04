@@ -5,9 +5,9 @@
 	<key>BreakpadProduct</key>
 	<string>Google_Play_Movies_iOS</string>
 	<key>BreakpadVersion</key>
-	<string>3.27.00003</string>
+	<string>3.29.00002</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>24C101</string>
 	<key>BuildVersion</key>
 	<string></string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.27.00003</string>
+	<string>3.29.00002</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -73,9 +73,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.27.00003</string>
+	<string>3.29.00002</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

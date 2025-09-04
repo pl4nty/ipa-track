@@ -13,7 +13,7 @@
 		<string>com.microsoft.Office.Outlook.bgAppRefresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>23H626</string>
+	<string>24F74</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -630,7 +630,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2534.0</string>
+	<string>4.2534.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -717,25 +717,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>39895344</string>
+	<string>39972584</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22B74</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.1</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22B74</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.1</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1610</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16B40</string>
+	<string>16F6</string>
 	<key>INIntentsSupported</key>
 	<array>
 		<string>INSendMessageIntent</string>
