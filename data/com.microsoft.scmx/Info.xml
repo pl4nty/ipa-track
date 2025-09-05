@@ -5,7 +5,6 @@
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
 		<string>com.microsoft.scmx.app_refresh</string>
-		<string>com.microsoft.scmx.app_processing</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
 	<string>23H626</string>
@@ -49,7 +48,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.68140102</string>
+	<string>1.1.68200103</string>
 	<key>CFBundleSpokenName</key>
 	<string>MS Defender</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -76,7 +75,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.1.68140102</string>
+	<string>1.1.68200103</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>

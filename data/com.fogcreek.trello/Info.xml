@@ -28,6 +28,11 @@
 				<key>CFBundleIconName</key>
 				<string>AppIcon-Rainbow</string>
 			</dict>
+			<key>AppIcon-Taco</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Taco</string>
+			</dict>
 			<key>AppIcon-Wireframe</key>
 			<dict>
 				<key>CFBundleIconName</key>
@@ -58,6 +63,11 @@
 				<key>CFBundleIconName</key>
 				<string>AppIcon-Rainbow</string>
 			</dict>
+			<key>AppIcon-Taco</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Taco</string>
+			</dict>
 			<key>AppIcon-Wireframe</key>
 			<dict>
 				<key>CFBundleIconName</key>
@@ -84,7 +94,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2025.17</string>
+	<string>2025.18</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -119,7 +129,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20250819.150519</string>
+	<string>20250828.194247</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
