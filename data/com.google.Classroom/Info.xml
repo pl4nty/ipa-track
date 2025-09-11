@@ -132,7 +132,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.40.300040580</string>
+	<string>3.41.300041000</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -149,7 +149,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.40.797302031</string>
+	<string>3.41.802681836</string>
 	<key>CrashBackendEnvironment</key>
 	<string>production</string>
 	<key>DTAppStoreToolsBuild</key>
@@ -157,19 +157,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22A3362</string>
+	<string>22E235</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.0</string>
+	<string>18.4</string>
 	<key>DTSDKBuild</key>
-	<string>22A3362</string>
+	<string>22E235</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.0</string>
+	<string>iphoneos18.4</string>
 	<key>DTXcode</key>
-	<string>1600</string>
+	<string>1630</string>
 	<key>DTXcodeBuild</key>
-	<string>16A242d</string>
+	<string>16E140</string>
 	<key>FLTEnableWideGamut</key>
 	<false/>
 	<key>FLTLibraryPath</key>

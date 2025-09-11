@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.talk</string>
 	<key>CFBuildDate</key>
-	<string>2025-07-08T05:18:32</string>
+	<string>2025-09-09T13:24:06</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>292.0</string>
+	<string>297.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -67,9 +67,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>759889745</string>
+	<string>789513296</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F3</string>
+	<string>16F7</string>
 	<key>DTPlatformBuild</key>
 	<string>22F76</string>
 	<key>DTPlatformName</key>
@@ -85,25 +85,25 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>292.0.0.31.219</string>
+	<string>297.0.0.33.118</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>759889745</integer>
+	<integer>789513296</integer>
 	<key>FBBuildRevision</key>
-	<string>e5e7e9bf270cf58654e387eb2f3c7a68e0513188</string>
+	<string>6d6590162127d923ef2edcdcd122721628836a87</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1751950781.025200</string>
+	<string>1757423382.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1751951912</integer>
+	<integer>1757424246</integer>
 	<key>FBDisableAutoRegisterForPush</key>
 	<string>YES</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>292.0</string>
+	<string>297.0</string>
 	<key>FacebookAppID</key>
 	<string>1174099472704185</string>
 	<key>FacebookAppPushTransmitterID</key>
@@ -154,6 +154,8 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>This makes some features work with bluetooth accessories.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>This lets you take photos, record video, video chat your contacts, and use face and hand effects.
 

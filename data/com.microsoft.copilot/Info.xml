@@ -326,7 +326,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>430827001.30.0</string>
+	<string>430909002.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -349,7 +349,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430827001</string>
+	<string>430909002</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -552,6 +552,8 @@
 	<string>copilot.microsoft.com</string>
 	<key>picassoPNRegistration</key>
 	<string>true</string>
+	<key>screenShareGroupID</key>
+	<string>group.com.microsoft.copilot.screenshare</string>
 	<key>sentryConfig</key>
 	<dict>
 		<key>dsn</key>

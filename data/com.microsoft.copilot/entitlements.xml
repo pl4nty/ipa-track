@@ -32,5 +32,9 @@
 		<string>webcredentials:copilot.msft-ai.auth0app.com</string>
 		<string>webcredentials:auth.copilot.microsoft.com</string>
 	</array>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.microsoft.copilot.screenshare</string>
+	</array>
 </dict>
 </plist>

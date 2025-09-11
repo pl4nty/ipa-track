@@ -48,6 +48,10 @@
 	<array>
 		<string>57T9237FN3.net.whatsapp.WhatsApp</string>
 	</array>
+	<key>com.apple.developer.kernel.extended-virtual-addressing</key>
+	<true/>
+	<key>com.apple.developer.kernel.increased-memory-limit</key>
+	<true/>
 	<key>com.apple.developer.icloud-services</key>
 	<array>
 		<string>CloudDocuments</string>

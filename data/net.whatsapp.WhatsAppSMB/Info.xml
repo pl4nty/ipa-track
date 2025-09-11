@@ -151,7 +151,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.23.82</string>
+	<string>25.24.77</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -175,7 +175,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>784941551</string>
+	<string>789850392</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTPlatformBuild</key>
@@ -195,7 +195,7 @@
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>784941551</string>
+	<string>789850392</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
@@ -289,6 +289,7 @@
 		<string>INStartCallIntent</string>
 		<string>INStartVideoCallIntent</string>
 		<string>SelectChatSourceIntent</string>
+		<string>net.whatsapp.WhatsApp.chat</string>
 	</array>
 	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
 	<true/>

@@ -80,7 +80,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>256.050</string>
+	<string>256.060</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -105,7 +105,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6209465</string>
+	<string>6209498</string>
 	<key>CloneHeaderHexColor</key>
 	<string></string>
 	<key>CloneJobNumber</key>
