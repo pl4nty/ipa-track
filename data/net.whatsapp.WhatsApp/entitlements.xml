@@ -2,10 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>com.apple.developer.associated-appclip-app-identifiers</key>
-	<array>
-		<string>UKFA9XBX6K.net.whatsapp.WhatsApp.Clip</string>
-	</array>
+	<key>com.apple.developer.usernotifications.communication</key>
+	<true/>
 	<key>com.apple.developer.icloud-container-identifiers</key>
 	<array>
 		<string>57T9237FN3.net.whatsapp.WhatsApp</string>
@@ -14,15 +12,15 @@
 	<true/>
 	<key>com.apple.developer.avfoundation.multitasking-camera-access</key>
 	<true/>
+	<key>com.apple.developer.messaging-app</key>
+	<true/>
 	<key>application-identifier</key>
 	<string>UKFA9XBX6K.net.whatsapp.WhatsApp</string>
-	<key>com.apple.developer.carplay-messaging</key>
-	<true/>
 	<key>aps-environment</key>
 	<string>production</string>
 	<key>com.apple.developer.icloud-container-environment</key>
 	<string>Production</string>
-	<key>com.apple.developer.messaging-app</key>
+	<key>com.apple.developer.upi-device-validation</key>
 	<true/>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
@@ -36,8 +34,10 @@
 		<string>webcredentials:whatsapp.com</string>
 		<string>webcredentials:*.whatsapp.com</string>
 	</array>
-	<key>com.apple.developer.upi-device-validation</key>
-	<true/>
+	<key>com.apple.developer.associated-appclip-app-identifiers</key>
+	<array>
+		<string>UKFA9XBX6K.net.whatsapp.WhatsApp.Clip</string>
+	</array>
 	<key>com.apple.developer.siri</key>
 	<true/>
 	<key>com.apple.developer.calling-app</key>
@@ -48,13 +48,20 @@
 	<array>
 		<string>57T9237FN3.net.whatsapp.WhatsApp</string>
 	</array>
+	<key>com.apple.developer.icloud-services</key>
+	<array>
+		<string>CloudDocuments</string>
+	</array>
 	<key>com.apple.developer.kernel.extended-virtual-addressing</key>
 	<true/>
 	<key>com.apple.developer.kernel.increased-memory-limit</key>
 	<true/>
-	<key>com.apple.developer.icloud-services</key>
+	<key>com.apple.developer.carplay-messaging</key>
+	<true/>
+	<key>com.apple.developer.networking.carrier-constrained.appcategory</key>
 	<array>
-		<string>CloudDocuments</string>
+		<string>messaging-8001</string>
+		<string>voip-8006</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
@@ -64,7 +71,5 @@
 		<string>group.net.whatsapp.family</string>
 		<string>group.com.facebook.family</string>
 	</array>
-	<key>com.apple.developer.usernotifications.communication</key>
-	<true/>
 </dict>
 </plist>

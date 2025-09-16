@@ -219,7 +219,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.7.20</string>
+	<string>6.7.21</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -285,7 +285,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3381635.106308420</string>
+	<string>3391826.179581887</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -910,7 +910,7 @@
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>6.7.20
+		<string>6.7.21
 </string>
 	</dict>
 </dict>

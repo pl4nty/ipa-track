@@ -7,6 +7,7 @@
 		<string>com.google.docs.bgtask.refresh</string>
 		<string>com.google.docs.bgtask.processing</string>
 		<string>com.google.Primes.diskUsageCollectionTask</string>
+		<string>com.google.notifications.bgtask.processing</string>
 	</array>
 	<key>BreakpadProduct</key>
 	<string>Docs_iOS</string>
@@ -149,7 +150,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2025.35501</string>
+	<string>1.2025.37102</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -173,7 +174,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.2025.35501</string>
+	<string>1.2025.37102</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>

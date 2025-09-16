@@ -151,7 +151,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.24.77</string>
+	<string>25.25.73</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -176,27 +176,27 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>789850380</string>
+	<string>791183641</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F7</string>
+	<string>17A319</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23A337</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23A337</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2600</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17A321</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>789850380</string>
+	<string>791183641</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
@@ -325,6 +325,8 @@
 		<string>remote-notification</string>
 		<string>voip</string>
 	</array>
+	<key>UIDesignRequiresCompatibility</key>
+	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

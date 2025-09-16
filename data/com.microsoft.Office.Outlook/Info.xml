@@ -13,7 +13,7 @@
 		<string>com.microsoft.Office.Outlook.bgAppRefresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24F74</string>
+	<string>24G84</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -630,7 +630,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2534.1</string>
+	<string>4.2535.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -717,7 +717,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>39972584</string>
+	<string>40288709</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>

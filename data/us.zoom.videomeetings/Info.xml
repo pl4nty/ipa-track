@@ -68,7 +68,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.5.12</string>
+	<string>6.6.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -92,7 +92,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>27794</string>
+	<string>28131</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -127,7 +127,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<false/>
 	<key>MinimumOSVersion</key>
-	<string>13.0</string>
+	<string>15.0</string>
 	<key>NFCReaderUsageDescription</key>
 	<string>Enabling NFC allows secure and quick access to desk phone devices with hot desking.</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>

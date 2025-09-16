@@ -5,7 +5,7 @@
 	<key>AppIdentifierPrefix</key>
 	<string>RR65JMWDP3.</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24D60</string>
+	<string>24B91</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -361,7 +361,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.39.2</string>
+	<string>3.39.3</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -401,7 +401,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>882901</string>
+	<string>884399</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>

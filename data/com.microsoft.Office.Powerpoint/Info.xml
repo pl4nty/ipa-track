@@ -354,7 +354,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.100.4</string>
+	<string>2.101</string>
 	<key>CFBundleSignature</key>
 	<string>PPT3</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -409,7 +409,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.100.25090521</string>
+	<string>2.101.25091214</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTCompiler</key>
@@ -430,18 +430,6 @@
 	<string>16F6</string>
 	<key>DocsUISettings</key>
 	<dict>
-		<key>DocsUISettingsHelpProductLinkIDForIPad</key>
-		<string>386749</string>
-		<key>DocsUISettingsHelpProductLinkIDForIPhone</key>
-		<string>511783</string>
-		<key>DocsUISettingsHelpProductNameSpaceForIPad</key>
-		<string>MOB_P_iOS</string>
-		<key>DocsUISettingsHelpProductNameSpaceForIPhone</key>
-		<string>iphoneppt</string>
-		<key>DocsUISettingsHelpProductVersionForIPad</key>
-		<string>15</string>
-		<key>DocsUISettingsHelpProductVersionForIPhone</key>
-		<string>16</string>
 		<key>PreferenceSpecifiers</key>
 		<array>
 			<dict>
@@ -633,8 +621,23 @@
 		<string>com.microsoft.powerpoint.executesearch</string>
 		<string>com.microsoft.powerpoint.executesearch-dogfood</string>
 	</array>
+	<key>OUISettings</key>
+	<dict>
+		<key>OUISettingsHelpProductLinkIDForIPad</key>
+		<string>386749</string>
+		<key>OUISettingsHelpProductLinkIDForIPhone</key>
+		<string>511783</string>
+		<key>OUISettingsHelpProductNameSpaceForIPad</key>
+		<string>MOB_P_iOS</string>
+		<key>OUISettingsHelpProductNameSpaceForIPhone</key>
+		<string>iphoneppt</string>
+		<key>OUISettingsHelpProductVersionForIPad</key>
+		<string>15</string>
+		<key>OUISettingsHelpProductVersionForIPhone</key>
+		<string>16</string>
+	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.100.905.4</string>
+	<string>2.101.912.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
