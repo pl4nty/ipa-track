@@ -6,6 +6,7 @@
 	<string>T84QZS65DQ.com.facebook.stellaapp</string>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
+		<string>com.meta.mwa.wellnesspartner2.dataCleanup</string>
 		<string>com.meta.mwa.ota.installer.autoOTATask</string>
 		<string>com.meta.mwa.mcp.upload.processingTask</string>
 		<string>com.meta.mwa.mcp.download.processingTask</string>
@@ -21,7 +22,7 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-09-07T05:18:20</string>
+	<string>2025-09-12T23:02:41</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -62,7 +63,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>236.1.0</string>
+	<string>237.1.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -80,7 +81,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>788539250</string>
+	<string>791198117</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>16F7</string>
 	<key>DTPlatformBuild</key>
@@ -98,23 +99,23 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>FBAppVersion</key>
-	<string>236.1.0.22.167</string>
+	<string>237.1.0.62.169</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>788539250</integer>
+	<integer>791198117</integer>
 	<key>FBBuildRevision</key>
-	<string>e27c2ef25ae6a7c6ad553f690bb782e8f7f7d324</string>
+	<string>ff4061191f4aff1e7a43fc715e6bab5eef5b9a7f</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1757221355.025200</string>
+	<string>1757716723.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1757222300</integer>
+	<integer>1757718161</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>236.1.0</string>
+	<string>237.1.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -140,6 +141,8 @@
 		<string>otpauth</string>
 		<string>fb-pma</string>
 		<string>fb-ama</string>
+		<string>gcm-ciq</string>
+		<string>strava</string>
 		<string>comgooglemaps</string>
 		<string>waze</string>
 		<string>duo</string>
@@ -171,6 +174,10 @@
 	<string>This lets you save to your camera roll, and enables other features for photos and videos.</string>
 	<key>NSContactsUsageDescription</key>
 	<string>Meta AI will need access to make calls and send texts.</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Meta AI would like to read workouts from Apple Health.</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Meta AI would like to save your workouts to Apple Health.</string>
 	<key>NSLocalNetworkUsageDescription</key>
 	<string>This allows your phone to find and connect to your glasses over Wi-Fi.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
@@ -179,6 +186,8 @@
 	<string>Location access is required to discover and connect to your glasses on Wi-Fi networks and help some location features work.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>This allows you to talk to Meta AI and ask questions using your voice.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>This is used to enable movement-related features on Meta devices.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>This will let Meta AI save captures to your phone's Photos app.</string>
 	<key>NSPhotoLibraryUsageDescription</key>

@@ -2,18 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>com.apple.developer.networking.wifi-info</key>
-	<true/>
-	<key>keychain-access-groups</key>
-	<array>
-		<string>T84QZS65DQ.platformFamily</string>
-	</array>
-	<key>com.apple.developer.team-identifier</key>
-	<string>V9WTTPBFK9</string>
 	<key>application-identifier</key>
 	<string>T84QZS65DQ.com.facebook.stellaapp</string>
-	<key>com.apple.developer.networking.HotspotConfiguration</key>
-	<true/>
 	<key>aps-environment</key>
 	<string>production</string>
 	<key>com.apple.developer.usernotifications.time-sensitive</key>
@@ -31,6 +21,23 @@
 		<string>webcredentials:facebook.com</string>
 		<string>webcredentials:www.meta.ai</string>
 		<string>webcredentials:meta.ai</string>
+	</array>
+	<key>com.apple.developer.networking.wifi-info</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>T84QZS65DQ.platformFamily</string>
+	</array>
+	<key>com.apple.developer.team-identifier</key>
+	<string>V9WTTPBFK9</string>
+	<key>com.apple.developer.healthkit</key>
+	<true/>
+	<key>com.apple.developer.healthkit.background-delivery</key>
+	<true/>
+	<key>com.apple.developer.networking.HotspotConfiguration</key>
+	<true/>
+	<key>com.apple.developer.healthkit.access</key>
+	<array>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

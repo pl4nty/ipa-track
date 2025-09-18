@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.atwork</string>
 	<key>CFBuildDate</key>
-	<string>2025-09-05T21:43:09</string>
+	<string>2025-09-13T01:25:46</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>530.0</string>
+	<string>531.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -121,37 +121,37 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>787994826</string>
+	<string>791247742</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F7</string>
+	<string>17A319</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23A337</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23A337</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2600</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17A321</string>
 	<key>FBAppVersion</key>
-	<string>530.0.0.17.107</string>
+	<string>531.0.0.24.106</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>787994826</integer>
+	<integer>791247742</integer>
 	<key>FBBuildRevision</key>
-	<string>dbe632f0040a9412d6afc9fd023762f603aad10f</string>
+	<string>18756987e74b91d91e336a5e31dcb8c60c326048</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1757106815.025200</string>
+	<string>1757725254.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1757108589</integer>
+	<integer>1757726746</integer>
 	<key>FBColorPalette</key>
 	<string>FBAtWorkColorPalette</string>
 	<key>FBComposeAppSpecificConfig</key>
@@ -161,7 +161,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>530.0</string>
+	<string>531.0</string>
 	<key>FBSearchAppSpecificConfig</key>
 	<string>FBSearchAtWorkAppSpecificConfig</string>
 	<key>FacebookAppID</key>
@@ -253,6 +253,8 @@
 		<string>remote-notification</string>
 		<string>audio</string>
 	</array>
+	<key>UIDesignRequiresCompatibility</key>
+	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

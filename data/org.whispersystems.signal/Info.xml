@@ -13,11 +13,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Wed Sep 10 00:13:38 UTC 2025</string>
+		<string>Tue Sep 16 21:34:12 UTC 2025</string>
 		<key>SignalCommit</key>
-		<string>9a4500eee0514f4eb6519aa923f810a7345aceb6 Feature flags for .production.</string>
+		<string>df109dfcee3abe6812a188dbd0ae23b37a6dcf6c Feature flags for .production.</string>
 		<key>Timestamp</key>
-		<integer>1757463218</integer>
+		<integer>1758058452</integer>
 		<key>XCodeVersion</key>
 		<string>1600.1640</string>
 	</dict>
@@ -179,7 +179,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.76</string>
+	<string>7.77</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -200,9 +200,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1006</string>
+	<string>1027</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17A319</string>
+	<string>16F7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -255,11 +255,11 @@
 		<string>_sgnl-new-device._tcp</string>
 	</array>
 	<key>NSCameraUsageDescription</key>
-	<string>Signal uses your camera to take photos and for video calls.</string>
+	<string>Signal uses your camera to take photos, start or join a video call and to scan QR codes.</string>
 	<key>NSContactsUsageDescription</key>
 	<string>Signal uses your contacts to find users you know. We do not store your contacts on the server.</string>
 	<key>NSFaceIDUsageDescription</key>
-	<string>Signal's Screen Lock uses Face ID.</string>
+	<string>Signal uses Face ID to confirm it's you.</string>
 	<key>NSLocalNetworkUsageDescription</key>
 	<string>Signal uses the local network to allow you to directly transfer your account to a new phone. It will not be used unless you explicitly choose to initiate a transfer to a new device.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
