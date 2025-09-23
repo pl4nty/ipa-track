@@ -29,7 +29,6 @@
 		<string>applinks:*.discord.gifts</string>
 		<string>applinks:*.discord.co</string>
 		<string>applinks:l.discord.com</string>
-		<string>applinks:discordapp.page.link</string>
 		<string>applinks:discordapp.onelink.me</string>
 		<string>webcredentials:discord.com</string>
 		<string>webcredentials:*.discord.com</string>

@@ -27,6 +27,7 @@
 	<array>
 		<string>group.com.google.calendar</string>
 		<string>group.com.google.common</string>
+		<string>group.com.google.gsuite</string>
 	</array>
 </dict>
 </plist>

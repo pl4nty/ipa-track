@@ -178,6 +178,20 @@
 					<string>SunsetIcon</string>
 				</array>
 			</dict>
+			<key>TreatIcon</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>TreatIcon</string>
+				</array>
+			</dict>
+			<key>TrickIcon</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>TrickIcon</string>
+				</array>
+			</dict>
 			<key>Y2KIcon</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
@@ -362,6 +376,20 @@
 					<string>SunsetIcon</string>
 				</array>
 			</dict>
+			<key>TreatIcon</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>TreatIcon</string>
+				</array>
+			</dict>
+			<key>TrickIcon</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>TrickIcon</string>
+				</array>
+			</dict>
 			<key>Y2KIcon</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
@@ -390,7 +418,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>297.1</string>
+	<string>298.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -410,9 +438,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>84725</string>
+	<string>85028</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F7</string>
+	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -501,7 +529,7 @@
 	<key>RELEASE_CHANNEL</key>
 	<string>ptb</string>
 	<key>SENTRY_RELEASE</key>
-	<string>discord_ios@297.1.84725+84725</string>
+	<string>discord_ios@298.0.85028+85028</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>abcgintonord-800-extrabold.ttf</string>
@@ -531,6 +559,7 @@
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>audio</string>
+		<string>remote-notification</string>
 		<string>voip</string>
 	</array>
 	<key>UIDeviceFamily</key>
