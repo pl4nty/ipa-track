@@ -22,7 +22,7 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-09-12T23:02:41</string>
+	<string>2025-09-22T00:08:30</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -63,7 +63,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>237.1.0</string>
+	<string>239.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -81,41 +81,41 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>791198117</string>
+	<string>795165339</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F7</string>
+	<string>17A323</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23A337</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23A337</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2600</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17A321</string>
 	<key>FBAppVersion</key>
-	<string>237.1.0.62.169</string>
+	<string>239.0.0.35.162</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>791198117</integer>
+	<integer>795165339</integer>
 	<key>FBBuildRevision</key>
-	<string>ff4061191f4aff1e7a43fc715e6bab5eef5b9a7f</string>
+	<string>7b235d33751c7d7735bf48675566dd43461fa200</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1757716723.025200</string>
+	<string>1758498691.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1757718161</integer>
+	<integer>1758499710</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>237.1.0</string>
+	<string>239.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -223,6 +223,8 @@
 		<string>fetch</string>
 		<string>location</string>
 	</array>
+	<key>UIDesignRequiresCompatibility</key>
+	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

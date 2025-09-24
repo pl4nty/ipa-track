@@ -13,7 +13,7 @@
 		<string>com.microsoft.Office.Outlook.bgAppRefresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G84</string>
+	<string>24G90</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -630,7 +630,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2535.0</string>
+	<string>4.2537.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -717,9 +717,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>40288709</string>
+	<string>40479526</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F7</string>
+	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -837,7 +837,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<false/>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>18.0</string>
 	<key>NSAdvertisingAttributionReportEndpoint</key>
 	<string>https://krs.microsoft.com</string>
 	<key>NSAppTransportSecurity</key>

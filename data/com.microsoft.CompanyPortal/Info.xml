@@ -9,7 +9,7 @@
 		<string>com.microsoft.CompanyPortal.BackgroundDevicePolling</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24F74</string>
+	<string>24G90</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -63,7 +63,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.2509.0</string>
+	<string>5.2509.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -84,9 +84,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>53.2509247.002</string>
+	<string>53.2509260.002</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F7</string>
+	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
