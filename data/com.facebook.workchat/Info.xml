@@ -9,7 +9,7 @@
 		<string>com.facebook.workchat.bgrefresh</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-09-11T18:41:54</string>
+	<string>2025-09-23T00:02:12</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>531.0</string>
+	<string>532.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -109,41 +109,41 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>790627251</string>
+	<string>795662626</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F7</string>
+	<string>17A323</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23A337</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23A337</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2600</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17A321</string>
 	<key>FBAppVersion</key>
-	<string>531.0.0.7.106</string>
+	<string>532.0.0.28.105</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>790627251</integer>
+	<integer>795662626</integer>
 	<key>FBBuildRevision</key>
-	<string>5ee30d4d9c1bd6ccce73d85450322a7b30c32621</string>
+	<string>ffe82fb4c40201eb60ac1d78fc8e918a156add71</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1757615135.025200</string>
+	<string>1758584448.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1757616114</integer>
+	<integer>1758585732</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>531.0</string>
+	<string>532.0</string>
 	<key>FBToolchain</key>
 	<string>Stable</string>
 	<key>FacebookAppID</key>
@@ -266,6 +266,8 @@
 		<string>remote-notification</string>
 		<string>voip</string>
 	</array>
+	<key>UIDesignRequiresCompatibility</key>
+	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

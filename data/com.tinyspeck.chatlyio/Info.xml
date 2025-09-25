@@ -7,7 +7,7 @@
 		<string>com.slack.bg_tasks.app_refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24E263</string>
+	<string>24G84</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -20,61 +20,28 @@
 		<dict>
 			<key>aubergine-icon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>aubergine-icon-20</string>
-					<string>aubergine-icon-29</string>
-					<string>aubergine-icon-40</string>
-					<string>aubergine-icon-60</string>
-					<string>aubergine-icon-76</string>
-					<string>aubergine-icon-83.5</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>aubergine-icon</string>
 			</dict>
 			<key>black-icon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>black-icon-20</string>
-					<string>black-icon-29</string>
-					<string>black-icon-40</string>
-					<string>black-icon-60</string>
-					<string>black-icon-76</string>
-					<string>black-icon-83.5</string>
-				</array>
-			</dict>
-			<key>dogfood-icon</key>
-			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>dogfood-icon-20</string>
-					<string>dogfood-icon-29</string>
-					<string>dogfood-icon-40</string>
-					<string>dogfood-icon-60</string>
-					<string>dogfood-icon-76</string>
-					<string>dogfood-icon-83.5</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>black-icon</string>
 			</dict>
 			<key>white-icon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>white-icon-20</string>
-					<string>white-icon-29</string>
-					<string>white-icon-40</string>
-					<string>white-icon-60</string>
-					<string>white-icon-76</string>
-					<string>white-icon-83.5</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>white-icon</string>
 			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon60x60</string>
+				<string>slack_icon_prod60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>AppIcon</string>
+			<string>slack_icon_prod</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -83,62 +50,29 @@
 		<dict>
 			<key>aubergine-icon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>aubergine-icon-20</string>
-					<string>aubergine-icon-29</string>
-					<string>aubergine-icon-40</string>
-					<string>aubergine-icon-60</string>
-					<string>aubergine-icon-76</string>
-					<string>aubergine-icon-83.5</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>aubergine-icon</string>
 			</dict>
 			<key>black-icon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>black-icon-20</string>
-					<string>black-icon-29</string>
-					<string>black-icon-40</string>
-					<string>black-icon-60</string>
-					<string>black-icon-76</string>
-					<string>black-icon-83.5</string>
-				</array>
-			</dict>
-			<key>dogfood-icon</key>
-			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>dogfood-icon-20</string>
-					<string>dogfood-icon-29</string>
-					<string>dogfood-icon-40</string>
-					<string>dogfood-icon-60</string>
-					<string>dogfood-icon-76</string>
-					<string>dogfood-icon-83.5</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>black-icon</string>
 			</dict>
 			<key>white-icon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>white-icon-20</string>
-					<string>white-icon-29</string>
-					<string>white-icon-40</string>
-					<string>white-icon-60</string>
-					<string>white-icon-76</string>
-					<string>white-icon-83.5</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>white-icon</string>
 			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon60x60</string>
-				<string>AppIcon76x76</string>
+				<string>slack_icon_prod60x60</string>
+				<string>slack_icon_prod76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>AppIcon</string>
+			<string>slack_icon_prod</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -150,7 +84,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.09.32</string>
+	<string>25.09.40</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSpokenName</key>
@@ -181,7 +115,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>451996</string>
+	<string>452243</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
@@ -189,19 +123,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23A339</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23A339</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2600</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17A324</string>
 	<key>GIDClientID</key>
 	<string>331588195051-jsmlcgdl2li407e48kjpjqgrb50k7u7c.apps.googleusercontent.com</string>
 	<key>ITSAppUsesNonExemptEncryption</key>

@@ -326,7 +326,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>430915001.30.0</string>
+	<string>430924001.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -349,9 +349,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>430915001</string>
+	<string>430924001</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F7</string>
+	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -469,12 +469,16 @@
 	<dict>
 		<key>baseURL</key>
 		<string>https://copilot.microsoft.com/c/api</string>
-		<key>bingvizURL</key>
-		<string>https://gateway-copilot.bingviz.microsoftapp.net/receive</string>
 		<key>copilotPayURL</key>
 		<string>https://api.webxtsvc.microsoft.com</string>
 		<key>feebackBaseURL</key>
 		<string>https://petrol.office.microsoft.com</string>
+		<key>mapCopyrightURL</key>
+		<string>https://dev.virtualearth.net/REST/V1/Imagery/Copyright</string>
+		<key>mapStyleVersionURL</key>
+		<string>https://ecn.api.tiles.virtualearth.net/comp/stlgen.ashx?type=bingntv</string>
+		<key>odmVersionURL</key>
+		<string>https://t0.ssl.ak.dynamic.tiles.virtualearth.net/comp/gen.ashx</string>
 		<key>pagesURL</key>
 		<string>https://copilot.microsoft.com/pages</string>
 		<key>rewardsURL</key>
@@ -490,11 +494,6 @@
 		<string>oMaeiYWq1nJ1Yhk3xeZVg7ofZi3XGHZk</string>
 		<key>domain</key>
 		<string>auth.copilot.microsoft.com</string>
-	</dict>
-	<key>bingvizConfig</key>
-	<dict>
-		<key>bingvizAppId</key>
-		<string>1111749BD4FF083A8F6CE57D890AAEDF</string>
 	</dict>
 	<key>clarityClientConfig</key>
 	<dict>
