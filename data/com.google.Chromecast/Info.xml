@@ -24,10 +24,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_google_home_color60x60</string>
+				<string>logo_home_app_color60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_google_home_color</string>
+			<string>logo_home_app_color</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -36,11 +36,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_google_home_color60x60</string>
-				<string>logo_google_home_color76x76</string>
+				<string>logo_home_app_color60x60</string>
+				<string>logo_home_app_color76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_google_home_color</string>
+			<string>logo_home_app_color</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -116,7 +116,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.41.51</string>
+	<string>4.0.54</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -146,7 +146,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.41.51.56</string>
+	<string>4.0.54.26</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
@@ -473,6 +473,7 @@
 		<string>_matter._tcp</string>
 		<string>_matterc._udp</string>
 		<string>_matterd._udp</string>
+		<string>_ghp._tcp</string>
 	</array>
 	<key>NSCalendarsUsageDescription</key>
 	<string>Your Assistant needs to access your calendar to show you all your events in one place.</string>
