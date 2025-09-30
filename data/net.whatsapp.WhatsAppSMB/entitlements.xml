@@ -45,6 +45,8 @@
 	<array>
 		<string>57T9237FN3.net.whatsapp.WhatsApp</string>
 	</array>
+	<key>com.apple.developer.networking.carrier-constrained.app-optimized</key>
+	<true/>
 	<key>com.apple.developer.icloud-services</key>
 	<array>
 		<string>CloudDocuments</string>

@@ -117,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>325.0</string>
+	<string>326.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -140,7 +140,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>325.0.85030</string>
+	<string>326.0.85468</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
