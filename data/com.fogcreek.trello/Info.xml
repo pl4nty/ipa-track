@@ -94,7 +94,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2025.19</string>
+	<string>2025.20</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -129,9 +129,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20250909.151856</string>
+	<string>20250923.190612</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F7</string>
+	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

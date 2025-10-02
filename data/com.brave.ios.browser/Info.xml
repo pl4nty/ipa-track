@@ -7,7 +7,7 @@
 	<key>BRAVE_URL_SCHEME</key>
 	<string>brave</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24D70</string>
+	<string>25A354</string>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -176,7 +176,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.82</string>
+	<string>1.82.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -199,25 +199,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>171</string>
+	<string>174</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.4</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.4</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1630</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16E140</string>
+	<string>16F6</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>KSApplicationGroup</key>

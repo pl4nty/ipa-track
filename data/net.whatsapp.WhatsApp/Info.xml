@@ -151,7 +151,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.26.72</string>
+	<string>25.27.73</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -176,27 +176,27 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>794299312</string>
+	<string>797751983</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTPlatformBuild</key>
-	<string>23A337</string>
+	<string>23A339</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
 	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>23A337</string>
+	<string>23A339</string>
 	<key>DTSDKName</key>
 	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
 	<string>2600</string>
 	<key>DTXcodeBuild</key>
-	<string>17A321</string>
+	<string>17A324</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>794299312</string>
+	<string>797751983</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
@@ -354,6 +354,7 @@
 	<key>UISupportedExternalAccessoryProtocols</key>
 	<array>
 		<string>com.facebook.stella</string>
+		<string>com.meta.ar.wearable</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>

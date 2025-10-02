@@ -259,7 +259,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>143.1</string>
+	<string>143.1.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -281,7 +281,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>61797</string>
+	<string>62160</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
@@ -299,9 +299,9 @@
 	<key>DTSDKName</key>
 	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2601</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17A400</string>
 	<key>INIntentsSupported</key>
 	<array>
 		<string>QuickActionIntent</string>
