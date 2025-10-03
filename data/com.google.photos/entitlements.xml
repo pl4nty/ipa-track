@@ -25,6 +25,7 @@
 		<string>applinks:goo.gl</string>
 		<string>applinks:photos.app.goo.gl</string>
 		<string>applinks:photos.google.com</string>
+		<string>applinks:one.google.com</string>
 		<string>applinks:www.google.com</string>
 		<string>webcredentials:google.com</string>
 	</array>

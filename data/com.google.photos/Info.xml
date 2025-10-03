@@ -99,7 +99,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.47.1</string>
+	<string>7.48.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -120,25 +120,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.47.811129514</string>
+	<string>7.48.812550808</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.4</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.4</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1630</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16E140</string>
+	<string>16F6</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>FirebaseScreenReportingEnabled</key>
@@ -161,7 +161,6 @@
 		<string>comgooglemaps</string>
 		<string>comgooglemapsulr</string>
 		<string>comgooglepaidtasksulr</string>
-		<string>comgooglephotosulr</string>
 		<string>comgoogleulrtestotherappulr</string>
 		<string>comgoogleulrtestulr</string>
 		<string>comgoogleyoutubemusiculr</string>
@@ -287,6 +286,8 @@
 			<string>LaunchScreenURLLA</string>
 		</dict>
 	</dict>
+	<key>UIObservationTrackingEnabled</key>
+	<true/>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>arm64</string>

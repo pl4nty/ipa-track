@@ -7,7 +7,7 @@
 		<string>com.microsoft.identity-broker.operation.refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24F5068b</string>
+	<string>24G90</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -48,7 +48,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.8.34</string>
+	<string>6.8.35</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSpokenName</key>
@@ -82,7 +82,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2</string>
+	<string>11</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
