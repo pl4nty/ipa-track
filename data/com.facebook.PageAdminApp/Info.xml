@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.PageAdminApp</string>
 	<key>CFBuildDate</key>
-	<string>2025-09-23T13:41:51</string>
+	<string>2025-09-30T22:30:25</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>460.0</string>
+	<string>461.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -91,37 +91,37 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>795971805</string>
+	<string>799548578</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTPlatformBuild</key>
-	<string>23A337</string>
+	<string>23A339</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
 	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>23A337</string>
+	<string>23A339</string>
 	<key>DTSDKName</key>
 	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
 	<string>2600</string>
 	<key>DTXcodeBuild</key>
-	<string>17A321</string>
+	<string>17A324</string>
 	<key>FBAppVersion</key>
-	<string>460.0.0.29.106</string>
+	<string>461.0.0.35.107</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>795971805</integer>
+	<integer>799548578</integer>
 	<key>FBBuildRevision</key>
-	<string>36409d4a0aca735e74ef351d9b3e90ed6cc1d45a</string>
+	<string>f313a6130c655f6e106cf21d73947901413e859f</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1758633007.025200</string>
+	<string>1759266155.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1758634911</integer>
+	<integer>1759271425</integer>
 	<key>FBColorPalette</key>
 	<string>PMAStandardColorPalette</string>
 	<key>FBDisableAutoRegisterForPush</key>
@@ -133,7 +133,7 @@
 	<key>FBPhotoActionSheetHideSendAsMessageOption</key>
 	<true/>
 	<key>FBPlatformVersion</key>
-	<string>460.0</string>
+	<string>461.0</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
 	<false/>
 	<key>FacebookAppID</key>

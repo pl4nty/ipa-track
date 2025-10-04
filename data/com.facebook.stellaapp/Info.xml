@@ -15,6 +15,7 @@
 		<string>com.meta.mwa.telemetry.flush.refreshTask</string>
 		<string>com.meta.mwa.telemetry.flush.bgProcessingTask</string>
 		<string>com.meta.mwa.deviceBugReporter.handleLeftoverArtifacts.bgProcessingTask</string>
+		<string>com.meta.mwa.powermetrics.midnight</string>
 		<string>com.facebook.papaya.power0-network0</string>
 		<string>com.facebook.papaya.power0-network1</string>
 		<string>com.facebook.papaya.power1-network0</string>
@@ -22,7 +23,7 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-09-24T18:28:22</string>
+	<string>2025-09-30T18:45:02</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -63,7 +64,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>239.2.0</string>
+	<string>240.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -81,7 +82,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>796634234</string>
+	<string>799477342</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTPlatformBuild</key>
@@ -99,23 +100,23 @@
 	<key>DTXcodeBuild</key>
 	<string>17A321</string>
 	<key>FBAppVersion</key>
-	<string>239.2.0.38.162</string>
+	<string>240.0.0.29.166</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>796634234</integer>
+	<integer>799477342</integer>
 	<key>FBBuildRevision</key>
-	<string>ccf380b44f91c25edd926d36f42c7e8782286013</string>
+	<string>b3a3ac2fa26c1144e339eb31abf07e672950aae7</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1758737280.025200</string>
+	<string>1759256364.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1758738502</integer>
+	<integer>1759257902</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>239.2.0</string>
+	<string>240.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -208,7 +209,6 @@
 		<string>goodall_medium.otf</string>
 		<string>OptimisticAIVF_A_DrkmOpszWghtItal.ttf</string>
 		<string>Optimistic_VF_App_Lite.ttf</string>
-		<string>Segoe_UI.ttf</string>
 		<string>Lato-Regular.ttf</string>
 		<string>Lato-Italic.ttf</string>
 		<string>Lato-Bold.ttf</string>
@@ -231,7 +231,7 @@
 		<integer>2</integer>
 	</array>
 	<key>UILaunchStoryboardName</key>
-	<string>Launchscreen</string>
+	<string>LaunchscreenBlack</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>arm64</string>
