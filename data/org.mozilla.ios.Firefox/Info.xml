@@ -120,18 +120,9 @@
 				<key>CFBundleIconName</key>
 				<string>AppIcon_Developer</string>
 			</dict>
-			<key>AppIcon_LiquidGlass_Alt_DarkPurple</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_LiquidGlass_Alt_DarkPurple</string>
-			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
-			<key>CFBundleIconFiles</key>
-			<array>
-				<string>AppIcon60x60</string>
-			</array>
 			<key>CFBundleIconName</key>
 			<string>AppIcon</string>
 		</dict>
@@ -235,19 +226,9 @@
 				<key>CFBundleIconName</key>
 				<string>AppIcon_Developer</string>
 			</dict>
-			<key>AppIcon_LiquidGlass_Alt_DarkPurple</key>
-			<dict>
-				<key>CFBundleIconName</key>
-				<string>AppIcon_LiquidGlass_Alt_DarkPurple</string>
-			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
-			<key>CFBundleIconFiles</key>
-			<array>
-				<string>AppIcon60x60</string>
-				<string>AppIcon76x76</string>
-			</array>
 			<key>CFBundleIconName</key>
 			<string>AppIcon</string>
 		</dict>
@@ -259,7 +240,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>143.1.1</string>
+	<string>143.2</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -281,7 +262,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>62160</string>
+	<string>62218</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
@@ -456,7 +437,7 @@
 		<string>arm64</string>
 	</array>
 	<key>UIStatusBarHidden</key>
-	<true/>
+	<false/>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
