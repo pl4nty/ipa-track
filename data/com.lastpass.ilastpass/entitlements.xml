@@ -25,7 +25,6 @@
 	<true/>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:k2e3e.app.goo.gl</string>
 		<string>applinks:lastpass.com</string>
 	</array>
 	<key>com.apple.security.application-groups</key>

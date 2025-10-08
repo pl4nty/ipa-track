@@ -36,7 +36,7 @@
 		</dict>
 	</array>
 	<key>CFBundleExecutable</key>
-	<string>Earth</string>
+	<string>EarthMARI</string>
 	<key>CFBundleIcons</key>
 	<dict>
 		<key>CFBundlePrimaryIcon</key>
@@ -71,11 +71,11 @@
 		<string>en</string>
 	</array>
 	<key>CFBundleName</key>
-	<string>Earth</string>
+	<string>EarthMARI</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>10.90.0</string>
+	<string>10.91.14</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -142,29 +142,29 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>10.90.0.25092300</string>
+	<string>10.91.14.2</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.4</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22E235</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.4</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1630</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16E140</string>
+	<string>16F6</string>
 	<key>FLTEnableWideGamut</key>
 	<true/>
 	<key>FLTLibraryPath</key>
-	<string>Frameworks/Earth__app.framework</string>
+	<string>Frameworks/EarthMARI__app.framework</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>ITSAppUsesNonExemptEncryption</key>

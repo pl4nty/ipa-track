@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
-	<string>EQHXZ8M8AV.com.google.b612</string>
 	<key>com.apple.developer.icloud-container-identifiers</key>
 	<array>
 		<string>iCloud.com.google.b612</string>
@@ -18,8 +16,8 @@
 	<array>
 		<string>CloudDocuments</string>
 	</array>
-	<key>aps-environment</key>
-	<string>production</string>
+	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+	<string>EQHXZ8M8AV.com.google.b612</string>
 	<key>keychain-access-groups</key>
 	<array>
 		<string>EQHXZ8M8AV.com.google.b612</string>
@@ -35,5 +33,7 @@
 	<array>
 		<string>group.com.google.common</string>
 	</array>
+	<key>aps-environment</key>
+	<string>production</string>
 </dict>
 </plist>
