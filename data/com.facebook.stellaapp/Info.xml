@@ -23,7 +23,7 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-09-30T18:45:02</string>
+	<string>2025-10-07T21:29:43</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -64,7 +64,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>240.0.0</string>
+	<string>241.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -82,41 +82,41 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>799477342</string>
+	<string>803148097</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTPlatformBuild</key>
-	<string>23A337</string>
+	<string>23A339</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
 	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>23A337</string>
+	<string>23A339</string>
 	<key>DTSDKName</key>
 	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
 	<string>2600</string>
 	<key>DTXcodeBuild</key>
-	<string>17A321</string>
+	<string>17A324</string>
 	<key>FBAppVersion</key>
-	<string>240.0.0.29.166</string>
+	<string>241.0.0.35.166</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>799477342</integer>
+	<integer>803148097</integer>
 	<key>FBBuildRevision</key>
-	<string>b3a3ac2fa26c1144e339eb31abf07e672950aae7</string>
+	<string>7e544b67fbb3ee12e369ca1decf17775077120d9</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1759256364.025200</string>
+	<string>1759871509.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1759257902</integer>
+	<integer>1759872583</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>240.0.0</string>
+	<string>241.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>

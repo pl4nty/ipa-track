@@ -13,16 +13,16 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Thu Oct  2 21:07:32 UTC 2025</string>
+		<string>Tue Oct  7 21:33:14 UTC 2025</string>
 		<key>SignalCommit</key>
-		<string>1384c0a260fcb12030cff1e9b32c8c3bb0982cba Workaround for dysfunctional UIKeyboardLayoutGuide on iOS 15.</string>
+		<string>4d1051f09ad3e43d5c43403949cbbe1ef2ea78f0 Feature flags for .production.</string>
 		<key>Timestamp</key>
-		<integer>1759439252</integer>
+		<integer>1759872794</integer>
 		<key>XCodeVersion</key>
 		<string>1600.1640</string>
 	</dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24F74</string>
+	<string>24G84</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -179,7 +179,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.79</string>
+	<string>7.80</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -200,7 +200,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1064</string>
+	<string>1077</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>

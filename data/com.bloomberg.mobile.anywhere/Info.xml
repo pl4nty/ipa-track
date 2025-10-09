@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BBBuildDate</key>
-	<string>2025-09-15</string>
+	<string>2025-10-03</string>
 	<key>BBCommitId</key>
 	<string></string>
 	<key>BuildMachineOSBuild</key>
@@ -79,7 +79,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.2519</string>
+	<string>2.2520</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -99,9 +99,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2251918</string>
+	<string>2252018</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F7</string>
+	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
