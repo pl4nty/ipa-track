@@ -13,6 +13,9 @@
 		<string>SGGM6D27TK.com.microsoft.workplacejoin</string>
 		<string>SGGM6D27TK.com.microsoft.workplacejoin.v2</string>
 		<string>SGGM6D27TK.com.citrix.mdx</string>
+		<string>SGGM6D27TK.com.microsoft.companyportal.derivedcreds</string>
+		<string>SGGM6D27TK.com.microsoft.shared.smime</string>
+		<string>SGGM6D27TK.com.intercede.SoftCertStore</string>
 		<string>com.apple.token</string>
 		<string>SGGM6D27TK.com.microsoft.azureauthenticator.msa</string>
 		<string>SGGM6D27TK.com.microsoft.oneauth</string>

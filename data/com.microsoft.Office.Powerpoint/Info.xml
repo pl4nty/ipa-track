@@ -354,7 +354,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.101.3</string>
+	<string>2.102.1</string>
 	<key>CFBundleSignature</key>
 	<string>PPT3</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -409,25 +409,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.101.25100311</string>
+	<string>2.102.25101016</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23A339</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23A339</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2600</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17A324</string>
 	<key>DocsUISettings</key>
 	<dict>
 		<key>PreferenceSpecifiers</key>
@@ -587,7 +587,7 @@
 	<key>MSThirdPartySignInURL</key>
 	<string>ms-powerpoint-tp</string>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>18.0</string>
 	<key>NSAppleMusicUsageDescription</key>
 	<string>This lets you insert audio into your presentation.</string>
 	<key>NSCameraUsageDescription</key>
@@ -637,7 +637,7 @@
 		<string>16</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.101.1003.3</string>
+	<string>2.102.1010.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
@@ -700,8 +700,6 @@
 		<string>arm64</string>
 	</array>
 	<key>UIRequiresPersistentWiFi</key>
-	<true/>
-	<key>UIStatusBarHidden</key>
 	<true/>
 	<key>UIStatusBarStyle</key>
 	<string>UIStatusBarStyleLightContent</string>
