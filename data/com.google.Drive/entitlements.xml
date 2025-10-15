@@ -34,6 +34,7 @@
 		<string>applinks:docs.google.com</string>
 		<string>applinks:drive.google.com</string>
 		<string>applinks:drive.app.goo.gl</string>
+		<string>applinks:one.google.com</string>
 		<string>activitycontinuation:drive.google.com</string>
 		<string>webcredentials:google.com</string>
 	</array>

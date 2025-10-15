@@ -34,6 +34,8 @@
 		<string>applinks:hz.me</string>
 		<string>applinks:familycenter.meta.com</string>
 		<string>applinks:horizon.meta.com</string>
+		<string>webcredentials:oculus.com</string>
+		<string>webcredentials:www.oculus.com</string>
 		<string>webcredentials:www.facebook.com</string>
 		<string>webcredentials:m.facebook.com</string>
 		<string>webcredentials:facebook.com</string>

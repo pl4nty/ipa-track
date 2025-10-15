@@ -5,7 +5,7 @@
 	<key>AppIdentifierPrefix</key>
 	<string>RR65JMWDP3.</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24B91</string>
+	<string>24D60</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -361,7 +361,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.39.3</string>
+	<string>3.40.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -401,9 +401,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>884399</string>
+	<string>888070</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16F7</string>
+	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -432,6 +432,11 @@
 		<string>dbapi-8-emm</string>
 		<string>dbapi-2</string>
 		<string>cydia</string>
+		<string>undecimus</string>
+		<string>activator</string>
+		<string>filza</string>
+		<string>zbra</string>
+		<string>sileo</string>
 		<string>msauthv2</string>
 		<string>msauthv3</string>
 		<string>ms-log-companyportal</string>

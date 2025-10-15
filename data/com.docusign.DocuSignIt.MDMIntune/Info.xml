@@ -361,7 +361,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.36.0</string>
+	<string>3.40.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -405,15 +405,13 @@
 			<array>
 				<string>msauth.com.docusign.DocuSignIt.MDMIntune</string>
 				<string>msauth.com.docusign.DocuSignIt.MDMIntune-intunemam</string>
-				<string>msauth.com.microsoft.intunemam</string>
-				<string>msauth.com.microsoft.intunemam-intunemam</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>844668</string>
+	<string>888340</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C5031b</string>
+	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -432,6 +430,10 @@
 	<string>16B40</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
+		<key>ADALClientId</key>
+		<string>d1e51197-2b3e-4b84-a1c4-f24bbf720b8c</string>
+		<key>ADALRedirectUri</key>
+		<string>msauth.com.docusign.DocuSignIt.MDMIntune://auth</string>
 		<key>AppGroupIdentifiers</key>
 		<array>
 			<string>group.com.DocuSign.DocuSignIt</string>
@@ -457,11 +459,15 @@
 	</dict>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
+		<string>activator</string>
+		<string>activator-intunemam</string>
 		<string>cydia</string>
 		<string>cydia-intunemam</string>
 		<string>mobileiron</string>
 		<string>mobileiron-intunemam</string>
 		<string>companyportal</string>
+		<string>zbra</string>
+		<string>zbra-intunemam</string>
 		<string>appconnect</string>
 		<string>appconnect-intunemam</string>
 		<string>mirp</string>
@@ -472,22 +478,28 @@
 		<string>com.salesforce.salesforce1-intunemam</string>
 		<string>msauth.com.mobileiron.phoneatwork</string>
 		<string>msauth.com.mobileiron.phoneatwork-intunemam</string>
+		<string>undecimus</string>
+		<string>undecimus-intunemam</string>
 		<string>msauthv2</string>
 		<string>appconnectdc</string>
 		<string>appconnectdc-intunemam</string>
 		<string>msauth.com.jamfsoftware.selfserviceios</string>
 		<string>msauth.com.jamfsoftware.selfserviceios-intunemam</string>
-		<string>AWSSOBroker2</string>
-		<string>AWSSOBroker2-intunemam</string>
+		<string>filza</string>
+		<string>filza-intunemam</string>
 		<string>itms-apps</string>
 		<string>itms-apps-intunemam</string>
-		<string>msauth.com.jamfsoftware.selfservice</string>
-		<string>msauth.com.jamfsoftware.selfservice-intunemam</string>
+		<string>AWSSOBroker2</string>
+		<string>AWSSOBroker2-intunemam</string>
 		<string>msauthv3</string>
 		<string>miauth</string>
 		<string>miauth-intunemam</string>
 		<string>workspace</string>
 		<string>workspace-intunemam</string>
+		<string>msauth.com.jamfsoftware.selfservice</string>
+		<string>msauth.com.jamfsoftware.selfservice-intunemam</string>
+		<string>sileo</string>
+		<string>sileo-intunemam</string>
 		<string>dbapi-2</string>
 		<string>dbapi-2-intunemam</string>
 		<string>ms-log-companyportal</string>
