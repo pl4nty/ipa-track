@@ -43,7 +43,7 @@
 		<string>com.goodnotesapp.x.config-download</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24D81</string>
+	<string>24G90</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -219,7 +219,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.0.6</string>
+	<string>7.0.8</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -285,7 +285,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3433546.165675986</string>
+	<string>3442979.186472972</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -542,6 +542,26 @@
 			<string>GoodNotes Text Pasteboard</string>
 			<key>UTTypeIdentifier</key>
 			<string>com.goodnotesapp.goodnotes6.textBox</string>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.composite-content</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>GoodNotes Agent Proposal</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.goodnotesapp.goodnotes6.agentProposal</string>
+		</dict>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.composite-content</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>GoodNotes Organisable Items</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.goodnotesapp.goodnotes6.organisableItems</string>
 		</dict>
 		<dict>
 			<key>UTTypeConformsTo</key>
@@ -914,7 +934,7 @@
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>7.0.6
+		<string>7.0.8
 </string>
 	</dict>
 </dict>

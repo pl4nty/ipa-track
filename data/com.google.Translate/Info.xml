@@ -141,7 +141,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>9.20.322</string>
+	<string>9.22.181</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -164,7 +164,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>9.20.322</string>
+	<string>9.22.181</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
@@ -250,6 +250,8 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Let Translate access your photos to translate text contained in them.</string>
 	<key>NSSupportsFrequentLiveActivityUpdates</key>
+	<true/>
+	<key>NSSupportsLiveActivities</key>
 	<true/>
 	<key>NSUserActivityTypes</key>
 	<array>
