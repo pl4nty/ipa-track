@@ -30,11 +30,17 @@
 	</array>
 	<key>com.apple.developer.team-identifier</key>
 	<string>U68MSDN6DR</string>
+	<key>com.apple.developer.networking.carrier-constrained.app-optimized</key>
+	<true/>
 	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
 	<string>U68MSDN6DR.org.whispersystems.signal</string>
 	<key>com.apple.developer.in-app-payments</key>
 	<array>
 		<string>merchant.org.signalfoundation</string>
+	</array>
+	<key>com.apple.developer.networking.carrier-constrained.appcategory</key>
+	<array>
+		<string>messaging-8001</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
