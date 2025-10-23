@@ -58,9 +58,10 @@
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.com.microsoft.shared</string>
 		<string>group.com.microsoft.extensions</string>
+		<string>group.com.microsoft.shared</string>
 		<string>group.com.microsoft.union</string>
+		<string>group.com.microsoft.OfficeLensShare</string>
 	</array>
 	<key>com.apple.developer.team-identifier</key>
 	<string>UBF8T346G9</string>

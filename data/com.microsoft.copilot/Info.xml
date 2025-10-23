@@ -120,6 +120,39 @@
 				<key>UIPrerenderedIcon</key>
 				<false/>
 			</dict>
+			<key>lumiblue</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>lumiblue</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>lumiblue</string>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>lumiorange</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>lumiorange</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>lumiorange</string>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>lumipurple</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>lumipurple</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>lumipurple</string>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
 			<key>steel</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
@@ -261,6 +294,39 @@
 				<key>UIPrerenderedIcon</key>
 				<false/>
 			</dict>
+			<key>lumiblue</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>lumiblue</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>lumiblue</string>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>lumiorange</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>lumiorange</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>lumiorange</string>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>lumipurple</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>lumipurple</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>lumipurple</string>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
 			<key>steel</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
@@ -326,7 +392,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>431015002.30.0</string>
+	<string>431021004.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -349,7 +415,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>431015002</string>
+	<string>431021004</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
