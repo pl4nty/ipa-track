@@ -33,6 +33,8 @@
 		<string>applinks:meta.com</string>
 		<string>applinks:hz.me</string>
 		<string>applinks:familycenter.meta.com</string>
+		<string>applinks:www.auth.meta.com</string>
+		<string>applinks:auth.meta.com</string>
 		<string>applinks:horizon.meta.com</string>
 		<string>webcredentials:oculus.com</string>
 		<string>webcredentials:www.oculus.com</string>
@@ -41,6 +43,8 @@
 		<string>webcredentials:facebook.com</string>
 		<string>webcredentials:meta.com</string>
 		<string>webcredentials:www.meta.com</string>
+		<string>webcredentials:auth.meta.com</string>
+		<string>webcredentials:www.auth.meta.com</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

@@ -67,7 +67,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>16.25.5</string>
+	<string>16.26.3</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -99,7 +99,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>45209607</string>
+	<string>45597162</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
@@ -164,6 +164,10 @@
 		<string>msauthv3</string>
 		<string>http-intunemam</string>
 		<string>https-intunemam</string>
+		<string>intunemam-mtd</string>
+		<string>lookoutwork-ase</string>
+		<string>betteractiveshield</string>
+		<string>lacoonsecurity</string>
 		<string>ms-outlook-intunemam</string>
 		<string>microsoft-edge-http</string>
 		<string>microsoft-edge-http-intunemam</string>
