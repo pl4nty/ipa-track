@@ -43,7 +43,7 @@
 		<string>com.goodnotesapp.x.config-download</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G90</string>
+	<string>24D81</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -219,7 +219,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.0.8</string>
+	<string>7.0.10</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -285,7 +285,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3442979.186472972</string>
+	<string>3458013.202827003</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -335,6 +335,8 @@
 			<string>group.com.goodnotesapp.goodnotes</string>
 			<string>group.com.goodnotesapp.open-in-action-extension</string>
 		</array>
+		<key>SafariViewControllerBlockedOverride</key>
+		<true/>
 	</dict>
 	<key>LANGUAGES_RESOURCES_PREFIX</key>
 	<string>language_resources_20250407_</string>
@@ -934,7 +936,7 @@
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>7.0.8
+		<string>7.0.10
 </string>
 	</dict>
 </dict>

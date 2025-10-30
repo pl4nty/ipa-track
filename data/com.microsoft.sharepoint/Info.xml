@@ -9,7 +9,7 @@
 		<string>com.microsoft.sharepoint.appRefresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>23H420</string>
+	<string>23H626</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.54.7</string>
+	<string>4.55.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -74,9 +74,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20250317.02</string>
+	<string>20251024.01</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16C7015</string>
+	<string>17A323</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -175,7 +175,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>15.0</string>
+	<string>16.6</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>

@@ -4,10 +4,11 @@
 <dict>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>SGGM6D27TK.com.microsoft.sso</string>
-		<string>SGGM6D27TK.com.microsoft.oneauth</string>
-		<string>SGGM6D27TK.com.microsoft.adalcache</string>
-		<string>SGGM6D27TK.com.microsoft.azureauthenticator.msa</string>
+		<string>67CQB453B2.SGGM6D27TK.com.microsoft.sso</string>
+		<string>67CQB453B2.SGGM6D27TK.com.microsoft.oneauth</string>
+		<string>67CQB453B2.SGGM6D27TK.com.microsoft.adalcache</string>
+		<string>67CQB453B2.SGGM6D27TK.com.microsoft.azureauthenticator.msa</string>
+		<string>67CQB453B2.67CQB453B2.com.swiftkey.SwiftKeyApp</string>
 		<string>67CQB453B2.com.swiftkey.SwiftKeyApp</string>
 	</array>
 	<key>com.apple.developer.team-identifier</key>

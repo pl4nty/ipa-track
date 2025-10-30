@@ -116,7 +116,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.1.47</string>
+	<string>4.2.45</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -146,7 +146,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.1.47.16</string>
+	<string>4.2.45.16</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
@@ -492,7 +492,7 @@
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Location access is needed to set up and manage nearby devices.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>The microphone can be used to speak with the Assistant or for two way audio on supported devices.</string>
+	<string>The microphone can be used to speak with a voice assistant or for two way audio on supported devices, and to transcribe speech to text for features where voice input is enabled.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Google Home needs permission to use your camera in order to scan your card.</string>
 	<key>UIBackgroundModes</key>

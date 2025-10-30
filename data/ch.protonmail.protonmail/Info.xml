@@ -16,6 +16,41 @@
 	<string>ProtonMail</string>
 	<key>CFBundleIcons</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon-calculator</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-calculator</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-calculator</string>
+			</dict>
+			<key>AppIcon-notes</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-notes</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-notes</string>
+			</dict>
+			<key>AppIcon-weather</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-weather</string>
+				</array>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-weather</string>
+			</dict>
+			<key>AppIconDev</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIconDev</string>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -24,10 +59,35 @@
 			</array>
 			<key>CFBundleIconName</key>
 			<string>AppIcon</string>
+			<key>UIPrerenderedIcon</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon-calculator</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-calculator</string>
+			</dict>
+			<key>AppIcon-notes</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-notes</string>
+			</dict>
+			<key>AppIcon-weather</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-weather</string>
+			</dict>
+			<key>AppIconDev</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIconDev</string>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -48,7 +108,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.0.8</string>
+	<string>7.1.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -68,7 +128,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2</string>
+	<string>17</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
