@@ -2,20 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>NSPrivacyTracking</key>
-	<false/>
-	<key>NSPrivacyTrackingDomains</key>
-	<array/>
 	<key>NSPrivacyCollectedDataTypes</key>
-	<array/>
+	<array>
+	</array>
 	<key>NSPrivacyAccessedAPITypes</key>
 	<array>
 		<dict>
 			<key>NSPrivacyAccessedAPIType</key>
-			<string>NSPrivacyAccessedAPICategoryFileTimestamp</string>
+			<string>NSPrivacyAccessedAPICategorySystemBootTime</string>
 			<key>NSPrivacyAccessedAPITypeReasons</key>
 			<array>
-				<string>3B52.1</string>
+				<string>35F9.1</string>
 			</array>
 		</dict>
 	</array>

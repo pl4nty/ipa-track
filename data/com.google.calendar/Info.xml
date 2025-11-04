@@ -11,7 +11,7 @@
 	<key>BreakpadProduct</key>
 	<string>Timely_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>24G231</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -92,7 +92,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.41.0</string>
+	<string>25.42.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -121,25 +121,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>25.41.0.54423800</string>
+	<string>25.42.1.54436400</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17A323</string>
+	<string>17B54</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23A339</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23A339</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2601</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17A400</string>
 	<key>INAlternativeAppNames</key>
 	<array>
 		<dict>
