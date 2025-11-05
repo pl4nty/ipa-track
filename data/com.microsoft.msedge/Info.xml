@@ -179,7 +179,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>141.3537.99</string>
+	<string>142.3595.53</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -235,31 +235,31 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>141.0.3537.99</string>
+	<string>142.0.3595.53</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17A323</string>
+	<string>17B54</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22E235</string>
+	<string>23A339</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.4</string>
+	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>22E235</string>
+	<string>23A339</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.4</string>
+	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>1630</string>
+	<string>2600</string>
 	<key>DTXcodeBuild</key>
-	<string>16E140</string>
+	<string>17A324</string>
 	<key>FirebaseScreenReportingEnabled</key>
 	<false/>
 	<key>GTMUserAgentID</key>
 	<string>Edge</string>
 	<key>GTMUserAgentVersion</key>
-	<string>141.0.3537.99</string>
+	<string>142.0.3595.53</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>ADALClientId</key>
@@ -377,7 +377,7 @@
 	<key>NSUserTrackingUsageDescription</key>
 	<string>IDS_IOS_EDGE_USER_TRACKING_USAGE_DESCRIPTION</string>
 	<key>SCMRevision</key>
-	<string>1b2f83d6a142649a51f4a215d0620f49a8e98405</string>
+	<string>e9d637e9672ec1e9386e16d27f47c1384f2bae93</string>
 	<key>SSOAuthURLScheme</key>
 	<string>x-msauth-microsoft-edge-https</string>
 	<key>UIApplicationDelegate</key>
