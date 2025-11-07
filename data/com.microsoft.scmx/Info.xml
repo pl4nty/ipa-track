@@ -7,7 +7,7 @@
 		<string>com.microsoft.scmx.app_refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>23H626</string>
+	<string>24G90</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -48,7 +48,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.70230101</string>
+	<string>1.1.70290103</string>
 	<key>CFBundleSpokenName</key>
 	<string>MS Defender</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -75,25 +75,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.1.70230101</string>
+	<string>1.1.70290103</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17A323</string>
+	<string>17B54</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22C146</string>
+	<string>22F76</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.2</string>
+	<string>18.5</string>
 	<key>DTSDKBuild</key>
-	<string>22C146</string>
+	<string>22F76</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.2</string>
+	<string>iphoneos18.5</string>
 	<key>DTXcode</key>
-	<string>1620</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16C5032a</string>
+	<string>16F6</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>IntuneMAMSettings</key>

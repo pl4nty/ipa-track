@@ -13,11 +13,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Mon Nov  3 22:53:40 UTC 2025</string>
+		<string>Tue Nov  4 23:23:58 UTC 2025</string>
 		<key>SignalCommit</key>
-		<string>8c36006c9a788ccc54873630097dc34f51104003 Update more uses of registration build flag</string>
+		<string>c52abf19e2c07c1375d104066a9e97cf994ef6d3 Feature flags for .production.</string>
 		<key>Timestamp</key>
-		<integer>1762210420</integer>
+		<integer>1762298638</integer>
 		<key>XCodeVersion</key>
 		<string>1600.1640</string>
 	</dict>
@@ -179,7 +179,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.83.1</string>
+	<string>7.84</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -200,7 +200,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1136</string>
+	<string>1140</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>

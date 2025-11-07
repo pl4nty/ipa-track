@@ -29,7 +29,6 @@
 		<string>webcredentials:login.partner.microsoftonline.cn</string>
 		<string>applinks:ercz.adj.st</string>
 		<string>applinks:copilot.microsoft.com</string>
-		<string>webcredentials:copilot.msft-ai.auth0app.com</string>
 		<string>webcredentials:auth.copilot.microsoft.com</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
