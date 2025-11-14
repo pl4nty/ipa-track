@@ -99,7 +99,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.53.0</string>
+	<string>7.54.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -120,7 +120,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.53.828144599</string>
+	<string>7.54.831067464</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTCompiler</key>
@@ -151,6 +151,7 @@
 		<string>com.googleusercontent.apps.353013613329-p6dtc7bv44a4udqd4g4fqfps4udahi44</string>
 		<string>adobelightroom</string>
 		<string>adobesparkpost</string>
+		<string>capcut</string>
 		<string>com.google.chat</string>
 		<string>com.google.fit</string>
 		<string>com.google.stella</string>

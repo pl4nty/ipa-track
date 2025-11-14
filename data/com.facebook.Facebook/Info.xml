@@ -19,7 +19,7 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBuildDate</key>
-	<string>2025-11-10T22:54:40</string>
+	<string>2025-11-11T22:53:40</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>539.0.0</string>
+	<string>539.1.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -113,7 +113,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>822861522</string>
+	<string>823650848</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17A323</string>
 	<key>DTPlatformBuild</key>
@@ -131,25 +131,25 @@
 	<key>DTXcodeBuild</key>
 	<string>17A324</string>
 	<key>FBAppVersion</key>
-	<string>539.0.0.33.73</string>
+	<string>539.1.0.40.73</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>822861522</integer>
+	<integer>823650848</integer>
 	<key>FBBuildRevision</key>
-	<string>cc2cdcf490811ddace5da51e22a09571aeed0973</string>
+	<string>a97637796c3e81d723bd3e8933d83d53d6c0471e</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1762813236.028800</string>
+	<string>1762899122.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1762815280</integer>
+	<integer>1762901620</integer>
 	<key>FBJSBundleRoot</key>
 	<string>EntryPoints/WildeBundle</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>539.0.0</string>
+	<string>539.1.0</string>
 	<key>FBSearchAppSpecificConfig</key>
 	<string>FBSearchWildeAppSpecificConfig</string>
 	<key>FacebookAppID</key>
