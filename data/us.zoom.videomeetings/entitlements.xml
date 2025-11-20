@@ -26,6 +26,7 @@
 	<true/>
 	<key>keychain-access-groups</key>
 	<array>
+		<string>BJ4HAAB9B3.us.zoom.videomeetings</string>
 		<string>BJ4HAAB9B3.us.zoom.meetings.keychain.share</string>
 		<string>BJ4HAAB9B3.us.zoom.meetings.keychain.share.zrc</string>
 	</array>
@@ -55,6 +56,8 @@
 		<string>applinks:*.zoomgov.com</string>
 		<string>applinks:zoom.com</string>
 		<string>applinks:*.zoom.com</string>
+		<string>webcredentials:zoom.us</string>
+		<string>webcredentials:*.zoom.us</string>
 	</array>
 	<key>com.apple.developer.device-information.user-assigned-device-name</key>
 	<true/>

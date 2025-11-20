@@ -68,7 +68,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.6.7</string>
+	<string>6.6.10</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -92,9 +92,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>29432</string>
+	<string>29997</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B54</string>
+	<string>17B101</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -277,12 +277,15 @@
 		<string>com.adobe.pdf</string>
 		<string>com.apple.keynote.key</string>
 		<string>com.apple.iwork.keynote.key</string>
+		<string>com.apple.iwork.keynote.sffkey</string>
 		<string>com.apple.iwork.keynote.kth</string>
 		<string>com.apple.numbers.numbers</string>
 		<string>com.apple.iwork.numbers.numbers</string>
+		<string>com.apple.iwork.numbers.sffnumbers</string>
 		<string>com.apple.iwork.numbers.template</string>
 		<string>com.apple.page.pages</string>
 		<string>com.apple.iwork.pages.pages</string>
+		<string>com.apple.iwork.pages.sffpages</string>
 		<string>com.apple.iwork.pages.template</string>
 		<string>com.microsoft.word.doc</string>
 		<string>com.microsoft.word.wordml</string>
