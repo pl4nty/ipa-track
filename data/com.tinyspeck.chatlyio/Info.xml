@@ -84,7 +84,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.11.20</string>
+	<string>25.11.30</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSpokenName</key>
@@ -115,27 +115,27 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>453406</string>
+	<string>453596</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17A323</string>
+	<string>17B101</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23B77</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.1</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23B77</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.1</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2610</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17B55</string>
 	<key>GIDClientID</key>
 	<string>331588195051-jsmlcgdl2li407e48kjpjqgrb50k7u7c.apps.googleusercontent.com</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
