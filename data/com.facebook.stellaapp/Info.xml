@@ -23,7 +23,7 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-11-13T17:22:31</string>
+	<string>2025-11-21T19:31:53</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -64,7 +64,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>246.1.0</string>
+	<string>247.2.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -82,7 +82,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>825074689</string>
+	<string>830558039</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17B101</string>
 	<key>DTPlatformBuild</key>
@@ -100,23 +100,23 @@
 	<key>DTXcodeBuild</key>
 	<string>17A324</string>
 	<key>FBAppVersion</key>
-	<string>246.1.0.49.167</string>
+	<string>247.2.0.60.165</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>825074689</integer>
+	<integer>830558039</integer>
 	<key>FBBuildRevision</key>
-	<string>94ef13d99d09f826f32bb7ffad33dc620f0d37e4</string>
+	<string>21c6ef9ec03d7a91447a5030f33c536f2557c135</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1763053349.028800</string>
+	<string>1763752422.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1763054551</integer>
+	<integer>1763753513</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>246.1.0</string>
+	<string>247.2.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -125,23 +125,23 @@
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>spotify</string>
-		<string>amznmp3</string>
-		<string>calm</string>
-		<string>whatsapp-consumer</string>
-		<string>fb-messenger</string>
 		<string>fb</string>
-		<string>ihr</string>
+		<string>fb-messenger</string>
 		<string>instagram</string>
-		<string>sgtestapp-sg-creds</string>
-		<string>org.bemyeyes.BeMyEyes</string>
-		<string>rbmaudible-v2</string>
 		<string>barcelona</string>
 		<string>oculus</string>
 		<string>whatsapp</string>
 		<string>otpauth</string>
 		<string>fb-pma</string>
 		<string>fb-ama</string>
+		<string>whatsapp-consumer</string>
+		<string>sgtestapp-sg-creds</string>
+		<string>spotify</string>
+		<string>amznmp3</string>
+		<string>ihr</string>
+		<string>rbmaudible-v2</string>
+		<string>calm</string>
+		<string>org.bemyeyes.BeMyEyes</string>
 		<string>gcm-ciq</string>
 		<string>strava</string>
 		<string>comgooglemaps</string>
