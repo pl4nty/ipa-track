@@ -249,7 +249,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>145.1</string>
+	<string>145.2</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -271,11 +271,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>64317</string>
+	<string>64514</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17A323</string>
+	<string>17B101</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -289,9 +289,9 @@
 	<key>DTSDKName</key>
 	<string>iphoneos26.1</string>
 	<key>DTXcode</key>
-	<string>2610</string>
+	<string>2611</string>
 	<key>DTXcodeBuild</key>
-	<string>17B55</string>
+	<string>17B100</string>
 	<key>INIntentsSupported</key>
 	<array>
 		<string>QuickActionIntent</string>
