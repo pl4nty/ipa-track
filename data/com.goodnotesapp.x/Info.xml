@@ -219,7 +219,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.0.15</string>
+	<string>7.0.16</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -288,7 +288,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3491535.202809293</string>
+	<string>3492485.190425218</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -304,19 +304,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23B77</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.1</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23B77</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.1</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2610</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17B55</string>
 	<key>ENABLE_ON_DEMAND_RESOURCES</key>
 	<string>YES</string>
 	<key>FirebaseAutomaticScreenReportingEnabled</key>
@@ -360,11 +360,14 @@
 		<string>lacoonsecurity</string>
 		<string>https</string>
 		<string>https-intunemam</string>
-		<string>msauthv2</string>
 		<string>intunemam-mtd</string>
 		<string>wandera</string>
 		<string>betteractiveshield</string>
+		<string>msauth-intunemam</string>
+		<string>msauthv2</string>
+		<string>msauthv2-intunemam</string>
 		<string>msauthv3</string>
+		<string>msauthv3-intunemam</string>
 		<string>microsoft-edge-https</string>
 		<string>microsoft-edge-https-intunemam</string>
 		<string>zips</string>
@@ -939,7 +942,7 @@
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>7.0.15
+		<string>7.0.16
 </string>
 	</dict>
 </dict>
