@@ -25,6 +25,9 @@
 		<string>sapphire://autoSuggest?query=cat</string>
 		<string>applinks:sl.bing.net</string>
 		<string>applinks:copilot.microsoft.com</string>
+		<string>webcredentials:login.microsoft.com</string>
+		<string>webcredentials:login.microsoftonline.us</string>
+		<string>webcredentials:login.partner.microsoftonline.cn</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
