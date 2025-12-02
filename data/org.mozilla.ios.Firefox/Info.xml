@@ -70,6 +70,51 @@
 				<key>CFBundleIconName</key>
 				<string>AppIcon_Alt_DarkPurple</string>
 			</dict>
+			<key>AppIcon_Alt_Fun_Cool</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Cool</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Cuddling</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Cuddling</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Flaming</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Flaming</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Minimal</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Minimal</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Momo</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Momo</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Pixelated</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Pixelated</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Pride</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Pride</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Retro2004</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Retro2004</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Retro2017</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Retro2017</string>
+			</dict>
 			<key>AppIcon_Alt_Gradient_BlueHour</key>
 			<dict>
 				<key>CFBundleIconName</key>
@@ -180,6 +225,51 @@
 				<key>CFBundleIconName</key>
 				<string>AppIcon_Alt_DarkPurple</string>
 			</dict>
+			<key>AppIcon_Alt_Fun_Cool</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Cool</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Cuddling</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Cuddling</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Flaming</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Flaming</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Minimal</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Minimal</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Momo</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Momo</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Pixelated</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Pixelated</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Pride</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Pride</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Retro2004</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Retro2004</string>
+			</dict>
+			<key>AppIcon_Alt_Fun_Retro2017</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon_Alt_Fun_Retro2017</string>
+			</dict>
 			<key>AppIcon_Alt_Gradient_BlueHour</key>
 			<dict>
 				<key>CFBundleIconName</key>
@@ -249,7 +339,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>145.2</string>
+	<string>145.3</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -271,7 +361,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>64514</string>
+	<string>65247</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>

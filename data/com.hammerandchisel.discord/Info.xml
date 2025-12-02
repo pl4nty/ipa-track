@@ -178,20 +178,6 @@
 					<string>SunsetIcon</string>
 				</array>
 			</dict>
-			<key>TreatIcon</key>
-			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>TreatIcon</string>
-				</array>
-			</dict>
-			<key>TrickIcon</key>
-			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>TrickIcon</string>
-				</array>
-			</dict>
 			<key>Y2KIcon</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
@@ -376,20 +362,6 @@
 					<string>SunsetIcon</string>
 				</array>
 			</dict>
-			<key>TreatIcon</key>
-			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>TreatIcon</string>
-				</array>
-			</dict>
-			<key>TrickIcon</key>
-			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>TrickIcon</string>
-				</array>
-			</dict>
 			<key>Y2KIcon</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
@@ -418,7 +390,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>306.1</string>
+	<string>307.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -438,7 +410,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>89123</string>
+	<string>89215</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17B101</string>
 	<key>DTCompiler</key>
@@ -488,6 +460,8 @@
 	<true/>
 	<key>MinimumOSVersion</key>
 	<string>15.1</string>
+	<key>NSAlwaysAllowMicrophoneModeControl</key>
+	<true/>
 	<key>NSBluetoothAlwaysUsageDescription</key>
 	<string>To connect to your devices</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
@@ -526,10 +500,12 @@
 	<string>Allowing tracking helps us show you Quests for games you play or are interested in. You can opt out anytime in your iOS settings.</string>
 	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
 	<true/>
+	<key>RCTNewArchEnabled</key>
+	<false/>
 	<key>RELEASE_CHANNEL</key>
 	<string>ptb</string>
 	<key>SENTRY_RELEASE</key>
-	<string>discord_ios@306.1.89123+89123</string>
+	<string>discord_ios@307.0.89215+89215</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>abcgintonord-800-extrabold.ttf</string>
@@ -555,6 +531,13 @@
 		<string>ggmono-700-bold.ttf</string>
 		<string>sourcecodepro-400-normal.ttf</string>
 		<string>sourcecodepro-700-bold.ttf</string>
+		<string>chicle-400-normal.ttf</string>
+		<string>cherrybombone-400-normal.ttf</string>
+		<string>museomoderno-500-medium.ttf</string>
+		<string>neocastel-400-normal.ttf</string>
+		<string>pixelifysans-400-normal.ttf</string>
+		<string>sinistre-400-normal.ttf</string>
+		<string>zillaslab-400-normal.ttf</string>
 	</array>
 	<key>UIBackgroundModes</key>
 	<array>

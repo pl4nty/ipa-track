@@ -12,7 +12,7 @@
 	<key>BreakpadProductDisplay</key>
 	<string>Drive</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>24G231</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -124,10 +124,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_drive_universal60x60</string>
+				<string>drive_2020q460x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_drive_universal</string>
+			<string>drive_2020q4</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -136,11 +136,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_drive_universal60x60</string>
-				<string>logo_drive_universal76x76</string>
+				<string>drive_2020q460x60</string>
+				<string>drive_2020q476x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_drive_universal</string>
+			<string>drive_2020q4</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -227,7 +227,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2546.11600</string>
+	<string>4.2547.11600</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -254,7 +254,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.2546.11600</string>
+	<string>4.2547.11600</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
@@ -262,19 +262,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22E235</string>
+	<string>23A339</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.4</string>
+	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>22E235</string>
+	<string>23A339</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.4</string>
+	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>1630</string>
+	<string>2601</string>
 	<key>DTXcodeBuild</key>
-	<string>16E140</string>
+	<string>17A400</string>
 	<key>GoogleProductName</key>
 	<string>Drive</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
