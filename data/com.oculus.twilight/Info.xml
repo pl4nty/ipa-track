@@ -9,7 +9,7 @@
 		<string>com.facebook.bgfetch</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-11-20T23:19:56</string>
+	<string>2025-12-03T01:56:51</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>346.1</string>
+	<string>348.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -76,7 +76,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>829980832</string>
+	<string>836593150</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17B101</string>
 	<key>DTPlatformBuild</key>
@@ -94,19 +94,19 @@
 	<key>DTXcodeBuild</key>
 	<string>17A324</string>
 	<key>FBAppVersion</key>
-	<string>346.1.0.23.105</string>
+	<string>348.0.0.25.106</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>829980832</integer>
+	<integer>836593150</integer>
 	<key>FBBuildRevision</key>
-	<string>9c75e989f728417a96d068d7287d91f8d2d75227</string>
+	<string>a32052315b41c6a9405d31d9373664203831583f</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1763679720.028800</string>
+	<string>1764725760.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1763680796</integer>
+	<integer>1764727011</integer>
 	<key>FBCWAppBugReportCategory</key>
 	<string>1945899645655301</string>
 	<key>FBCWAppName</key>
@@ -122,7 +122,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>346.1</string>
+	<string>348.0</string>
 	<key>FBThisAppKeychainGroup</key>
 	<string>V9WTTPBFK9.com.oculus.twilight</string>
 	<key>FacebookAppID</key>
@@ -153,6 +153,8 @@
 		<string>https</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>LSSupportsGameMode</key>
 	<true/>
 	<key>MinimumOSVersion</key>
 	<string>15.1</string>

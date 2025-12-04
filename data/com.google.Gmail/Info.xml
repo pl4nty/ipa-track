@@ -77,6 +77,7 @@
 		<string>is</string>
 		<string>it</string>
 		<string>ja</string>
+		<string>kk</string>
 		<string>kn</string>
 		<string>ko</string>
 		<string>lt</string>
@@ -86,6 +87,8 @@
 		<string>ms</string>
 		<string>nb</string>
 		<string>nl</string>
+		<string>or</string>
+		<string>pa</string>
 		<string>pl</string>
 		<string>pt_BR</string>
 		<string>pt_PT</string>
@@ -113,7 +116,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.0.251110</string>
+	<string>6.0.251117</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -136,7 +139,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6.0.251110.1801268</string>
+	<string>6.0.251117.1801474</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17B101</string>
 	<key>DTCompiler</key>
@@ -156,7 +159,7 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>DynamiteVersion</key>
-	<string>0.586.831074940</string>
+	<string>0.588.834937654</string>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
 	<false/>
 	<key>ITSAppUsesNonExemptEncryption</key>
