@@ -23,7 +23,7 @@
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2025-11-21T19:31:53</string>
+	<string>2025-12-05T01:03:00</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -64,7 +64,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>247.2.0</string>
+	<string>249.1.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -82,7 +82,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>830558039</string>
+	<string>838028294</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17B101</string>
 	<key>DTPlatformBuild</key>
@@ -100,23 +100,23 @@
 	<key>DTXcodeBuild</key>
 	<string>17A324</string>
 	<key>FBAppVersion</key>
-	<string>247.2.0.60.165</string>
+	<string>249.1.1.29.166</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>830558039</integer>
+	<integer>838028294</integer>
 	<key>FBBuildRevision</key>
-	<string>21c6ef9ec03d7a91447a5030f33c536f2557c135</string>
+	<string>dfdf1128d77937a5caac5b9a846a106e35f18446</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1763752422.028800</string>
+	<string>1764895518.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1763753513</integer>
+	<integer>1764896580</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>247.2.0</string>
+	<string>249.1.1</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -144,6 +144,11 @@
 		<string>org.bemyeyes.BeMyEyes</string>
 		<string>gcm-ciq</string>
 		<string>strava</string>
+		<string>tg</string>
+		<string>snapchat</string>
+		<string>twitter</string>
+		<string>line</string>
+		<string>viber</string>
 		<string>comgooglemaps</string>
 		<string>waze</string>
 		<string>duo</string>
