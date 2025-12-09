@@ -6,6 +6,7 @@
 	<array>
 		<string>EQHXZ8M8AV.com.google.Tachyon</string>
 		<string>EQHXZ8M8AV.com.google.common.SSO</string>
+		<string>EQHXZ8M8AV.com.google.common.folsom</string>
 		<string>EQHXZ8M8AV.com.google.tachyon.notifications</string>
 	</array>
 	<key>com.apple.developer.networking.multicast</key>

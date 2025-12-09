@@ -12,7 +12,7 @@
 	<key>BreakpadProductDisplay</key>
 	<string>Drive</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24G231</string>
+	<string>23F79</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -227,7 +227,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2547.11600</string>
+	<string>4.2549.11600</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -254,7 +254,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.2547.11600</string>
+	<string>4.2549.11600</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>

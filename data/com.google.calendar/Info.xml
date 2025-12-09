@@ -11,7 +11,7 @@
 	<key>BreakpadProduct</key>
 	<string>Timely_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24G231</string>
+	<string>23F79</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -24,10 +24,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_calendar_2020q4_color60x60</string>
+				<string>calendar_2020q460x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_calendar_2020q4_color</string>
+			<string>calendar_2020q4</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -36,11 +36,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_calendar_2020q4_color60x60</string>
-				<string>logo_calendar_2020q4_color76x76</string>
+				<string>calendar_2020q460x60</string>
+				<string>calendar_2020q476x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_calendar_2020q4_color</string>
+			<string>calendar_2020q4</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -92,7 +92,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.45.6</string>
+	<string>25.47.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -121,7 +121,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>25.45.6.54457700</string>
+	<string>25.47.0.54470100</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17B101</string>
 	<key>DTCompiler</key>

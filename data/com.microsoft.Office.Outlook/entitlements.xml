@@ -19,6 +19,11 @@
 		<string>webcredentials:login.microsoftonline.us</string>
 		<string>webcredentials:login.microsoft.com</string>
 		<string>applinks:krs.microsoft.com</string>
+		<string>applinks:outlook-sdf.office.com</string>
+		<string>applinks:outlook.office.com</string>
+		<string>applinks:outlook-sdf.office365.com</string>
+		<string>applinks:outlook.office365.com</string>
+		<string>applinks:outlook.cloud.microsoft</string>
 	</array>
 	<key>com.apple.developer.pass-type-identifiers</key>
 	<array>
