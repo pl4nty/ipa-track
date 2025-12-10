@@ -13,6 +13,9 @@
 		<string>com.whatsapp.icloud_backup</string>
 		<string>com.whatsapp.db_maintenance</string>
 		<string>com.whatsapp.history_sync</string>
+		<string>com.whatsapp.ios_device_registration_uuid</string>
+		<string>com.whatsapp.storage_management</string>
+		<string>com.whatsapp.canonical-user-manager</string>
 	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
@@ -151,7 +154,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.35.74</string>
+	<string>25.36.73</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -176,9 +179,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>836550004</string>
+	<string>840187409</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B101</string>
+	<string>17C48</string>
 	<key>DTPlatformBuild</key>
 	<string>23A339</string>
 	<key>DTPlatformName</key>
@@ -196,7 +199,7 @@
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>836550004</string>
+	<string>840187409</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
