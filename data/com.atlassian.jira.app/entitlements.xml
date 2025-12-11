@@ -24,7 +24,7 @@
 	<array>
 		<string>applinks:*.jira-dev.com</string>
 		<string>applinks:*.atlassian.net</string>
-		<string>applinks:*.jira.atlassian.cloud</string>
+		<string>applinks:hello.jira.atlassian.cloud</string>
 		<string>applinks:*.jira.com</string>
 		<string>applinks:id.atlassian.com</string>
 		<string>applinks:id.stg.internal.atlassian.com</string>

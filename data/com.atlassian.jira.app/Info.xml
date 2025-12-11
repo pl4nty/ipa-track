@@ -101,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>244.2.0</string>
+	<string>245.1.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -158,9 +158,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>244.2.0.6166</string>
+	<string>245.1.0.6337</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B101</string>
+	<string>17C48</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -676,6 +676,8 @@
 	<string>Allow Jira to save images and videos to Photos?</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>To attach files to Jira issues</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Allow access to speech recognition if you'd like to talk with Rovo.</string>
 	<key>NSUserActivityTypes</key>
 	<array>
 		<string>AddAttachmentIntent</string>
