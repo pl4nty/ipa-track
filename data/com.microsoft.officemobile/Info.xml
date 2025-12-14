@@ -94,7 +94,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.104.4</string>
+	<string>2.104.5</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -131,9 +131,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.104.25120813</string>
+	<string>2.104.25121121</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B101</string>
+	<string>17C48</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -327,10 +327,10 @@
 	<string>This lets you insert photos from your library.</string>
 	<key>NSPrincipalClass</key>
 	<string>CUIApplication</string>
+	<key>NSSiriUsageDescription</key>
+	<string>This enables Siri shortcuts to start copilot chat</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>Speech Recognition needed for Offline commanding</string>
-	<key>NSSupportsLiveActivities</key>
-	<true/>
 	<key>NSUserActivityTypes</key>
 	<array>
 		<string>com.microsoft.officemobile.documentopen</string>
@@ -356,7 +356,7 @@
 		<string>90</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.104.1208.4</string>
+	<string>2.104.1211.5</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
