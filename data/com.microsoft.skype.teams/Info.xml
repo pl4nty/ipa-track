@@ -5,13 +5,13 @@
 	<key>AXPApplicationGroupIdentifier</key>
 	<string>group.com.microsoft.skype.teams</string>
 	<key>AppBuildDate</key>
-	<string>1210</string>
+	<string>1213</string>
 	<key>AppCenterAppDelegateForwarderEnabled</key>
 	<string>0</string>
 	<key>AppIdentifierPrefix</key>
 	<string>SGGM6D27TK.</string>
 	<key>AppVersionWithBuildInfo</key>
-	<string>1.077.2025223006</string>
+	<string>1.077.2025223301</string>
 	<key>BuildMachineOSBuild</key>
 	<string>24D70</string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.22.0</string>
+	<string>7.22.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -111,11 +111,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>100772025223006</string>
+	<string>100772025223301</string>
 	<key>CFBundleYearString</key>
 	<string>2025</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C48</string>
+	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
