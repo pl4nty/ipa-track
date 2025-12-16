@@ -11,7 +11,7 @@
 		<string>clearcut_bg_upload</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>24E263</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -132,7 +132,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.47.300043380</string>
+	<string>3.48.300043800</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -149,11 +149,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.47.836427600</string>
+	<string>3.48.841986547</string>
 	<key>CrashBackendEnvironment</key>
 	<string>production</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B101</string>
+	<string>17C48</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

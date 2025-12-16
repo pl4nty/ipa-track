@@ -37,6 +37,7 @@
 		<string>webcredentials:login.microsoftonline.us</string>
 		<string>webcredentials:login.partner.microsoftonline.cn</string>
 		<string>webcredentials:login.windows-ppe.net</string>
+		<string>applinks:login.microsoftonline.com</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>

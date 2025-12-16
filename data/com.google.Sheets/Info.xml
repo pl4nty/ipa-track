@@ -47,10 +47,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_sheets_2024q3_color60x60</string>
+				<string>sheets_2020q460x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_sheets_2024q3_color</string>
+			<string>sheets_2020q4</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -59,11 +59,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_sheets_2024q3_color60x60</string>
-				<string>logo_sheets_2024q3_color76x76</string>
+				<string>sheets_2020q460x60</string>
+				<string>sheets_2020q476x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_sheets_2024q3_color</string>
+			<string>sheets_2020q4</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -151,7 +151,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2025.49102</string>
+	<string>1.2025.50100</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -175,25 +175,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.2025.49102</string>
+	<string>1.2025.50100</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B101</string>
+	<string>17C48</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23A339</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23A339</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2601</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17A400</string>
 	<key>GoogleProductName</key>
 	<string>Sheets</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -256,18 +256,18 @@
 	<string>Google Sheets needs access to your photo library so you can insert images from it into your sheets</string>
 	<key>UIAppFonts</key>
 	<array>
-		<string>TrixResources.bundle/ArchivoNarrow-Bold.ttf</string>
-		<string>TrixResources.bundle/ArchivoNarrow-BoldItalic.ttf</string>
-		<string>TrixResources.bundle/ArchivoNarrow-Italic.ttf</string>
-		<string>TrixResources.bundle/ArchivoNarrow-Regular.ttf</string>
-		<string>TrixResources.bundle/Caladea-Bold.ttf</string>
-		<string>TrixResources.bundle/Caladea-BoldItalic.ttf</string>
-		<string>TrixResources.bundle/Caladea-Italic.ttf</string>
-		<string>TrixResources.bundle/Caladea-Regular.ttf</string>
-		<string>TrixResources.bundle/Carlito-Bold.ttf</string>
-		<string>TrixResources.bundle/Carlito-BoldItalic.ttf</string>
-		<string>TrixResources.bundle/Carlito-Italic.ttf</string>
-		<string>TrixResources.bundle/Carlito-Regular.ttf</string>
+		<string>ArchivoNarrow-Bold.ttf</string>
+		<string>ArchivoNarrow-BoldItalic.ttf</string>
+		<string>ArchivoNarrow-Italic.ttf</string>
+		<string>ArchivoNarrow-Regular.ttf</string>
+		<string>Caladea-Bold.ttf</string>
+		<string>Caladea-BoldItalic.ttf</string>
+		<string>Caladea-Italic.ttf</string>
+		<string>Caladea-Regular.ttf</string>
+		<string>Carlito-Bold.ttf</string>
+		<string>Carlito-BoldItalic.ttf</string>
+		<string>Carlito-Italic.ttf</string>
+		<string>Carlito-Regular.ttf</string>
 		<string>ProductSans-Regular.ttf</string>
 	</array>
 	<key>UIApplicationSupportsPrintCommand</key>

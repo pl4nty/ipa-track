@@ -583,7 +583,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>16.103.4</string>
+	<string>16.104</string>
 	<key>CFBundleSignature</key>
 	<string>MSON</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -614,9 +614,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>16103004.25120510</string>
+	<string>16104000.25121225</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C48</string>
+	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -768,7 +768,7 @@
 	<key>MSOfeedbackPhoneAppID</key>
 	<string>248</string>
 	<key>MicrosoftExtendedBuildNumber</key>
-	<string>16.103.4/251205</string>
+	<string>16.104/251212</string>
 	<key>MinimumOSVersion</key>
 	<string>18.0</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
@@ -796,7 +796,7 @@
 		<string>com.microsoft.onenote.viewing-page</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>16.103.1205.4</string>
+	<string>16.104.1212.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
