@@ -236,7 +236,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.0.1</string>
+	<string>3.1.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -256,25 +256,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3853</string>
+	<string>4082</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17A323</string>
+	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22E235</string>
+	<string>23B77</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.4</string>
+	<string>26.1</string>
 	<key>DTSDKBuild</key>
-	<string>22E235</string>
+	<string>23B77</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.4</string>
+	<string>iphoneos26.1</string>
 	<key>DTXcode</key>
-	<string>1630</string>
+	<string>2610</string>
 	<key>DTXcodeBuild</key>
-	<string>16E140</string>
+	<string>17B54</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
@@ -334,8 +334,8 @@
 			<string>SearchAction</string>
 		</dict>
 		<dict>
-			<key>UIApplicationShortcutItemIconSymbolName</key>
-			<string>gamecontroller</string>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>gamepadGlyph24</string>
 			<key>UIApplicationShortcutItemTitle</key>
 			<string>IDS_APP_SHORTCUT_PLAY_GAME_TITLE</string>
 			<key>UIApplicationShortcutItemType</key>
@@ -343,7 +343,7 @@
 		</dict>
 		<dict>
 			<key>UIApplicationShortcutItemIconFile</key>
-			<string>privateGlyph24</string>
+			<string>privateModeGlyph24</string>
 			<key>UIApplicationShortcutItemTitle</key>
 			<string>IDS_APP_SHORTCUT_PRIVATE_MODE_TITLE</string>
 			<key>UIApplicationShortcutItemType</key>
