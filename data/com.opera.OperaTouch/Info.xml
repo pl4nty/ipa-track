@@ -232,7 +232,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.2.0</string>
+	<string>6.3.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -300,25 +300,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2</string>
+	<string>1</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B101</string>
+	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22B74</string>
+	<string>23B77</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.1</string>
+	<string>26.1</string>
 	<key>DTSDKBuild</key>
-	<string>22B74</string>
+	<string>23B77</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.1</string>
+	<string>iphoneos26.1</string>
 	<key>DTXcode</key>
-	<string>1610</string>
+	<string>2611</string>
 	<key>DTXcodeBuild</key>
-	<string>16B40</string>
+	<string>17B100</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>GADApplicationIdentifier</key>
