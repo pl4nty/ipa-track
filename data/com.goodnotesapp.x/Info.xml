@@ -219,7 +219,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.0.20</string>
+	<string>7.0.22</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -288,7 +288,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3510202.211296780</string>
+	<string>3523413.263901039</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -300,7 +300,7 @@
 	<key>CSAN_PUBLISHERS_HOST</key>
 	<string>publisher.csan.goodnotes.com</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B101</string>
+	<string>17C48</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -416,6 +416,25 @@
 	<string>Save images from the app to your camera roll. </string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Select the images that you would like to show up in the toolbar for quick access.</string>
+	<key>NSPrivacyTrackingDomains</key>
+	<array>
+		<string>att.attr.appsflyer-cn.com</string>
+		<string>att.attr.appsflyersdk.com</string>
+		<string>att.attr.hevents.appsflyer-cn.com</string>
+		<string>att.attr.whappsflyer.com</string>
+		<string>att.conversions.appsflyer-cn.com</string>
+		<string>att.conversions.appsflyersdk.com</string>
+		<string>att.conversions.hevents.appsflyer-cn.com</string>
+		<string>att.conversions.whappsflyer.com</string>
+		<string>att.dlsdk.appsflyer-cn.com</string>
+		<string>att.dlsdk.appsflyersdk.com</string>
+		<string>att.dlsdk.hevents.appsflyer-cn.com</string>
+		<string>att.dlsdk.whappsflyer.com</string>
+		<string>att.launches.appsflyer-cn.com</string>
+		<string>att.launches.appsflyersdk.com</string>
+		<string>att.launches.hevents.appsflyer-cn.com</string>
+		<string>att.launches.whappsflyer.com</string>
+	</array>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>Enable speech recognition usage to transcript audio.</string>
 	<key>NSUserActivityTypes</key>
@@ -427,6 +446,8 @@
 		<string>com.goodnotesapp.elements.openPicker</string>
 		<string>com.goodnotesapp.goodnotes.open-review-modal-activity</string>
 	</array>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>Enable to track user activity across other companies, apps and websites.</string>
 	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
 	<true/>
 	<key>SHARE_LINK_HOST</key>
@@ -942,7 +963,7 @@
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>7.0.20
+		<string>7.0.22
 </string>
 	</dict>
 </dict>
