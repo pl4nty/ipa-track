@@ -94,7 +94,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2025.25.1</string>
+	<string>2026.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -129,7 +129,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20251219.170850</string>
+	<string>20251219.223703</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
@@ -630,7 +630,7 @@
 	<key>NSFaceIDUsageDescription</key>
 	<string>Use Face ID to unlock Trello.</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2025 Atlassian. All rights reserved.</string>
+	<string>Copyright © 2026 Atlassian. All rights reserved.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Trello uses your location to show where you are on a map.</string>
 	<key>NSMicrophoneUsageDescription</key>

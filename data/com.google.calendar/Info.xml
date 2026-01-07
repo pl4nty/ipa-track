@@ -92,7 +92,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.48.1</string>
+	<string>25.51.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -121,9 +121,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>25.48.1.54480200</string>
+	<string>25.51.0.54497500</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C48</string>
+	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -205,7 +205,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>16.0</string>
+	<string>17.0</string>
 	<key>NSCalendarsFullAccessUsageDescription</key>
 	<string>This app uses full calendar access to display your events and birthdays from system calendars.</string>
 	<key>NSCalendarsUsageDescription</key>
