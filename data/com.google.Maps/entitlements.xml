@@ -766,6 +766,8 @@
 	<true/>
 	<key>com.apple.developer.location.push</key>
 	<true/>
+	<key>com.apple.developer.declared-age-range</key>
+	<true/>
 	<key>keychain-access-groups</key>
 	<array>
 		<string>EQHXZ8M8AV.com.google.Maps</string>

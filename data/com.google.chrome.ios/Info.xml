@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>143.7499.151</string>
+	<string>144.7559.53</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -92,7 +92,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>143.0.7499.151</string>
+	<string>144.0.7559.53</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
@@ -108,9 +108,9 @@
 	<key>DTSDKName</key>
 	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2601</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17A400</string>
 	<key>FirebaseScreenReportingEnabled</key>
 	<false/>
 	<key>GOOGLE_CLIENT_ID_MAIN</key>
@@ -118,7 +118,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Chrome</string>
 	<key>GTMUserAgentVersion</key>
-	<string>143.0.7499.151</string>
+	<string>144.0.7559.53</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
@@ -212,7 +212,7 @@
 		<string>SearchInChromeIntent</string>
 	</array>
 	<key>SCMRevision</key>
-	<string>63447262c23015efaf800884fe961c7729a1e597-refs/branch-heads/7499@{#3329}</string>
+	<string>5d5f84976f18a63015578fefdb7e3fef67197058-refs/branch-heads/7559@{#3101}</string>
 	<key>SSOAuthURLScheme</key>
 	<string>com.google.sso.chrome.stable</string>
 	<key>UIApplicationDelegate</key>
