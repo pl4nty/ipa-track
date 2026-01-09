@@ -4,21 +4,10 @@
 <dict>
 	<key>com.apple.developer.usernotifications.communication</key>
 	<true/>
-	<key>com.apple.developer.networking.wifi-info</key>
-	<true/>
-	<key>keychain-access-groups</key>
-	<array>
-		<string>T84QZS65DQ.platformFamily</string>
-	</array>
-	<key>com.apple.developer.team-identifier</key>
-	<string>V9WTTPBFK9</string>
-	<key>com.apple.developer.healthkit</key>
+	<key>com.apple.developer.declared-age-range</key>
 	<true/>
 	<key>application-identifier</key>
 	<string>T84QZS65DQ.com.oculus.twilight</string>
-	<key>com.apple.developer.healthkit.access</key>
-	<array>
-	</array>
 	<key>aps-environment</key>
 	<string>production</string>
 	<key>com.apple.developer.usernotifications.time-sensitive</key>
@@ -45,6 +34,19 @@
 		<string>webcredentials:www.meta.com</string>
 		<string>webcredentials:auth.meta.com</string>
 		<string>webcredentials:www.auth.meta.com</string>
+	</array>
+	<key>com.apple.developer.networking.wifi-info</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>T84QZS65DQ.platformFamily</string>
+	</array>
+	<key>com.apple.developer.team-identifier</key>
+	<string>V9WTTPBFK9</string>
+	<key>com.apple.developer.healthkit</key>
+	<true/>
+	<key>com.apple.developer.healthkit.access</key>
+	<array>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

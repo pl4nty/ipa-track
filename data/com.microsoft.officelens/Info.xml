@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24D81</string>
+	<string>24G90</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -44,7 +44,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.96.1</string>
+	<string>2.106.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -71,25 +71,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.96.25040141</string>
+	<string>2.106.26010423</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>16E137</string>
+	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22C146</string>
+	<string>23B77</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.2</string>
+	<string>26.1</string>
 	<key>DTSDKBuild</key>
-	<string>22C146</string>
+	<string>23B77</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.2</string>
+	<string>iphoneos26.1</string>
 	<key>DTXcode</key>
-	<string>1620</string>
+	<string>2611</string>
 	<key>DTXcodeBuild</key>
-	<string>16C5032a</string>
+	<string>17B100</string>
 	<key>InTuneMAMLSApplicationQueriesSchemes</key>
 	<array>
 		<string>ms-excel</string>
@@ -98,7 +98,6 @@
 		<string>onenote</string>
 		<string>ms-onedrive</string>
 		<string>onenote-cmd</string>
-		<string>skype</string>
 		<string>ms-onedrive-authdf</string>
 		<string>ms-powerpoint</string>
 		<string>ms-outlook-accepts-attachments</string>
@@ -172,7 +171,6 @@
 		<string>ms-sharepoint</string>
 		<string>mspbi</string>
 		<string>org-appextension-feature-password-management</string>
-		<string>skype</string>
 		<string>https-intunemam</string>
 		<string>http-intunemam</string>
 		<string>microsoft-edge-https-intunemam</string>
@@ -190,7 +188,7 @@
 	<key>MbuLoggingFullLegacyUpload</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>18.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -205,7 +203,7 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>This app needs access to the photo library to save and import images of your documents.</string>
 	<key>OfficeLegacyVersion</key>
-	<string>2.96.401.1</string>
+	<string>2.106.104.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
