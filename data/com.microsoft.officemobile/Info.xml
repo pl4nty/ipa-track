@@ -94,7 +94,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.105</string>
+	<string>2.105.1</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -131,25 +131,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.105.25121523</string>
+	<string>2.105.26010836</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23B77</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.1</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23B77</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.1</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2611</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17B100</string>
 	<key>INAlternativeAppNames</key>
 	<array>
 		<dict>
@@ -159,6 +159,10 @@
 		<dict>
 			<key>INAlternativeAppName</key>
 			<string>Microsoft 365 Copilot</string>
+		</dict>
+		<dict>
+			<key>INAlternativeAppName</key>
+			<string>M365 Copilot</string>
 		</dict>
 	</array>
 	<key>InTuneMAMLSApplicationQueriesSchemes</key>
@@ -281,6 +285,7 @@
 		<string>microsoft-edge-https-intunemam</string>
 		<string>microsoft-edge-http-intunemam</string>
 		<string>sapphirebing</string>
+		<string>copilotn</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -356,7 +361,7 @@
 		<string>90</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.105.1215.0</string>
+	<string>2.105.108.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

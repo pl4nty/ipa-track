@@ -6,18 +6,17 @@
 	<array>
 		<string>AttachmentValidationBackfillMigrator</string>
 		<string>BackupBGProcessingTaskRunner</string>
-		<string>MessageAttachmentMigrationTask</string>
 		<string>MessageFetchBGRefreshTask</string>
 		<string>LazyDatabaseMigratorTask</string>
 	</array>
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Wed Dec 17 01:30:21 UTC 2025</string>
+		<string>Tue Jan  6 22:25:31 UTC 2026</string>
 		<key>SignalCommit</key>
-		<string>53c4db5c1e8d3a03775dd65b442d0a41ac89eb3b Feature flags for .production.</string>
+		<string>b8816046fd7e1861a9b36d163f61d833a27800a4 Feature flags for .production.</string>
 		<key>Timestamp</key>
-		<integer>1765935021</integer>
+		<integer>1767738331</integer>
 		<key>XCodeVersion</key>
 		<string>2600.2610</string>
 	</dict>
@@ -179,7 +178,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.89</string>
+	<string>7.90</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -200,7 +199,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1253</string>
+	<string>1272</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
