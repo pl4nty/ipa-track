@@ -339,7 +339,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>146.1</string>
+	<string>147.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -361,11 +361,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>65627</string>
+	<string>66494</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B101</string>
+	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -468,7 +468,7 @@
 		</dict>
 	</array>
 	<key>SentryCloudDSN</key>
-	<string>https://b9f5592bcf624d3495dda7126f43bc17@o1069899.ingest.sentry.io/6176941</string>
+	<string>https://276d2614e2d1d12a741208e7ea440ff6@o1069899.ingest.us.sentry.io/6176941</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>NewYorkMedium-Bold.otf</string>
