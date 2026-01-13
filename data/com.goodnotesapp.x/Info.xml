@@ -43,7 +43,7 @@
 		<string>com.goodnotesapp.x.config-download</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G90</string>
+	<string>24G84</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -219,7 +219,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.0.22</string>
+	<string>7.0.26</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -288,7 +288,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3523413.263901039</string>
+	<string>3559622.267573255</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -300,7 +300,7 @@
 	<key>CSAN_PUBLISHERS_HOST</key>
 	<string>publisher.csan.goodnotes.com</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C48</string>
+	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -314,11 +314,17 @@
 	<key>DTSDKName</key>
 	<string>iphoneos26.1</string>
 	<key>DTXcode</key>
-	<string>2610</string>
+	<string>2611</string>
 	<key>DTXcodeBuild</key>
-	<string>17B55</string>
+	<string>17B100</string>
 	<key>ENABLE_ON_DEMAND_RESOURCES</key>
 	<string>YES</string>
+	<key>FacebookAppID</key>
+	<string>1157725071749362</string>
+	<key>FacebookClientToken</key>
+	<string>8ec2bf26d8c84d8c2f14c5a4dae27633</string>
+	<key>FacebookDisplayName</key>
+	<string>Goodnotes</string>
 	<key>FirebaseAutomaticScreenReportingEnabled</key>
 	<false/>
 	<key>HW_DATA_COLLECTION_PROD_KEY</key>
@@ -963,7 +969,7 @@
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>7.0.22
+		<string>7.0.26
 </string>
 	</dict>
 </dict>

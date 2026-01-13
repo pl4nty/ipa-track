@@ -13,7 +13,7 @@
 		<string>com.salesforce.offlineApp.priming</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24F74</string>
+	<string>24G231</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -80,7 +80,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>258.011</string>
+	<string>258.030</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -105,7 +105,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6210240</string>
+	<string>6210389</string>
 	<key>CloneHeaderHexColor</key>
 	<string></string>
 	<key>CloneJobNumber</key>
@@ -126,23 +126,23 @@
 	<key>CloneSplashBackgroundHexColor</key>
 	<string></string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B101</string>
+	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23A339</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23A339</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2601</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17A400</string>
 	<key>HelpURL</key>
 	<string>https:/help.salesforce.com</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -203,7 +203,7 @@
 	<key>NSCalendarsUsageDescription</key>
 	<string>This lets you access and manage your calendar events without leaving the app.</string>
 	<key>NSCameraUsageDescription</key>
-	<string>This lets you take photos and record video. The app only uploads and shares content that you choose.</string>
+	<string>The app uses your camera to scan barcodes, take profile photos, and upload images to forms.</string>
 	<key>NSContactsUsageDescription</key>
 	<string>Reduce typos by importing specific contacts into your contact records. The app only uploads content that you choose.</string>
 	<key>NSCrossWebsiteTrackingUsageDescription</key>
@@ -250,6 +250,8 @@
 	<array>
 		<string>remote-notification</string>
 	</array>
+	<key>UIDesignRequiresCompatibility</key>
+	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

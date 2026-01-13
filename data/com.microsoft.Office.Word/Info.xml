@@ -234,7 +234,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.104.2</string>
+	<string>2.105</string>
 	<key>CFBundleSignature</key>
 	<string>MSWD</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -289,25 +289,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.104.26010212</string>
+	<string>2.105.26010912</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23B77</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.1</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23B77</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.1</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2611</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17B100</string>
 	<key>DocsUISettings</key>
 	<dict>
 		<key>PreferenceSpecifiers</key>
@@ -546,7 +546,7 @@
 		<string>16</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.104.102.2</string>
+	<string>2.105.109.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

@@ -390,7 +390,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>310.3</string>
+	<string>311.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -410,7 +410,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>91102</string>
+	<string>91117</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
@@ -469,11 +469,6 @@
 	<string>To connect to your devices</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
 	<string>To connect to your devices</string>
-	<key>NSBonjourServices</key>
-	<array>
-		<string>_xboxda._tcp.</string>
-		<string>_spotify-connect._tcp.</string>
-	</array>
 	<key>NSCameraUsageDescription</key>
 	<string>By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.</string>
 	<key>NSContactsUsageDescription</key>
@@ -508,7 +503,7 @@
 	<key>RELEASE_CHANNEL</key>
 	<string>ptb</string>
 	<key>SENTRY_RELEASE</key>
-	<string>discord_ios@310.3.91102+91102</string>
+	<string>discord_ios@311.0.91117+91117</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>abcgintonord-800-extrabold.ttf</string>

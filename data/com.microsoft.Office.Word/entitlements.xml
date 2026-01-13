@@ -48,6 +48,8 @@
 		<string>applinks:*.sharepoint-df.com</string>
 		<string>applinks:*.sharepoint.de</string>
 		<string>applinks:*.safelinks.protection.outlook.com</string>
+		<string>applinks:word.cloud.microsoft</string>
+		<string>applinks:word.cloud-dev.microsoft</string>
 		<string>webcredentials:login.microsoftonline.com</string>
 		<string>webcredentials:login.partner.microsoftonline.cn</string>
 		<string>webcredentials:login.microsoftonline.us</string>

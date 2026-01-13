@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>BBBuildDate</key>
-	<string>2025-12-16</string>
+	<string>2026-01-09</string>
 	<key>BBCommitId</key>
-	<string>c479943</string>
+	<string>48051e0</string>
 	<key>BuildMachineOSBuild</key>
 	<string>25B78</string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -79,7 +79,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.2525.1</string>
+	<string>2.2601</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -99,7 +99,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2252519</string>
+	<string>2260116</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
@@ -157,7 +157,7 @@
 	<key>NSFaceIDUsageDescription</key>
 	<string>Bloomberg Professional will use Face ID to unlock the application and Market Data, without the need for your password.</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2025 Bloomberg L.P. All rights reserved.</string>
+	<string>Copyright © 2026 Bloomberg L.P. All rights reserved.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Bloomberg Professional will use your location to find nearby restaurants listed in DINE.</string>
 	<key>NSMicrophoneUsageDescription</key>

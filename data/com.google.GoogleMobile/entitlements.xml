@@ -6,7 +6,7 @@
 	<array>
 		<string>EQHXZ8M8AV.com.google.GoogleMobile.AppClip</string>
 	</array>
-	<key>com.apple.developer.usernotifications.time-sensitive</key>
+	<key>com.apple.developer.declared-age-range</key>
 	<true/>
 	<key>keychain-access-groups</key>
 	<array>
@@ -16,11 +16,13 @@
 	</array>
 	<key>application-identifier</key>
 	<string>EQHXZ8M8AV.com.google.GoogleMobile</string>
+	<key>com.apple.developer.networking.HotspotConfiguration</key>
+	<true/>
 	<key>aps-environment</key>
 	<string>production</string>
 	<key>com.apple.developer.authentication-services.autofill-credential-provider</key>
 	<true/>
-	<key>com.apple.developer.networking.HotspotConfiguration</key>
+	<key>com.apple.developer.usernotifications.time-sensitive</key>
 	<true/>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
