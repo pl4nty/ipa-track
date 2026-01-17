@@ -154,7 +154,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>25.37.76</string>
+	<string>26.1.74</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -178,7 +178,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>845576353</string>
+	<string>860619267</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTPlatformBuild</key>
@@ -198,7 +198,7 @@
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>845576353</string>
+	<string>860619267</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>

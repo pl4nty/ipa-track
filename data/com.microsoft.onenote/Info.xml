@@ -9,7 +9,7 @@
 		<string>com.microsoft.onenote.backgroundFetchTask</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G90</string>
+	<string>25C56</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -583,7 +583,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>16.105</string>
+	<string>16.105.1</string>
 	<key>CFBundleSignature</key>
 	<string>MSON</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -614,7 +614,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>16105000.26010912</string>
+	<string>16105001.26011615</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
@@ -768,7 +768,7 @@
 	<key>MSOfeedbackPhoneAppID</key>
 	<string>248</string>
 	<key>MicrosoftExtendedBuildNumber</key>
-	<string>16.105/260109</string>
+	<string>16.105.1/260116</string>
 	<key>MinimumOSVersion</key>
 	<string>18.0</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
@@ -796,7 +796,7 @@
 		<string>com.microsoft.onenote.viewing-page</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>16.105.109.0</string>
+	<string>16.105.116.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

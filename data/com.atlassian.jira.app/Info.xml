@@ -7,7 +7,7 @@
 	<key>BuildMachineOSBuild</key>
 	<string>24G90</string>
 	<key>BuildYear</key>
-	<string>2025</string>
+	<string>2026</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -101,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>245.2.0</string>
+	<string>246.2.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -158,25 +158,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>245.2.0.6403</string>
+	<string>246.2.0.6764</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C48</string>
+	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23B77</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.1</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23B77</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.1</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2611</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17B100</string>
 	<key>GIDClientId</key>
 	<string>1065897371335-d7hdpn6lsht3v2ajg9si1s89vn59tu78.apps.googleusercontent.com</string>
 	<key>GIDServerClientId</key>
