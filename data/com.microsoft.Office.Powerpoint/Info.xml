@@ -11,7 +11,7 @@
 		<string>com.microsoft.office.bgtask.prefetch</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G90</string>
+	<string>25C56</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -354,7 +354,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.105</string>
+	<string>2.105.1</string>
 	<key>CFBundleSignature</key>
 	<string>PPT3</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -409,7 +409,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.105.26010912</string>
+	<string>2.105.26011623</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
@@ -597,7 +597,7 @@
 	<key>NSFaceIDUsageDescription</key>
 	<string>This lets you enable Intune using Face ID.</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2025 Microsoft Corporation. All rights reserved.</string>
+	<string>© 2026 Microsoft Corporation. All rights reserved.</string>
 	<key>NSMainNibFile</key>
 	<string>CUILaunchScreen_ios</string>
 	<key>NSMicrophoneUsageDescription</key>
@@ -637,7 +637,7 @@
 		<string>16</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.105.109.0</string>
+	<string>2.105.116.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

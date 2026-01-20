@@ -339,7 +339,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>147.0</string>
+	<string>147.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -361,7 +361,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>66494</string>
+	<string>66967</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
