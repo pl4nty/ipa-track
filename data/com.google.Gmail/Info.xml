@@ -9,7 +9,7 @@
 		<string>com.google.notifications.bgtask.processing</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>24E263</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -116,7 +116,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.0.251229</string>
+	<string>6.0.260112</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -139,7 +139,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6.0.251229.1802238</string>
+	<string>6.0.260112.1802682</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
@@ -159,7 +159,7 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>DynamiteVersion</key>
-	<string>0.600.849961285</string>
+	<string>0.604.857307888</string>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
 	<false/>
 	<key>ITSAppUsesNonExemptEncryption</key>

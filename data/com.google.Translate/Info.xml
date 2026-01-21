@@ -9,7 +9,7 @@
 	<key>BreakpadProduct</key>
 	<string>Google_Translate_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>24E263</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -141,7 +141,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>10.1.231</string>
+	<string>10.2.280</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -164,7 +164,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>10.1.231</string>
+	<string>10.2.280</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>

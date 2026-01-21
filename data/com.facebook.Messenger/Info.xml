@@ -18,7 +18,7 @@
 		<string>com.facebook.messenger.psi</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-01-12T19:45:48</string>
+	<string>2026-01-20T18:53:24</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -59,7 +59,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>544.0.0</string>
+	<string>545.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -272,41 +272,41 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>860355073</string>
+	<string>865730320</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17C52</string>
 	<key>FBAppVersion</key>
-	<string>544.0.0.20.406</string>
+	<string>545.0.0.12.108</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>860355073</integer>
+	<integer>865730320</integer>
 	<key>FBBuildRevision</key>
-	<string>c7d2eb2bfdbd17f6769a577e29e5428b6d3bdba8</string>
+	<string>ef80d065d6b2e0477205893258fb604c21f31755</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1768244145.028800</string>
+	<string>1768933478.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1768247148</integer>
+	<integer>1768935204</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>544.0.0</string>
+	<string>545.0.0</string>
 	<key>FacebookAppID</key>
 	<string>437626316973788</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -319,6 +319,7 @@
 		<string>oculus</string>
 		<string>whatsapp</string>
 		<string>fb-viewapp</string>
+		<string>vibes</string>
 		<string>fb-pma</string>
 		<string>kbank.kplus</string>
 		<string>scbeasyembedded</string>
@@ -326,65 +327,64 @@
 		<string>krungsri-kma</string>
 		<string>ktbnext</string>
 		<string>tcb</string>
-		<string>fb1165516550877174</string>
-		<string>fb654935278355098</string>
-		<string>playmgmsportswrp</string>
-		<string>fb1042157116238764</string>
-		<string>fb597615686992125</string>
-		<string>dksb</string>
-		<string>fb285025889266955</string>
-		<string>fb1601862990589808</string>
-		<string>fb629274312371363</string>
-		<string>fb246559161388001</string>
-		<string>fb3500788733396459</string>
-		<string>fb367266627241061</string>
-		<string>fb1065312064700600</string>
-		<string>fb1791105821059748</string>
-		<string>fb124207444332529</string>
-		<string>fb1078231728854145</string>
-		<string>fb706056846556355</string>
-		<string>fb174103646072524</string>
-		<string>fb674398715267531</string>
-		<string>fb3223994131242543</string>
-		<string>gemini</string>
-		<string>fb604425153801157</string>
-		<string>fb1222123985060415</string>
-		<string>fb1872079600313584</string>
-		<string>fb524516057171015</string>
-		<string>fanduelsportsbook</string>
-		<string>fb550345465459455</string>
-		<string>fb399424954414709</string>
-		<string>fb2446891192176100</string>
-		<string>fb1407499209700479</string>
-		<string>fb151773865450393</string>
-		<string>fb1049729741852134</string>
-		<string>fb1487301568238319</string>
-		<string>fb832520974160908</string>
-		<string>sleeperbot</string>
-		<string>fb622121112850283</string>
-		<string>fb2498086803755292</string>
-		<string>playpickshub</string>
-		<string>fb1795871844036462</string>
-		<string>fb188147905342687</string>
-		<string>fb24451784651179134</string>
-		<string>fb1250647258936050</string>
-		<string>fb342073336607831</string>
-		<string>fb2624727471098737</string>
+		<string>fb597136000919815</string>
+		<string>fb1353214035976287</string>
+		<string>duet</string>
 		<string>fb1508681127074276</string>
-		<string>fb1688178907976035</string>
-		<string>fb364649920320790</string>
-		<string>fb210831918949520</string>
+		<string>fb1601862990589808</string>
+		<string>fb597615686992125</string>
+		<string>fb674398715267531</string>
+		<string>fb1120387489653738</string>
+		<string>fb124207444332529</string>
+		<string>fb608495662880177</string>
+		<string>fb604425153801157</string>
+		<string>fb706056846556355</string>
+		<string>fb1049729741852134</string>
+		<string>fb246559161388001</string>
+		<string>fb151773865450393</string>
+		<string>fb285025889266955</string>
 		<string>fb503934352950298</string>
-		<string>fb2222412081599355</string>
-		<string>fb1262538868307547</string>
-		<string>fb712237168882096</string>
-		<string>fb1035527333163978</string>
-		<string>dkcs</string>
-		<string>com.amazon.mobile.shopping</string>
-		<string>fb2325638837776657</string>
-		<string>fb1375730929320387</string>
+		<string>fb1078231728854145</string>
+		<string>fb891889767495675</string>
+		<string>fb2446891192176100</string>
+		<string>fb174103646072524</string>
+		<string>bingoRoyal</string>
+		<string>fb1923291651293408</string>
+		<string>fb1209155879124141</string>
+		<string>fb1165516550877174</string>
+		<string>fb3223994131242543</string>
+		<string>fb1872079600313584</string>
+		<string>fb1875984509929957</string>
 		<string>fb326605667418591</string>
-		<string>fb1895648287941778</string>
+		<string>fb1777365365898806</string>
+		<string>fb629274312371363</string>
+		<string>fb1042157116238764</string>
+		<string>fb269151666914010</string>
+		<string>fb172594591747244</string>
+		<string>fb399424954414709</string>
+		<string>playpickshub</string>
+		<string>fb654935278355098</string>
+		<string>fb1222123985060415</string>
+		<string>fb2498086803755292</string>
+		<string>fb1650639472488496</string>
+		<string>fb1250647258936050</string>
+		<string>fb1035527333163978</string>
+		<string>fb210831918949520</string>
+		<string>turbotax</string>
+		<string>fb452885470753620</string>
+		<string>fb1407499209700479</string>
+		<string>fb1528052015256817</string>
+		<string>fb428657035975615</string>
+		<string>fb1688178907976035</string>
+		<string>fb1463621440622064</string>
+		<string>fb622121112850283</string>
+		<string>wayfairapp</string>
+		<string>gemini</string>
+		<string>fb712237168882096</string>
+		<string>fb1833639896909350</string>
+		<string>com.amazon.mobile.shopping</string>
+		<string>fanaticssportsbook</string>
+		<string>fb188147905342687</string>
 		<string>http</string>
 		<string>https</string>
 	</array>
