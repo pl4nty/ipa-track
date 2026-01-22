@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24F74</string>
+	<string>24G419</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -82,7 +82,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.11.22</string>
+	<string>8.12.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -123,25 +123,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>81122027</string>
+	<string>81200013</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B101</string>
+	<string>17C53</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22E235</string>
+	<string>23A339</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.4</string>
+	<string>26.0</string>
 	<key>DTSDKBuild</key>
-	<string>22E235</string>
+	<string>23A339</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.4</string>
+	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>1630</string>
+	<string>2600</string>
 	<key>DTXcodeBuild</key>
-	<string>16E140</string>
+	<string>17A324</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
@@ -151,7 +151,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>17.5</string>
+	<string>18.0</string>
 	<key>NSAccentColorName</key>
 	<string>AccentColor</string>
 	<key>NSCameraUsageDescription</key>
@@ -168,9 +168,10 @@
 	<array>
 		<string>ComplicationWidgetIntent</string>
 		<string>com.1password.1password.handoff.item</string>
+		<string>ASCredentialExchangeActivityType</string>
 	</array>
 	<key>OPBundleVersionFull</key>
-	<string>8.11.22</string>
+	<string>8.12.0</string>
 	<key>SFSafariCorrespondingMacOSAppBundleIdentifier</key>
 	<string>com.1password.safari</string>
 	<key>UIApplicationSceneManifest</key>

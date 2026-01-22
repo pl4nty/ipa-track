@@ -12,6 +12,7 @@
 		<string>com.meta.mwa.mcp.download.processingTask</string>
 		<string>com.meta.mwa.mcp.upload.refreshTask</string>
 		<string>com.meta.mwa.mcp.download.refreshTask</string>
+		<string>com.meta.mwa.nabu.jit.dataCleanup</string>
 		<string>com.meta.mwa.telemetry.flush.refreshTask</string>
 		<string>com.meta.mwa.telemetry.flush.bgProcessingTask</string>
 		<string>com.meta.mwa.deviceBugReporter.handleLeftoverArtifacts.bgProcessingTask</string>
@@ -24,7 +25,7 @@
 		<string>com.meta.mwa.background.location.tracking.refreshTask</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-01-14T01:58:36</string>
+	<string>2026-01-20T08:02:36</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -65,7 +66,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>255.0.0</string>
+	<string>256.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -83,41 +84,41 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>861322588</string>
+	<string>865420256</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17C52</string>
 	<key>FBAppVersion</key>
-	<string>255.0.0.22.168</string>
+	<string>256.0.0.58.168</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>861322588</integer>
+	<integer>865420256</integer>
 	<key>FBBuildRevision</key>
-	<string>8a1428b01395696ccd20f6d87c8c07eeb84cb2a1</string>
+	<string>749cf3b3fa16e3d00e0b01ace772c4d4e2a9ed3a</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1768354892.028800</string>
+	<string>1768895177.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1768355916</integer>
+	<integer>1768896156</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>255.0.0</string>
+	<string>256.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -132,6 +133,7 @@
 		<string>barcelona</string>
 		<string>oculus</string>
 		<string>whatsapp</string>
+		<string>vibes</string>
 		<string>otpauth</string>
 		<string>fb-pma</string>
 		<string>fb-ama</string>

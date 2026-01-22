@@ -34,6 +34,10 @@
 	<string>V9WTTPBFK9</string>
 	<key>com.apple.developer.healthkit</key>
 	<true/>
+	<key>com.apple.developer.kernel.extended-virtual-addressing</key>
+	<true/>
+	<key>com.apple.developer.kernel.increased-memory-limit</key>
+	<true/>
 	<key>com.apple.developer.healthkit.background-delivery</key>
 	<true/>
 	<key>com.apple.developer.networking.HotspotConfiguration</key>

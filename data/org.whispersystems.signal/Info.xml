@@ -12,11 +12,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Thu Jan 15 19:21:42 UTC 2026</string>
+		<string>Wed Jan 21 14:59:51 UTC 2026</string>
 		<key>SignalCommit</key>
-		<string>54d0dd215c07c6a2906371c321cf498766be67fd Build fix after cherry-pick</string>
+		<string>a934605eb434c6db4ef17bc79ba815063fbf2207 Feature flags for .production.</string>
 		<key>Timestamp</key>
-		<integer>1768504902</integer>
+		<integer>1769007591</integer>
 		<key>XCodeVersion</key>
 		<string>2600.2620</string>
 	</dict>
@@ -178,7 +178,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.91</string>
+	<string>7.92</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -199,7 +199,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1295</string>
+	<string>1307</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
