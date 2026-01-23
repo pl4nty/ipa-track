@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.PageAdminApp</string>
 	<key>CFBuildDate</key>
-	<string>2026-01-15T02:19:55</string>
+	<string>2026-01-21T17:06:19</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>472.1</string>
+	<string>473.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -91,37 +91,37 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>862052539</string>
+	<string>866563610</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17C52</string>
 	<key>FBAppVersion</key>
-	<string>472.1.0.22.434</string>
+	<string>473.0.0.18.108</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>862052539</integer>
+	<integer>866563610</integer>
 	<key>FBBuildRevision</key>
-	<string>b314909812d821dd2a5a38a2abaa737ebc41700c</string>
+	<string>cf5b7ea700bc9117aa6f299d81b0cff837b1bbe1</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1768442207.028800</string>
+	<string>1769013581.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1768443595</integer>
+	<integer>1769015179</integer>
 	<key>FBColorPalette</key>
 	<string>PMAStandardColorPalette</string>
 	<key>FBDisableAutoRegisterForPush</key>
@@ -133,7 +133,7 @@
 	<key>FBPhotoActionSheetHideSendAsMessageOption</key>
 	<true/>
 	<key>FBPlatformVersion</key>
-	<string>472.1</string>
+	<string>473.0</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
 	<false/>
 	<key>FacebookAppID</key>
@@ -155,6 +155,7 @@
 		<string>oculus</string>
 		<string>whatsapp</string>
 		<string>fb-viewapp</string>
+		<string>vibes</string>
 		<string>otpauth</string>
 		<string>fb-ama</string>
 		<string>spotify</string>
@@ -260,6 +261,8 @@
 		<string>audio</string>
 		<string>remote-notification</string>
 	</array>
+	<key>UIDesignRequiresCompatibility</key>
+	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
