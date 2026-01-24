@@ -10,7 +10,7 @@
 		<string>com.microsoft.office.bgtask.expunge_cache</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G90</string>
+	<string>25C56</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -94,7 +94,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.106</string>
+	<string>2.106.1</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -131,7 +131,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.106.26011313</string>
+	<string>2.106.26012039</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
@@ -336,14 +336,14 @@
 	<string>This enables Siri shortcuts to start copilot chat</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>Speech Recognition needed for Offline commanding</string>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
 	<key>NSUserActivityTypes</key>
 	<array>
 		<string>com.microsoft.officemobile.documentopen</string>
 		<string>com.microsoft.officemobile.documentnotification</string>
-		<string>com.microsoft.officemobile.createfromtemplate</string>
 		<string>com.microsoft.officemobile.documentopen-dogfood</string>
 		<string>com.microsoft.officemobile.documentnotification-dogfood</string>
-		<string>com.microsoft.officemobile.createfromtemplate-dogfood</string>
 	</array>
 	<key>OUISettings</key>
 	<dict>
@@ -361,7 +361,7 @@
 		<string>90</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.106.113.0</string>
+	<string>2.106.120.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
