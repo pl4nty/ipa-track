@@ -5,7 +5,7 @@
 	<key>BreakpadProduct</key>
 	<string>Google_Earth_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>24E263</string>
 	<key>CADisableMinimumFrameDuration</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -75,7 +75,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>10.95.76</string>
+	<string>10.100.41</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -142,9 +142,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>10.95.76.1</string>
+	<string>10.100.41.0</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B101</string>
+	<string>17C503a</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -220,7 +220,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<false/>
 	<key>MinimumOSVersion</key>
-	<string>16.0</string>
+	<string>17.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>

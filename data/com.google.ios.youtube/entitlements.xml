@@ -20,6 +20,7 @@
 	<true/>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
+		<string>applinks:accounts.google.com</string>
 		<string>applinks:www.youtube.com</string>
 		<string>applinks:youtu.be</string>
 		<string>applinks:youtube.com</string>

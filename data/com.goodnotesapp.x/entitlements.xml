@@ -44,6 +44,10 @@
 		<string>applinks:app.goodnotesbeta.com</string>
 		<string>applinks:marketplace.goodnotes.com</string>
 		<string>applinks:marketplace.goodnotesbeta.com</string>
+		<string>applinks:web.goodnotes-web-sandbox.com</string>
+		<string>applinks:*.web.goodnotes-web-sandbox.com</string>
+		<string>applinks:web.goodnotes.com</string>
+		<string>applinks:*.web.goodnotesbeta.com</string>
 	</array>
 	<key>com.apple.developer.icloud-services</key>
 	<array>

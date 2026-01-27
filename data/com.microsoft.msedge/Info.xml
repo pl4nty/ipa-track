@@ -168,34 +168,9 @@
 	<string>6.0</string>
 	<key>CFBundleLocalizations</key>
 	<array>
-		<string>bg</string>
-		<string>ca</string>
-		<string>da</string>
-		<string>de</string>
 		<string>en</string>
-		<string>es</string>
-		<string>et</string>
-		<string>eu</string>
-		<string>fr</string>
-		<string>gl</string>
-		<string>hu</string>
-		<string>it</string>
 		<string>ja</string>
-		<string>kk</string>
 		<string>ko</string>
-		<string>lt</string>
-		<string>lv</string>
-		<string>ms</string>
-		<string>no</string>
-		<string>pt</string>
-		<string>ru</string>
-		<string>sl</string>
-		<string>sr</string>
-		<string>sr-cyrl</string>
-		<string>sr-latn</string>
-		<string>sv</string>
-		<string>tr</string>
-		<string>uk</string>
 		<string>zh_CN</string>
 		<string>zh_TW</string>
 	</array>
@@ -204,7 +179,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>144.3719.81</string>
+	<string>144.3719.91</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -260,9 +235,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>144.0.3719.81</string>
+	<string>144.0.3719.91</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17C503a</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -284,7 +259,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Edge</string>
 	<key>GTMUserAgentVersion</key>
-	<string>144.0.3719.81</string>
+	<string>144.0.3719.91</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>ADALClientId</key>
@@ -402,7 +377,7 @@
 	<key>NSUserTrackingUsageDescription</key>
 	<string>IDS_IOS_EDGE_USER_TRACKING_USAGE_DESCRIPTION</string>
 	<key>SCMRevision</key>
-	<string>8760ea3978e84a3005f7c5250dca7fc02f3cb9a1</string>
+	<string>5908210067553932591f68ae006cb5bc894e6f97</string>
 	<key>SSOAuthURLScheme</key>
 	<string>x-msauth-microsoft-edge-https</string>
 	<key>UIApplicationDelegate</key>
