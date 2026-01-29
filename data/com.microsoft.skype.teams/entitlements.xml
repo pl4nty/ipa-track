@@ -43,8 +43,6 @@
 	<array>
 		<string>iCloud.com.microsoft.skype.teams</string>
 	</array>
-	<key>com.apple.developer.pushkit.unrestricted-voip.ptt</key>
-	<true/>
 	<key>com.apple.developer.carplay-messaging</key>
 	<true/>
 	<key>aps-environment</key>

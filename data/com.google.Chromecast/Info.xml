@@ -9,7 +9,7 @@
 	<key>BreakpadProduct</key>
 	<string>Google_Cast_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>24E263</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -116,7 +116,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.6.53</string>
+	<string>4.8.50</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -146,7 +146,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.6.53.16</string>
+	<string>4.8.50.26</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C53</string>
 	<key>DTCompiler</key>
