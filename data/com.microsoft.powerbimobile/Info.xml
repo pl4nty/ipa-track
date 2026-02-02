@@ -80,7 +80,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>36.6</string>
+	<string>36.7</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -108,25 +108,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.2.260115.2186806</string>
+	<string>1.2.260129.2189067</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17C503a</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17C52</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>IntuneMAMSettings</key>
@@ -183,7 +183,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>18.0</string>
 	<key>NFCReaderUsageDescription</key>
 	<string>Read NFC</string>
 	<key>NSAppTransportSecurity</key>
