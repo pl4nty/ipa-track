@@ -7,7 +7,7 @@
 		<string>com.microsoft.scmx.app_refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G90</string>
+	<string>24G419</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -48,7 +48,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.70290103</string>
+	<string>1.1.73270102</string>
 	<key>CFBundleSpokenName</key>
 	<string>MS Defender</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -75,9 +75,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.1.70290103</string>
+	<string>1.1.73270102</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B54</string>
+	<string>17C503a</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -102,8 +102,8 @@
 		<string>dd47d17a-3194-4d86-bfd5-c6ae6f5651e3</string>
 		<key>ADALLogOverrideDisabled</key>
 		<true/>
-		<key>ADALRedirectUri</key>
-		<string>msauth.com.microsoft.scmx://auth</string>
+		<key>ADALRedirectScheme</key>
+		<string>msauth.com.microsoft.scmx</string>
 		<key>AppGroupIdentifiers</key>
 		<array>
 			<string>group.com.microsoft.scmx</string>
@@ -195,6 +195,6 @@
 		<string>signup.live.com</string>
 	</array>
 	<key>atpCopyrightYear</key>
-	<string>2025</string>
+	<string>2026</string>
 </dict>
 </plist>
