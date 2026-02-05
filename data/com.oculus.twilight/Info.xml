@@ -9,7 +9,7 @@
 		<string>com.facebook.bgfetch</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-01-26T23:08:00</string>
+	<string>2026-02-03T17:14:21</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>356.0</string>
+	<string>357.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -76,7 +76,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>870430697</string>
+	<string>875940374</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C503a</string>
 	<key>DTPlatformBuild</key>
@@ -94,19 +94,19 @@
 	<key>DTXcodeBuild</key>
 	<string>17C52</string>
 	<key>FBAppVersion</key>
-	<string>356.0.1.15.324</string>
+	<string>357.0.1.29.314</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>870430697</integer>
+	<integer>875940374</integer>
 	<key>FBBuildRevision</key>
-	<string>43c7ad8f16bafe321b8cca0f250419dbc82edb90</string>
+	<string>846c4f89fabe8d4a7cb31bb298599de8ca5cb8b4</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1769467846.028800</string>
+	<string>1770137398.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1769468880</integer>
+	<integer>1770138861</integer>
 	<key>FBCWAppBugReportCategory</key>
 	<string>1945899645655301</string>
 	<key>FBCWAppName</key>
@@ -122,7 +122,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>356.0</string>
+	<string>357.0</string>
 	<key>FBThisAppKeychainGroup</key>
 	<string>V9WTTPBFK9.com.oculus.twilight</string>
 	<key>FacebookAppID</key>
@@ -193,6 +193,8 @@
 	<array>
 		<string>INSendMessageIntent</string>
 	</array>
+	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
+	<true/>
 	<key>UIAppFonts</key>
 	<array>
 		<string>Optimistic_DisplayVF_A_Wght.ttf</string>
@@ -206,8 +208,6 @@
 		<string>remote-notification</string>
 		<string>voip</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

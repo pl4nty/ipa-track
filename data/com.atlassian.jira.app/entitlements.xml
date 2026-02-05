@@ -23,7 +23,9 @@
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:*.jira-dev.com</string>
+		<string>applinks:*.oasis-stg.com</string>
 		<string>applinks:*.atlassian.net</string>
+		<string>applinks:*.atlassian-isolated.net</string>
 		<string>applinks:hello.jira.atlassian.cloud</string>
 		<string>applinks:*.jira.com</string>
 		<string>applinks:id.atlassian.com</string>

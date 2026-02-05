@@ -392,7 +392,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>440128004.30.0</string>
+	<string>440203004.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -415,7 +415,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>440128004</string>
+	<string>440203004</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C503a</string>
 	<key>DTCompiler</key>
@@ -518,6 +518,21 @@
 	</array>
 	<key>UIUserInterfaceStyle</key>
 	<string>Automatic</string>
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>Copilot Action Link</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.microsoft.copilot.actionlink</string>
+			<key>UTTypeTagSpecification</key>
+			<dict/>
+		</dict>
+	</array>
 	<key>adjustConfig</key>
 	<dict>
 		<key>adjustAppToken</key>
@@ -629,6 +644,11 @@
 	</dict>
 	<key>shareExtensionGroupID</key>
 	<string>group.com.microsoft.copilot.share</string>
+	<key>sprigConfig</key>
+	<dict>
+		<key>environmentId</key>
+		<string>vxUR7VmFjQst</string>
+	</dict>
 	<key>stagingEnvCookie</key>
 	<string></string>
 	<key>universalLinkHostUrl</key>

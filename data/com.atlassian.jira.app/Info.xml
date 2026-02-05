@@ -101,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>247.1.0</string>
+	<string>248.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -158,9 +158,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>247.1.0.6963</string>
+	<string>248.0.0.7105</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17C503a</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -243,6 +243,8 @@
 		<string>msauthv2</string>
 		<string>msauthv3</string>
 		<string>loom</string>
+		<string>rovo</string>
+		<string>rovo-intunemam</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>

@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.atwork</string>
 	<key>CFBuildDate</key>
-	<string>2025-12-19T06:04:53</string>
+	<string>2026-01-27T16:26:22</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>543.0</string>
+	<string>546.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -121,37 +121,37 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>847478472</string>
+	<string>870959582</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17C503a</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17C52</string>
 	<key>FBAppVersion</key>
-	<string>543.0.0.49.109</string>
+	<string>546.0.0.21.106</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>847478472</integer>
+	<integer>870959582</integer>
 	<key>FBBuildRevision</key>
-	<string>fbf605af7d700f6f279b7d91036c538310445dd7</string>
+	<string>b4bde76bfb70cfddf88f097c012b3a169fad067f</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1766123102.028800</string>
+	<string>1769529829.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1766124293</integer>
+	<integer>1769531182</integer>
 	<key>FBComposeAppSpecificConfig</key>
 	<string>FBComposeAtWorkAppSpecificConfig</string>
 	<key>FBJSBundleRoot</key>
@@ -159,7 +159,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>543.0</string>
+	<string>546.0</string>
 	<key>FacebookAppID</key>
 	<string>234162453451062</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -173,6 +173,7 @@
 		<string>oculus</string>
 		<string>whatsapp</string>
 		<string>fb-viewapp</string>
+		<string>vibes</string>
 		<string>otpauth</string>
 		<string>fb-pma</string>
 		<string>fb-ama</string>
