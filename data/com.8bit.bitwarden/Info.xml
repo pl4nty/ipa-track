@@ -9,7 +9,7 @@
 	<key>BitwardenKeychainAccessGroup</key>
 	<string>LTZ2PFU5D6.com.8bit.bitwarden</string>
 	<key>BuildMachineOSBuild</key>
-	<string>25A362</string>
+	<string>25C56</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -117,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2026.1.0</string>
+	<string>2026.1.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -145,25 +145,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2847</string>
+	<string>2902</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17C503a</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23B77</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.1</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23B77</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.1</string>
 	<key>DTXcode</key>
-	<string>2601</string>
+	<string>2611</string>
 	<key>DTXcodeBuild</key>
-	<string>17A400</string>
+	<string>17B100</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>

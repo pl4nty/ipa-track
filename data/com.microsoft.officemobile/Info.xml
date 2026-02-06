@@ -94,7 +94,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.106.2</string>
+	<string>2.106.3</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -131,7 +131,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.106.26012736</string>
+	<string>2.106.26020216</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C503a</string>
 	<key>DTCompiler</key>
@@ -282,8 +282,7 @@
 		<string>companyportal</string>
 		<string>https-intunemam</string>
 		<string>http-intunemam</string>
-		<string>microsoft-edge-https-intunemam</string>
-		<string>microsoft-edge-http-intunemam</string>
+		<string>intunemam-mtd</string>
 		<string>sapphirebing</string>
 		<string>copilotn</string>
 	</array>
@@ -361,7 +360,7 @@
 		<string>90</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.106.127.2</string>
+	<string>2.106.202.3</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
@@ -395,12 +394,28 @@
 	<key>UIApplicationShortcutItems</key>
 	<array>
 		<dict>
-			<key>UIApplicationShortcutItemIconFile</key>
-			<string>Create_Scan</string>
+			<key>UIApplicationShortcutItemIconSymbolName</key>
+			<string>waveform</string>
 			<key>UIApplicationShortcutItemTitle</key>
-			<string>New Scan</string>
+			<string>Talk to M365 Copilot</string>
 			<key>UIApplicationShortcutItemType</key>
-			<string>OfficeMobileShortcutTypeNewScan</string>
+			<string>OfficeMobileShortcutTypeRealTimeVoice</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconSymbolName</key>
+			<string>mic</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Dictate</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>OfficeMobileShortcutTypeDictate</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconSymbolName</key>
+			<string>camera</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Open Camera</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>OfficeMobileShortcutTypeCamera</string>
 		</dict>
 	</array>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
