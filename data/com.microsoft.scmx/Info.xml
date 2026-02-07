@@ -48,7 +48,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.73270102</string>
+	<string>1.1.74050101</string>
 	<key>CFBundleSpokenName</key>
 	<string>MS Defender</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -68,14 +68,14 @@
 				<string>appcenter-f7173b9d-fd03-4887-bc63-2f9ae40594ea</string>
 				<string>msauth.com.microsoft.scmx</string>
 				<string>intunemam-mtd</string>
-				<string>com.googleusercontent.apps.785119424070-l21dmmqg0ofodamljvm3e3ge0toktefv</string>
-				<string>com.googleusercontent.apps.785119424070-tjuruun1gh1vs6r1nu2jmigusd4isscc</string>
+				<string></string>
+				<string></string>
 				<string>ms-defender</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.1.73270102</string>
+	<string>1.1.74050101</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C503a</string>
 	<key>DTCompiler</key>
