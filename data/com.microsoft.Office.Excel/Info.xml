@@ -249,7 +249,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.105.4</string>
+	<string>2.106</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -306,7 +306,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.105.26013021</string>
+	<string>2.106.26020617</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17C503a</string>
 	<key>DTCompiler</key>
@@ -504,11 +504,9 @@
 	<array>
 		<string>com.microsoft.excel.documentopen</string>
 		<string>com.microsoft.excel.documentnotification</string>
-		<string>com.microsoft.excel.createfromtemplate</string>
 		<string>com.microsoft.excel.clouddocumentedit</string>
 		<string>com.microsoft.excel.documentopen-dogfood</string>
 		<string>com.microsoft.excel.documentnotification-dogfood</string>
-		<string>com.microsoft.excel.createfromtemplate-dogfood</string>
 		<string>com.microsoft.excel.clouddocumentedit-dogfood</string>
 		<string>com.microsoft.excel.executesearch</string>
 		<string>com.microsoft.excel.executesearch-dogfood</string>
@@ -529,7 +527,7 @@
 		<string>16</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.105.130.4</string>
+	<string>2.106.206.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
