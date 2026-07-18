@@ -38,6 +38,8 @@
 		<string>webcredentials:login.partner.microsoftonline.cn</string>
 		<string>webcredentials:login.windows-ppe.net</string>
 		<string>applinks:login.microsoftonline.com</string>
+		<string>applinks:login.chinacloudapi.cn</string>
+		<string>applinks:login.microsoftonline.us</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
@@ -52,6 +54,7 @@
 		<string>SGGM6D27TK.com.microsoft.workplacejoin.v2</string>
 		<string>SGGM6D27TK.com.microsoft.azureauthenticator.did</string>
 		<string>SGGM6D27TK.com.microsoft.broker.partner</string>
+		<string>SGGM6D27TK.com.microsoft.intune.mam</string>
 	</array>
 	<key>com.apple.developer.team-identifier</key>
 	<string>UBF8T346G9</string>
@@ -63,8 +66,9 @@
 	<key>com.apple.security.application-groups</key>
 	<array>
 		<string>group.com.microsoft.azureauthenticator.brooklyn</string>
-		<string>group.com.microsoft.azureauthenticator.sso</string>
 		<string>group.com.microsoft.azureauthenticator.shared</string>
+		<string>group.com.microsoft.azureauthenticator.sso</string>
+		<string>group.com.microsoft.shared</string>
 	</array>
 	<key>com.apple.developer.enrollment-sso-capable</key>
 	<true/>

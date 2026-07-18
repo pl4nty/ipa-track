@@ -12,6 +12,7 @@
 		<string>com.meta.mwa.mcp.download.processingTask</string>
 		<string>com.meta.mwa.mcp.upload.refreshTask</string>
 		<string>com.meta.mwa.mcp.download.refreshTask</string>
+		<string>com.facebook.stellaapp.ota.install.bgContinuedProcessingTask</string>
 		<string>com.meta.mwa.nabu.jit.dataCleanup</string>
 		<string>com.meta.mwa.telemetry.flush.refreshTask</string>
 		<string>com.meta.mwa.telemetry.flush.bgProcessingTask</string>
@@ -23,9 +24,12 @@
 		<string>com.facebook.papaya.power1-network1</string>
 		<string>com.facebook.stella.assistant.datadeletion.no-constraints</string>
 		<string>com.meta.mwa.background.location.tracking.refreshTask</string>
+		<string>com.meta.mwa.importprocessing.retry.processingTask</string>
+		<string>com.meta.mwa.activeGlassesDemo.sessionSync.refreshTask</string>
+		<string>com.meta.mwa.activeGlassesDemo.sessionSync.bgProcessingTask</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-02-06T16:49:17</string>
+	<string>2026-07-17T01:46:02</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -66,7 +70,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>258.1.0</string>
+	<string>282.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -84,41 +88,41 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>877962895</string>
+	<string>1020215645</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>258.1.0.19.165</string>
+	<string>282.0.0.24.162</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>877962895</integer>
+	<integer>1020215645</integer>
 	<key>FBBuildRevision</key>
-	<string>2e84f58bed4b99015792c1835bc1d117e68a500c</string>
+	<string>574873cd6edf7123f0bcc471051981fd0472799a</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1770395645.028800</string>
+	<string>1784251642.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1770396557</integer>
+	<integer>1784252762</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>258.1.0</string>
+	<string>282.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -132,8 +136,11 @@
 		<string>instagram</string>
 		<string>barcelona</string>
 		<string>oculus</string>
+		<string>eclipse</string>
 		<string>whatsapp</string>
 		<string>vibes</string>
+		<string>hatch</string>
+		<string>ember</string>
 		<string>otpauth</string>
 		<string>fb-pma</string>
 		<string>fb-ama</string>
@@ -147,6 +154,7 @@
 		<string>org.bemyeyes.BeMyEyes</string>
 		<string>gcm-ciq</string>
 		<string>strava</string>
+		<string>i8birdies</string>
 		<string>tg</string>
 		<string>snapchat</string>
 		<string>twitter</string>
@@ -162,9 +170,15 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>15.2</string>
+	<string>17.2</string>
+	<key>NSAccessorySetupKitSupports</key>
+	<array>
+		<string>WiFi</string>
+	</array>
 	<key>NSAdvertisingAttributionReportEndpoint</key>
 	<string>https://facebook.com</string>
+	<key>NSAlarmKitUsageDescription</key>
+	<string>Meta AI uses alarms to notify you when your timers complete, even when Do Not Disturb is enabled.</string>
 	<key>NSAppleMusicUsageDescription</key>
 	<string>Meta AI uses your Apple Music account to access and play music on your glasses.</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
@@ -174,6 +188,7 @@
 	<key>NSBonjourServices</key>
 	<array>
 		<string>_bonjour._tcp</string>
+		<string></string>
 	</array>
 	<key>NSCalendarsFullAccessUsageDescription</key>
 	<string>Meta AI would like to access your Calendar Events.</string>
@@ -183,6 +198,8 @@
 	<string>This lets you save to your camera roll, and enables other features for photos and videos.</string>
 	<key>NSContactsUsageDescription</key>
 	<string>Meta AI will need access to make calls and send texts.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Meta AI uses Face ID to verify your identity before connecting accounts.</string>
 	<key>NSHealthShareUsageDescription</key>
 	<string>Meta AI would like to read workouts from Apple Health.</string>
 	<key>NSHealthUpdateUsageDescription</key>
@@ -216,6 +233,7 @@
 		<string>marche_super.otf</string>
 		<string>goodall_medium.otf</string>
 		<string>OptimisticAIVF_A_DrkmOpszWghtItal.ttf</string>
+		<string>OptimisticAI_A_Light.ttf</string>
 		<string>Optimistic_VF_App_Lite.ttf</string>
 		<string>Lato-Regular.ttf</string>
 		<string>Lato-Italic.ttf</string>
@@ -231,8 +249,6 @@
 		<string>fetch</string>
 		<string>location</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
@@ -245,7 +261,7 @@
 		<string>arm64</string>
 	</array>
 	<key>UIRequiresFullScreen</key>
-	<true/>
+	<false/>
 	<key>UISupportedExternalAccessoryProtocols</key>
 	<array>
 		<string>com.facebook.stella</string>
@@ -253,6 +269,8 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
@@ -263,6 +281,27 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>Meta AI internal share-extension exclusion marker</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.facebook.stellaapp.do-not-share</string>
+		</dict>
+	</array>
+	<key>WiFiAwareServices</key>
+	<dict>
+		<key>_meta-datax._tcp</key>
+		<dict>
+			<key>Subscribable</key>
+			<dict/>
+		</dict>
+	</dict>
 	<key>com.apple.developer.networking.multicast</key>
 	<true/>
 </dict>

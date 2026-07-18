@@ -12,6 +12,7 @@
 	<array>
 		<string>EQHXZ8M8AV.com.google.Movies</string>
 		<string>EQHXZ8M8AV.com.google.common.SSO</string>
+		<string>EQHXZ8M8AV.com.google.common.folsom</string>
 		<string>EQHXZ8M8AV.com.google.common.cryptauth</string>
 		<string>EQHXZ8M8AV.com.google.atvremote</string>
 	</array>
@@ -24,7 +25,6 @@
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:tv.google.com</string>
-		<string>applinks:tv.app.google</string>
 		<string>applinks:play.google.com</string>
 		<string>applinks:signin.google</string>
 		<string>webcredentials:google.com</string>

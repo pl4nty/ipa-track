@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.PageAdminApp</string>
 	<key>CFBuildDate</key>
-	<string>2026-02-03T12:54:48</string>
+	<string>2026-07-14T08:46:14</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -14,6 +14,14 @@
 	<string>BizApp</string>
 	<key>CFBundleIcons</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>Icon-Rebrand</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>Icon-Rebrand</string>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -26,6 +34,14 @@
 	</dict>
 	<key>CFBundleIcons~ipad</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>Icon-Rebrand</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>Icon-Rebrand</string>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -46,7 +62,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>475.0</string>
+	<string>498.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -91,37 +107,37 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>875810096</string>
+	<string>1018257394</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>475.0.0.30.108</string>
+	<string>498.0.0.18.108</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>875810096</integer>
+	<integer>1018257394</integer>
 	<key>FBBuildRevision</key>
-	<string>18cb64dc02aa3510050c0d9146d6fdc3716c12e8</string>
+	<string>51c5a178bafbc19c604f8bbac14d4838f71648cb</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1770120935.028800</string>
+	<string>1784015307.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1770123288</integer>
+	<integer>1784018774</integer>
 	<key>FBColorPalette</key>
 	<string>PMAStandardColorPalette</string>
 	<key>FBDisableAutoRegisterForPush</key>
@@ -133,7 +149,7 @@
 	<key>FBPhotoActionSheetHideSendAsMessageOption</key>
 	<true/>
 	<key>FBPlatformVersion</key>
-	<string>475.0</string>
+	<string>498.0</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
 	<false/>
 	<key>FacebookAppID</key>
@@ -153,9 +169,12 @@
 		<string>instagram</string>
 		<string>barcelona</string>
 		<string>oculus</string>
+		<string>eclipse</string>
 		<string>whatsapp</string>
 		<string>fb-viewapp</string>
 		<string>vibes</string>
+		<string>hatch</string>
+		<string>ember</string>
 		<string>otpauth</string>
 		<string>fb-ama</string>
 		<string>spotify</string>

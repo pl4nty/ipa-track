@@ -5,7 +5,7 @@
 	<key>AppIdentifierPrefix</key>
 	<string>RNDLY9ZML8.</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24G222</string>
+	<string>25E246</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.44.0</string>
+	<string>6.55.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -137,25 +137,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6.44.0.14156</string>
+	<string>6.55.0.17846</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23F73</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23F73</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2650</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17F42</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
@@ -185,7 +185,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>16.0</string>
+	<string>17.0</string>
 	<key>NFCReaderUsageDescription</key>
 	<string>This lets you use the app to scan your YubiKey NFC device.</string>
 	<key>NSCameraUsageDescription</key>
@@ -222,8 +222,6 @@
 		<string>audio</string>
 		<string>remote-notification</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

@@ -16,6 +16,9 @@
 		<string>com.whatsapp.ios_device_registration_uuid</string>
 		<string>com.whatsapp.storage_management</string>
 		<string>com.whatsapp.canonical-user-manager</string>
+		<string>com.whatsapp.scam-group-messages</string>
+		<string>net.whatsapp.WhatsAppSMB.continued_processing.*</string>
+		<string>com.whatsapp.large_model_download</string>
 	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
@@ -122,6 +125,121 @@
 	<string>WhatsApp</string>
 	<key>CFBundleIcons</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon-01</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-01@2x</string>
+					<string>AppIcon-01@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-02</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-02@2x</string>
+					<string>AppIcon-02@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-03</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-03@2x</string>
+					<string>AppIcon-03@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-04</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-04@2x</string>
+					<string>AppIcon-04@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-05</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-05@2x</string>
+					<string>AppIcon-05@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-06</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-06@2x</string>
+					<string>AppIcon-06@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-07</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-07@2x</string>
+					<string>AppIcon-07@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-08</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-08@2x</string>
+					<string>AppIcon-08@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-09</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-09@2x</string>
+					<string>AppIcon-09@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-10</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-10@2x</string>
+					<string>AppIcon-10@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-11</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-11@2x</string>
+					<string>AppIcon-11@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-12</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-12@2x</string>
+					<string>AppIcon-12@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-13</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-13@2x</string>
+					<string>AppIcon-13@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-14</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-14@2x</string>
+					<string>AppIcon-14@3x</string>
+				</array>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -134,6 +252,121 @@
 	</dict>
 	<key>CFBundleIcons~ipad</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon-01</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-01@2x</string>
+					<string>AppIcon-01@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-02</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-02@2x</string>
+					<string>AppIcon-02@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-03</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-03@2x</string>
+					<string>AppIcon-03@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-04</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-04@2x</string>
+					<string>AppIcon-04@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-05</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-05@2x</string>
+					<string>AppIcon-05@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-06</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-06@2x</string>
+					<string>AppIcon-06@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-07</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-07@2x</string>
+					<string>AppIcon-07@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-08</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-08@2x</string>
+					<string>AppIcon-08@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-09</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-09@2x</string>
+					<string>AppIcon-09@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-10</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-10@2x</string>
+					<string>AppIcon-10@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-11</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-11@2x</string>
+					<string>AppIcon-11@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-12</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-12@2x</string>
+					<string>AppIcon-12@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-13</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-13@2x</string>
+					<string>AppIcon-13@3x</string>
+				</array>
+			</dict>
+			<key>AppIcon-14</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AppIcon-14@2x</string>
+					<string>AppIcon-14@3x</string>
+				</array>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -154,7 +387,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.5.76</string>
+	<string>26.27.73</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -170,35 +403,37 @@
 			<string>net.whatsapp.WhatsApp</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>whatsapp</string>
 				<string>whatsapp-smb</string>
+				<string>whatsapp</string>
 				<string>fb450645302121512</string>
 				<string>im</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>878224157</string>
+	<string>1016011654</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>17F113</string>
+	<key>FBAppVersion</key>
+	<string>2.26.27.73</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>878224157</string>
+	<string>1016011654</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
@@ -241,6 +476,7 @@
 	</dict>
 	<key>NSBonjourServices</key>
 	<array>
+		<string>_wa-fpm-i2i-transfer._tcp</string>
 		<string>_wa-thunderstorm._tcp</string>
 	</array>
 	<key>NSCalendarsUsageDescription</key>
@@ -299,6 +535,7 @@
 	<key>UIAppFonts</key>
 	<array>
 		<string>WhatsAppPaymentsIcons.ttf</string>
+		<string>Optimistic_DisplayVF_A_Wght.ttf</string>
 		<string>Optimistic_VF_App_Lite.ttf</string>
 	</array>
 	<key>UIBackgroundModes</key>

@@ -19,6 +19,9 @@
 		<string>applinks:duomobile.s3-us-west-1.amazonaws.com</string>
 		<string>applinks:*.duosecurity.com</string>
 		<string>applinks:verify.duo.com</string>
+		<string>authsrv:api-dbbfec7f.duosecurity.com</string>
+		<string>authsrv:api-345c0691.duosecurity.com</string>
+		<string>authsrv:api-1afcc4bf.duosecurity.com</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

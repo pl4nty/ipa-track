@@ -14,7 +14,7 @@
 	<key>BreakpadProductDisplay</key>
 	<string>Docs</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24E263</string>
+	<string>25D125</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,10 +46,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>docs_2020q460x60</string>
+				<string>docs_2026_ios60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>docs_2020q4</string>
+			<string>docs_2026_ios</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -58,11 +58,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>docs_2020q460x60</string>
-				<string>docs_2020q476x76</string>
+				<string>docs_2026_ios60x60</string>
+				<string>docs_2026_ios76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>docs_2020q4</string>
+			<string>docs_2026_ios</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -121,6 +121,7 @@
 		<string>ne</string>
 		<string>nl</string>
 		<string>nb</string>
+		<string>or</string>
 		<string>pa</string>
 		<string>pl</string>
 		<string>pt_BR</string>
@@ -150,7 +151,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2026.06103</string>
+	<string>1.2026.28104</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -174,25 +175,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.2026.06103</string>
+	<string>1.2026.28104</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2601</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>17A400</string>
+	<string>17C52</string>
 	<key>GoogleProductName</key>
 	<string>Docs</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -248,7 +249,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<false/>
 	<key>MinimumOSVersion</key>
-	<string>16.0</string>
+	<string>17.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoadsInWebContent</key>
@@ -256,6 +257,8 @@
 	</dict>
 	<key>NSCameraUsageDescription</key>
 	<string>Google Docs needs access to your camera so you can take photos and insert them into your doc</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Google Docs needs access to your microphone so you can use Docs Live</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Google Docs needs access to your photo library so you can insert images from it into your doc</string>
 	<key>UIAppFonts</key>

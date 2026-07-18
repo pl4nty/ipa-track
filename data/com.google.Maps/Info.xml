@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24G231</string>
+	<string>25D125</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -31,10 +31,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_maps_ios_color60x60</string>
+				<string>maps_202560x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_maps_ios_color</string>
+			<string>maps_2025</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -43,11 +43,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_maps_ios_color60x60</string>
-				<string>logo_maps_ios_color76x76</string>
+				<string>maps_202560x60</string>
+				<string>maps_202576x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_maps_ios_color</string>
+			<string>maps_2025</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -69,7 +69,6 @@
 		<string>en_IN</string>
 		<string>es</string>
 		<string>es_419</string>
-		<string>es_MX</string>
 		<string>fi</string>
 		<string>fr</string>
 		<string>fr_CA</string>
@@ -112,7 +111,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.06.2</string>
+	<string>26.29.1</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google Maps</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -143,9 +142,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>26.06.2.8644351930</string>
+	<string>26.29.1.9466736430</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -210,7 +209,6 @@
 		<string>googletranslate</string>
 		<string>googlevoice</string>
 		<string>gpay</string>
-		<string>gplus-v2</string>
 		<string>gplus-v3</string>
 		<string>gplus</string>
 		<string>playmovies</string>
@@ -218,12 +216,12 @@
 		<string>spotify</string>
 		<string>vnd.google.calendar</string>
 		<string>vnd.youtube-broad-matching</string>
-		<string>vnd.youtube.gaming</string>
 		<string>vnd.youtube.kids</string>
 		<string>vnd.youtube.music</string>
 		<string>vnd.youtube</string>
 		<string>waze</string>
 		<string>youtube</string>
+		<string>youtubemusicsdk</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -242,7 +240,7 @@
 		<string>MKDirectionsModeTrain</string>
 	</array>
 	<key>MinimumOSVersion</key>
-	<string>15.0</string>
+	<string>16.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -254,6 +252,8 @@
 	<string>Maps uses Bluetooth to improve location accuracy in tunnels and to provide navigation on fitness trackers and watches.</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
 	<string>Maps uses Bluetooth to improve location accuracy in tunnels and to provide navigation on fitness trackers and watches.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Allows Google Maps to show upcoming calendar events in search suggestions.</string>
 	<key>NSCalendarsUsageDescription</key>
 	<string>Maps can add your trips to Calendar.</string>
 	<key>NSCameraUsageDescription</key>
@@ -306,6 +306,8 @@
 	<dict>
 		<key>CPSupportsDashboardNavigationScene</key>
 		<true/>
+		<key>CPSupportsInstrumentClusterNavigationScene</key>
+		<true/>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
 		<key>UISceneConfigurations</key>
@@ -317,6 +319,17 @@
 					<string>CPTemplateApplicationDashboardScene</string>
 					<key>UISceneConfigurationName</key>
 					<string>CarPlayDashboard</string>
+					<key>UISceneDelegateClassName</key>
+					<string>SceneDelegate</string>
+				</dict>
+			</array>
+			<key>CPTemplateApplicationInstrumentClusterSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneClassName</key>
+					<string>CPTemplateApplicationInstrumentClusterScene</string>
+					<key>UISceneConfigurationName</key>
+					<string>CarPlayInstrumentCluster</string>
 					<key>UISceneDelegateClassName</key>
 					<string>SceneDelegate</string>
 				</dict>
@@ -373,6 +386,10 @@
 	</array>
 	<key>UIStatusBarHidden</key>
 	<false/>
+	<key>UISupportedExternalAccessoryProtocols</key>
+	<array>
+		<string>com.google.maps.vehicle</string>
+	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>

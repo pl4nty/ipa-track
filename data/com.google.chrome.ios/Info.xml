@@ -7,7 +7,7 @@
 		<string>chrome.app.refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25C56</string>
+	<string>25D2128</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -32,7 +32,9 @@
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
-			<array/>
+			<array>
+				<string>AppIcon60x60</string>
+			</array>
 			<key>CFBundleIconName</key>
 			<string>AppIcon</string>
 			<key>UIPrerenderedIcon</key>
@@ -44,7 +46,10 @@
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
-			<array/>
+			<array>
+				<string>AppIcon60x60</string>
+				<string>AppIcon76x76</string>
+			</array>
 			<key>CFBundleIconName</key>
 			<string>AppIcon</string>
 			<key>UIPrerenderedIcon</key>
@@ -60,7 +65,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>145.7632.41</string>
+	<string>151.7922.25</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -92,25 +97,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>145.0.7632.41</string>
+	<string>151.0.7922.25</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23F73</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23F73</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2601</string>
+	<string>2650</string>
 	<key>DTXcodeBuild</key>
-	<string>17A400</string>
+	<string>17F42</string>
 	<key>FirebaseScreenReportingEnabled</key>
 	<false/>
 	<key>GOOGLE_CLIENT_ID_MAIN</key>
@@ -118,7 +123,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Chrome</string>
 	<key>GTMUserAgentVersion</key>
-	<string>145.0.7632.41</string>
+	<string>151.0.7922.25</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
@@ -174,7 +179,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>18.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -212,7 +217,7 @@
 		<string>SearchInChromeIntent</string>
 	</array>
 	<key>SCMRevision</key>
-	<string>583a9007186461d89c8d13256ba433c724d2d81a-refs/branch-heads/7632@{#1821}</string>
+	<string>cdcb0ef207b17bd638b1c7b1fd94d455ef820930-refs/branch-heads/7922@{#1169}</string>
 	<key>SSOAuthURLScheme</key>
 	<string>com.google.sso.chrome.stable</string>
 	<key>UIApplicationDelegate</key>
@@ -252,7 +257,7 @@
 		</dict>
 		<dict>
 			<key>UIApplicationShortcutItemIconFile</key>
-			<string>quick_action_incognito</string>
+			<string>incognito</string>
 			<key>UIApplicationShortcutItemTitle</key>
 			<string>IDS_IOS_APPLICATION_SHORTCUT_INCOGNITOSEARCH_TITLE</string>
 			<key>UIApplicationShortcutItemType</key>

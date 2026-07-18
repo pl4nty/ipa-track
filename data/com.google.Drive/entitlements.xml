@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.apple.developer.declared-age-range</key>
+	<true/>
 	<key>com.apple.developer.icloud-container-identifiers</key>
 	<array>
 		<string>iCloud.com.google.container</string>
@@ -16,8 +18,6 @@
 	<array>
 		<string>CloudDocuments</string>
 	</array>
-	<key>aps-environment</key>
-	<string>production</string>
 	<key>keychain-access-groups</key>
 	<array>
 		<string>EQHXZ8M8AV.com.google.Drive</string>
@@ -45,5 +45,7 @@
 		<string>group.com.google.gsuite</string>
 		<string>group.com.google.Drive</string>
 	</array>
+	<key>aps-environment</key>
+	<string>production</string>
 </dict>
 </plist>

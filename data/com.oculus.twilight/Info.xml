@@ -9,7 +9,7 @@
 		<string>com.facebook.bgfetch</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-02-05T18:35:46</string>
+	<string>2026-07-16T00:40:01</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>357.1</string>
+	<string>380.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -76,37 +76,37 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>877352949</string>
+	<string>1019457154</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>357.1.1.30.314</string>
+	<string>380.0.0.64.242</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>877352949</integer>
+	<integer>1019457154</integer>
 	<key>FBBuildRevision</key>
-	<string>26309be4984f5d8b52a330aa1be2c9c487d74a51</string>
+	<string>1127c5bb30595eb286b316aae23629109d9cf2f5</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1770315182.028800</string>
+	<string>1784160716.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1770316546</integer>
+	<integer>1784162401</integer>
 	<key>FBCWAppBugReportCategory</key>
 	<string>1945899645655301</string>
 	<key>FBCWAppName</key>
@@ -122,7 +122,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>357.1</string>
+	<string>380.0</string>
 	<key>FBThisAppKeychainGroup</key>
 	<string>V9WTTPBFK9.com.oculus.twilight</string>
 	<key>FacebookAppID</key>
@@ -131,8 +131,12 @@
 	<string>b999b73f6fb8e2937f87293603de9a2e</string>
 	<key>FacebookDisplayName</key>
 	<string>Oculus Twilight iOS</string>
+	<key>GCSupportsGameMode</key>
+	<true/>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.games</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>oculus.internal</string>
@@ -140,9 +144,12 @@
 		<string>fb-messenger</string>
 		<string>instagram</string>
 		<string>barcelona</string>
+		<string>eclipse</string>
 		<string>whatsapp</string>
 		<string>fb-viewapp</string>
 		<string>vibes</string>
+		<string>hatch</string>
+		<string>ember</string>
 		<string>otpauth</string>
 		<string>fb-pma</string>
 		<string>fb-ama</string>
@@ -154,8 +161,6 @@
 		<string>https</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
-	<true/>
-	<key>LSSupportsGameMode</key>
 	<true/>
 	<key>MinimumOSVersion</key>
 	<string>15.1</string>
@@ -173,7 +178,9 @@
 	<key>NSCalendarsUsageDescription</key>
 	<string>This will allow you to add VR events to your phone’s calendar.</string>
 	<key>NSCameraUsageDescription</key>
-	<string>This will allow you to use features such as automatic avatar generation.</string>
+	<string>This will allow you to use features such as automatic avatar generation and card scanning.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>You can verify purchases using Face ID.</string>
 	<key>NSHealthShareUsageDescription</key>
 	<string>This will allow you to view Move workouts that you have saved to Apple Health</string>
 	<key>NSHealthUpdateUsageDescription</key>

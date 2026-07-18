@@ -5,11 +5,12 @@
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
 		<string>com.google.home.healthcheck</string>
+		<string>com.google.home.graph.homeagent.hometuneup.DeviceMessageRefresh</string>
 	</array>
 	<key>BreakpadProduct</key>
 	<string>Google_Cast_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24E263</string>
+	<string>25D125</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -116,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.9.51</string>
+	<string>4.20.63</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -146,25 +147,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.9.51.16</string>
+	<string>4.20.63.16</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2601</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>17A400</string>
+	<string>17C52</string>
 	<key>GIDClientID</key>
 	<string></string>
 	<key>GIDTeamID</key>
@@ -227,7 +228,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>17.4</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsLocalNetworking</key>
@@ -259,7 +260,23 @@
 				<array>
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
-						<string>I/Lt/z7ekCWanjD0Cvj5EqXls2lOaThEA0H2Bg4BT/o=</string>
+						<string>hxqRlPTu1bMS/0DITB1SSu0vd4u/8l8TjPgfaAp63Gc=</string>
+					</dict>
+					<dict>
+						<key>SPKI-SHA256-BASE64</key>
+						<string>Vfd95BwDeSQo+NUYxVEEIlvkOlWY2SalKK1lPhzOx78=</string>
+					</dict>
+					<dict>
+						<key>SPKI-SHA256-BASE64</key>
+						<string>QXnt2YHvdHR3tJYmQIr0Paosp6t/nggsEGD4QJZ3Q0g=</string>
+					</dict>
+					<dict>
+						<key>SPKI-SHA256-BASE64</key>
+						<string>mEflZT5enoR1FuXLgYYGqnVEoZvmf9c2bVBpiOjYQ0c=</string>
+					</dict>
+					<dict>
+						<key>SPKI-SHA256-BASE64</key>
+						<string>CLOmM1/OXvSPjw5UOYbAf9GKOxImEp9hhku9W90fHMk=</string>
 					</dict>
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
@@ -271,10 +288,6 @@
 					</dict>
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
-						<string>r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
 						<string>i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY=</string>
 					</dict>
 					<dict>
@@ -283,15 +296,7 @@
 					</dict>
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
-						<string>WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
 						<string>Wd8xe/qfTwq3ylFNd3IpaqLHZbh2ZNCLluVzmeNkcpw=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q=</string>
 					</dict>
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
@@ -332,26 +337,6 @@
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
 						<string>x4QzPSC810K5/cMjb05Qm4k3Bw5zBn4lTdO/nEW/Td4=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>hxqRlPTu1bMS/0DITB1SSu0vd4u/8l8TjPgfaAp63Gc=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>Vfd95BwDeSQo+NUYxVEEIlvkOlWY2SalKK1lPhzOx78=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>QXnt2YHvdHR3tJYmQIr0Paosp6t/nggsEGD4QJZ3Q0g=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>mEflZT5enoR1FuXLgYYGqnVEoZvmf9c2bVBpiOjYQ0c=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>CLOmM1/OXvSPjw5UOYbAf9GKOxImEp9hhku9W90fHMk=</string>
 					</dict>
 				</array>
 			</dict>
@@ -363,7 +348,23 @@
 				<array>
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
-						<string>I/Lt/z7ekCWanjD0Cvj5EqXls2lOaThEA0H2Bg4BT/o=</string>
+						<string>hxqRlPTu1bMS/0DITB1SSu0vd4u/8l8TjPgfaAp63Gc=</string>
+					</dict>
+					<dict>
+						<key>SPKI-SHA256-BASE64</key>
+						<string>Vfd95BwDeSQo+NUYxVEEIlvkOlWY2SalKK1lPhzOx78=</string>
+					</dict>
+					<dict>
+						<key>SPKI-SHA256-BASE64</key>
+						<string>QXnt2YHvdHR3tJYmQIr0Paosp6t/nggsEGD4QJZ3Q0g=</string>
+					</dict>
+					<dict>
+						<key>SPKI-SHA256-BASE64</key>
+						<string>mEflZT5enoR1FuXLgYYGqnVEoZvmf9c2bVBpiOjYQ0c=</string>
+					</dict>
+					<dict>
+						<key>SPKI-SHA256-BASE64</key>
+						<string>CLOmM1/OXvSPjw5UOYbAf9GKOxImEp9hhku9W90fHMk=</string>
 					</dict>
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
@@ -375,10 +376,6 @@
 					</dict>
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
-						<string>r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
 						<string>i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY=</string>
 					</dict>
 					<dict>
@@ -387,15 +384,7 @@
 					</dict>
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
-						<string>WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
 						<string>Wd8xe/qfTwq3ylFNd3IpaqLHZbh2ZNCLluVzmeNkcpw=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q=</string>
 					</dict>
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
@@ -436,26 +425,6 @@
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
 						<string>x4QzPSC810K5/cMjb05Qm4k3Bw5zBn4lTdO/nEW/Td4=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>hxqRlPTu1bMS/0DITB1SSu0vd4u/8l8TjPgfaAp63Gc=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>Vfd95BwDeSQo+NUYxVEEIlvkOlWY2SalKK1lPhzOx78=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>QXnt2YHvdHR3tJYmQIr0Paosp6t/nggsEGD4QJZ3Q0g=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>mEflZT5enoR1FuXLgYYGqnVEoZvmf9c2bVBpiOjYQ0c=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>CLOmM1/OXvSPjw5UOYbAf9GKOxImEp9hhku9W90fHMk=</string>
 					</dict>
 				</array>
 			</dict>
@@ -497,11 +466,12 @@
 	<string>Google Home needs permission to use your camera in order to scan your card.</string>
 	<key>UIBackgroundModes</key>
 	<array>
+		<string>processing</string>
+		<string>fetch</string>
 		<string>bluetooth-central</string>
 		<string>bluetooth-peripheral</string>
 		<string>remote-notification</string>
 		<string>audio</string>
-		<string>fetch</string>
 	</array>
 	<key>UIDesignRequiresCompatibility</key>
 	<true/>

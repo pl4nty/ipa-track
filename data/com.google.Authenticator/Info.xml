@@ -5,7 +5,7 @@
 	<key>BreakpadProduct</key>
 	<string>Authenticator_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>23F79</string>
+	<string>25D125</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -83,7 +83,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.0.0</string>
+	<string>5.0.2</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -104,25 +104,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>5.0.0.10200</string>
+	<string>5.0.2.10600</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17C52</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
@@ -135,6 +135,8 @@
 	<array>
 		<string>fetch</string>
 	</array>
+	<key>UIDesignRequiresCompatibility</key>
+	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

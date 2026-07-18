@@ -13,8 +13,12 @@
 	<string>B7F62B65BN</string>
 	<key>application-identifier</key>
 	<string>B7F62B65BN.com.okta.mobile</string>
-	<key>aps-environment</key>
-	<string>production</string>
+	<key>com.apple.developer.networking.networkextension</key>
+	<array>
+		<string>dns-settings</string>
+	</array>
+	<key>com.apple.developer.enrollment-sso-capable</key>
+	<true/>
 	<key>com.apple.developer.usernotifications.time-sensitive</key>
 	<true/>
 	<key>com.apple.developer.associated-domains</key>
@@ -27,7 +31,7 @@
 	<array>
 		<string>group.okta.verify.shared</string>
 	</array>
-	<key>com.apple.developer.enrollment-sso-capable</key>
-	<true/>
+	<key>aps-environment</key>
+	<string>production</string>
 </dict>
 </plist>

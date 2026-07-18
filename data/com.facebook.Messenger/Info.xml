@@ -12,13 +12,12 @@
 		<string>com.facebook.papaya.power0-network1</string>
 		<string>com.facebook.papaya.power1-network0</string>
 		<string>com.facebook.papaya.power1-network1</string>
-		<string>com.facebook.papaya.bgrefresh</string>
-		<string>com.facebook.papaya.bgrefresh.recurrent</string>
 		<string>com.facebook.messenger.contact_search_ranking</string>
 		<string>com.facebook.messenger.psi</string>
+		<string>com.facebook.messenger.odin_device_features_collection</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-02-02T19:38:53</string>
+	<string>2026-07-13T15:52:39</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -27,6 +26,81 @@
 	<string>Messenger</string>
 	<key>CFBundleIcons</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AlternateAppIconChill</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AlternateAppIconChill@2x</string>
+					<string>AlternateAppIconChill@3x</string>
+					<string>AlternateAppIconChill-iPad@2x</string>
+					<string>AlternateAppIconChill-iPadPro@2x</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>AlternateAppIconDreamy</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AlternateAppIconDreamy@2x</string>
+					<string>AlternateAppIconDreamy@3x</string>
+					<string>AlternateAppIconDreamy-iPad@2x</string>
+					<string>AlternateAppIconDreamy-iPadPro@2x</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>AlternateAppIconFab</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AlternateAppIconFab@2x</string>
+					<string>AlternateAppIconFab@3x</string>
+					<string>AlternateAppIconFab-iPad@2x</string>
+					<string>AlternateAppIconFab-iPadPro@2x</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>AlternateAppIconFierce</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AlternateAppIconFierce@2x</string>
+					<string>AlternateAppIconFierce@3x</string>
+					<string>AlternateAppIconFierce-iPad@2x</string>
+					<string>AlternateAppIconFierce-iPadPro@2x</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>AlternateAppIconLovey</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AlternateAppIconLovey@2x</string>
+					<string>AlternateAppIconLovey@3x</string>
+					<string>AlternateAppIconLovey-iPad@2x</string>
+					<string>AlternateAppIconLovey-iPadPro@2x</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>AlternateAppIconVaporwave</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AlternateAppIconVaporwave@2x</string>
+					<string>AlternateAppIconVaporwave@3x</string>
+					<string>AlternateAppIconVaporwave-iPad@2x</string>
+					<string>AlternateAppIconVaporwave-iPadPro@2x</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -39,6 +113,81 @@
 	</dict>
 	<key>CFBundleIcons~ipad</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AlternateAppIconChill</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AlternateAppIconChill@2x</string>
+					<string>AlternateAppIconChill@3x</string>
+					<string>AlternateAppIconChill-iPad@2x</string>
+					<string>AlternateAppIconChill-iPadPro@2x</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>AlternateAppIconDreamy</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AlternateAppIconDreamy@2x</string>
+					<string>AlternateAppIconDreamy@3x</string>
+					<string>AlternateAppIconDreamy-iPad@2x</string>
+					<string>AlternateAppIconDreamy-iPadPro@2x</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>AlternateAppIconFab</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AlternateAppIconFab@2x</string>
+					<string>AlternateAppIconFab@3x</string>
+					<string>AlternateAppIconFab-iPad@2x</string>
+					<string>AlternateAppIconFab-iPadPro@2x</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>AlternateAppIconFierce</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AlternateAppIconFierce@2x</string>
+					<string>AlternateAppIconFierce@3x</string>
+					<string>AlternateAppIconFierce-iPad@2x</string>
+					<string>AlternateAppIconFierce-iPadPro@2x</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>AlternateAppIconLovey</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AlternateAppIconLovey@2x</string>
+					<string>AlternateAppIconLovey@3x</string>
+					<string>AlternateAppIconLovey-iPad@2x</string>
+					<string>AlternateAppIconLovey-iPadPro@2x</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>AlternateAppIconVaporwave</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>AlternateAppIconVaporwave@2x</string>
+					<string>AlternateAppIconVaporwave@3x</string>
+					<string>AlternateAppIconVaporwave-iPad@2x</string>
+					<string>AlternateAppIconVaporwave-iPadPro@2x</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -59,7 +208,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>547.0.0</string>
+	<string>570.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -272,41 +421,41 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>875193976</string>
+	<string>1017680599</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>547.0.0.25.107</string>
+	<string>570.0.0.20.108</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>875193976</integer>
+	<integer>1017680599</integer>
 	<key>FBBuildRevision</key>
-	<string>f2f20b851f225c3ff6aec8bfd035e2c7fc3dcea0</string>
+	<string>5d04510a5781ec24b2ffda4829e3c894bda3cf21</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1770056966.028800</string>
+	<string>1783956023.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1770061133</integer>
+	<integer>1783957959</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>547.0.0</string>
+	<string>570.0.0</string>
 	<key>FacebookAppID</key>
 	<string>437626316973788</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -317,9 +466,12 @@
 		<string>instagram</string>
 		<string>barcelona</string>
 		<string>oculus</string>
+		<string>eclipse</string>
 		<string>whatsapp</string>
 		<string>fb-viewapp</string>
 		<string>vibes</string>
+		<string>hatch</string>
+		<string>ember</string>
 		<string>fb-pma</string>
 		<string>kbank.kplus</string>
 		<string>scbeasyembedded</string>
@@ -327,65 +479,39 @@
 		<string>krungsri-kma</string>
 		<string>ktbnext</string>
 		<string>tcb</string>
-		<string>fb1250647258936050</string>
-		<string>fb151773865450393</string>
-		<string>fanduelsportsbook</string>
-		<string>fb623667246791797</string>
-		<string>duet</string>
-		<string>fb1875984509929957</string>
-		<string>fb2446891192176100</string>
-		<string>fb170840887919</string>
+		<string>fb546208951871339</string>
+		<string>fb721972539868824</string>
+		<string>fb655056690450930</string>
+		<string>fb852494738637078</string>
+		<string>dksb</string>
 		<string>fb124207444332529</string>
-		<string>fb1601862990589808</string>
-		<string>fb1839011602994843</string>
+		<string>lastzapp</string>
+		<string>fb1065312064700600</string>
+		<string>fb2045001539014194</string>
+		<string>fb1250647258936050</string>
 		<string>fb503934352950298</string>
-		<string>fb1654637468826512</string>
-		<string>bingoRoyal</string>
-		<string>dkcs</string>
-		<string>fb174103646072524</string>
-		<string>fb1407499209700479</string>
-		<string>fb1791105821059748</string>
-		<string>fb399424954414709</string>
-		<string>fb841338400525592</string>
-		<string>fb1528052015256817</string>
-		<string>fb725480251207859</string>
-		<string>fb1305193403934764</string>
-		<string>fb706056846556355</string>
-		<string>fb1032203672405004</string>
-		<string>fb1331804452013397</string>
-		<string>fb622121112850283</string>
-		<string>fb597136000919815</string>
-		<string>fb1120387489653738</string>
-		<string>fb1803156837045495</string>
-		<string>fb1222123985060415</string>
-		<string>fb285025889266955</string>
-		<string>fb452885470753620</string>
 		<string>fb891889767495675</string>
-		<string>fb604425153801157</string>
-		<string>fb629274312371363</string>
-		<string>wayfairapp</string>
-		<string>fb1078231728854145</string>
-		<string>fb674398715267531</string>
-		<string>fb1872079600313584</string>
-		<string>fb1332143604595119</string>
-		<string>fb654935278355098</string>
-		<string>fb935840498733134</string>
-		<string>fb326605667418591</string>
-		<string>fb1895648287941778</string>
-		<string>fb1150802956823250</string>
-		<string>fb1923291651293408</string>
-		<string>fb1610979602467257</string>
-		<string>fb172594591747244</string>
-		<string>fb881533305321336</string>
-		<string>fb712237168882096</string>
+		<string>fb1862952583919182</string>
+		<string>hardrock</string>
+		<string>fb743956167815636</string>
+		<string>fb894703657238109</string>
 		<string>fb342073336607831</string>
-		<string>fb439388451121540</string>
-		<string>fb623247434776745</string>
-		<string>fb1319277882926795</string>
-		<string>fb246559161388001</string>
-		<string>fb1042157116238764</string>
-		<string>fb356472188587810</string>
-		<string>fb2498086803755292</string>
+		<string>fb502159173164171</string>
+		<string>fb1150219629558987</string>
+		<string>fb813248614505297</string>
+		<string>fb153277661752118</string>
+		<string>vrbo</string>
+		<string>fb524516057171015</string>
+		<string>fb1833639896909350</string>
+		<string>fb1819912395072617</string>
+		<string>fb141987249766567</string>
+		<string>fb1839011602994843</string>
+		<string>fb437897333028638</string>
+		<string>fb614608353165966</string>
+		<string>fb1923291651293408</string>
+		<string>wayfairapp</string>
+		<string>fb513765385012175</string>
+		<string>fb881533305321336</string>
 		<string>http</string>
 		<string>https</string>
 	</array>

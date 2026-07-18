@@ -32,8 +32,6 @@
 		<string>applinks:*.workdaysuv.com</string>
 		<string>applinks:*.workdaybugbounty.com</string>
 		<string>applinks:*.wdscylla.de</string>
-		<string>applinks:k7vm6.app.goo.gl</string>
-		<string>applinks:workdayapp.page.link</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

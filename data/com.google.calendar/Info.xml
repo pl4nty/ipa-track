@@ -11,7 +11,7 @@
 	<key>BreakpadProduct</key>
 	<string>Timely_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24E263</string>
+	<string>25D125</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -24,10 +24,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>calendar_2020q460x60</string>
+				<string>calendar_2026_ios60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>calendar_2020q4</string>
+			<string>calendar_2026_ios</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -36,11 +36,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>calendar_2020q460x60</string>
-				<string>calendar_2020q476x76</string>
+				<string>calendar_2026_ios60x60</string>
+				<string>calendar_2026_ios76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>calendar_2020q4</string>
+			<string>calendar_2026_ios</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -51,6 +51,7 @@
 	<array>
 		<string>en</string>
 		<string>bg</string>
+		<string>bn</string>
 		<string>ca</string>
 		<string>cs</string>
 		<string>da</string>
@@ -59,9 +60,11 @@
 		<string>en_AU</string>
 		<string>en_GB</string>
 		<string>es</string>
-		<string>es_MX</string>
+		<string>es_419</string>
 		<string>fi</string>
 		<string>fr</string>
+		<string>fr_CA</string>
+		<string>gu</string>
 		<string>he</string>
 		<string>hi</string>
 		<string>hr</string>
@@ -69,17 +72,26 @@
 		<string>id</string>
 		<string>it</string>
 		<string>ja</string>
+		<string>kk</string>
+		<string>kn</string>
 		<string>ko</string>
+		<string>lt</string>
+		<string>ml</string>
+		<string>mr</string>
 		<string>ms</string>
-		<string>nl</string>
 		<string>nb</string>
+		<string>nl</string>
+		<string>pa</string>
 		<string>pl</string>
 		<string>pt_BR</string>
 		<string>pt_PT</string>
 		<string>ro</string>
 		<string>ru</string>
 		<string>sk</string>
+		<string>sl</string>
 		<string>sv</string>
+		<string>ta</string>
+		<string>te</string>
 		<string>th</string>
 		<string>tr</string>
 		<string>uk</string>
@@ -92,7 +104,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.4.1</string>
+	<string>26.26.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -121,25 +133,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>26.4.1.54535000</string>
+	<string>26.26.0.54695000</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23E252</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.4</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23E252</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.4</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2641</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>17E202</string>
 	<key>INAlternativeAppNames</key>
 	<array>
 		<dict>
@@ -179,6 +191,8 @@
 		<string>googledevicepolicy</string>
 		<string>googledocs</string>
 		<string>googledrive</string>
+		<string>googledrive-v1</string>
+		<string>googledrive-v3</string>
 		<string>googlegmail</string>
 		<string>googlehome</string>
 		<string>googlenews</string>
@@ -229,8 +243,6 @@
 		<string>fetch</string>
 		<string>processing</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

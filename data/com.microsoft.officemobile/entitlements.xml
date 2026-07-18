@@ -2,10 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>com.apple.developer.icloud-services</key>
-	<array>
-		<string>CloudDocuments</string>
-	</array>
+	<key>com.apple.developer.carplay-voice-based-conversation</key>
+	<true/>
 	<key>com.apple.developer.icloud-container-identifiers</key>
 	<array>
 		<string>iCloud.com.microsoft.officemobile</string>
@@ -23,6 +21,35 @@
 	</array>
 	<key>aps-environment</key>
 	<string>production</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:1drv.ms</string>
+		<string>applinks:onedrive.cloud.microsoft</string>
+		<string>applinks:onedrive.live.com</string>
+		<string>applinks:home.microsoftpersonalcontent.com</string>
+		<string>applinks:my.microsoftpersonalcontent.com</string>
+		<string>applinks:*.microsoftpersonalcontent.com</string>
+		<string>applinks:*.sharepoint.com</string>
+		<string>applinks:*.sharepoint-df.com</string>
+		<string>applinks:*.sharepoint.de</string>
+		<string>applinks:*.safelinks.protection.outlook.com</string>
+		<string>applinks:print.print.microsoft.com</string>
+		<string>applinks:print.print-next.microsoft.com</string>
+		<string>applinks:print.print-ppe.microsoft.com</string>
+		<string>applinks:print.print.azure.us</string>
+		<string>applinks:print.print-dod.azure.us</string>
+		<string>applinks:www.microsoft365.com</string>
+		<string>applinks:m365.cloud.microsoft</string>
+		<string>applinks:copilot.cloud.microsoft</string>
+		<string>applinks:copilot.com</string>
+		<string>applinks:www.copilot.com</string>
+		<string>applinks:unifiedlink.svc.cloud.microsoft</string>
+		<string>applinks:unifiedlink.svc.cloud.dev.microsoft</string>
+		<string>webcredentials:login.microsoftonline.com</string>
+		<string>webcredentials:login.partner.microsoftonline.cn</string>
+		<string>webcredentials:login.microsoftonline.us</string>
+		<string>webcredentials:login.microsoft.com</string>
+	</array>
 	<key>keychain-access-groups</key>
 	<array>
 		<string>SGGM6D27TK.com.microsoft.office</string>
@@ -35,26 +62,15 @@
 		<string>SGGM6D27TK.com.microsoft.sso.intunemam</string>
 		<string>SGGM6D27TK.com.microsoft.oneauth</string>
 	</array>
-	<key>com.apple.developer.associated-domains</key>
+	<key>com.apple.developer.team-identifier</key>
+	<string>UBF8T346G9</string>
+	<key>com.apple.developer.applesignin</key>
 	<array>
-		<string>applinks:1drv.ms</string>
-		<string>applinks:onedrive.cloud.microsoft</string>
-		<string>applinks:onedrive.live.com</string>
-		<string>applinks:*.sharepoint.com</string>
-		<string>applinks:*.sharepoint-df.com</string>
-		<string>applinks:*.sharepoint.de</string>
-		<string>applinks:*.safelinks.protection.outlook.com</string>
-		<string>applinks:print.print.microsoft.com</string>
-		<string>applinks:print.print-next.microsoft.com</string>
-		<string>applinks:print.print-ppe.microsoft.com</string>
-		<string>applinks:print.print.azure.us</string>
-		<string>applinks:print.print-dod.azure.us</string>
-		<string>applinks:www.microsoft365.com</string>
-		<string>applinks:m365.cloud.microsoft</string>
-		<string>webcredentials:login.microsoftonline.com</string>
-		<string>webcredentials:login.partner.microsoftonline.cn</string>
-		<string>webcredentials:login.microsoftonline.us</string>
-		<string>webcredentials:login.microsoft.com</string>
+		<string>Default</string>
+	</array>
+	<key>com.apple.developer.icloud-services</key>
+	<array>
+		<string>CloudDocuments</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
@@ -62,7 +78,5 @@
 		<string>group.com.microsoft.shared</string>
 		<string>group.com.microsoft.union</string>
 	</array>
-	<key>com.apple.developer.team-identifier</key>
-	<string>UBF8T346G9</string>
 </dict>
 </plist>

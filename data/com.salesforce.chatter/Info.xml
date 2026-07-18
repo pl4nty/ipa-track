@@ -13,7 +13,7 @@
 		<string>com.salesforce.offlineApp.priming</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G231</string>
+	<string>24G720</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -52,10 +52,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon60x60</string>
+				<string>SalesforceAppIcon60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>AppIcon</string>
+			<string>SalesforceAppIcon</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -64,11 +64,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon60x60</string>
-				<string>AppIcon76x76</string>
+				<string>SalesforceAppIcon60x60</string>
+				<string>SalesforceAppIcon76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>AppIcon</string>
+			<string>SalesforceAppIcon</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -80,7 +80,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>258.030</string>
+	<string>262.020</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -105,7 +105,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6210389</string>
+	<string>6212859</string>
 	<key>CloneHeaderHexColor</key>
 	<string></string>
 	<key>CloneJobNumber</key>
@@ -126,23 +126,23 @@
 	<key>CloneSplashBackgroundHexColor</key>
 	<string></string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2601</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>17A400</string>
+	<string>17C52</string>
 	<key>HelpURL</key>
 	<string>https:/help.salesforce.com</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -180,7 +180,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<false/>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>18.0</string>
 	<key>NFCReaderUsageDescription</key>
 	<string>This lets you scan NFC tags</string>
 	<key>NSAppTransportSecurity</key>
@@ -224,6 +224,8 @@
 	<string>This lets you share from your camera roll. The app only uploads and shares content that you choose.</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>Speech recognition is only used when you use the speech-to-text feature in Einstein.</string>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
 	<key>NSUserActivityTypes</key>
 	<array>
 		<string>com.salesforce.chatter.objectHome</string>
@@ -249,9 +251,10 @@
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>remote-notification</string>
+		<string>audio</string>
 	</array>
 	<key>UIDesignRequiresCompatibility</key>
-	<true/>
+	<false/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

@@ -13,7 +13,7 @@
 	<key>BING_MAPS_KEY</key>
 	<string>AnG6pvmlxuPe85X7PEFJ7EP18DKkpcwTxTvIz7T-7j-TMGstR4CwHr1SRtCWY1CZ</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24G419</string>
+	<string>24G720</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>32.7.440106001</string>
+	<string>33.7.440715002</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -110,25 +110,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>440106001</string>
+	<string>440715002</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23C57</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23C57</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2630</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17C529</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>IntuneMAMSettings</key>
@@ -233,30 +233,14 @@
 	</array>
 	<key>NSUserTrackingUsageDescription</key>
 	<string>This will be used to connect your PC to this app to show you more personalized feeds.</string>
-	<key>UIAppFonts</key>
-	<array>
-		<string>AntDesign.ttf</string>
-		<string>Entypo.ttf</string>
-		<string>EvilIcons.ttf</string>
-		<string>Feather.ttf</string>
-		<string>FontAwesome.ttf</string>
-		<string>FontAwesome5_Brands.ttf</string>
-		<string>FontAwesome5_Regular.ttf</string>
-		<string>FontAwesome5_Solid.ttf</string>
-		<string>Foundation.ttf</string>
-		<string>Ionicons.ttf</string>
-		<string>MaterialIcons.ttf</string>
-		<string>MaterialCommunityIcons.ttf</string>
-		<string>SimpleLineIcons.ttf</string>
-		<string>Octicons.ttf</string>
-		<string>Zocial.ttf</string>
-	</array>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>audio</string>
 		<string>processing</string>
 		<string>voip</string>
 	</array>
+	<key>UIDesignRequiresCompatibility</key>
+	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
@@ -291,6 +275,12 @@
 		<string>https://api.webxtsvc.microsoft.com/mswallet/buynow/v1</string>
 		<key>feebackBaseURL</key>
 		<string>https://petrol.office.microsoft.com</string>
+		<key>mapCopyrightURL</key>
+		<string>https://dev.virtualearth.net/REST/V1/Imagery/Copyright</string>
+		<key>mapStyleVersionURL</key>
+		<string>https://ecn.api.tiles.virtualearth.net/comp/stlgen.ashx?type=bingntv</string>
+		<key>odmVersionURL</key>
+		<string>https://t0.ssl.ak.dynamic.tiles.virtualearth.net/comp/gen.ashx</string>
 		<key>pagesURL</key>
 		<string>https://copilot.microsoft.com/pages</string>
 		<key>rewardsURL</key>

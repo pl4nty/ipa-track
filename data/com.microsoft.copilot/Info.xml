@@ -2,8 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>co.tryterra.data.post.request</string>
+	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G419</string>
+	<string>24G720</string>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -45,157 +49,73 @@
 			</dict>
 			<key>ascent</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>ascent</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>ascent</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>aurora</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>aurora</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>aurora</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>coral</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>coral</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>coral</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>fleur</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>fleur</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>fleur</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>grip</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>grip</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>grip</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>groove</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>groove</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>groove</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>leaf</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>leaf</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>leaf</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>lumiblue</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>lumiblue</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>lumiblue</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>lumiorange</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>lumiorange</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>lumiorange</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>lumipurple</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>lumipurple</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>lumipurple</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>steel</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>steel</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>steel</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>tropic</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>tropic</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>tropic</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>wave</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>wave</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>wave</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>wheat</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>wheat</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>wheat</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
@@ -219,157 +139,73 @@
 			</dict>
 			<key>ascent</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>ascent</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>ascent</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>aurora</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>aurora</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>aurora</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>coral</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>coral</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>coral</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>fleur</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>fleur</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>fleur</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>grip</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>grip</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>grip</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>groove</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>groove</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>groove</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>leaf</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>leaf</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>leaf</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>lumiblue</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>lumiblue</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>lumiblue</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>lumiorange</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>lumiorange</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>lumiorange</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>lumipurple</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>lumipurple</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>lumipurple</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>steel</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>steel</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>steel</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>tropic</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>tropic</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>tropic</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>wave</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>wave</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>wave</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 			<key>wheat</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>wheat</string>
-				</array>
 				<key>CFBundleIconName</key>
 				<string>wheat</string>
-				<key>UIPrerenderedIcon</key>
-				<false/>
 			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
@@ -392,7 +228,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>440205002.30.0</string>
+	<string>440707001.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -415,25 +251,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>440205002</string>
+	<string>440707001</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23C57</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
 	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23C57</string>
 	<key>DTSDKName</key>
 	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2630</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>17C529</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
@@ -453,6 +289,14 @@
 	<string>16.0</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Copilot needs access to your Camera to help you use AI with your camera</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Copilot uses your contacts to help you find and invite friends to group chats.</string>
+	<key>NSHealthClinicalHealthRecordsShareUsageDescription</key>
+	<string>Copilot Health uses data from Apple Health to better understand your health, fitness, and wellbeing so that your conversations can be tailored to you. We will never share your health, fitness, and wellbeing data outside of Copilot Health</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>Copilot Health uses data from Apple Health to better understand your health, fitness, and wellbeing so that your conversations can be tailored to you. We will never share your health, fitness, and wellbeing data outside of Copilot Health</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Copilot Health uses data from Apple Health to better understand your health, fitness, and wellbeing so that your conversations can be tailored to you. We will never share your health, fitness, and wellbeing data outside of Copilot Health</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Your precise location is used to allow Copilot to answer location based questions and improve search results</string>
 	<key>NSMicrophoneUsageDescription</key>
@@ -488,6 +332,8 @@
 		<string>audio</string>
 		<string>voip</string>
 		<string>remote-notification</string>
+		<string>fetch</string>
+		<string>processing</string>
 	</array>
 	<key>UIDeviceFamily</key>
 	<array>
@@ -548,6 +394,8 @@
 	<string>f12eb9a3-8533-4bd7-9dea-0bd99beb7f3a</string>
 	<key>appURLs</key>
 	<dict>
+		<key>artifactsURL</key>
+		<string>https://copilot.microsoft.com/tasks/canvas/artifact/</string>
 		<key>baseURL</key>
 		<string>https://copilot.microsoft.com/c/api</string>
 		<key>copilotPayURL</key>
@@ -564,8 +412,12 @@
 		<string>https://copilot.microsoft.com/pages</string>
 		<key>rewardsURL</key>
 		<string>https://prod.rewardsplatform.microsoft.com</string>
+		<key>streamEvalURL</key>
+		<string>wss://copilot.microsoft.com/c/api/chat</string>
 		<key>streamURL</key>
 		<string>wss://copilot.microsoft.com/c/api/chat</string>
+		<key>vncURL</key>
+		<string>https://copilot.microsoft.com/tasks/canvas/vnc/</string>
 	</dict>
 	<key>auth0Config</key>
 	<dict>
@@ -575,13 +427,6 @@
 		<string>oMaeiYWq1nJ1Yhk3xeZVg7ofZi3XGHZk</string>
 		<key>domain</key>
 		<string>auth.copilot.microsoft.com</string>
-	</dict>
-	<key>clarityClientConfig</key>
-	<dict>
-		<key>clarityLogLevel</key>
-		<string>none</string>
-		<key>clarityProjectId</key>
-		<string>s0cqyfygnl</string>
 	</dict>
 	<key>deepLinkPrefix</key>
 	<string>copilotn</string>
@@ -651,6 +496,8 @@
 	</dict>
 	<key>stagingEnvCookie</key>
 	<string></string>
+	<key>terraDevID</key>
+	<string>copilot-prod-fOkTZmVl9B</string>
 	<key>universalLinkHostUrl</key>
 	<string>copilot.microsoft.com</string>
 </dict>

@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.talk</string>
 	<key>CFBuildDate</key>
-	<string>2026-01-15T02:37:52</string>
+	<string>2026-06-29T15:24:12</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>311.0</string>
+	<string>323.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -67,51 +67,47 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>862058188</string>
+	<string>1006708041</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17C52</string>
 	<key>FBAppVersion</key>
-	<string>311.0.0.23.0</string>
+	<string>323.0.0.18.210</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>862058188</integer>
+	<integer>1006708041</integer>
 	<key>FBBuildRevision</key>
-	<string>f56584a836e02859543ec9a6063fbff67d9843c2</string>
+	<string>3246379c11b60a5bf279c03b4c80cb1c429b6d03</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1768442945.028800</string>
+	<string>1782744605.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1768444672</integer>
+	<integer>1782746652</integer>
 	<key>FBDisableAutoRegisterForPush</key>
 	<string>YES</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>311.0</string>
+	<string>323.0</string>
 	<key>FacebookAppID</key>
 	<string>1174099472704185</string>
 	<key>FacebookAppPushTransmitterID</key>
 	<string>1174099472704185</string>
-	<key>FacebookAppToken</key>
-	<string>0722a7d5b5a4ac06b11450f7114eb2e9</string>
-	<key>FacebookAppUserAgent</key>
-	<string>TalkForiOS</string>
 	<key>FacebookDisplayName</key>
 	<string>Messenger Kids</string>
 	<key>FacebookFlytrapCategoryId</key>
@@ -125,8 +121,12 @@
 		<string>instagram</string>
 		<string>barcelona</string>
 		<string>oculus</string>
+		<string>eclipse</string>
 		<string>whatsapp</string>
 		<string>fb-viewapp</string>
+		<string>vibes</string>
+		<string>hatch</string>
+		<string>ember</string>
 		<string>otpauth</string>
 		<string>fb-pma</string>
 		<string>fb-ama</string>

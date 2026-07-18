@@ -9,7 +9,7 @@
 		<string>com.microsoft.onenote.backgroundFetchTask</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25C56</string>
+	<string>25F80</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -535,8 +535,8 @@
 			<string>ONIAppShortcutIconColor</string>
 			<key>NSAppIconComplementingColorNames</key>
 			<array>
-				<string>ONIBrand130</string>
-				<string>ONIBrand80</string>
+				<string>ONBrand130</string>
+				<string>ONBrand80</string>
 			</array>
 		</dict>
 	</dict>
@@ -567,6 +567,7 @@
 		<string>fr</string>
 		<string>hu</string>
 		<string>it</string>
+		<string>ja</string>
 		<string>ko</string>
 		<string>ms</string>
 		<string>no</string>
@@ -583,7 +584,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>16.106</string>
+	<string>16.111.5</string>
 	<key>CFBundleSignature</key>
 	<string>MSON</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -614,25 +615,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>16106000.26020617</string>
+	<string>16111005.26071029</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23B77</string>
+	<string>23E252</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.1</string>
+	<string>26.4</string>
 	<key>DTSDKBuild</key>
-	<string>23B77</string>
+	<string>23E252</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.1</string>
+	<string>iphoneos26.4</string>
 	<key>DTXcode</key>
-	<string>2611</string>
+	<string>2641</string>
 	<key>DTXcodeBuild</key>
-	<string>17B100</string>
+	<string>17E202</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
@@ -767,9 +768,11 @@
 	<key>MSOfeedbackPhoneAppID</key>
 	<string>248</string>
 	<key>MicrosoftExtendedBuildNumber</key>
-	<string>16.106/260206</string>
+	<string>16.111.5/260710</string>
 	<key>MinimumOSVersion</key>
 	<string>18.0</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>This lets you insert audio into your notebook.</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
 	<string>This lets you use a Bluetooth stylus for drawing.</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
@@ -790,12 +793,14 @@
 	<string>This lets you add photos to the library that you have taken with the camera to add to a page.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>This lets you insert photos from your library.</string>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
 	<key>NSUserActivityTypes</key>
 	<array>
 		<string>com.microsoft.onenote.viewing-page</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>16.106.206.0</string>
+	<string>16.111.710.5</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
@@ -812,8 +817,6 @@
 		<string>processing</string>
 		<string>remote-notification</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
