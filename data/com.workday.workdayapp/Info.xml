@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24D70</string>
+	<string>25D2128</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -51,6 +51,7 @@
 		<string>es</string>
 		<string>fr_CA</string>
 		<string>pt</string>
+		<string>pt-PT</string>
 		<string>sv</string>
 		<string>nl</string>
 		<string>hu</string>
@@ -69,7 +70,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2026.02.0</string>
+	<string>2026.07.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -87,35 +88,62 @@
 				<string>workday+https</string>
 			</array>
 		</dict>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>MSAL</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>msauth.com.workday.workdayapp</string>
+			</array>
+		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>30478</string>
+	<string>42456</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23C57</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23C57</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2630</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17C529</string>
+	<key>FirebaseCrashlyticsCollectionEnabled</key>
+	<false/>
 	<key>FirebaseScreenReportingEnabled</key>
-	<true/>
+	<false/>
 	<key>GOOGLE_ANALYTICS_IDFV_COLLECTION_ENABLED</key>
 	<false/>
+	<key>GoogleMapsAPIKey</key>
+	<string>AIzaSyCT9yl-1jmBOXWFbLcmTW2OrzHY1G1e-wQ</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
+	<key>IntuneMAMSettings</key>
+	<dict>
+		<key>ADALAuthority</key>
+		<string>https://login.microsoftonline.com/common</string>
+		<key>ADALCacheKeychainGroupOverride</key>
+		<string>com.workday.sharedKeychain</string>
+		<key>ADALRedirectScheme</key>
+		<string>msauth.com.workday.workdayapp</string>
+		<key>ADALRedirectUri</key>
+		<string>msauth.com.workday.workdayapp://auth</string>
+		<key>IntuneMAMResourceURL</key>
+		<string>https://msmamservice.api.application</string>
+	</dict>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
+		<string>msauthv2</string>
+		<string>msauthv3</string>
 		<string>microsoft-edge-https</string>
 		<string>about</string>
 		<string>wdsheets</string>
@@ -137,7 +165,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<false/>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>18.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -170,6 +198,8 @@
 	<string>Workday needs to access your camera and photos to help you submit expense reports, update profile pictures, and add candidates</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>Allowing speech recognition access lets you use speech to text interactions within Workday Assistant.</string>
+	<key>UIDesignRequiresCompatibility</key>
+	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
@@ -205,6 +235,8 @@
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
 	<key>UIViewGroupOpacity</key>
+	<true/>
+	<key>WorkdayIntuneMAMEnabled</key>
 	<true/>
 </dict>
 </plist>

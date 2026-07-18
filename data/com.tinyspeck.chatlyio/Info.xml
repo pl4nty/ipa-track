@@ -7,7 +7,7 @@
 		<string>com.slack.bg_tasks.app_refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G231</string>
+	<string>24G624</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -84,7 +84,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.02.10</string>
+	<string>26.07.30</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSpokenName</key>
@@ -115,11 +115,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>454983</string>
+	<string>459773</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -147,12 +147,15 @@
 		<string>authy</string>
 		<string>awb</string>
 		<string>awbs</string>
+		<string>com.salesforce.fieldservice</string>
 		<string>duo</string>
 		<string>facetime</string>
+		<string>fb-messenger</string>
 		<string>googlechrome</string>
 		<string>googlechromes</string>
 		<string>googledrive</string>
 		<string>googlegmail</string>
+		<string>lsc</string>
 		<string>mailto</string>
 		<string>message</string>
 		<string>mibrowser</string>
@@ -163,18 +166,20 @@
 		<string>ophttp</string>
 		<string>org-appextension-feature-password-management</string>
 		<string>otpauth</string>
+		<string>salesforce1</string>
 		<string>slackbeta</string>
 		<string>skype</string>
 		<string>sms</string>
 		<string>tel</string>
 		<string>telprompt</string>
 		<string>twitter</string>
+		<string>whatsapp</string>
 		<string>ymail</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>16.4</string>
+	<string>17.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>

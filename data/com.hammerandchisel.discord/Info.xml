@@ -390,7 +390,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>315.0</string>
+	<string>337.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -410,9 +410,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>92892</string>
+	<string>105860</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -458,11 +458,23 @@
 		<string>youtube</string>
 		<string>xbox</string>
 		<string>roblox</string>
+		<string>igame1320</string>
+		<string>codm</string>
+		<string>clashofclans</string>
+		<string>mobilelegends</string>
+		<string>freefire</string>
+		<string>pokemongo</string>
+		<string>pokemontcgp</string>
+		<string>clashroyale</string>
+		<string>amongus</string>
+		<string>monopolygo</string>
+		<string>brawlstars</string>
+		<string>akioversea</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>15.1</string>
+	<string>16.0</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
 	<string>To connect to your devices</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
@@ -497,17 +509,18 @@
 	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
 	<true/>
 	<key>RCTNewArchEnabled</key>
-	<false/>
+	<true/>
 	<key>RELEASE_CHANNEL</key>
 	<string>ptb</string>
 	<key>SENTRY_RELEASE</key>
-	<string>discord_ios@315.0.92892+92892</string>
+	<string>discord_ios@337.0.105860+105860</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>abcgintonord-800-extrabold.ttf</string>
 		<string>ggsans-400-normal.ttf</string>
 		<string>ggsans-400-normalitalic.ttf</string>
 		<string>ggsans-500-medium.ttf</string>
+		<string>ggsans-500-mediumitalic.ttf</string>
 		<string>ggsans-600-semibold.ttf</string>
 		<string>ggsans-600-semibolditalic.ttf</string>
 		<string>ggsans-700-bold.ttf</string>
@@ -517,6 +530,7 @@
 		<string>notosans-400-normal.ttf</string>
 		<string>notosans-400-normalitalic.ttf</string>
 		<string>notosans-500-medium.ttf</string>
+		<string>notosans-500-mediumitalic.ttf</string>
 		<string>notosans-600-semibold.ttf</string>
 		<string>notosans-600-semibolditalic.ttf</string>
 		<string>notosans-700-bold.ttf</string>
@@ -524,16 +538,21 @@
 		<string>notosans-800-extrabold.ttf</string>
 		<string>notosans-800-extrabolditalic.ttf</string>
 		<string>ggmono-400-normal.ttf</string>
+		<string>ggmono-600-semibold.ttf</string>
 		<string>ggmono-700-bold.ttf</string>
 		<string>sourcecodepro-400-normal.ttf</string>
 		<string>sourcecodepro-700-bold.ttf</string>
-		<string>chicle-400-normal.ttf</string>
-		<string>cherrybombone-400-normal.ttf</string>
-		<string>museomoderno-500-medium.ttf</string>
-		<string>neocastel-400-normal.ttf</string>
-		<string>pixelifysans-400-normal.ttf</string>
-		<string>sinistre-400-normal.ttf</string>
-		<string>zillaslab-600-semibold.ttf</string>
+		<string>jellybean-400-normal.ttf</string>
+		<string>sakura-400-normal.ttf</string>
+		<string>modern-500-medium.ttf</string>
+		<string>medieval-400-normal.ttf</string>
+		<string>8bit-400-normal.ttf</string>
+		<string>vampyre-400-normal.ttf</string>
+		<string>tempo-600-semibold.ttf</string>
+		<string>playpensans-700-bold.ttf</string>
+		<string>orbitron-700-bold.ttf</string>
+		<string>newrocker-400-normal.ttf</string>
+		<string>kalam-700-bold.ttf</string>
 	</array>
 	<key>UIBackgroundModes</key>
 	<array>
@@ -556,7 +575,7 @@
 		<string>arm64</string>
 	</array>
 	<key>UIStatusBarHidden</key>
-	<true/>
+	<false/>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>

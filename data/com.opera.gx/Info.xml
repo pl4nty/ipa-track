@@ -7,7 +7,7 @@
 		<string>com.opera.gx.extensions-update</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G231</string>
+	<string>24G517</string>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -236,7 +236,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.1.1</string>
+	<string>3.3.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -256,25 +256,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4107</string>
+	<string>5065</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23B77</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.1</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23B77</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.1</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2610</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>17B54</string>
+	<string>17C52</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
@@ -295,7 +295,9 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>18.0</string>
+	<key>NSAdvertisingAttributionReportEndpoint</key>
+	<string>https://appsflyer-skadnetwork.com</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -337,9 +339,9 @@
 			<key>UIApplicationShortcutItemIconFile</key>
 			<string>gamepadGlyph24</string>
 			<key>UIApplicationShortcutItemTitle</key>
-			<string>IDS_APP_SHORTCUT_PLAY_GAME_TITLE</string>
+			<string>IDS_APP_SHORTCUT_GX_CORNER_TITLE</string>
 			<key>UIApplicationShortcutItemType</key>
-			<string>PlayGameAction</string>
+			<string>GXCornerAction</string>
 		</dict>
 		<dict>
 			<key>UIApplicationShortcutItemIconFile</key>
@@ -362,6 +364,7 @@
 	</array>
 	<key>UIBackgroundModes</key>
 	<array>
+		<string>audio</string>
 		<string>processing</string>
 		<string>remote-notification</string>
 	</array>

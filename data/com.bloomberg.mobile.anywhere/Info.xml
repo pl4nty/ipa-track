@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>BBBuildDate</key>
-	<string>2026-01-28</string>
+	<string>2026-07-06</string>
 	<key>BBCommitId</key>
-	<string>db58417</string>
+	<string>4b437c5</string>
 	<key>BuildMachineOSBuild</key>
-	<string>25B78</string>
+	<string>25E253</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_GB</string>
 	<key>CFBundleDisplayName</key>
@@ -79,7 +79,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.2602.1</string>
+	<string>2.2614</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -99,25 +99,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2260217</string>
+	<string>2261417</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23B77</string>
+	<string>23F73</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.1</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23B77</string>
+	<string>23F73</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.1</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2610</string>
+	<string>2650</string>
 	<key>DTXcodeBuild</key>
-	<string>17B55</string>
+	<string>17F42</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
@@ -129,7 +129,6 @@
 		<string>citrixreceiver</string>
 		<string>bbg</string>
 		<string>bbgvappstore</string>
-		<string>bbgvbeta</string>
 		<string>bbgvalpha</string>
 		<string>bbgvdev</string>
 		<string>bbgvdebug</string>

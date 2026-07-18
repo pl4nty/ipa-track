@@ -9,7 +9,7 @@
 	<key>BitwardenKeychainAccessGroup</key>
 	<string>LTZ2PFU5D6.com.8bit.bitwarden</string>
 	<key>BuildMachineOSBuild</key>
-	<string>25C56</string>
+	<string>25E246</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -117,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2026.1.1</string>
+	<string>2026.6.1</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -145,25 +145,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2902</string>
+	<string>3376</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23B77</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.1</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23B77</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.1</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2611</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>17B100</string>
+	<string>17C52</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
@@ -173,7 +173,7 @@
 	<key>NFCReaderUsageDescription</key>
 	<string>Use Yubikeys for two-factor authentication.</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Scan QR codes</string>
+	<string>Scan QR codes and payment cards</string>
 	<key>NSFaceIDUsageDescription</key>
 	<string>Use Face ID to unlock your vault.</string>
 	<key>NSPhotoLibraryUsageDescription</key>

@@ -4,10 +4,17 @@
 <dict>
 	<key>com.apple.developer.usernotifications.communication</key>
 	<true/>
+	<key>com.apple.developer.declared-age-range</key>
+	<true/>
 	<key>com.apple.developer.avfoundation.multitasking-camera-access</key>
 	<true/>
 	<key>application-identifier</key>
 	<string>53Q6R32WPB.com.hammerandchisel.discord</string>
+	<key>com.apple.developer.networking.carrier-constrained.appcategory</key>
+	<array>
+		<string>messaging-8001</string>
+		<string>voip-8006</string>
+	</array>
 	<key>aps-environment</key>
 	<string>production</string>
 	<key>com.apple.developer.storekit.request-data</key>

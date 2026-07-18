@@ -10,7 +10,7 @@
 	<key>BreakpadProduct</key>
 	<string>Google_Search_App_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24G231</string>
+	<string>25D125</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -21,10 +21,10 @@
 	<dict>
 		<key>CFBundleAlternateIcons</key>
 		<dict>
-			<key>AppIcon_01_Gradient</key>
+			<key>AppIcon_01</key>
 			<dict>
 				<key>CFBundleIconName</key>
-				<string>AppIcon_01_Gradient</string>
+				<string>AppIcon_01</string>
 			</dict>
 			<key>AppIcon_02</key>
 			<dict>
@@ -41,20 +41,20 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_gsa_gradient_ios_color60x60</string>
+				<string>SuperG_ios2660x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_gsa_gradient_ios_color</string>
+			<string>SuperG_ios26</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
 	<dict>
 		<key>CFBundleAlternateIcons</key>
 		<dict>
-			<key>AppIcon_01_Gradient</key>
+			<key>AppIcon_01</key>
 			<dict>
 				<key>CFBundleIconName</key>
-				<string>AppIcon_01_Gradient</string>
+				<string>AppIcon_01</string>
 			</dict>
 			<key>AppIcon_02</key>
 			<dict>
@@ -71,11 +71,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_gsa_gradient_ios_color60x60</string>
-				<string>logo_gsa_gradient_ios_color76x76</string>
+				<string>SuperG_ios2660x60</string>
+				<string>SuperG_ios2676x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_gsa_gradient_ios_color</string>
+			<string>SuperG_ios26</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -86,6 +86,7 @@
 	<array>
 		<string>en</string>
 		<string>ar</string>
+		<string>az</string>
 		<string>bg</string>
 		<string>bn</string>
 		<string>ca</string>
@@ -96,6 +97,7 @@
 		<string>en_GB</string>
 		<string>es</string>
 		<string>es_419</string>
+		<string>fa</string>
 		<string>fi</string>
 		<string>fr</string>
 		<string>he</string>
@@ -105,15 +107,17 @@
 		<string>id</string>
 		<string>it</string>
 		<string>ja</string>
+		<string>ka</string>
 		<string>kk</string>
 		<string>ko</string>
 		<string>lt</string>
 		<string>mr</string>
 		<string>ms</string>
+		<string>my</string>
 		<string>nb</string>
 		<string>nl</string>
 		<string>pl</string>
-		<string>pt</string>
+		<string>pt_BR</string>
 		<string>pt_PT</string>
 		<string>ro</string>
 		<string>ru</string>
@@ -125,6 +129,7 @@
 		<string>th</string>
 		<string>tr</string>
 		<string>uk</string>
+		<string>uz</string>
 		<string>vi</string>
 		<string>zh_CN</string>
 		<string>zh_TW</string>
@@ -134,7 +139,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>407.0</string>
+	<string>429.1</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -172,11 +177,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>407.0.866017435</string>
+	<string>429.1.942703598</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

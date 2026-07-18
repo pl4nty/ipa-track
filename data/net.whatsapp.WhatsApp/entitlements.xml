@@ -36,19 +36,23 @@
 	<array>
 		<string>UKFA9XBX6K.net.whatsapp.WhatsApp.Clip</string>
 	</array>
+	<key>com.apple.developer.declared-age-range</key>
+	<true/>
 	<key>com.apple.developer.pushkit.unrestricted-voip</key>
 	<true/>
 	<key>com.apple.developer.ubiquity-container-identifiers</key>
 	<array>
 		<string>57T9237FN3.net.whatsapp.WhatsApp</string>
 	</array>
+	<key>com.apple.developer.messaging-app</key>
+	<true/>
 	<key>com.apple.developer.kernel.increased-memory-limit</key>
 	<true/>
 	<key>aps-environment</key>
 	<string>production</string>
 	<key>com.apple.developer.icloud-container-environment</key>
 	<string>Production</string>
-	<key>com.apple.developer.calling-app</key>
+	<key>com.apple.developer.carplay-communication</key>
 	<true/>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
@@ -57,15 +61,18 @@
 		<string>applinks:chat.whatsapp.com</string>
 		<string>applinks:wa.me</string>
 		<string>applinks:call.whatsapp.com</string>
+		<string>applinks:event.whatsapp.com</string>
 		<string>applinks:whatsapp.com</string>
 		<string>applinks:www.whatsapp.com</string>
 		<string>webcredentials:whatsapp.com</string>
 		<string>webcredentials:*.whatsapp.com</string>
 	</array>
-	<key>com.apple.developer.messaging-app</key>
+	<key>com.apple.developer.calling-app</key>
 	<true/>
 	<key>com.apple.developer.team-identifier</key>
 	<string>57T9237FN3</string>
+	<key>com.apple.developer.authentication-services.account-creation-requires-phone-number</key>
+	<true/>
 	<key>com.apple.developer.icloud-services</key>
 	<array>
 		<string>CloudDocuments</string>

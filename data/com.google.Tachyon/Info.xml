@@ -11,25 +11,25 @@
 	<key>BreakpadProduct</key>
 	<string>Tachyon_iOS</string>
 	<key>BreakpadProductDisplay</key>
-	<string>Tachyon</string>
+	<string>TachyonJ2ktAbExperiment</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24E263</string>
+	<string>25D125</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
 	<string>Meet</string>
 	<key>CFBundleExecutable</key>
-	<string>Tachyon</string>
+	<string>TachyonJ2ktAbExperiment</string>
 	<key>CFBundleIcons</key>
 	<dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>meet_2020q460x60</string>
+				<string>meet_2026_ios60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>meet_2020q4</string>
+			<string>meet_2026_ios</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -38,11 +38,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>meet_2020q460x60</string>
-				<string>meet_2020q476x76</string>
+				<string>meet_2026_ios60x60</string>
+				<string>meet_2026_ios76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>meet_2020q4</string>
+			<string>meet_2026_ios</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -117,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>345.0</string>
+	<string>367.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -140,9 +140,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>345.0.94444</string>
+	<string>367.0.104506</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -201,6 +201,7 @@
 		<string>googletasks</string>
 		<string>googletranslate</string>
 		<string>googlevoice</string>
+		<string>googlexrcompanion</string>
 		<string>http</string>
 		<string>https</string>
 		<string>mailto</string>
@@ -215,7 +216,7 @@
 		<string>waze</string>
 	</array>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>18.0</string>
 	<key>NSCameraUsageDescription</key>
 	<string>This lets you be seen during video calls</string>
 	<key>NSContactsUsageDescription</key>
@@ -237,10 +238,6 @@
 	<string>com.google.sso.422952068683-2rhfpkie4bgahh1lo7928iomur8324qi</string>
 	<key>UIAppFonts</key>
 	<array>
-		<string>anton.ttf</string>
-		<string>sniglet_regular.ttf</string>
-		<string>cutive_mono.ttf</string>
-		<string>league_script_bold.ttf</string>
 		<string>Roboto-Regular.ttf</string>
 		<string>ProductSans-Regular.ttf</string>
 	</array>
@@ -250,6 +247,17 @@
 		<false/>
 		<key>UISceneConfigurations</key>
 		<dict>
+			<key>CPTemplateApplicationSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneClassName</key>
+					<string>CPTemplateApplicationScene</string>
+					<key>UISceneConfigurationName</key>
+					<string>CarPlay</string>
+					<key>UISceneDelegateClassName</key>
+					<string>CarPlayModule.CarPlaySceneDelegate</string>
+				</dict>
+			</array>
 			<key>UIWindowSceneSessionRoleApplication</key>
 			<array>
 				<dict>
@@ -268,6 +276,7 @@
 		<string>processing</string>
 		<string>remote-notification</string>
 		<string>voip</string>
+		<string>external-accessory</string>
 	</array>
 	<key>UIDesignRequiresCompatibility</key>
 	<true/>
@@ -300,6 +309,10 @@
 			<false/>
 		</dict>
 	</dict>
+	<key>UISupportedExternalAccessoryProtocols</key>
+	<array>
+		<string>com.google.xr</string>
+	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>

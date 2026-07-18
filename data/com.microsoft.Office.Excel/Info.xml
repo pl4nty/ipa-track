@@ -11,7 +11,7 @@
 		<string>com.microsoft.office.bgtask.prefetch</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25C56</string>
+	<string>25F80</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -249,7 +249,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.106</string>
+	<string>2.111.5</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -306,25 +306,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.106.26020617</string>
+	<string>2.111.26071029</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23B77</string>
+	<string>23E252</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.1</string>
+	<string>26.4</string>
 	<key>DTSDKBuild</key>
-	<string>23B77</string>
+	<string>23E252</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.1</string>
+	<string>iphoneos26.4</string>
 	<key>DTXcode</key>
-	<string>2611</string>
+	<string>2641</string>
 	<key>DTXcodeBuild</key>
-	<string>17B100</string>
+	<string>17E202</string>
 	<key>DocsUISettings</key>
 	<dict>
 		<key>PreferenceSpecifiers</key>
@@ -527,7 +527,7 @@
 		<string>16</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.106.206.0</string>
+	<string>2.111.710.5</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

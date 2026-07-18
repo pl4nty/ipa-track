@@ -8,6 +8,11 @@
 	<string>T84QZS65DQ.com.facebook.stellaapp</string>
 	<key>aps-environment</key>
 	<string>production</string>
+	<key>com.apple.developer.wifi-aware</key>
+	<array>
+		<string>Publish</string>
+		<string>Subscribe</string>
+	</array>
 	<key>com.apple.developer.usernotifications.time-sensitive</key>
 	<true/>
 	<key>com.apple.developer.associated-domains</key>
@@ -23,6 +28,7 @@
 		<string>webcredentials:facebook.com</string>
 		<string>webcredentials:www.meta.ai</string>
 		<string>webcredentials:meta.ai</string>
+		<string>webcredentials:accounts.meta.com</string>
 	</array>
 	<key>com.apple.developer.networking.wifi-info</key>
 	<true/>
@@ -49,6 +55,7 @@
 	<array>
 		<string>group.com.facebook.family</string>
 		<string>group.com.facebook.stellaapp</string>
+		<string>group.com.metaplatforms.family</string>
 	</array>
 </dict>
 </plist>

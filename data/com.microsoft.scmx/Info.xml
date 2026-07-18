@@ -7,7 +7,7 @@
 		<string>com.microsoft.scmx.app_refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G419</string>
+	<string>24G720</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -48,7 +48,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.74050101</string>
+	<string>1.1.78290102</string>
 	<key>CFBundleSpokenName</key>
 	<string>MS Defender</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -68,32 +68,32 @@
 				<string>appcenter-f7173b9d-fd03-4887-bc63-2f9ae40594ea</string>
 				<string>msauth.com.microsoft.scmx</string>
 				<string>intunemam-mtd</string>
-				<string></string>
-				<string></string>
+				<string>com.googleusercontent.apps.785119424070-l21dmmqg0ofodamljvm3e3ge0toktefv</string>
+				<string>com.googleusercontent.apps.785119424070-tjuruun1gh1vs6r1nu2jmigusd4isscc</string>
 				<string>ms-defender</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.1.74050101</string>
+	<string>1.1.78290102</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22F76</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.5</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>22F76</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.5</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>1640</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>16F6</string>
+	<string>17C52</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>IntuneMAMSettings</key>
@@ -108,6 +108,10 @@
 		<array>
 			<string>group.com.microsoft.scmx</string>
 		</array>
+		<key>HooksAlwaysEnabled</key>
+		<true/>
+		<key>IntuneMAMUseMSALOnNextLaunch</key>
+		<true/>
 		<key>MultiIdentity</key>
 		<true/>
 	</dict>
@@ -122,11 +126,49 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>16.0</string>
+	<string>17.0</string>
 	<key>NSAdvertisingAttributionReportEndpoint</key>
 	<string>https://kmas.microsoft.com</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>endpoint.security.microsoft.com</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
+			<key>endpoint.security.microsoft.us</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
+			<key>events.data.microsoft.com</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
+			<key>winatp-gw-usgv.microsoft.com</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
+			<key>winatp-gw-usmv.microsoft.com</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
+		</dict>
 		<key>NSPinnedDomains</key>
 		<dict>
 			<key>config.edge.skype.com</key>
@@ -161,6 +203,8 @@
 		<string>network-authentication</string>
 		<string>processing</string>
 	</array>
+	<key>UIDesignRequiresCompatibility</key>
+	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

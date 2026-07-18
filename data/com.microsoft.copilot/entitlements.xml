@@ -14,14 +14,16 @@
 	</array>
 	<key>com.apple.developer.team-identifier</key>
 	<string>UBF8T346G9</string>
+	<key>com.apple.developer.healthkit</key>
+	<true/>
 	<key>application-identifier</key>
 	<string>SGGM6D27TK.com.microsoft.copilot</string>
 	<key>com.apple.developer.applesignin</key>
 	<array>
 		<string>Default</string>
 	</array>
-	<key>aps-environment</key>
-	<string>production</string>
+	<key>com.apple.developer.healthkit.background-delivery</key>
+	<true/>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>webcredentials:login.microsoft.com</string>
@@ -36,5 +38,7 @@
 		<string>group.com.microsoft.copilot.screenshare</string>
 		<string>group.com.microsoft.copilot.share</string>
 	</array>
+	<key>aps-environment</key>
+	<string>production</string>
 </dict>
 </plist>

@@ -377,7 +377,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.41.1</string>
+	<string>3.47.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -417,25 +417,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>897040</string>
+	<string>924032</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23C57</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23C57</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2601</string>
+	<string>2630</string>
 	<key>DTXcodeBuild</key>
-	<string>17A400</string>
+	<string>17C529</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>SafariViewControllerBlockedOverride</key>
@@ -468,6 +468,9 @@
 		<string>selfserviceios</string>
 		<string>msauth.com.jamfsoftware.selfservice</string>
 		<string>msauth.com.jamfsoftware.selfserviceios</string>
+		<string>scmx</string>
+		<string>smsec</string>
+		<string>lookoutwork-ase</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -491,6 +494,25 @@
 	<string>You will be able to use microphone to sign a document.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>You will be able to use existing photos on your device to sign a document.</string>
+	<key>NSPrivacyTrackingDomains</key>
+	<array>
+		<string>att.attr.appsflyer-cn.com</string>
+		<string>att.attr.appsflyersdk.com</string>
+		<string>att.attr.hevents.appsflyer-cn.com</string>
+		<string>att.attr.whappsflyer.com</string>
+		<string>att.conversions.appsflyer-cn.com</string>
+		<string>att.conversions.appsflyersdk.com</string>
+		<string>att.conversions.hevents.appsflyer-cn.com</string>
+		<string>att.conversions.whappsflyer.com</string>
+		<string>att.dlsdk.appsflyer-cn.com</string>
+		<string>att.dlsdk.appsflyersdk.com</string>
+		<string>att.dlsdk.hevents.appsflyer-cn.com</string>
+		<string>att.dlsdk.whappsflyer.com</string>
+		<string>att.launches.appsflyer-cn.com</string>
+		<string>att.launches.appsflyersdk.com</string>
+		<string>att.launches.hevents.appsflyer-cn.com</string>
+		<string>att.launches.whappsflyer.com</string>
+	</array>
 	<key>UIAppFonts</key>
 	<array>
 		<string>DSIndigo-Bold.otf</string>

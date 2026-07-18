@@ -4,9 +4,9 @@
 <dict>
 	<key>com.apple.developer.usernotifications.communication</key>
 	<true/>
-	<key>com.apple.developer.siri</key>
+	<key>com.apple.developer.declared-age-range</key>
 	<true/>
-	<key>com.apple.developer.avfoundation.multitasking-camera-access</key>
+	<key>com.apple.developer.siri</key>
 	<true/>
 	<key>application-identifier</key>
 	<string>EQHXZ8M8AV.com.google.Gmail</string>

@@ -19,7 +19,7 @@
 	<key>BIBO_URL</key>
 	<string>https://bibo.api.swiftkey.com</string>
 	<key>BuildMachineOSBuild</key>
-	<string>25B78</string>
+	<string>24G720</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -60,7 +60,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2.8</string>
+	<string>4.3.4</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -110,13 +110,19 @@
 				<string>msauth.com.swiftkey.SwiftKeyApp</string>
 			</array>
 		</dict>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>msal1934ccbf-f8a2-4b50-8a79-479ecdeea216</string>
+			</array>
+		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>428.0.0</string>
+	<string>434.0.0</string>
 	<key>CLARITY_PROJECT_ID</key>
 	<string>r1yya1mssl</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17B101</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -130,9 +136,9 @@
 	<key>DTSDKName</key>
 	<string>iphoneos26.0</string>
 	<key>DTXcode</key>
-	<string>2600</string>
+	<string>2601</string>
 	<key>DTXcodeBuild</key>
-	<string>17A324</string>
+	<string>17A400</string>
 	<key>EMOJI_PREDICTIONS_URL</key>
 	<string>emojicloudfrontend.api.swiftkey.com</string>
 	<key>ENVIRONMENT</key>

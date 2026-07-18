@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>23H626</string>
+	<string>24G222</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -20,9 +20,7 @@
 			<key>LSHandlerRank</key>
 			<string>Default</string>
 			<key>LSItemContentTypes</key>
-			<array>
-				<string>public.data</string>
-			</array>
+			<array/>
 		</dict>
 	</array>
 	<key>CFBundleExecutable</key>
@@ -68,7 +66,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.7.3</string>
+	<string>7.1.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -88,29 +86,30 @@
 				<string>zoomphonecall</string>
 				<string>zoomphonesms</string>
 				<string>im</string>
+				<string>mynotes</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>31676</string>
+	<string>36404</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22B74</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.1</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>22B74</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.1</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>1610</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>16B40</string>
+	<string>17C52</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
@@ -125,6 +124,8 @@
 		<string>googlecalendar</string>
 		<string>com.google.calendar</string>
 		<string>outlook</string>
+		<string>microsoft-edge-https</string>
+		<string>microsoft-edge-http</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -257,7 +258,7 @@
 	<key>UIRequiresFullScreen</key>
 	<false/>
 	<key>UIStatusBarHidden</key>
-	<true/>
+	<false/>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
@@ -271,6 +272,8 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+	<key>ZMAppID</key>
+	<string></string>
 	<key>ZM_APP_GROUPS_IDENTIFIER</key>
 	<string>group.us.zoom</string>
 	<key>ZM_MEETING_SHARE_3RD_FILE_TYPES</key>
@@ -294,7 +297,7 @@
 		<string>com.microsoft.word.doc</string>
 		<string>com.microsoft.word.wordml</string>
 		<string>com.microsoft.excel.xls</string>
-		<string>com.microsoft.powerpoint.​ppt</string>
+		<string>com.microsoft.powerpoint.ppt</string>
 		<string>org.openxmlformats.wordprocessingml.document</string>
 		<string>org.openxmlformats.spreadsheetml.sheet</string>
 		<string>org.openxmlformats.presentationml.presentation</string>

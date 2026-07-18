@@ -8,9 +8,10 @@
 	<array>
 		<string>com.microsoft.office.bgtask.apprefresh</string>
 		<string>com.microsoft.office.bgtask.expunge_cache</string>
+		<string>com.microsoft.officemobile.voicepipeline.*</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25C56</string>
+	<string>25F80</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -77,7 +78,6 @@
 		<string>fr</string>
 		<string>hu</string>
 		<string>it</string>
-		<string>ja</string>
 		<string>ko</string>
 		<string>ms</string>
 		<string>no</string>
@@ -86,15 +86,13 @@
 		<string>sv</string>
 		<string>tr</string>
 		<string>uk</string>
-		<string>zh_CN</string>
-		<string>zh_TW</string>
 	</array>
 	<key>CFBundleName</key>
 	<string>Microsoft 365 Copilot</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.106.3</string>
+	<string>2.112</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -127,29 +125,33 @@
 				<string>appcenter-8a15e90b-ac04-4b31-8300-d8b4689f81ea</string>
 				<string>appcenter-8a15e90b-ac04-4b31-8300-d8b4689f81ea-intunemam</string>
 				<string>msauth.com.microsoft.Office.OfficeMobile</string>
+				<string>com.googleusercontent.apps.293702255113-1p4acvo98b7o6e20ku8vsp3l9j7snbja</string>
+				<string>ms-officemobile-mos</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.106.26020216</string>
+	<string>2.112.26071024</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23B77</string>
+	<string>23E252</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.1</string>
+	<string>26.4</string>
 	<key>DTSDKBuild</key>
-	<string>23B77</string>
+	<string>23E252</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.1</string>
+	<string>iphoneos26.4</string>
 	<key>DTXcode</key>
-	<string>2611</string>
+	<string>2641</string>
 	<key>DTXcodeBuild</key>
-	<string>17B100</string>
+	<string>17E202</string>
+	<key>GIDClientID</key>
+	<string>293702255113-1p4acvo98b7o6e20ku8vsp3l9j7snbja.apps.googleusercontent.com</string>
 	<key>INAlternativeAppNames</key>
 	<array>
 		<dict>
@@ -320,7 +322,7 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>© 2026 Microsoft Corporation. All rights reserved.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Accessing your location enables search and filter of your scans using location names (city, country, etc). We will not use your location for any other purpose.</string>
+	<string>Your precise location is used to allow Copilot to answer location based questions and improve search results</string>
 	<key>NSMainNibFile</key>
 	<string>CUILaunchScreen_ios</string>
 	<key>NSMicrophoneUsageDescription</key>
@@ -337,13 +339,6 @@
 	<string>Speech Recognition needed for Offline commanding</string>
 	<key>NSSupportsLiveActivities</key>
 	<true/>
-	<key>NSUserActivityTypes</key>
-	<array>
-		<string>com.microsoft.officemobile.documentopen</string>
-		<string>com.microsoft.officemobile.documentnotification</string>
-		<string>com.microsoft.officemobile.documentopen-dogfood</string>
-		<string>com.microsoft.officemobile.documentnotification-dogfood</string>
-	</array>
 	<key>OUISettings</key>
 	<dict>
 		<key>OUISettingsHelpProductLinkIDForIPad</key>
@@ -360,7 +355,7 @@
 		<string>90</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.106.202.3</string>
+	<string>2.112.710.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
@@ -378,6 +373,17 @@
 		<false/>
 		<key>UISceneConfigurations</key>
 		<dict>
+			<key>CPTemplateApplicationSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneClassName</key>
+					<string>CPTemplateApplicationScene</string>
+					<key>UISceneConfigurationName</key>
+					<string>DefaultConfig</string>
+					<key>UISceneDelegateClassName</key>
+					<string>CarPlaySceneDelegate</string>
+				</dict>
+			</array>
 			<key>UIWindowSceneSessionRoleApplication</key>
 			<array>
 				<dict>
@@ -395,25 +401,9 @@
 	<array>
 		<dict>
 			<key>UIApplicationShortcutItemIconSymbolName</key>
-			<string>waveform</string>
-			<key>UIApplicationShortcutItemTitle</key>
-			<string>Talk to M365 Copilot</string>
-			<key>UIApplicationShortcutItemType</key>
-			<string>OfficeMobileShortcutTypeRealTimeVoice</string>
-		</dict>
-		<dict>
-			<key>UIApplicationShortcutItemIconSymbolName</key>
-			<string>mic</string>
-			<key>UIApplicationShortcutItemTitle</key>
-			<string>Dictate</string>
-			<key>UIApplicationShortcutItemType</key>
-			<string>OfficeMobileShortcutTypeDictate</string>
-		</dict>
-		<dict>
-			<key>UIApplicationShortcutItemIconSymbolName</key>
 			<string>camera</string>
 			<key>UIApplicationShortcutItemTitle</key>
-			<string>Open Camera</string>
+			<string>Camera</string>
 			<key>UIApplicationShortcutItemType</key>
 			<string>OfficeMobileShortcutTypeCamera</string>
 		</dict>
@@ -427,8 +417,6 @@
 		<string>processing</string>
 		<string>remote-notification</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

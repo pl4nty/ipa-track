@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.apple.developer.declared-age-range</key>
+	<true/>
 	<key>keychain-access-groups</key>
 	<array>
 		<string>EQHXZ8M8AV.com.google.Tachyon</string>
@@ -11,12 +13,12 @@
 	</array>
 	<key>com.apple.developer.networking.multicast</key>
 	<true/>
-	<key>com.apple.developer.avfoundation.multitasking-camera-access</key>
-	<true/>
 	<key>application-identifier</key>
 	<string>EQHXZ8M8AV.com.google.Tachyon</string>
 	<key>aps-environment</key>
 	<string>production</string>
+	<key>com.apple.developer.carplay-communication</key>
+	<true/>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:h2hyk.app.goo.gl</string>
@@ -38,6 +40,7 @@
 		<string>group.com.google.common</string>
 		<string>group.com.google.Tachyon</string>
 		<string>group.com.google.gsuite</string>
+		<string>group.com.google.cy</string>
 	</array>
 </dict>
 </plist>

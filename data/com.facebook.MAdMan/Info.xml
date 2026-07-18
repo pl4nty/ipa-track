@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.MAdMan</string>
 	<key>CFBuildDate</key>
-	<string>2026-02-04T19:36:30</string>
+	<string>2026-07-16T04:25:30</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -14,6 +14,29 @@
 	<string>MAdMan</string>
 	<key>CFBundleIcons</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon-Local</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Local</string>
+			</dict>
+			<key>AppIcon-Master</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Master</string>
+			</dict>
+			<key>AppIcon-MetaBrand</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-MetaBrand</string>
+			</dict>
+			<key>AppIcon-RC</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-RC</string>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -26,6 +49,29 @@
 	</dict>
 	<key>CFBundleIcons~ipad</key>
 	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>AppIcon-Local</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Local</string>
+			</dict>
+			<key>AppIcon-Master</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Master</string>
+			</dict>
+			<key>AppIcon-MetaBrand</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-MetaBrand</string>
+			</dict>
+			<key>AppIcon-RC</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-RC</string>
+			</dict>
+		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
@@ -46,7 +92,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>461.0</string>
+	<string>484.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -63,37 +109,37 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>876731380</string>
+	<string>1019575731</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>461.0.0.34.108</string>
+	<string>484.0.0.20.107</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>876731380</integer>
+	<integer>1019575731</integer>
 	<key>FBBuildRevision</key>
-	<string>ca914283d1a979fc23c50fd67249a876cded69eb</string>
+	<string>521662314f93c9c75db841c73db2df0f123b6eb6</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1770229973.028800</string>
+	<string>1784173499.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1770233790</integer>
+	<integer>1784175930</integer>
 	<key>FBCWAnalyticsModule</key>
 	<string>mobile_ads_manager</string>
 	<key>FBCWAppBugReportCategory</key>
@@ -115,7 +161,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>461.0</string>
+	<string>484.0</string>
 	<key>FBReactUpdatesNotificationEnabled</key>
 	<string>NO</string>
 	<key>FacebookAppID</key>
@@ -127,9 +173,12 @@
 		<string>instagram</string>
 		<string>barcelona</string>
 		<string>oculus</string>
+		<string>eclipse</string>
 		<string>whatsapp</string>
 		<string>fb-viewapp</string>
 		<string>vibes</string>
+		<string>hatch</string>
+		<string>ember</string>
 		<string>otpauth</string>
 		<string>fb-pma</string>
 		<string>comgooglemaps</string>

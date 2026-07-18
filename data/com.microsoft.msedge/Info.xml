@@ -51,6 +51,16 @@
 				<key>CFBundleIconName</key>
 				<string>AppIcon-Icon1</string>
 			</dict>
+			<key>AppIcon-Icon10</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon10</string>
+			</dict>
+			<key>AppIcon-Icon11</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon11</string>
+			</dict>
 			<key>AppIcon-Icon2</key>
 			<dict>
 				<key>CFBundleIconName</key>
@@ -80,6 +90,16 @@
 			<dict>
 				<key>CFBundleIconName</key>
 				<string>AppIcon-Icon7</string>
+			</dict>
+			<key>AppIcon-Icon8</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon8</string>
+			</dict>
+			<key>AppIcon-Icon9</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon9</string>
 			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
@@ -118,6 +138,16 @@
 				<key>CFBundleIconName</key>
 				<string>AppIcon-Icon1</string>
 			</dict>
+			<key>AppIcon-Icon10</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon10</string>
+			</dict>
+			<key>AppIcon-Icon11</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon11</string>
+			</dict>
 			<key>AppIcon-Icon2</key>
 			<dict>
 				<key>CFBundleIconName</key>
@@ -148,6 +178,16 @@
 				<key>CFBundleIconName</key>
 				<string>AppIcon-Icon7</string>
 			</dict>
+			<key>AppIcon-Icon8</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon8</string>
+			</dict>
+			<key>AppIcon-Icon9</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>AppIcon-Icon9</string>
+			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
@@ -166,20 +206,12 @@
 	<string>com.microsoft.msedge</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
-	<key>CFBundleLocalizations</key>
-	<array>
-		<string>en</string>
-		<string>ja</string>
-		<string>ko</string>
-		<string>zh_CN</string>
-		<string>zh_TW</string>
-	</array>
 	<key>CFBundleName</key>
 	<string>Edge</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>144.3719.115</string>
+	<string>150.4078.65</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -235,9 +267,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>144.0.3719.115</string>
+	<string>150.0.4078.65</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -259,7 +291,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Edge</string>
 	<key>GTMUserAgentVersion</key>
-	<string>144.0.3719.115</string>
+	<string>150.0.4078.65</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>ADALClientId</key>
@@ -337,7 +369,7 @@
 	<key>MainAppBundleID</key>
 	<string>com.microsoft.msedge</string>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>18.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -377,7 +409,7 @@
 	<key>NSUserTrackingUsageDescription</key>
 	<string>IDS_IOS_EDGE_USER_TRACKING_USAGE_DESCRIPTION</string>
 	<key>SCMRevision</key>
-	<string>4ee501a4f64e61182fd7c660df020a8c7e59655a</string>
+	<string>7e26d29c1de8a30a0d502240ae0b2a4b35d19b5f</string>
 	<key>SSOAuthURLScheme</key>
 	<string>x-msauth-microsoft-edge-https</string>
 	<key>UIApplicationDelegate</key>
@@ -409,7 +441,7 @@
 	<array>
 		<dict>
 			<key>UIApplicationShortcutItemIconFile</key>
-			<string>ic_fluent_tab_add_24_regular</string>
+			<string>ic_fluent_add_square_24_regular</string>
 			<key>UIApplicationShortcutItemTitle</key>
 			<string>IDS_IOS_EDGE_APPLICATION_SHORTCUT_NEWTAB_TITLE</string>
 			<key>UIApplicationShortcutItemType</key>

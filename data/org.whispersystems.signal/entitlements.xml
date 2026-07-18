@@ -4,13 +4,21 @@
 <dict>
 	<key>com.apple.developer.usernotifications.communication</key>
 	<true/>
+	<key>com.apple.security.hardened-process.checked-allocations</key>
+	<true/>
 	<key>com.apple.developer.icloud-container-identifiers</key>
 	<array>
 	</array>
+	<key>com.apple.security.hardened-process</key>
+	<true/>
 	<key>com.apple.developer.pushkit.unrestricted-voip</key>
 	<true/>
 	<key>application-identifier</key>
 	<string>U68MSDN6DR.org.whispersystems.signal</string>
+	<key>com.apple.security.hardened-process.enhanced-security-version-string</key>
+	<string>1</string>
+	<key>com.apple.security.hardened-process.platform-restrictions-string</key>
+	<string>2</string>
 	<key>aps-environment</key>
 	<string>production</string>
 	<key>com.apple.developer.default-data-protection</key>
@@ -23,17 +31,22 @@
 		<string>applinks:signal.me</string>
 		<string>applinks:signaldonations.org</string>
 		<string>applinks:signal.link</string>
+		<string>webcredentials:signal.org</string>
 	</array>
+	<key>com.apple.security.hardened-process.dyld-ro</key>
+	<true/>
 	<key>keychain-access-groups</key>
 	<array>
 		<string>U68MSDN6DR.org.whispersystems.signal</string>
 	</array>
 	<key>com.apple.developer.team-identifier</key>
 	<string>U68MSDN6DR</string>
-	<key>com.apple.developer.networking.carrier-constrained.app-optimized</key>
-	<true/>
 	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
 	<string>U68MSDN6DR.org.whispersystems.signal</string>
+	<key>com.apple.developer.networking.carrier-constrained.app-optimized</key>
+	<true/>
+	<key>com.apple.security.hardened-process.hardened-heap</key>
+	<true/>
 	<key>com.apple.developer.in-app-payments</key>
 	<array>
 		<string>merchant.org.signalfoundation</string>

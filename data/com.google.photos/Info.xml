@@ -6,12 +6,14 @@
 	<array>
 		<string>com.google.photos.bgtask.refresh</string>
 		<string>com.google.photos.bgtask.processing</string>
+		<string>com.google.photos.bgtask.active_upload_mode</string>
+		<string>com.google.photos.bgtask.background_upload</string>
 		<string>com.google.Primes.diskUsageCollectionTask</string>
 	</array>
 	<key>BreakpadProduct</key>
 	<string>Photos_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24E263</string>
+	<string>25D125</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -99,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.62.0</string>
+	<string>7.84.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -116,30 +118,29 @@
 				<string>googlephotos-x-callback</string>
 				<string>com.google.sso.278930400967-s7eptfh2d81vvi86kptt63pfa0o5usjt</string>
 				<string>googlephotos-la</string>
-				<string>googlephotos-eoy</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.62.865081853</string>
+	<string>7.84.947842983</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23E252</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.4</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23E252</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.4</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2641</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>17E202</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>FirebaseScreenReportingEnabled</key>
@@ -217,7 +218,7 @@
 	<key>NSCalendarsUsageDescription</key>
 	<string>This allows you to easily create calendar events using Google Photos. Your iPhone calendar preferences can be configured in iOS Settings.</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Camera can be used to take a profile picture, add a Cardboard viewer and order printed products</string>
+	<string>Camera can be used to capture photos and videos, update your profile picture, and scan cards for fast checkout when ordering prints</string>
 	<key>NSContactsUsageDescription</key>
 	<string>This helps you share, label, and create contacts from your photos.\nWhen you share photos with others, their contact information will be stored securely in Google Photos servers in order to send those photos.</string>
 	<key>NSFaceIDUsageDescription</key>
@@ -225,11 +226,13 @@
 	<key>NSLocalNetworkUsageDescription</key>
 	<string>Access to your network allows Google Photos to discover and connect to devices such as your TV.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Your photos will be automatically organized &amp; searchable by place</string>
+	<string>Lets you see your position on a map, and add locations to photos you take with the app</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Your photos will be automatically organized &amp; searchable by place</string>
+	<string>Lets you see your position on a map, and add locations to photos you take with the app</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Your photos will be automatically organized &amp; searchable by place</string>
+	<string>Lets you see your position on a map, and add locations to photos you take with the app</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Allow Google Photos to access your microphone for video capture.</string>
 	<key>NSMotionUsageDescription</key>
 	<string>Google Photos uses motion data to help with location history accuracy</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>

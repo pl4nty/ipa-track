@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>9.56.1</string>
+	<string>9.66.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -73,9 +73,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2026.113.2216</string>
+	<string>2026.709.1825</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C53</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -108,7 +108,7 @@
 		<false/>
 	</dict>
 	<key>NSBluetoothAlwaysUsageDescription</key>
-	<string>A one-time Bluetooth connection is used to add your account from one device to another.</string>
+	<string>A one-time Bluetooth connection is used to import or export your account.</string>
 	<key>NSCameraUsageDescription</key>
 	<string>The app will use your camera to scan a QR code to set up your account.</string>
 	<key>NSFaceIDUsageDescription</key>
@@ -117,6 +117,23 @@
 	<string>Allows you to send \ feedback reports to developers</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Allows you to share screenshots for feedback reports</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>SceneDelegate</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>fetch</string>

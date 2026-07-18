@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.developer.usernotifications.communication</key>
 	<true/>
-	<key>com.apple.developer.usernotifications.time-sensitive</key>
+	<key>com.apple.developer.declared-age-range</key>
 	<true/>
 	<key>com.apple.developer.group-session</key>
 	<true/>
@@ -16,10 +16,11 @@
 	<true/>
 	<key>aps-environment</key>
 	<string>production</string>
-	<key>com.apple.developer.coremedia.allow-alternate-video-decoder-selection</key>
+	<key>com.apple.developer.usernotifications.time-sensitive</key>
 	<true/>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
+		<string>applinks:accounts.link.google</string>
 		<string>applinks:accounts.google.com</string>
 		<string>applinks:www.youtube.com</string>
 		<string>applinks:youtu.be</string>
@@ -31,6 +32,8 @@
 	<key>com.apple.developer.device-information.user-assigned-device-name</key>
 	<true/>
 	<key>com.apple.developer.siri</key>
+	<true/>
+	<key>com.apple.developer.coremedia.allow-alternate-video-decoder-selection</key>
 	<true/>
 	<key>keychain-access-groups</key>
 	<array>

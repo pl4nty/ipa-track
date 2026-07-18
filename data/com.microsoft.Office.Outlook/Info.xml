@@ -13,7 +13,7 @@
 		<string>com.microsoft.Office.Outlook.bgAppRefresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G419</string>
+	<string>24G720</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -630,7 +630,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.2604.0</string>
+	<string>5.2627.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -717,25 +717,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>44366402</string>
+	<string>51467169</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>2601</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>17A400</string>
+	<string>17C52</string>
 	<key>INIntentsSupported</key>
 	<array>
 		<string>INSendMessageIntent</string>
@@ -766,6 +766,8 @@
 		<key>MultiIdentity</key>
 		<true/>
 		<key>MultiIdentityCancelDisabled</key>
+		<true/>
+		<key>MultiManagedIdentities</key>
 		<true/>
 		<key>SafariViewControllerBlockedOverride</key>
 		<false/>
@@ -871,6 +873,8 @@
 	<string>Allow Outlook access to your photos to attach photos to your emails.</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>Allow Outlook to use text from Apple Speech for speech-enabled experiences?</string>
+	<key>NSSupportsLiveActivities</key>
+	<true/>
 	<key>NSUserActivityTypes</key>
 	<array>
 		<string>INSendMessageIntent</string>
@@ -919,6 +923,18 @@
 					<key>UISceneDelegateClassName</key>
 					<string>app_ios.SceneDelegate</string>
 				</dict>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Compose Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>app_ios.ComposeSceneDelegate</string>
+				</dict>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Chat Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>app_ios.ChatSceneDelegate</string>
+				</dict>
 			</array>
 		</dict>
 	</dict>
@@ -960,5 +976,18 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+	<key>UTImportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeDescription</key>
+			<string>TileDropProxy</string>
+			<key>UTTypeIconFiles</key>
+			<array/>
+			<key>UTTypeIdentifier</key>
+			<string>com.microsoft.Office.Outlook.CalendarUIKit.TileDropProxy</string>
+			<key>UTTypeTagSpecification</key>
+			<dict/>
+		</dict>
+	</array>
 </dict>
 </plist>

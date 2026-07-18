@@ -14,8 +14,6 @@
 	<true/>
 	<key>application-identifier</key>
 	<string>57T9237FN3.net.whatsapp.WhatsAppSMB</string>
-	<key>com.apple.developer.carplay-messaging</key>
-	<true/>
 	<key>aps-environment</key>
 	<string>production</string>
 	<key>com.apple.developer.icloud-container-environment</key>
@@ -29,12 +27,15 @@
 		<string>applinks:chat.whatsapp.com</string>
 		<string>applinks:wa.me</string>
 		<string>applinks:call.whatsapp.com</string>
+		<string>applinks:event.whatsapp.com</string>
 		<string>applinks:whatsapp.com</string>
 		<string>applinks:www.whatsapp.com</string>
 		<string>webcredentials:whatsapp.com</string>
 		<string>webcredentials:*.whatsapp.com</string>
 		<string>webcredentials:b.whatsapp.com</string>
 	</array>
+	<key>com.apple.developer.authentication-services.account-creation-requires-phone-number</key>
+	<true/>
 	<key>com.apple.developer.siri</key>
 	<true/>
 	<key>com.apple.developer.calling-app</key>
@@ -45,12 +46,16 @@
 	<array>
 		<string>57T9237FN3.net.whatsapp.WhatsApp</string>
 	</array>
-	<key>com.apple.developer.networking.carrier-constrained.app-optimized</key>
-	<true/>
 	<key>com.apple.developer.icloud-services</key>
 	<array>
 		<string>CloudDocuments</string>
 	</array>
+	<key>com.apple.developer.kernel.extended-virtual-addressing</key>
+	<true/>
+	<key>com.apple.developer.networking.carrier-constrained.app-optimized</key>
+	<true/>
+	<key>com.apple.developer.carplay-messaging</key>
+	<true/>
 	<key>com.apple.developer.networking.carrier-constrained.appcategory</key>
 	<array>
 		<string>messaging-8001</string>

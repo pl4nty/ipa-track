@@ -7,7 +7,7 @@
 		<string>com.atlassian.trello.bgRefresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25C56</string>
+	<string>25E246</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -94,7 +94,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2026.3</string>
+	<string>2026.14</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -129,25 +129,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20260203.170248</string>
+	<string>20260707.204116</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17C503a</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23F73</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23F73</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2650</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>17F42</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
@@ -641,8 +641,6 @@
 	<string>Trello allows you to save images to your photo library.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>Trello allows you to attach photos to cards and assign photos as your avatar.</string>
-	<key>NSRemindersFullAccessUsageDescription</key>
-	<string>Trello can import your Apple Reminders to keep your to-dos in one place.</string>
 	<key>NSUserActivityTypes</key>
 	<array>
 		<string>com.trello.view.card</string>
