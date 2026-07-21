@@ -220,7 +220,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.1.4</string>
+	<string>7.1.6</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -289,7 +289,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3821640.88048821</string>
+	<string>3834317.3766545</string>
 	<key>CKSharingSupported</key>
 	<true/>
 	<key>CLASSROOM_PUBLISHERS_HOST</key>
@@ -963,10 +963,12 @@
 			</dict>
 		</dict>
 	</array>
+	<key>VPP_PARTNER_LICENSE_KEY</key>
+	<string>XunrS238xSJ284Lsj320aS21s</string>
 	<key>bugsnag</key>
 	<dict>
 		<key>appVersion</key>
-		<string>7.1.4
+		<string>7.1.6
 </string>
 	</dict>
 </dict>

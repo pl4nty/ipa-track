@@ -339,7 +339,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>152.4</string>
+	<string>153.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -361,7 +361,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>74210</string>
+	<string>74276</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
@@ -517,6 +517,14 @@
 	</dict>
 	<key>UIApplicationShortcutItems</key>
 	<array>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>logoFirefoxLarge</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>App Icon</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>org.mozilla.ios.Firefox.AppIcon</string>
+		</dict>
 		<dict>
 			<key>UIApplicationShortcutItemIconFile</key>
 			<string>plusLarge</string>

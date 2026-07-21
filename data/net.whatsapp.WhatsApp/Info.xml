@@ -19,6 +19,7 @@
 		<string>com.whatsapp.scam-group-messages</string>
 		<string>net.whatsapp.WhatsApp.continued_processing.*</string>
 		<string>com.whatsapp.large_model_download</string>
+		<string>com.whatsapp.metaai-bot-session-cleanup</string>
 	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
@@ -387,7 +388,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.27.74</string>
+	<string>26.28.75</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -412,7 +413,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1018027543</string>
+	<string>1020845835</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTPlatformBuild</key>
@@ -430,11 +431,11 @@
 	<key>DTXcodeBuild</key>
 	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>2.26.27.74</string>
+	<string>2.26.28.75</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>1018027543</string>
+	<string>1020845835</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>

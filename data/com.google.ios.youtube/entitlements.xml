@@ -22,6 +22,7 @@
 	<array>
 		<string>applinks:accounts.link.google</string>
 		<string>applinks:accounts.google.com</string>
+		<string>applinks:myaccount.google.com</string>
 		<string>applinks:www.youtube.com</string>
 		<string>applinks:youtu.be</string>
 		<string>applinks:youtube.com</string>

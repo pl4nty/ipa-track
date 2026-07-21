@@ -92,7 +92,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.112</string>
+	<string>2.112.1</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -131,7 +131,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.112.26071024</string>
+	<string>2.112.26071628</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -322,7 +322,7 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>© 2026 Microsoft Corporation. All rights reserved.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Your precise location is used to allow Copilot to answer location based questions and improve search results</string>
+	<string>Accessing your location enables search and filter of your scans using location names (city, country, etc). We will not use your location for any other purpose.</string>
 	<key>NSMainNibFile</key>
 	<string>CUILaunchScreen_ios</string>
 	<key>NSMicrophoneUsageDescription</key>
@@ -355,7 +355,7 @@
 		<string>90</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.112.710.0</string>
+	<string>2.112.716.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
