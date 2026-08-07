@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.17.2</string>
+	<string>5.19.3</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -723,21 +723,21 @@
 		</dict>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>To add images to Confluence pages</string>
+	<string>To add images or videos, allow Camera access.</string>
 	<key>NSContactsUsageDescription</key>
 	<string>To include new details to an existing contact.</string>
 	<key>NSFaceIDUsageDescription</key>
 	<string>Use FaceID to unlock Confluence</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Allow microphone access to record your voice for attachments and talking with Rovo.</string>
+	<string>To use voice features, allow Microphone access.</string>
 	<key>NSMotionUsageDescription</key>
 	<string>This app needs to be able to access your motion use</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>Tap "OK" to allow Confluence to save photos on your device.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>To add images to Confluence pages</string>
+	<string>To add images or videos, allow Photos access.</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
-	<string>Allow access to speech recognition if you'd like to talk with Rovo.</string>
+	<string>To use voice features, allow Speech Recognition access.</string>
 	<key>RCTNewArchEnabled</key>
 	<true/>
 	<key>SegmentEnvironment</key>

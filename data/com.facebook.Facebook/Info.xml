@@ -18,7 +18,7 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBuildDate</key>
-	<string>2026-07-13T21:57:37</string>
+	<string>2026-08-03T23:52:00</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -205,7 +205,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>570.0.0</string>
+	<string>573.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -250,6 +250,7 @@
 				<string>facebook-stories</string>
 				<string>facebook-stories-list</string>
 				<string>facebook-reels</string>
+				<string>facebook-status</string>
 				<string>fb-messenger-mk-share-20180821</string>
 				<string>fb-creative-app-platform</string>
 				<string>fb-www-link</string>
@@ -258,7 +259,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1017898548</string>
+	<string>1032158285</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTPlatformBuild</key>
@@ -276,25 +277,25 @@
 	<key>DTXcodeBuild</key>
 	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>570.0.0.54.72</string>
+	<string>573.0.0.47.73</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1017898548</integer>
+	<integer>1032158285</integer>
 	<key>FBBuildRevision</key>
-	<string>22c7cd7bc472ee58142058f27e0ff59e59b57198</string>
+	<string>946b44d190abd4ff305b6e7383602e27ed8f0652</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1783977766.025200</string>
+	<string>1785797377.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1783979857</integer>
+	<integer>1785801120</integer>
 	<key>FBJSBundleRoot</key>
 	<string>EntryPoints/WildeBundle</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>570.0.0</string>
+	<string>573.0.0</string>
 	<key>FacebookAppID</key>
 	<string>6628568379</string>
 	<key>FacebookAppID~ipad</key>
@@ -321,38 +322,38 @@
 		<string>comgooglemaps</string>
 		<string>waze</string>
 		<string>fb1779658199047189</string>
-		<string>fb3833784630241184</string>
+		<string>fb312563225523989</string>
 		<string>fb597615686992125</string>
-		<string>fb410181193191942</string>
-		<string>polymarket</string>
-		<string>fb1049729741852134</string>
-		<string>fb832194452623407</string>
-		<string>fb435852711476248</string>
-		<string>fb1843268867078653</string>
-		<string>fb1319953309733724</string>
-		<string>fb2084510615648336</string>
-		<string>fb629274312371363</string>
-		<string>fb1032203672405004</string>
-		<string>fb1173971640673722</string>
-		<string>fb1661845031321987</string>
-		<string>fb24101460846123576</string>
+		<string>fb721972539868824</string>
 		<string>fb781549034943358</string>
-		<string>fb166363243399924</string>
-		<string>fb1508681127074276</string>
-		<string>fb414796964699887</string>
 		<string>fb1013103477443800</string>
-		<string>fb285025889266955</string>
-		<string>fb709376360216583</string>
-		<string>fb24384728404538330</string>
-		<string>fb763138661210377</string>
-		<string>fb708147815569751</string>
-		<string>fb1335147144708154</string>
-		<string>rocketmoney</string>
-		<string>fb1371645734966138</string>
-		<string>fb1353804042859598</string>
-		<string>fb957293093082509</string>
+		<string>fb503934352950298</string>
+		<string>fb153277661752118</string>
+		<string>wayfairapp</string>
+		<string>vrbo</string>
 		<string>com.amazon.mobile.shopping</string>
-		<string>fb2724140174607113</string>
+		<string>fb174103646072524</string>
+		<string>fb124207444332529</string>
+		<string>fb277064115737714</string>
+		<string>fb166363243399924</string>
+		<string>fb138633686268248</string>
+		<string>fb1862952583919182</string>
+		<string>fb245858875457163</string>
+		<string>fb427219981442318</string>
+		<string>fb484889158765114</string>
+		<string>fb437897333028638</string>
+		<string>fb1049729741852134</string>
+		<string>fb185940304807983</string>
+		<string>fb1353804042859598</string>
+		<string>fb1819912395072617</string>
+		<string>ubereats</string>
+		<string>fb286858916567029</string>
+		<string>fb570184288872509</string>
+		<string>fb891889767495675</string>
+		<string>fb1917079541949096</string>
+		<string>fb105208249622845</string>
+		<string>fb6357140580995162</string>
+		<string>fb269769129817122</string>
 		<string>http</string>
 		<string>https</string>
 	</array>
@@ -510,8 +511,6 @@ You can always change this in your device settings.</string>
 	<false/>
 	<key>UIRequiresPersistentWiFi</key>
 	<true/>
-	<key>UIStatusBarHidden</key>
-	<true/>
 	<key>UIStatusBarStyle</key>
 	<string>UIStatusBarStyleLightContent</string>
 	<key>UISupportedExternalAccessoryProtocols</key>
@@ -533,7 +532,7 @@ You can always change this in your device settings.</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
-	<false/>
+	<true/>
 	<key>UIViewGroupOpacity</key>
 	<false/>
 	<key>com.apple.developer.nfc.readersession.iso7816.select-identifiers</key>

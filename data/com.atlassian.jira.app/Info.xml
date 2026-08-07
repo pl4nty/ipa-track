@@ -101,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>259.1.0</string>
+	<string>261.3.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -158,25 +158,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>259.1.0.13847</string>
+	<string>261.3.0.15311</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23F73</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
 	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23F73</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
 	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2650</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17F42</string>
+	<string>17F113</string>
 	<key>GIDClientId</key>
 	<string>1065897371335-d7hdpn6lsht3v2ajg9si1s89vn59tu78.apps.googleusercontent.com</string>
 	<key>GIDServerClientId</key>
@@ -841,6 +841,11 @@
 	<string>prod</string>
 	<key>SentryEnvironment</key>
 	<string>release</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+	</dict>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>remote-notification</string>

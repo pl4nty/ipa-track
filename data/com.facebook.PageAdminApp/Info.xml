@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.PageAdminApp</string>
 	<key>CFBuildDate</key>
-	<string>2026-07-14T08:46:14</string>
+	<string>2026-08-04T21:01:24</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -16,6 +16,11 @@
 	<dict>
 		<key>CFBundleAlternateIcons</key>
 		<dict>
+			<key>Icon-Production</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>Icon-Production</string>
+			</dict>
 			<key>Icon-Rebrand</key>
 			<dict>
 				<key>CFBundleIconName</key>
@@ -26,16 +31,21 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>Icon-Production60x60</string>
+				<string>MBS-LiquidGlass60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>Icon-Production</string>
+			<string>MBS-LiquidGlass</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
 	<dict>
 		<key>CFBundleAlternateIcons</key>
 		<dict>
+			<key>Icon-Production</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>Icon-Production</string>
+			</dict>
 			<key>Icon-Rebrand</key>
 			<dict>
 				<key>CFBundleIconName</key>
@@ -46,11 +56,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>Icon-Production60x60</string>
-				<string>Icon-Production76x76</string>
+				<string>MBS-LiquidGlass60x60</string>
+				<string>MBS-LiquidGlass76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>Icon-Production</string>
+			<string>MBS-LiquidGlass</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -62,7 +72,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>498.0</string>
+	<string>501.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -107,7 +117,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1018257394</string>
+	<string>1032857623</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTPlatformBuild</key>
@@ -125,19 +135,19 @@
 	<key>DTXcodeBuild</key>
 	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>498.0.0.18.108</string>
+	<string>501.0.0.27.104</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1018257394</integer>
+	<integer>1032857623</integer>
 	<key>FBBuildRevision</key>
-	<string>51c5a178bafbc19c604f8bbac14d4838f71648cb</string>
+	<string>6dc99f3a9a92ee9d00abbac2062c162158af1591</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1784015307.025200</string>
+	<string>1785872437.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1784018774</integer>
+	<integer>1785877284</integer>
 	<key>FBColorPalette</key>
 	<string>PMAStandardColorPalette</string>
 	<key>FBDisableAutoRegisterForPush</key>
@@ -149,7 +159,7 @@
 	<key>FBPhotoActionSheetHideSendAsMessageOption</key>
 	<true/>
 	<key>FBPlatformVersion</key>
-	<string>498.0</string>
+	<string>501.0</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
 	<false/>
 	<key>FacebookAppID</key>

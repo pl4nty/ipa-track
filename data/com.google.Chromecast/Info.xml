@@ -117,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.20.63</string>
+	<string>4.24.25</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -147,7 +147,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.20.63.16</string>
+	<string>4.24.25.06</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -320,10 +320,6 @@
 					</dict>
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
-						<string>AG1751Vd2CAmRCxPGieoDomhmJy4ezREjtIZTBgZbV4=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
 						<string>58qRu/uxh4gFezqAcERupSkRYBlBAvfcw7mEjGPLnNU=</string>
 					</dict>
 					<dict>
@@ -405,10 +401,6 @@
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
 						<string>gI1os/q0iEpflxrOfRBVDXqVoWN3Tz7Dav/7IT++THQ=</string>
-					</dict>
-					<dict>
-						<key>SPKI-SHA256-BASE64</key>
-						<string>AG1751Vd2CAmRCxPGieoDomhmJy4ezREjtIZTBgZbV4=</string>
 					</dict>
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
