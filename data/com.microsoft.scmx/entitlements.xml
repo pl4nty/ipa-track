@@ -30,7 +30,6 @@
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:mydefender.microsoft.com</string>
-		<string>applinks:gb-ppe.microsoft.com</string>
 		<string>applinks:mysecurity.microsoft.com</string>
 		<string>webcredentials:login.microsoft.com</string>
 		<string>webcredentials:login.microsoftonline.us</string>

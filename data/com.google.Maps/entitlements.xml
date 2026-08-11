@@ -198,6 +198,7 @@
 		<string>applinks:maps.google.vg</string>
 		<string>applinks:maps.google.vu</string>
 		<string>applinks:maps.google.ws</string>
+		<string>applinks:one.google.com</string>
 		<string>applinks:www.google.ad</string>
 		<string>applinks:www.google.ae</string>
 		<string>applinks:www.google.am</string>
@@ -569,6 +570,7 @@
 		<string>appclips:maps.google.vg</string>
 		<string>appclips:maps.google.vu</string>
 		<string>appclips:maps.google.ws</string>
+		<string>appclips:one.google.com</string>
 		<string>appclips:www.google.ad</string>
 		<string>appclips:www.google.ae</string>
 		<string>appclips:www.google.am</string>

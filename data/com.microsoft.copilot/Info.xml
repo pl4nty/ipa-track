@@ -97,6 +97,11 @@
 				<key>CFBundleIconName</key>
 				<string>lumipurple</string>
 			</dict>
+			<key>migrationHardUpsell</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>migrationHardUpsell</string>
+			</dict>
 			<key>steel</key>
 			<dict>
 				<key>CFBundleIconName</key>
@@ -187,6 +192,11 @@
 				<key>CFBundleIconName</key>
 				<string>lumipurple</string>
 			</dict>
+			<key>migrationHardUpsell</key>
+			<dict>
+				<key>CFBundleIconName</key>
+				<string>migrationHardUpsell</string>
+			</dict>
 			<key>steel</key>
 			<dict>
 				<key>CFBundleIconName</key>
@@ -228,7 +238,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>440707001.30.0</string>
+	<string>440805001.30.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -251,7 +261,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>440707001</string>
+	<string>440805001</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>

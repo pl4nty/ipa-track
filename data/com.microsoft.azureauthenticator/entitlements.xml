@@ -37,6 +37,9 @@
 		<string>webcredentials:login.microsoftonline.us</string>
 		<string>webcredentials:login.partner.microsoftonline.cn</string>
 		<string>webcredentials:login.windows-ppe.net</string>
+		<string>webcredentials:login.sovcloud-identity.fr</string>
+		<string>webcredentials:login.sovcloud-identity.de</string>
+		<string>webcredentials:login.sovcloud-identity.sg</string>
 		<string>applinks:login.microsoftonline.com</string>
 		<string>applinks:login.chinacloudapi.cn</string>
 		<string>applinks:login.microsoftonline.us</string>

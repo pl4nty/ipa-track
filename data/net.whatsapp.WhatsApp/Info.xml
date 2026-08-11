@@ -388,7 +388,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.28.75</string>
+	<string>26.31.74</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -413,7 +413,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1020845835</string>
+	<string>1035496826</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTPlatformBuild</key>
@@ -431,44 +431,44 @@
 	<key>DTXcodeBuild</key>
 	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>2.26.28.75</string>
+	<string>2.26.31.74</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>1020845835</string>
+	<string>1035496826</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>here-route</string>
-		<string>here-location</string>
 		<string>googlegmail</string>
 		<string>ms-outlook</string>
-		<string>inbox-gmail</string>
 		<string>comgooglemaps</string>
 		<string>yandexmaps</string>
 		<string>waze</string>
 		<string>googlechrome</string>
-		<string>googlechromes</string>
-		<string>googlechrome-x-callback</string>
 		<string>yandexnavi</string>
 		<string>comwainmaps</string>
 		<string>instagram</string>
 		<string>fb</string>
-		<string>whatsapp-smb</string>
-		<string>facebook-stories-list</string>
-		<string>novi</string>
+		<string>barcelona</string>
 		<string>tez</string>
 		<string>phonepe</string>
 		<string>paytmmp</string>
+		<string>yangomaps</string>
+		<string>whatsapp-smb</string>
 		<string>bhim</string>
 		<string>rblmobank</string>
-		<string>yangomaps</string>
 		<string>fb-viewapp</string>
 		<string>fb-messenger</string>
-		<string>barcelona</string>
-		<string>instagram-stories</string>
 		<string>gcm-ciq</string>
+		<string>here-location</string>
+		<string>inbox-gmail</string>
+		<string>googlechromes</string>
+		<string>googlechrome-x-callback</string>
+		<string>facebook-stories-list</string>
+		<string>novi</string>
+		<string>instagram-stories</string>
 		<string>meta-ai</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>

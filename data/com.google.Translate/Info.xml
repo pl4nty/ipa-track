@@ -22,10 +22,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>TranslateApp60x60</string>
+				<string>logo_translate_color60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>TranslateApp</string>
+			<string>logo_translate_color</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -34,11 +34,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>TranslateApp60x60</string>
-				<string>TranslateApp76x76</string>
+				<string>logo_translate_color60x60</string>
+				<string>logo_translate_color76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>TranslateApp</string>
+			<string>logo_translate_color</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -135,7 +135,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>10.28.310</string>
+	<string>10.33.161</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -158,25 +158,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>10.28.310</string>
+	<string>10.33.161</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23E252</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.4</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23E252</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.4</string>
 	<key>DTXcode</key>
-	<string>2601</string>
+	<string>2641</string>
 	<key>DTXcodeBuild</key>
-	<string>17A400</string>
+	<string>17E202</string>
 	<key>INAlternativeAppNames</key>
 	<array>
 		<dict>

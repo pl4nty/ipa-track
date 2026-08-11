@@ -5,13 +5,13 @@
 	<key>AXPApplicationGroupIdentifier</key>
 	<string>group.com.microsoft.skype.teams</string>
 	<key>AppBuildDate</key>
-	<string>0713</string>
+	<string>0805</string>
 	<key>AppCenterAppDelegateForwarderEnabled</key>
 	<string>0</string>
 	<key>AppIdentifierPrefix</key>
 	<string>SGGM6D27TK.</string>
 	<key>AppVersionWithBuildInfo</key>
-	<string>1.077.2026123502</string>
+	<string>1.077.2026142304</string>
 	<key>BuildMachineOSBuild</key>
 	<string>25C56</string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.12.1</string>
+	<string>8.14.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -111,7 +111,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>100772026123502</string>
+	<string>100772026142304</string>
 	<key>CFBundleYearString</key>
 	<string>2026</string>
 	<key>DTAppStoreToolsBuild</key>
@@ -206,6 +206,7 @@
 		<string>mvisionmobile</string>
 		<string>scmx</string>
 		<string>ms-outlook</string>
+		<string>ms-outlook-intunemam</string>
 		<string>googlegmail</string>
 		<string>googlegmail-intunemam</string>
 		<string>msauth</string>
@@ -249,7 +250,7 @@
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
-		<true/>
+		<false/>
 		<key>NSAllowsArbitraryLoadsInWebContent</key>
 		<true/>
 		<key>NSAllowsLocalNetworking</key>

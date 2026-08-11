@@ -630,7 +630,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.2628.0</string>
+	<string>5.2630.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -717,7 +717,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>51855042</string>
+	<string>52674396</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -788,24 +788,19 @@
 	<array>
 		<string>msauth</string>
 		<string>scmx</string>
-		<string>skycure</string>
+		<string>lacoonsecurity</string>
 		<string>lookoutwork-ase</string>
-		<string>opal</string>
+		<string>betteractiveshield</string>
 		<string>skype</string>
 		<string>msteams</string>
 		<string>ms-officemobile</string>
 		<string>companyportal</string>
-		<string>mvisionmobile</string>
-		<string>wandera</string>
 		<string>ms-outlook-dogfood</string>
 		<string>ms-excel</string>
 		<string>evernote</string>
 		<string>evernote-intunemam</string>
 		<string>yammer</string>
-		<string>smart-ns</string>
 		<string>lync</string>
-		<string>smsec</string>
-		<string>betteractiveshield</string>
 		<string>swiftkey</string>
 		<string>ms-sfb</string>
 		<string>microsoft-edge-https</string>
@@ -818,14 +813,12 @@
 		<string>fb</string>
 		<string>ms-word</string>
 		<string>microsoft-edge-http</string>
-		<string>lacoonsecurity</string>
 		<string>ms-outlook</string>
 		<string>sapphirebing</string>
 		<string>ms-powerpoint-standalone</string>
 		<string>ms-powerpoint</string>
 		<string>meetup</string>
 		<string>ms-onedrive</string>
-		<string>zips</string>
 		<string>microsoft-edge</string>
 		<string>linkedin</string>
 		<string>linkedin-intunemam</string>

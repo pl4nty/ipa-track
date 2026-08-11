@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.0.2</string>
+	<string>5.0.4</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -74,9 +74,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20260612.01</string>
+	<string>20260730.01</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17F41</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

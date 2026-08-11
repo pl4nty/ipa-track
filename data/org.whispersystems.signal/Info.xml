@@ -12,13 +12,13 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Wed Jul 15 21:00:44 UTC 2026</string>
+		<string>Wed Aug  5 14:45:49 UTC 2026</string>
 		<key>SignalCommit</key>
-		<string>cd678b9faa9a9872b572c03e593641c09ddfddf9 Remove reference to 2025Q3 SVR2.</string>
+		<string>553e096875d8a3978d79c9a4ae0e5fcbc43b57d1 Feature flags for .production.</string>
 		<key>Timestamp</key>
-		<integer>1784149244</integer>
+		<integer>1785941149</integer>
 		<key>XCodeVersion</key>
-		<string>2600.2650</string>
+		<string>2600.2660</string>
 	</dict>
 	<key>BuildMachineOSBuild</key>
 	<string>25F80</string>
@@ -178,7 +178,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.20.1</string>
+	<string>8.23</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -199,25 +199,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1743</string>
+	<string>1789</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23F73</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
 	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23F73</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
 	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2650</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17F42</string>
+	<string>17F113</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LOGS_EMAIL</key>

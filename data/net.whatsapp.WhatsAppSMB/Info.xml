@@ -388,7 +388,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.28.75</string>
+	<string>26.30.78</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -412,7 +412,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1020845847</string>
+	<string>1032792727</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTPlatformBuild</key>
@@ -430,34 +430,28 @@
 	<key>DTXcodeBuild</key>
 	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>2.26.28.75</string>
+	<string>2.26.30.78</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>1020845847</string>
+	<string>1032792727</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>here-route</string>
-		<string>here-location</string>
 		<string>googlegmail</string>
 		<string>ms-outlook</string>
-		<string>inbox-gmail</string>
 		<string>comgooglemaps</string>
 		<string>yandexmaps</string>
 		<string>waze</string>
 		<string>googlechrome</string>
-		<string>googlechromes</string>
-		<string>googlechrome-x-callback</string>
 		<string>yandexnavi</string>
 		<string>comwainmaps</string>
 		<string>instagram</string>
 		<string>fb</string>
 		<string>whatsapp-consumer</string>
 		<string>facebook-stories-list</string>
-		<string>novi</string>
-		<string>fblite</string>
 		<string>tez</string>
 		<string>phonepe</string>
 		<string>paytmmp</string>

@@ -211,7 +211,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>150.4078.81</string>
+	<string>151.4129.72</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -265,33 +265,42 @@
 				<string>msauth.com.microsoft.msedge</string>
 			</array>
 		</dict>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>SWAG Google OAuth Redirect URI</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.734653633063-30jo04n88if05uhj0k0l7vnorhtijtmr</string>
+				<string>com.googleusercontent.apps.734653633063-30jo04n88if05uhj0k0l7vnorhtijtmr-intunemam</string>
+			</array>
+		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>150.0.4078.81</string>
+	<string>151.0.4129.72</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23A339</string>
+	<string>23F73</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.0</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23A339</string>
+	<string>23F73</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.0</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2601</string>
+	<string>2650</string>
 	<key>DTXcodeBuild</key>
-	<string>17A400</string>
+	<string>17F42</string>
 	<key>FirebaseScreenReportingEnabled</key>
 	<false/>
 	<key>GTMUserAgentID</key>
 	<string>Edge</string>
 	<key>GTMUserAgentVersion</key>
-	<string>150.0.4078.81</string>
+	<string>151.0.4129.72</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>ADALClientId</key>
@@ -409,7 +418,7 @@
 	<key>NSUserTrackingUsageDescription</key>
 	<string>IDS_IOS_EDGE_USER_TRACKING_USAGE_DESCRIPTION</string>
 	<key>SCMRevision</key>
-	<string>3e80bfabf35b0143e960bb6aaa17f7bbcbc78359</string>
+	<string>b9a024e937cf39a16b1eef84c9efb3471baa27b8</string>
 	<key>SSOAuthURLScheme</key>
 	<string>x-msauth-microsoft-edge-https</string>
 	<key>UIApplicationDelegate</key>

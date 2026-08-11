@@ -27,11 +27,9 @@
 		<string>applinks:*.workday.com</string>
 		<string>applinks:*.myworkday.com</string>
 		<string>applinks:*.workday.net</string>
-		<string>applinks:*.workdayeducation.com</string>
+		<string>applinks:*.myworkday.net</string>
 		<string>applinks:*.megaleo.com</string>
 		<string>applinks:*.workdaysuv.com</string>
-		<string>applinks:*.workdaybugbounty.com</string>
-		<string>applinks:*.wdscylla.de</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
@@ -41,6 +39,7 @@
 	<key>keychain-access-groups</key>
 	<array>
 		<string>Q5J5UZBHE3.com.workday.sharedKeychain</string>
+		<string>Q5J5UZBHE3.com.microsoft.intune.mam</string>
 	</array>
 </dict>
 </plist>

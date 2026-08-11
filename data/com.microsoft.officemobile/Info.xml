@@ -9,6 +9,7 @@
 		<string>com.microsoft.office.bgtask.apprefresh</string>
 		<string>com.microsoft.office.bgtask.expunge_cache</string>
 		<string>com.microsoft.officemobile.voicepipeline.*</string>
+		<string>com.microsoft.officemobile-dogfood.voicepipeline.*</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
 	<string>25F80</string>
@@ -92,7 +93,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.112.1</string>
+	<string>2.113</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -131,7 +132,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.112.26071628</string>
+	<string>2.113.26080651</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -355,7 +356,7 @@
 		<string>90</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.112.716.1</string>
+	<string>2.113.806.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

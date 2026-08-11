@@ -7,7 +7,7 @@
 		<string>com.slack.bg_tasks.app_refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G624</string>
+	<string>25F71</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -84,7 +84,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.07.30</string>
+	<string>26.08.10</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSpokenName</key>
@@ -115,7 +115,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>459773</string>
+	<string>460426</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
@@ -123,19 +123,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23B77</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.1</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23B77</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.1</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2610</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17B55</string>
+	<string>17F113</string>
 	<key>GIDClientID</key>
 	<string>331588195051-jsmlcgdl2li407e48kjpjqgrb50k7u7c.apps.googleusercontent.com</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
