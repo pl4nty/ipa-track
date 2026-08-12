@@ -22,6 +22,10 @@
 	<array>
 		<string>applinks:k5nc.adj.st</string>
 		<string>applinks:m.bing.com</string>
+		<string>applinks:www.bing.com</string>
+		<string>applinks:cn.bing.com</string>
+		<string>applinks:bing.com</string>
+		<string>applinks:www.staging-bing-int.com</string>
 		<string>sapphire://autoSuggest?query=cat</string>
 		<string>applinks:sl.bing.net</string>
 		<string>applinks:copilot.microsoft.com</string>

@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.0.4</string>
+	<string>5.0.6</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -74,7 +74,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20260730.01</string>
+	<string>20260809.01</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -145,6 +145,7 @@
 		<string>lacoonsecurity</string>
 		<string>msauthv2</string>
 		<string>ms-word</string>
+		<string>ms-word-standalone</string>
 		<string>ms-word-intunemam</string>
 		<string>ms-onedrive</string>
 		<string>ms-onedrive-intunemam</string>
@@ -154,6 +155,7 @@
 		<string>betteractiveshield</string>
 		<string>msauthv3</string>
 		<string>ms-powerpoint</string>
+		<string>ms-powerpoint-standalone</string>
 		<string>ms-powerpoint-intunemam</string>
 		<string>zips</string>
 		<string>ms-outlook</string>
@@ -163,6 +165,7 @@
 		<string>msteams</string>
 		<string>smart-ns</string>
 		<string>ms-excel</string>
+		<string>ms-excel-standalone</string>
 		<string>ms-excel-intunemam</string>
 		<string>ms-apps</string>
 		<string>ms-apps-intunemam</string>

@@ -13,7 +13,7 @@
 		<string>com.microsoft.Office.Outlook.bgAppRefresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>24G720</string>
+	<string>25F84</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -630,7 +630,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.2630.0</string>
+	<string>5.2631.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -717,25 +717,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>52674396</string>
+	<string>53055625</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23C57</string>
+	<string>23F73</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23C57</string>
+	<string>23F73</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2630</string>
+	<string>2650</string>
 	<key>DTXcodeBuild</key>
-	<string>17C529</string>
+	<string>17F42</string>
 	<key>INIntentsSupported</key>
 	<array>
 		<string>INSendMessageIntent</string>
@@ -795,8 +795,6 @@
 		<string>msteams</string>
 		<string>ms-officemobile</string>
 		<string>companyportal</string>
-		<string>ms-outlook-dogfood</string>
-		<string>ms-excel</string>
 		<string>evernote</string>
 		<string>evernote-intunemam</string>
 		<string>yammer</string>
@@ -808,15 +806,12 @@
 		<string>ms-word-standalone</string>
 		<string>onenote</string>
 		<string>ms-excel-standalone</string>
-		<string>ms-excel-offlineopen-support-2204</string>
 		<string>msauthv3</string>
 		<string>fb</string>
-		<string>ms-word</string>
 		<string>microsoft-edge-http</string>
 		<string>ms-outlook</string>
 		<string>sapphirebing</string>
 		<string>ms-powerpoint-standalone</string>
-		<string>ms-powerpoint</string>
 		<string>meetup</string>
 		<string>ms-onedrive</string>
 		<string>microsoft-edge</string>
