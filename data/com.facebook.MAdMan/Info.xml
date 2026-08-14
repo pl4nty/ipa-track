@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.MAdMan</string>
 	<key>CFBuildDate</key>
-	<string>2026-08-06T09:40:28</string>
+	<string>2026-08-11T01:04:12</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -82,7 +82,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>487.0</string>
+	<string>488.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -99,7 +99,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1034135944</string>
+	<string>1038147536</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTPlatformBuild</key>
@@ -117,19 +117,19 @@
 	<key>DTXcodeBuild</key>
 	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>487.0.0.26.106</string>
+	<string>488.0.0.27.105</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1034135944</integer>
+	<integer>1038147536</integer>
 	<key>FBBuildRevision</key>
-	<string>602cfe8fde2a250fe8d5646b5efbbaf9cac84bd9</string>
+	<string>76eb0663d47fd81c3d5df530a8080f5754045772</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1786004033.025200</string>
+	<string>1786406004.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1786009228</integer>
+	<integer>1786410252</integer>
 	<key>FBCWAnalyticsModule</key>
 	<string>mobile_ads_manager</string>
 	<key>FBCWAppBugReportCategory</key>
@@ -151,7 +151,7 @@
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>487.0</string>
+	<string>488.0</string>
 	<key>FBReactUpdatesNotificationEnabled</key>
 	<string>NO</string>
 	<key>FacebookAppID</key>

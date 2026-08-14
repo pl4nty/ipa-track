@@ -17,7 +17,7 @@
 		<string>com.facebook.messenger.odin_device_features_collection</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-08-03T19:03:41</string>
+	<string>2026-08-09T17:46:06</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -208,7 +208,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>573.0.0</string>
+	<string>574.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -421,7 +421,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1031981006</string>
+	<string>1037058507</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTPlatformBuild</key>
@@ -439,23 +439,23 @@
 	<key>DTXcodeBuild</key>
 	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>573.0.0.22.108</string>
+	<string>574.0.0.23.109</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1031981006</integer>
+	<integer>1037058507</integer>
 	<key>FBBuildRevision</key>
-	<string>e5712d0d0351b01f94e4e3021f81c2366c0275d5</string>
+	<string>0d0d67aa6f353d8f6e33a2d5fa52dddda1d453a3</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1785779317.025200</string>
+	<string>1786295529.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1785783821</integer>
+	<integer>1786297566</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>573.0.0</string>
+	<string>574.0.0</string>
 	<key>FacebookAppID</key>
 	<string>437626316973788</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -479,39 +479,39 @@
 		<string>krungsri-kma</string>
 		<string>ktbnext</string>
 		<string>tcb</string>
-		<string>fb246320102483356</string>
 		<string>fb289934484538965</string>
 		<string>fb1858667220836379</string>
-		<string>googlegemini</string>
-		<string>fb287435711376482</string>
-		<string>fb940359734982193</string>
-		<string>fb2036503360582586</string>
-		<string>fb2832258416912574</string>
-		<string>fb1525685178768232</string>
+		<string>fb269769129817122</string>
 		<string>fb1410325405852019</string>
-		<string>fb199331106902</string>
+		<string>fb246320102483356</string>
+		<string>googlegemini</string>
 		<string>fanaticssportsbook</string>
-		<string>fb154072648063392</string>
-		<string>fb1964017787470411</string>
-		<string>fb2041455373413965</string>
-		<string>fb2929500767196799</string>
-		<string>fb3824384190943218</string>
-		<string>fb1510059252548311</string>
-		<string>fb417512728394294</string>
-		<string>fb210831918949520</string>
 		<string>dksb</string>
-		<string>fb1427615667454320</string>
-		<string>fb202100803769774</string>
-		<string>fb2986378994723293</string>
-		<string>fb2348597182224166</string>
+		<string>fb2832258416912574</string>
+		<string>fb199331106902</string>
+		<string>fb994723529589912</string>
+		<string>fb1964017787470411</string>
+		<string>fb154072648063392</string>
+		<string>fb2929500767196799</string>
+		<string>fb210831918949520</string>
 		<string>fb4387408014835087</string>
-		<string>fb375531729288150</string>
-		<string>fb1161754946049195</string>
-		<string>fb227420984133171</string>
-		<string>fb412400988955318</string>
-		<string>fb288523881080</string>
-		<string>fb1288706755009180</string>
+		<string>fb1510059252548311</string>
+		<string>fb6357140580995162</string>
+		<string>fb1427615667454320</string>
 		<string>fb131538103586818</string>
+		<string>fb2986378994723293</string>
+		<string>fb375531729288150</string>
+		<string>fb288523881080</string>
+		<string>fb227420984133171</string>
+		<string>fb1397993430473589</string>
+		<string>fb121640318269698</string>
+		<string>fb412400988955318</string>
+		<string>fb202100803769774</string>
+		<string>fb830526005529568</string>
+		<string>fb1024651599795170</string>
+		<string>fb619487934836296</string>
+		<string>fb1161754946049195</string>
+		<string>fb2348597182224166</string>
 		<string>http</string>
 		<string>https</string>
 	</array>

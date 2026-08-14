@@ -7,6 +7,7 @@
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
 		<string>ch.protonmail.protonmail.execute_pending_actions</string>
+		<string>ch.protonmail.protonmail.contentsearch.indexing</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
 	<string>24G231</string>
@@ -110,7 +111,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.10.3</string>
+	<string>7.11.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -130,7 +131,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2</string>
+	<string>28</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
