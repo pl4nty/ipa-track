@@ -23,6 +23,7 @@
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:goo.gl</string>
+		<string>applinks:one.google.com</string>
 		<string>applinks:search.app.goo.gl</string>
 		<string>applinks:search.app</string>
 		<string>applinks:search.google</string>
