@@ -135,7 +135,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>10.33.161</string>
+	<string>10.34.371</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -158,7 +158,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>10.33.161</string>
+	<string>10.34.371</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -304,6 +304,7 @@
 	<key>UISupportedExternalAccessoryProtocols</key>
 	<array>
 		<string>com.google.xr</string>
+		<string>com.google.xr.Main</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>

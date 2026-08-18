@@ -630,7 +630,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.2631.0</string>
+	<string>5.2632.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -717,25 +717,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>53055625</string>
+	<string>53470483</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23F73</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
 	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23F73</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
 	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2650</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17F42</string>
+	<string>17F113</string>
 	<key>INIntentsSupported</key>
 	<array>
 		<string>INSendMessageIntent</string>
@@ -791,16 +791,13 @@
 		<string>lacoonsecurity</string>
 		<string>lookoutwork-ase</string>
 		<string>betteractiveshield</string>
-		<string>skype</string>
 		<string>msteams</string>
 		<string>ms-officemobile</string>
 		<string>companyportal</string>
 		<string>evernote</string>
 		<string>evernote-intunemam</string>
 		<string>yammer</string>
-		<string>lync</string>
 		<string>swiftkey</string>
-		<string>ms-sfb</string>
 		<string>microsoft-edge-https</string>
 		<string>ms-to-do</string>
 		<string>ms-word-standalone</string>
