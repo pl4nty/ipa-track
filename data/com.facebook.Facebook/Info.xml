@@ -18,7 +18,7 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBuildDate</key>
-	<string>2026-08-10T22:54:13</string>
+	<string>2026-08-17T06:55:26</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -205,7 +205,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>574.0.0</string>
+	<string>575.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -259,7 +259,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1038059635</string>
+	<string>1043180474</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTPlatformBuild</key>
@@ -277,25 +277,25 @@
 	<key>DTXcodeBuild</key>
 	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>574.0.0.41.71</string>
+	<string>575.0.0.30.70</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1038059635</integer>
+	<integer>1043180474</integer>
 	<key>FBBuildRevision</key>
-	<string>28607b537419cc66652defae68af337cd8451eac</string>
+	<string>e563b39ced852d21c51c47fdf268348960fe7d5a</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1786399926.025200</string>
+	<string>1786948172.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1786402453</integer>
+	<integer>1786949726</integer>
 	<key>FBJSBundleRoot</key>
 	<string>EntryPoints/WildeBundle</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>574.0.0</string>
+	<string>575.0.0</string>
 	<key>FacebookAppID</key>
 	<string>6628568379</string>
 	<key>FacebookAppID~ipad</key>
@@ -354,6 +354,13 @@
 		<string>fb287435711376482</string>
 		<string>fb1917079541949096</string>
 		<string>fb286858916567029</string>
+		<string>otpauth</string>
+		<string>fb-ama</string>
+		<string>spotify</string>
+		<string>soundcloud</string>
+		<string>dhits</string>
+		<string>duo</string>
+		<string>googleauthenticator</string>
 		<string>http</string>
 		<string>https</string>
 	</array>

@@ -16,7 +16,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>M365 Copilot</string>
+	<string>Copilot</string>
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>
@@ -89,11 +89,11 @@
 		<string>uk</string>
 	</array>
 	<key>CFBundleName</key>
-	<string>Microsoft 365 Copilot</string>
+	<string>Copilot</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.113</string>
+	<string>2.113.1</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -132,7 +132,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.113.26080651</string>
+	<string>2.113.26081415</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -161,11 +161,7 @@
 		</dict>
 		<dict>
 			<key>INAlternativeAppName</key>
-			<string>Microsoft 365 Copilot</string>
-		</dict>
-		<dict>
-			<key>INAlternativeAppName</key>
-			<string>M365 Copilot</string>
+			<string>Microsoft Copilot</string>
 		</dict>
 	</array>
 	<key>InTuneMAMLSApplicationQueriesSchemes</key>
@@ -356,7 +352,7 @@
 		<string>90</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.113.806.0</string>
+	<string>2.113.814.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

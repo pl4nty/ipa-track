@@ -7,7 +7,7 @@
 		<string>com.boardbooks.boardbooks.backgroundsync</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25E246</string>
+	<string>25G82</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -58,7 +58,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>9.2.1</string>
+	<string>9.3.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -109,25 +109,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>200</string>
+	<string>239</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23E237</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.4</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23E237</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.4</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2640</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17E192</string>
+	<string>17F113</string>
 	<key>Environment</key>
 	<string>appstore</string>
 	<key>GroupIdentifier</key>
@@ -186,8 +186,6 @@
 		<string>audio</string>
 		<string>processing</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

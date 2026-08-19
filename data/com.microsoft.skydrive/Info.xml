@@ -75,7 +75,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>18.7.3</string>
+	<string>18.8.2</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -107,7 +107,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>54824967</string>
+	<string>55364064</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -256,10 +256,6 @@
 	</array>
 	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
 	<true/>
-	<key>SingularAPIKey</key>
-	<string></string>
-	<key>SingularAPISecret</key>
-	<string></string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
