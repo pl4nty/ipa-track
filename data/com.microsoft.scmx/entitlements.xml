@@ -13,6 +13,10 @@
 		<string>SGGM6D27TK.com.microsoft.intune.mam</string>
 		<string>SGGM6D27TK.com.microsoft.scmx</string>
 		<string>SGGM6D27TK.com.microsoft.broker.partner</string>
+		<string>SGGM6D27TK.com.microsoft.oneauth</string>
+		<string>SGGM6D27TK.com.microsoft.identity.universalstorage</string>
+		<string>SGGM6D27TK.com.microsoft.sso</string>
+		<string>SGGM6D27TK.com.microsoft.sso.intunemam</string>
 	</array>
 	<key>com.apple.developer.team-identifier</key>
 	<string>UBF8T346G9</string>

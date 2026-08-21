@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AttributionCopyEndpoint</key>
-	<string>https://proton.me/</string>
+	<string>https://proton.me</string>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
 		<string>ch.protonmail.protonmail.execute_pending_actions</string>
@@ -111,7 +111,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.11.1</string>
+	<string>7.11.2</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -131,7 +131,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>8</string>
+	<string>5</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -159,7 +159,7 @@
 	<key>MinimumOSVersion</key>
 	<string>17.2</string>
 	<key>NSAdvertisingAttributionReportEndpoint</key>
-	<string>https://proton.me/</string>
+	<string>https://proton.me</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoadsInWebContent</key>
