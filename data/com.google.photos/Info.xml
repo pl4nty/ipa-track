@@ -101,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.88.0</string>
+	<string>7.89.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -113,7 +113,6 @@
 			<string>com.google.photos</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>comgooglephotosulr</string>
 				<string>googlephotos</string>
 				<string>googlephotos-x-callback</string>
 				<string>com.google.sso.278930400967-s7eptfh2d81vvi86kptt63pfa0o5usjt</string>
@@ -122,7 +121,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.88.963777257</string>
+	<string>7.89.966147520</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -166,7 +165,6 @@
 		<string>comgooglepaidtasksulr</string>
 		<string>comgoogleulrtestotherappulr</string>
 		<string>comgoogleulrtestulr</string>
-		<string>comgoogleyoutubemusiculr</string>
 		<string>creatorstudio</string>
 		<string>gmeet</string>
 		<string>googleapp</string>
