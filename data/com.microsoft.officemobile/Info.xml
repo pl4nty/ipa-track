@@ -93,7 +93,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.113.2</string>
+	<string>2.113.3</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -132,7 +132,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.113.26081827</string>
+	<string>2.113.26082026</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -235,55 +235,48 @@
 	</dict>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>smart-ns</string>
-		<string>zips</string>
-		<string>lacoonsecurity</string>
-		<string>wandera</string>
-		<string>lookoutwork-ase</string>
-		<string>skycure</string>
 		<string>betteractiveshield</string>
-		<string>smsec</string>
-		<string>scmx</string>
-		<string>mvisionmobile</string>
-		<string>ms-excel</string>
-		<string>launch-loop</string>
-		<string>launch-officemobile</string>
-		<string>msauth</string>
-		<string>onenote</string>
-		<string>ms-powerpoint</string>
-		<string>launch-ppt</string>
-		<string>launch-excel</string>
-		<string>ms-outlook-accepts-attachments</string>
-		<string>sapphirecopilot</string>
-		<string>opal</string>
-		<string>excel</string>
-		<string>lync</string>
-		<string>swiftkey</string>
-		<string>ms-outlook-shared</string>
-		<string>ms-onedrive</string>
-		<string>msauthv2</string>
-		<string>msauthv3</string>
-		<string>ms-outlook</string>
-		<string>microsoft-edge</string>
-		<string>launch-word</string>
-		<string>msteams</string>
-		<string>officemobile</string>
-		<string>ms-word</string>
-		<string>dbapi-8-emm</string>
-		<string>ms-sfb</string>
+		<string>companyportal</string>
+		<string>copilotn</string>
 		<string>dbapi-2</string>
 		<string>dbapi-5</string>
-		<string>ms-invoicing</string>
-		<string>word</string>
-		<string>powerpoint</string>
-		<string>onenote-cmd</string>
-		<string>mspbi</string>
-		<string>companyportal</string>
-		<string>https-intunemam</string>
+		<string>dbapi-8-emm</string>
+		<string>excel</string>
 		<string>http-intunemam</string>
+		<string>https-intunemam</string>
 		<string>intunemam-mtd</string>
+		<string>lacoonsecurity</string>
+		<string>launch-excel</string>
+		<string>launch-loop</string>
+		<string>launch-officemobile</string>
+		<string>launch-ppt</string>
+		<string>launch-word</string>
+		<string>lookoutwork-ase</string>
+		<string>lync</string>
+		<string>microsoft-edge</string>
+		<string>ms-excel</string>
+		<string>ms-invoicing</string>
+		<string>ms-onedrive</string>
+		<string>ms-outlook</string>
+		<string>ms-outlook-accepts-attachments</string>
+		<string>ms-outlook-shared</string>
+		<string>ms-powerpoint</string>
+		<string>ms-sfb</string>
+		<string>ms-word</string>
+		<string>msauth</string>
+		<string>msauthv2</string>
+		<string>msauthv3</string>
+		<string>mspbi</string>
+		<string>msteams</string>
+		<string>officemobile</string>
+		<string>onenote</string>
+		<string>onenote-cmd</string>
+		<string>opal</string>
+		<string>powerpoint</string>
 		<string>sapphirebing</string>
-		<string>copilotn</string>
+		<string>sapphirecopilot</string>
+		<string>swiftkey</string>
+		<string>word</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -352,7 +345,7 @@
 		<string>90</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.113.818.2</string>
+	<string>2.113.820.3</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

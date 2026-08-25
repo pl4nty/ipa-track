@@ -5,7 +5,7 @@
 	<key>BBBuildDate</key>
 	<string>2026-08-17</string>
 	<key>BBCommitId</key>
-	<string>12a3e2a</string>
+	<string>aa0ecdc</string>
 	<key>BuildMachineOSBuild</key>
 	<string>25F84</string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -79,7 +79,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.2616.1</string>
+	<string>2.2617</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -99,7 +99,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2261619</string>
+	<string>2261719</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -142,7 +142,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<false/>
 	<key>MinimumOSVersion</key>
-	<string>18.0</string>
+	<string>26.1</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
 	<string>Bloomberg Professional uses Bluetooth to communicate with external input devices.</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
@@ -182,8 +182,6 @@
 		<string>fetch</string>
 		<string>remote-notification</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

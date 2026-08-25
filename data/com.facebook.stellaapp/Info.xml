@@ -27,9 +27,11 @@
 		<string>com.meta.mwa.importprocessing.retry.processingTask</string>
 		<string>com.meta.mwa.activeGlassesDemo.sessionSync.refreshTask</string>
 		<string>com.meta.mwa.activeGlassesDemo.sessionSync.bgProcessingTask</string>
+		<string>com.meta.mwa.air.download.refreshTask</string>
+		<string>com.meta.mwa.air.backgroundDownload</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-08-14T03:25:36</string>
+	<string>2026-08-20T05:06:24</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -70,7 +72,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>286.0.0</string>
+	<string>287.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -88,7 +90,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1040892455</string>
+	<string>1045730816</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTPlatformBuild</key>
@@ -106,23 +108,23 @@
 	<key>DTXcodeBuild</key>
 	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>286.0.0.15.159</string>
+	<string>287.0.0.11.156</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1040892455</integer>
+	<integer>1045730816</integer>
 	<key>FBBuildRevision</key>
-	<string>22c001544dbfaf69316c9c1844679135e6fe476a</string>
+	<string>7c246ce810a255e7e9141ac2aaa81cbe7e07284d</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1786676256.025200</string>
+	<string>1787200959.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1786677936</integer>
+	<integer>1787202384</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>286.0.0</string>
+	<string>287.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -233,6 +235,7 @@
 		<string>marche_super.otf</string>
 		<string>goodall_medium.otf</string>
 		<string>OptimisticAIVF_A_DrkmOpszWghtItal.ttf</string>
+		<string>OptimisticMonoVF_A_DrkmOpszWght.ttf</string>
 		<string>OptimisticAI_A_Light.ttf</string>
 		<string>Optimistic_VF_App_Lite.ttf</string>
 		<string>Lato-Regular.ttf</string>

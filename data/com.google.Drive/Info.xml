@@ -227,7 +227,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2633.41200</string>
+	<string>4.2634.41400</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -254,7 +254,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.2633.41200</string>
+	<string>4.2634.41400</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
@@ -262,19 +262,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23E252</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.4</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23E252</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.4</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2641</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>17E202</string>
 	<key>GoogleProductName</key>
 	<string>Drive</string>
 	<key>ITSAppUsesNonExemptEncryption</key>

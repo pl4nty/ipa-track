@@ -249,7 +249,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.113</string>
+	<string>2.113.2</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -306,7 +306,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.113.26081329</string>
+	<string>2.113.26082111</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -527,7 +527,7 @@
 		<string>16</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.113.813.0</string>
+	<string>2.113.821.2</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
