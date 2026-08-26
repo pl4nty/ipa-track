@@ -5,7 +5,6 @@
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
 		<string>com.google.ios.youtube.background-refresh-task</string>
-		<string>com.google.ios.youtube.background-processing-task</string>
 	</array>
 	<key>BreakpadProduct</key>
 	<string>YouTube_iOS</string>
@@ -137,7 +136,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>21.33.6</string>
+	<string>21.34.3</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -160,7 +159,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>21.33.6</string>
+	<string>21.34.3</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -255,7 +254,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>16.0</string>
+	<string>17.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsLocalNetworking</key>
@@ -337,7 +336,6 @@
 		<string>remote-notification</string>
 		<string>audio</string>
 		<string>fetch</string>
-		<string>processing</string>
 		<string>external-accessory</string>
 	</array>
 	<key>UIDesignRequiresCompatibility</key>
