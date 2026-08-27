@@ -17,7 +17,7 @@
 		<string>com.facebook.messenger.odin_device_features_collection</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-08-17T22:56:09</string>
+	<string>2026-08-24T20:07:07</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -208,7 +208,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>575.0.0</string>
+	<string>576.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -421,7 +421,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1043783737</string>
+	<string>1049580600</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTPlatformBuild</key>
@@ -439,23 +439,23 @@
 	<key>DTXcodeBuild</key>
 	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>575.0.0.28.104</string>
+	<string>576.0.0.31.108</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1043783737</integer>
+	<integer>1049580600</integer>
 	<key>FBBuildRevision</key>
-	<string>c0d18e1a89ccab82aede0c4c54d336e977e5a55c</string>
+	<string>aea321315035473f9db70c1a8109d4a3398cb94a</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1787005737.025200</string>
+	<string>1787600927.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1787007369</integer>
+	<integer>1787602027</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>575.0.0</string>
+	<string>576.0.0</string>
 	<key>FacebookAppID</key>
 	<string>437626316973788</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
