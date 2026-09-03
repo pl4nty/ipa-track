@@ -630,7 +630,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.2633.0</string>
+	<string>5.2634.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -717,7 +717,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>53862538</string>
+	<string>54310590</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -787,7 +787,6 @@
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>msauth</string>
-		<string>scmx</string>
 		<string>lacoonsecurity</string>
 		<string>lookoutwork-ase</string>
 		<string>betteractiveshield</string>
@@ -797,7 +796,6 @@
 		<string>evernote</string>
 		<string>evernote-intunemam</string>
 		<string>yammer</string>
-		<string>swiftkey</string>
 		<string>microsoft-edge-https</string>
 		<string>ms-to-do</string>
 		<string>ms-word-standalone</string>
@@ -806,11 +804,8 @@
 		<string>msauthv3</string>
 		<string>fb</string>
 		<string>microsoft-edge-http</string>
-		<string>ms-outlook</string>
-		<string>sapphirebing</string>
 		<string>ms-powerpoint-standalone</string>
 		<string>meetup</string>
-		<string>ms-onedrive</string>
 		<string>microsoft-edge</string>
 		<string>linkedin</string>
 		<string>linkedin-intunemam</string>

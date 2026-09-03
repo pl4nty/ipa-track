@@ -35,6 +35,8 @@
 		<string>applinks:app.fabric.microsoft.cn</string>
 		<string>applinks:app.powerbigov.us</string>
 		<string>applinks:app.fabric.microsoft.us</string>
+		<string>applinks:app.powerbi.sovcloud-api.fr</string>
+		<string>applinks:app.fabric.sovcloud-api.fr</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

@@ -584,7 +584,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>16.113.2</string>
+	<string>16.113.3</string>
 	<key>CFBundleSignature</key>
 	<string>MSON</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -615,7 +615,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>16113002.26082111</string>
+	<string>16113003.26082811</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -706,54 +706,47 @@
 	</dict>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>smart-ns</string>
-		<string>zips</string>
-		<string>lacoonsecurity</string>
-		<string>wandera</string>
-		<string>lookoutwork-ase</string>
-		<string>mvisionmobile</string>
-		<string>skycure</string>
+		<string>PencilByFiftyThree</string>
 		<string>betteractiveshield</string>
-		<string>smsec</string>
-		<string>scmx</string>
-		<string>ms-excel</string>
-		<string>msauth</string>
-		<string>onenote</string>
-		<string>ms-powerpoint</string>
-		<string>launch-ppt</string>
-		<string>launch-excel</string>
-		<string>launch-officemobile</string>
-		<string>ms-outlook-accepts-attachments</string>
+		<string>companyportal</string>
 		<string>excel</string>
+		<string>http-intunemam</string>
+		<string>https-intunemam</string>
+		<string>intunemam-mtd</string>
+		<string>lacoonsecurity</string>
+		<string>launch-excel</string>
+		<string>launch-loop</string>
+		<string>launch-officemobile</string>
+		<string>launch-ppt</string>
+		<string>launch-word</string>
+		<string>lookoutwork-ase</string>
+		<string>lync</string>
+		<string>microsoft-edge</string>
+		<string>ms-delve</string>
+		<string>ms-excel</string>
+		<string>ms-excel-shared-container</string>
 		<string>ms-onedrive</string>
+		<string>ms-outlook</string>
+		<string>ms-outlook-accepts-attachments</string>
 		<string>ms-outlook-shared</string>
+		<string>ms-powerpoint</string>
+		<string>ms-powerpoint-shared-container</string>
+		<string>ms-sfb</string>
+		<string>ms-visio-shared-container</string>
+		<string>ms-word</string>
+		<string>ms-word-shared-container</string>
+		<string>msauth</string>
 		<string>msauthv2</string>
 		<string>msauthv3</string>
-		<string>ms-excel-shared-container</string>
-		<string>ms-outlook</string>
-		<string>microsoft-edge</string>
-		<string>launch-loop</string>
-		<string>launch-word</string>
-		<string>ms-visio-shared-container</string>
-		<string>msteams</string>
-		<string>ms-powerpoint-shared-container</string>
-		<string>ms-word</string>
-		<string>ms-sfb</string>
-		<string>ms-word-shared-container</string>
-		<string>word</string>
-		<string>powerpoint</string>
-		<string>onenote-cmd</string>
 		<string>mspbi</string>
-		<string>companyportal</string>
-		<string>https-intunemam</string>
-		<string>http-intunemam</string>
-		<string>intunemam-mtd</string>
-		<string>lync</string>
-		<string>swiftkey</string>
-		<string>ms-delve</string>
+		<string>msteams</string>
+		<string>onenote</string>
+		<string>onenote-cmd</string>
+		<string>powerpoint</string>
 		<string>sapphirebing</string>
-		<string>PencilByFiftyThree</string>
 		<string>sapphirecopilot</string>
+		<string>swiftkey</string>
+		<string>word</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -768,7 +761,7 @@
 	<key>MSOfeedbackPhoneAppID</key>
 	<string>248</string>
 	<key>MicrosoftExtendedBuildNumber</key>
-	<string>16.113.2/260821</string>
+	<string>16.113.3/260828</string>
 	<key>MinimumOSVersion</key>
 	<string>18.0</string>
 	<key>NSAppleMusicUsageDescription</key>
@@ -796,7 +789,7 @@
 		<string>com.microsoft.onenote.viewing-page</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>16.113.821.2</string>
+	<string>16.113.828.3</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

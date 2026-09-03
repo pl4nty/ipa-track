@@ -94,7 +94,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2026.17</string>
+	<string>2026.18</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -129,7 +129,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20260817.224610</string>
+	<string>20260828.221702</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -184,7 +184,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>18.0</string>
+	<string>18.6</string>
 	<key>NSAccentColorName</key>
 	<string>AccentColor</string>
 	<key>NSAppTransportSecurity</key>

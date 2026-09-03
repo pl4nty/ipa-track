@@ -6,9 +6,9 @@
 	<array/>
 	<key>NSPrivacyAccessedAPITypes</key>
 	<array/>
-	<key>NSPrivacyTrackingDomains</key>
-	<array/>
 	<key>NSPrivacyTracking</key>
 	<false/>
+	<key>NSPrivacyTrackingDomains</key>
+	<array/>
 </dict>
 </plist>
