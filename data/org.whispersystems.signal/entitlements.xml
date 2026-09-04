@@ -21,8 +21,11 @@
 	<string>2</string>
 	<key>aps-environment</key>
 	<string>production</string>
-	<key>com.apple.developer.default-data-protection</key>
-	<string>NSFileProtectionComplete</string>
+	<key>com.apple.developer.wifi-aware</key>
+	<array>
+		<string>Publish</string>
+		<string>Subscribe</string>
+	</array>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
 		<string>applinks:signal.art</string>
@@ -41,6 +44,8 @@
 	</array>
 	<key>com.apple.developer.team-identifier</key>
 	<string>U68MSDN6DR</string>
+	<key>com.apple.developer.default-data-protection</key>
+	<string>NSFileProtectionComplete</string>
 	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
 	<string>U68MSDN6DR.org.whispersystems.signal</string>
 	<key>com.apple.developer.networking.carrier-constrained.app-optimized</key>

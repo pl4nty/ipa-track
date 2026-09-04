@@ -13,11 +13,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Wed Aug 26 18:38:34 UTC 2026</string>
+		<string>Wed Sep  2 16:45:32 UTC 2026</string>
 		<key>SignalCommit</key>
-		<string>b8d0d3d414534d77bbc067f8750819f08e01d849 Feature flags for .production.</string>
+		<string>5093c8f9c5564f46278b511c6c697c44d86ad624 Feature flags for .production.</string>
 		<key>Timestamp</key>
-		<integer>1787769514</integer>
+		<integer>1788367532</integer>
 		<key>XCodeVersion</key>
 		<string>2600.2660</string>
 	</dict>
@@ -179,7 +179,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.26</string>
+	<string>8.27</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -200,7 +200,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1826</string>
+	<string>1843</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -317,5 +317,15 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+	<key>WiFiAwareServices</key>
+	<dict>
+		<key>_sgnl-transfer._tcp</key>
+		<dict>
+			<key>Publishable</key>
+			<dict/>
+			<key>Subscribable</key>
+			<dict/>
+		</dict>
+	</dict>
 </dict>
 </plist>
