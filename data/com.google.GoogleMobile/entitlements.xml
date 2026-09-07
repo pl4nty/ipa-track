@@ -24,6 +24,8 @@
 	<array>
 		<string>applinks:goo.gl</string>
 		<string>applinks:one.google.com</string>
+		<string>applinks:accounts.google.com</string>
+		<string>applinks:accounts.link.google</string>
 		<string>applinks:search.app.goo.gl</string>
 		<string>applinks:search.app</string>
 		<string>applinks:search.google</string>
