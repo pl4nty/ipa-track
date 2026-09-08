@@ -46,6 +46,7 @@
 		<string>applinks:www.copilot.com</string>
 		<string>applinks:unifiedlink.svc.cloud.microsoft</string>
 		<string>applinks:unifiedlink.svc.cloud.dev.microsoft</string>
+		<string>applinks:unified.sdf.microsoft.com</string>
 		<string>webcredentials:login.microsoftonline.com</string>
 		<string>webcredentials:login.partner.microsoftonline.cn</string>
 		<string>webcredentials:login.microsoftonline.us</string>
