@@ -17,6 +17,8 @@
 	<string>T84QZS65DQ.com.facebook.Facebook</string>
 	<key>com.apple.developer.siri</key>
 	<true/>
+	<key>com.apple.developer.in-app-payments-delegate</key>
+	<true/>
 	<key>com.apple.developer.kernel.extended-virtual-addressing</key>
 	<true/>
 	<key>keychain-access-groups</key>

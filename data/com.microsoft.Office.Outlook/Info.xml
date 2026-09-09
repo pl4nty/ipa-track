@@ -630,7 +630,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.2634.0</string>
+	<string>5.2635.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -717,7 +717,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>54310590</string>
+	<string>54733391</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -793,19 +793,15 @@
 		<string>msteams</string>
 		<string>ms-officemobile</string>
 		<string>companyportal</string>
-		<string>evernote</string>
 		<string>evernote-intunemam</string>
 		<string>yammer</string>
 		<string>microsoft-edge-https</string>
-		<string>ms-to-do</string>
 		<string>ms-word-standalone</string>
 		<string>onenote</string>
 		<string>ms-excel-standalone</string>
 		<string>msauthv3</string>
-		<string>fb</string>
 		<string>microsoft-edge-http</string>
 		<string>ms-powerpoint-standalone</string>
-		<string>meetup</string>
 		<string>microsoft-edge</string>
 		<string>linkedin</string>
 		<string>linkedin-intunemam</string>

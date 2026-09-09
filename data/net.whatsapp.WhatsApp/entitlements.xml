@@ -30,6 +30,7 @@
 		<string>group.net.whatsapp.WhatsAppSMB.shared</string>
 		<string>group.net.whatsapp.WhatsApp.private</string>
 		<string>group.net.whatsapp.family</string>
+		<string>group.net.whatsapp.stickers</string>
 		<string>group.com.facebook.family</string>
 	</array>
 	<key>com.apple.developer.associated-appclip-app-identifiers</key>
