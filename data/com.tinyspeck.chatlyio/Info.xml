@@ -84,7 +84,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.09.10</string>
+	<string>26.09.20</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSpokenName</key>
@@ -115,7 +115,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>461270</string>
+	<string>461506</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
