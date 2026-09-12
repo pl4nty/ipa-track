@@ -13,7 +13,7 @@
 	<key>BreakpadProduct</key>
 	<string>Photos_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>25F80</string>
+	<string>25D125</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -101,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.91.0</string>
+	<string>7.92.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -121,7 +121,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.91.973566422</string>
+	<string>7.92.977090216</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -177,7 +177,7 @@
 		<string>googlegmail</string>
 		<string>googlehome</string>
 		<string>googlenews</string>
-		<string>googlepodcasts</string>
+		<string>googlephotos</string>
 		<string>googlesheets</string>
 		<string>googleslides</string>
 		<string>googlesnapseed</string>
