@@ -339,7 +339,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>155.1</string>
+	<string>156.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -361,7 +361,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>76471</string>
+	<string>76745</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
@@ -448,7 +448,7 @@
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>This lets you save photos.</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
-	<string>Firefox uses speech recognition to convert your voice to text for voice search.</string>
+	<string>This lets Firefox transcribe your audio.</string>
 	<key>NSSupportsLiveActivities</key>
 	<true/>
 	<key>NSUserActivityTypes</key>
