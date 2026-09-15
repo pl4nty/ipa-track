@@ -75,7 +75,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>18.9.4</string>
+	<string>18.10.2</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -107,9 +107,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>56385151</string>
+	<string>56661616</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17F106</string>
+	<string>27A261</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -151,7 +151,7 @@
 		<key>AriaEnableAutoUserSession</key>
 		<false/>
 		<key>AriaIngestionKey</key>
-		<string>0eb0ba962b6543a2bc7e3bb466847ecc-d294e0af-a9e8-4642-afda-0b05dd394e32-7746</string>
+		<string>a1cba5eefebb4221a2b93f6241fb5113-ce69d1e9-e239-4a52-9cbe-0d4fd0535b93-6925</string>
 		<key>AriaMaxTeardownUploadTimeInSec</key>
 		<integer>2</integer>
 		<key>AriaMinimumTraceLevel</key>
@@ -170,47 +170,27 @@
 		<string>betteractiveshield</string>
 		<string>fb-messenger</string>
 		<string>googlegmail</string>
-		<string>http-intunemam</string>
-		<string>https-intunemam</string>
 		<string>instagram</string>
 		<string>intunemam-mtd</string>
 		<string>itms-apps</string>
 		<string>lacoonsecurity</string>
-		<string>launch-excel</string>
 		<string>launch-loop</string>
-		<string>launch-officemobile</string>
-		<string>launch-ppt</string>
-		<string>launch-word</string>
 		<string>line</string>
 		<string>lookoutwork-ase</string>
-		<string>microsoft-edge</string>
-		<string>microsoft-edge-http</string>
-		<string>microsoft-edge-http-intunemam</string>
-		<string>microsoft-edge-https-intunemam</string>
-		<string>ms-excel</string>
 		<string>ms-excel-standalone</string>
-		<string>ms-officemobile</string>
 		<string>ms-onedrive</string>
 		<string>ms-onedrive-auth</string>
 		<string>ms-onedrive-authdf</string>
 		<string>ms-outlook</string>
-		<string>ms-outlook-intunemam</string>
-		<string>ms-powerpoint</string>
 		<string>ms-powerpoint-standalone</string>
 		<string>ms-sharepoint</string>
-		<string>ms-word</string>
 		<string>ms-word-standalone</string>
 		<string>msauth</string>
 		<string>msauthv2</string>
 		<string>msauthv3</string>
 		<string>msflow</string>
-		<string>msteams</string>
 		<string>onenote</string>
-		<string>org-appextension-feature-password-management</string>
-		<string>sapphirebing</string>
-		<string>sapphirecopilot</string>
 		<string>scmx</string>
-		<string>swiftkey</string>
 		<string>tg</string>
 		<string>viber</string>
 		<string>whatsapp</string>

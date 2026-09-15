@@ -104,7 +104,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.34.0</string>
+	<string>26.35.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -133,7 +133,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>26.34.0.54741400</string>
+	<string>26.35.0.54747700</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
@@ -197,7 +197,6 @@
 		<string>googlehome</string>
 		<string>googlenews</string>
 		<string>googlephotos</string>
-		<string>googlepodcasts</string>
 		<string>googlesheets</string>
 		<string>googleslides</string>
 		<string>googletasks</string>
