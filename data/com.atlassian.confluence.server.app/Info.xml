@@ -7,7 +7,7 @@
 	<key>ATAuthEngine.AppGroupIdentifier</key>
 	<string>group.com.atlassian.confluence.server.app</string>
 	<key>AmplitudeKey</key>
-	<string>6b19a54f83258021d7869d97a38460e2</string>
+	<string>ebd0a4435b9bd296409bfd0e5f731884</string>
 	<key>AtlassianEndUserAgreementLink</key>
 	<string>https://www.atlassian.com/legal/software-license-agreement</string>
 	<key>BuildMachineOSBuild</key>
@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.5.1</string>
+	<string>3.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -85,9 +85,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.5.1.817</string>
+	<string>3.0.0.1008</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17F41</string>
+	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -115,7 +115,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>17.0</string>
+	<string>18.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -148,8 +148,6 @@
 			</array>
 		</dict>
 	</dict>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

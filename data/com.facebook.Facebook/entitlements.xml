@@ -25,8 +25,10 @@
 	<array>
 		<string>T84QZS65DQ.platformFamily</string>
 	</array>
-	<key>com.apple.developer.networking.HotspotConfiguration</key>
-	<true/>
+	<key>com.apple.developer.in-app-payments</key>
+	<array>
+		<string>merchant.com.meta.marketplace</string>
+	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>
 		<string>group.com.facebook.Facebook</string>
@@ -44,6 +46,8 @@
 	<key>com.apple.developer.avfoundation.multitasking-camera-access</key>
 	<true/>
 	<key>com.apple.developer.kernel.increased-memory-limit</key>
+	<true/>
+	<key>com.apple.developer.networking.HotspotConfiguration</key>
 	<true/>
 	<key>aps-environment</key>
 	<string>production</string>
@@ -87,16 +91,16 @@
 	<true/>
 	<key>com.apple.developer.team-identifier</key>
 	<string>V9WTTPBFK9</string>
-	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
-	<string>V9WTTPBFK9.com.facebook.Wilde</string>
-	<key>com.apple.developer.nfc.readersession.formats</key>
-	<array>
-		<string>TAG</string>
-	</array>
 	<key>com.apple.developer.icloud-services</key>
 	<array>
 		<string>CloudDocuments</string>
 	</array>
+	<key>com.apple.developer.nfc.readersession.formats</key>
+	<array>
+		<string>TAG</string>
+	</array>
+	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
+	<string>V9WTTPBFK9.com.facebook.Wilde</string>
 	<key>com.apple.developer.storekit.request-data</key>
 	<true/>
 </dict>
