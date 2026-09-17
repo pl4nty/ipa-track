@@ -10,7 +10,7 @@
 	<key>BreakpadProduct</key>
 	<string>Google_Cast_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>25D125</string>
+	<string>25F80</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -117,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.29.25</string>
+	<string>4.30.25</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -147,9 +147,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.29.25.06</string>
+	<string>4.30.25.06</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17F106</string>
+	<string>27A261</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -431,6 +431,7 @@
 	<key>NSBonjourServices</key>
 	<array>
 		<string>_googcrossdevice._tcp</string>
+		<string>_gasetup._udp</string>
 		<string>_matter._tcp</string>
 		<string>_matterc._udp</string>
 		<string>_matterd._udp</string>
