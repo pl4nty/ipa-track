@@ -13,7 +13,7 @@
 	<key>BreakpadProduct</key>
 	<string>Photos_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>25D125</string>
+	<string>25F80</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -101,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.92.0</string>
+	<string>7.93.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -121,9 +121,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.92.977090216</string>
+	<string>7.93.982062190</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17F106</string>
+	<string>27A261</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -148,8 +148,6 @@
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>com.googleusercontent.apps.262921625321-1o8a007khgs9bhptf7tpaurgachtsv2q</string>
-		<string>com.googleusercontent.apps.353013613329-p6dtc7bv44a4udqd4g4fqfps4udahi44</string>
 		<string>adobelightroom</string>
 		<string>adobesparkpost</string>
 		<string>capcut</string>
@@ -158,7 +156,6 @@
 		<string>com.google.stella</string>
 		<string>comgoogleearthgeo</string>
 		<string>comgooglefamilylink</string>
-		<string>comgooglegemini</string>
 		<string>comgooglekeep</string>
 		<string>comgooglemaps</string>
 		<string>comgooglemapsulr</string>
@@ -174,6 +171,7 @@
 		<string>googleclassroom</string>
 		<string>googledocs</string>
 		<string>googledrive</string>
+		<string>googlegemini</string>
 		<string>googlegmail</string>
 		<string>googlehome</string>
 		<string>googlenews</string>
