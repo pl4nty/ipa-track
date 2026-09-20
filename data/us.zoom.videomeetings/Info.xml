@@ -66,7 +66,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.1.8</string>
+	<string>7.2.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -84,6 +84,7 @@
 			<array>
 				<string>zoomus</string>
 				<string>zoomphonecall</string>
+				<string>zoomcontactcentercall</string>
 				<string>zoomphonesms</string>
 				<string>im</string>
 				<string>mynotes</string>
@@ -91,9 +92,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>38101</string>
+	<string>38633</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17F106</string>
+	<string>27A261</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -240,8 +241,6 @@
 		<string>remote-notification</string>
 		<string>voip</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
