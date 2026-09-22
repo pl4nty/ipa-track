@@ -34,11 +34,6 @@
 		<string>applinks:*.sharepoint-df.com</string>
 		<string>applinks:*.sharepoint.de</string>
 		<string>applinks:*.safelinks.protection.outlook.com</string>
-		<string>applinks:print.print.microsoft.com</string>
-		<string>applinks:print.print-next.microsoft.com</string>
-		<string>applinks:print.print-ppe.microsoft.com</string>
-		<string>applinks:print.print.azure.us</string>
-		<string>applinks:print.print-dod.azure.us</string>
 		<string>applinks:www.microsoft365.com</string>
 		<string>applinks:m365.cloud.microsoft</string>
 		<string>applinks:copilot.cloud.microsoft</string>

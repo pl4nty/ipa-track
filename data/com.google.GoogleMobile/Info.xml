@@ -139,7 +139,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>438.6</string>
+	<string>439.4</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -177,7 +177,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>438.6.976963367</string>
+	<string>439.4.980558000</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
@@ -222,7 +222,6 @@
 		<string>com.google.stella</string>
 		<string>comgoogleearthgeo</string>
 		<string>comgooglefamilylink</string>
-		<string>comgooglegemini</string>
 		<string>comgooglekeep</string>
 		<string>comgooglemaps</string>
 		<string>creatorstudio</string>
@@ -327,6 +326,23 @@
 		<string>GoogleSans-Regular.nohints.ttf</string>
 		<string>GoogleSans-Medium.nohints.ttf</string>
 	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>GMOMainWindowSceneDelegate</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
 	<key>UIApplicationShortcutItems</key>
 	<array>
 		<dict>

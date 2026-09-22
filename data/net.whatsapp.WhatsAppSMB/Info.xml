@@ -388,7 +388,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.36.74</string>
+	<string>26.37.73</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -412,29 +412,29 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1067315575</string>
+	<string>1071614237</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTPlatformBuild</key>
-	<string>23F81a</string>
+	<string>24A430</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.5</string>
+	<string>27.0</string>
 	<key>DTSDKBuild</key>
-	<string>23F81a</string>
+	<string>24A430</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.5</string>
+	<string>iphoneos27.0</string>
 	<key>DTXcode</key>
-	<string>2660</string>
+	<string>2700</string>
 	<key>DTXcodeBuild</key>
-	<string>17F113</string>
+	<string>27A266a</string>
 	<key>FBAppVersion</key>
-	<string>2.26.36.74</string>
+	<string>2.26.37.73</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildNumber</key>
-	<string>1067315575</string>
+	<string>1071614237</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>

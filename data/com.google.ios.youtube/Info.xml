@@ -136,7 +136,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>21.37.5</string>
+	<string>21.38.2</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -159,7 +159,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>21.37.5</string>
+	<string>21.38.2</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTCompiler</key>
@@ -218,14 +218,10 @@
 		<string>vnd.youtube.music</string>
 		<string>vnd.youtube.kids</string>
 		<string>vnd.youtube.tv</string>
+		<string>vnd.youtube.sandbox</string>
 		<string>creatorstudio</string>
 		<string>comgooglemaps</string>
 		<string>googlexrcompanion</string>
-		<string>itms-apps</string>
-		<string>mailto</string>
-		<string>sms</string>
-		<string>http</string>
-		<string>https</string>
 		<string>googlechrome</string>
 		<string>googleapp</string>
 		<string>googlegmail</string>
@@ -235,7 +231,6 @@
 		<string>com.google.stella</string>
 		<string>comgoogleearthgeo</string>
 		<string>comgooglefamilylink</string>
-		<string>comgooglegemini</string>
 		<string>comgooglekeep</string>
 		<string>gmeet</string>
 		<string>googlebooks</string>
@@ -243,6 +238,7 @@
 		<string>googleclassroom</string>
 		<string>googledocs</string>
 		<string>googledrive</string>
+		<string>googlegemini</string>
 		<string>googlehome</string>
 		<string>googlenews</string>
 		<string>googlephotos</string>
@@ -250,6 +246,10 @@
 		<string>googleslides</string>
 		<string>googletasks</string>
 		<string>googletranslate</string>
+		<string>http</string>
+		<string>https</string>
+		<string>mailto</string>
+		<string>waze</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>

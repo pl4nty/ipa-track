@@ -33,6 +33,7 @@
 		<string>webcredentials:whatsapp.com</string>
 		<string>webcredentials:*.whatsapp.com</string>
 		<string>webcredentials:b.whatsapp.com</string>
+		<string>webcredentials:meta.iniciador.com.br</string>
 	</array>
 	<key>com.apple.developer.authentication-services.account-creation-requires-phone-number</key>
 	<true/>

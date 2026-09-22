@@ -9,7 +9,7 @@
 		<string>com.google.notifications.bgtask.processing</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25D125</string>
+	<string>25F80</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -116,7 +116,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.0.260907</string>
+	<string>6.0.260914</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -139,7 +139,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6.0.260907.1807864</string>
+	<string>6.0.260914.1807954</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTCompiler</key>
@@ -159,7 +159,7 @@
 	<key>DTXcodeBuild</key>
 	<string>17E202</string>
 	<key>DynamiteVersion</key>
-	<string>0.672.978744538</string>
+	<string>0.674.980992688</string>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
 	<false/>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -168,14 +168,11 @@
 	<string>f4561262-769c-4899-b4a1-19674ce49f9a</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>com.googleusercontent.apps.262921625321-1o8a007khgs9bhptf7tpaurgachtsv2q</string>
-		<string>com.googleusercontent.apps.353013613329-p6dtc7bv44a4udqd4g4fqfps4udahi44</string>
 		<string>com.google.chat</string>
 		<string>com.google.fit</string>
 		<string>com.google.stella</string>
 		<string>comgoogleearthgeo</string>
 		<string>comgooglefamilylink</string>
-		<string>comgooglegemini</string>
 		<string>comgooglekeep</string>
 		<string>comgooglemaps</string>
 		<string>creatorstudio</string>
@@ -190,6 +187,7 @@
 		<string>googledocs-v2</string>
 		<string>googledrive</string>
 		<string>googledrive-v3</string>
+		<string>googlegemini</string>
 		<string>googlegmail</string>
 		<string>googlehome</string>
 		<string>googlenews</string>
@@ -209,7 +207,6 @@
 		<string>meetchitchatcalling</string>
 		<string>playmovies</string>
 		<string>tailwindAppShare</string>
-		<string>tel</string>
 		<string>vnd.google.calendar</string>
 		<string>vnd.youtube</string>
 		<string>vnd.youtube.kids</string>

@@ -13,7 +13,7 @@
 	<key>BreakpadProductDisplay</key>
 	<string>Tachyon</string>
 	<key>BuildMachineOSBuild</key>
-	<string>25D125</string>
+	<string>25F80</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -117,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>376.0</string>
+	<string>377.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -140,7 +140,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>376.0.108046</string>
+	<string>377.0.108598</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTCompiler</key>
@@ -171,14 +171,11 @@
 	<string>55c96646-8c0b-4e98-9489-f7087501d3e0</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>com.googleusercontent.apps.262921625321-1o8a007khgs9bhptf7tpaurgachtsv2q</string>
-		<string>com.googleusercontent.apps.353013613329-p6dtc7bv44a4udqd4g4fqfps4udahi44</string>
 		<string>com.google.chat</string>
 		<string>com.google.fit</string>
 		<string>com.google.stella</string>
 		<string>comgoogleearthgeo</string>
 		<string>comgooglefamilylink</string>
-		<string>comgooglegemini</string>
 		<string>comgooglekeep</string>
 		<string>comgooglemaps</string>
 		<string>creatorstudio</string>
@@ -191,6 +188,7 @@
 		<string>googleclassroom</string>
 		<string>googledocs</string>
 		<string>googledrive</string>
+		<string>googlegemini</string>
 		<string>googlegmail</string>
 		<string>googlehome</string>
 		<string>googlenews</string>
