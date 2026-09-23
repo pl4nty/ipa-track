@@ -227,7 +227,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2637.41400</string>
+	<string>4.2638.41000</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -254,7 +254,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.2637.41400</string>
+	<string>4.2638.41000</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
@@ -283,11 +283,9 @@
 	<array>
 		<string>com.google.chat</string>
 		<string>com.google.fit</string>
-		<string>com.google.jam</string>
 		<string>com.google.stella</string>
 		<string>comgoogleearthgeo</string>
 		<string>comgooglefamilylink</string>
-		<string>comgooglegemini</string>
 		<string>comgooglekeep</string>
 		<string>comgooglemaps</string>
 		<string>creatorstudio</string>
@@ -301,6 +299,7 @@
 		<string>googledocs-v2</string>
 		<string>googledrive</string>
 		<string>googledrive-v3</string>
+		<string>googlegemini</string>
 		<string>googlegmail</string>
 		<string>googlehome</string>
 		<string>googlenews</string>

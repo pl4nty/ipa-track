@@ -18,7 +18,7 @@
 		<string>com.facebook.messenger.social_cue_background_fetch</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-09-15T03:40:16</string>
+	<string>2026-09-22T00:58:36</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -209,7 +209,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>579.0.0</string>
+	<string>580.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -422,41 +422,41 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1068430635</string>
+	<string>1073972887</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTPlatformBuild</key>
-	<string>23F81a</string>
+	<string>24A430</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.5</string>
+	<string>27.0</string>
 	<key>DTSDKBuild</key>
-	<string>23F81a</string>
+	<string>24A430</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.5</string>
+	<string>iphoneos27.0</string>
 	<key>DTXcode</key>
-	<string>2660</string>
+	<string>2700</string>
 	<key>DTXcodeBuild</key>
-	<string>17F113</string>
+	<string>27A266a</string>
 	<key>FBAppVersion</key>
-	<string>579.0.0.23.106</string>
+	<string>580.0.0.29.107</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1068430635</integer>
+	<integer>1073972887</integer>
 	<key>FBBuildRevision</key>
-	<string>52b8a14daee320982e272fa734c7265ab5b62c28</string>
+	<string>e4f94493682340763e90dd099b51456ea05ec5c1</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1789442285.025200</string>
+	<string>1790035644.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1789443616</integer>
+	<integer>1790038716</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>579.0.0</string>
+	<string>580.0.0</string>
 	<key>FacebookAppID</key>
 	<string>437626316973788</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -639,8 +639,6 @@
 		<string>external-accessory</string>
 		<string>bluetooth-peripheral</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

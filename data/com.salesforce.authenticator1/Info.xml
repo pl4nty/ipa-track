@@ -21,7 +21,7 @@
 		<string>com.salesforce.authenticator.backgroundrefresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>23H222</string>
+	<string>24G720</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -62,7 +62,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.7.0</string>
+	<string>4.8.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -81,25 +81,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7408</string>
+	<string>7556</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>17F106</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>22B74</string>
+	<string>23C53</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>18.1</string>
+	<string>26.2</string>
 	<key>DTSDKBuild</key>
-	<string>22B74</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>iphoneos18.1</string>
+	<string>iphoneos26.2</string>
 	<key>DTXcode</key>
-	<string>1610</string>
+	<string>2620</string>
 	<key>DTXcodeBuild</key>
-	<string>16B40</string>
+	<string>17C52</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -116,7 +116,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>14.0</string>
+	<string>15.0</string>
 	<key>NSCameraUsageDescription</key>
 	<string>This app uses the camera to add accounts by scanning QR codes. The app doesn’t access any user data.</string>
 	<key>NSFaceIDUsageDescription</key>
@@ -146,6 +146,8 @@
 		<string>location</string>
 		<string>remote-notification</string>
 	</array>
+	<key>UIDesignRequiresCompatibility</key>
+	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
