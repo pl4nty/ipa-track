@@ -117,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.30.25</string>
+	<string>4.31.28</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -147,7 +147,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.30.25.06</string>
+	<string>4.31.28.06</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTCompiler</key>
@@ -334,6 +334,14 @@
 						<key>SPKI-SHA256-BASE64</key>
 						<string>x4QzPSC810K5/cMjb05Qm4k3Bw5zBn4lTdO/nEW/Td4=</string>
 					</dict>
+					<dict>
+						<key>SPKI-SHA256-BASE64</key>
+						<string>Og7FTBgyooHcMGImf9k3QpAI4chBs3tKeasb3Uy6V/8=</string>
+					</dict>
+					<dict>
+						<key>SPKI-SHA256-BASE64</key>
+						<string>TDQyyYTGauKnVHQ5g8qJaeLxD0CGOE3Di4BgUyywvqc=</string>
+					</dict>
 				</array>
 			</dict>
 			<key>googleapis.com</key>
@@ -417,6 +425,14 @@
 					<dict>
 						<key>SPKI-SHA256-BASE64</key>
 						<string>x4QzPSC810K5/cMjb05Qm4k3Bw5zBn4lTdO/nEW/Td4=</string>
+					</dict>
+					<dict>
+						<key>SPKI-SHA256-BASE64</key>
+						<string>Og7FTBgyooHcMGImf9k3QpAI4chBs3tKeasb3Uy6V/8=</string>
+					</dict>
+					<dict>
+						<key>SPKI-SHA256-BASE64</key>
+						<string>TDQyyYTGauKnVHQ5g8qJaeLxD0CGOE3Di4BgUyywvqc=</string>
 					</dict>
 				</array>
 			</dict>

@@ -31,7 +31,7 @@
 		<string>com.meta.mwa.air.backgroundDownload</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-09-03T19:28:00</string>
+	<string>2026-09-17T15:10:25</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -72,7 +72,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>289.0.0</string>
+	<string>290.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -90,9 +90,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1058780133</string>
+	<string>1070461762</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17F106</string>
+	<string>27A261</string>
 	<key>DTPlatformBuild</key>
 	<string>23F81a</string>
 	<key>DTPlatformName</key>
@@ -108,23 +108,23 @@
 	<key>DTXcodeBuild</key>
 	<string>17F113</string>
 	<key>FBAppVersion</key>
-	<string>289.0.0.21.157</string>
+	<string>290.0.0.27.162</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1058780133</integer>
+	<integer>1070461762</integer>
 	<key>FBBuildRevision</key>
-	<string>44ba7bbf312e19f8a1fd8c2642c8be9585de5131</string>
+	<string>ec8e8ec02de6caa2c5b968ad6f2a4e82b17613cb</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1788462081.025200</string>
+	<string>1789655820.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1788463680</integer>
+	<integer>1789657825</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>289.0.0</string>
+	<string>290.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -141,14 +141,18 @@
 		<string>whatsapp</string>
 		<string>vibes</string>
 		<string>hatch</string>
+		<string>ember</string>
 		<string>otpauth</string>
+		<string>fb-pma</string>
+		<string>fb-ama</string>
 		<string>whatsapp-consumer</string>
+		<string>sgtestapp-sg-creds</string>
 		<string>spotify</string>
 		<string>amznmp3</string>
 		<string>ihr</string>
 		<string>rbmaudible-v2</string>
 		<string>calm</string>
-		<string>org.bemyeyes.BeMyEyes</string>
+		<string>org.bemyeyes.bemyeyes</string>
 		<string>gcm-ciq</string>
 		<string>strava</string>
 		<string>i8birdies</string>
@@ -157,15 +161,12 @@
 		<string>twitter</string>
 		<string>line</string>
 		<string>viber</string>
-		<string>comgooglemaps</string>
-		<string>eclipse</string>
-		<string>ember</string>
-		<string>fb-pma</string>
-		<string>fb-ama</string>
-		<string>sgtestapp-sg-creds</string>
+		<string>sampleapp-1</string>
 		<string>waze</string>
 		<string>duo</string>
 		<string>googleauthenticator</string>
+		<string>comgooglemaps</string>
+		<string>eclipse</string>
 		<string>http</string>
 		<string>https</string>
 	</array>
