@@ -7,7 +7,7 @@
 	<key>BRAVE_URL_SCHEME</key>
 	<string>brave</string>
 	<key>BuildMachineOSBuild</key>
-	<string>25G76</string>
+	<string>25F71</string>
 	<key>CFBundleAllowMixedLocalizations</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -176,7 +176,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.94</string>
+	<string>1.95</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -199,9 +199,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>122</string>
+	<string>104</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17F106</string>
+	<string>27A261</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -222,6 +222,8 @@
 	<false/>
 	<key>KSApplicationGroup</key>
 	<string>group.com.brave.ios.browser</string>
+	<key>KSChannelID</key>
+	<string></string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>http</string>
