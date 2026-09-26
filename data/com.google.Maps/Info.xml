@@ -111,7 +111,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.38.1</string>
+	<string>26.39.0</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google Maps</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -142,7 +142,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>26.38.1.9808154450</string>
+	<string>26.39.0.9849563700</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTCompiler</key>
@@ -196,29 +196,6 @@
 		<string>vnd.youtube.music</string>
 		<string>waze</string>
 		<string>youtubemusicsdk</string>
-		<string>com.google.chat</string>
-		<string>com.google.duo</string>
-		<string>comgoogleearth</string>
-		<string>comgooglefamilylink</string>
-		<string>comgooglenews</string>
-		<string>comgooglepaisa</string>
-		<string>creatorstudio</string>
-		<string>gfl-ota</string>
-		<string>googledocs-v2</string>
-		<string>googledrawings</string>
-		<string>googledrive-v1</string>
-		<string>googledrive-v3</string>
-		<string>googlesheets-v2</string>
-		<string>googleslides-v2</string>
-		<string>googlevoice</string>
-		<string>gpay</string>
-		<string>gplus-v3</string>
-		<string>gplus</string>
-		<string>playmovies</string>
-		<string>playnewsstand</string>
-		<string>vnd.youtube-broad-matching</string>
-		<string>vnd.youtube.kids</string>
-		<string>youtube</string>
 		<string>googlexrcompanion</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
