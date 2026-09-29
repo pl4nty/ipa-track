@@ -75,7 +75,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>18.10.2</string>
+	<string>18.11.2</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -107,7 +107,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>56661616</string>
+	<string>57298690</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTCompiler</key>
@@ -185,7 +185,7 @@
 		<string>ms-powerpoint-standalone</string>
 		<string>ms-sharepoint</string>
 		<string>ms-word-standalone</string>
-		<string>msauth</string>
+		<string>msa-devicekey-share</string>
 		<string>msauthv2</string>
 		<string>msauthv3</string>
 		<string>msflow</string>

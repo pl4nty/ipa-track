@@ -11,7 +11,7 @@
 	<key>BreakpadProduct</key>
 	<string>Tachyon_iOS</string>
 	<key>BreakpadProductDisplay</key>
-	<string>Tachyon</string>
+	<string>TachyonJ2ktAbExperiment</string>
 	<key>BuildMachineOSBuild</key>
 	<string>25F80</string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -19,7 +19,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Meet</string>
 	<key>CFBundleExecutable</key>
-	<string>Tachyon</string>
+	<string>TachyonJ2ktAbExperiment</string>
 	<key>CFBundleIcons</key>
 	<dict>
 		<key>CFBundlePrimaryIcon</key>
@@ -117,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>377.0</string>
+	<string>378.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -140,7 +140,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>377.0.108598</string>
+	<string>378.0.108970</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTCompiler</key>
