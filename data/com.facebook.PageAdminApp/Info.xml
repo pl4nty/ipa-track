@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.PageAdminApp</string>
 	<key>CFBuildDate</key>
-	<string>2026-09-22T17:57:00</string>
+	<string>2026-09-29T13:30:46</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -72,7 +72,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>508.0</string>
+	<string>509.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -117,7 +117,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1074547016</string>
+	<string>1080204431</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTPlatformBuild</key>
@@ -135,19 +135,19 @@
 	<key>DTXcodeBuild</key>
 	<string>27A266a</string>
 	<key>FBAppVersion</key>
-	<string>508.0.0.34.105</string>
+	<string>509.0.0.24.104</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1074547016</integer>
+	<integer>1080204431</integer>
 	<key>FBBuildRevision</key>
-	<string>c5842c75f4639178b2735d00040882a925cb61d2</string>
+	<string>b5ac0b262bdc33d47866b4942d350be2bd5787ae</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1790097872.025200</string>
+	<string>1790686743.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1790099820</integer>
+	<integer>1790688646</integer>
 	<key>FBColorPalette</key>
 	<string>PMAStandardColorPalette</string>
 	<key>FBDisableAutoRegisterForPush</key>
@@ -159,7 +159,7 @@
 	<key>FBPhotoActionSheetHideSendAsMessageOption</key>
 	<true/>
 	<key>FBPlatformVersion</key>
-	<string>508.0</string>
+	<string>509.0</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
 	<false/>
 	<key>FacebookAppID</key>
