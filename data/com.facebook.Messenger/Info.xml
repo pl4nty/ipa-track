@@ -18,7 +18,7 @@
 		<string>com.facebook.messenger.social_cue_background_fetch</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-09-29T13:21:07</string>
+	<string>2026-10-05T17:02:26</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -209,7 +209,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>581.0.0</string>
+	<string>582.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -422,7 +422,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1080200871</string>
+	<string>1084662339</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTPlatformBuild</key>
@@ -440,23 +440,23 @@
 	<key>DTXcodeBuild</key>
 	<string>27A266a</string>
 	<key>FBAppVersion</key>
-	<string>581.0.0.24.106</string>
+	<string>582.0.0.26.106</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1080200871</integer>
+	<integer>1084662339</integer>
 	<key>FBBuildRevision</key>
-	<string>b5ac0b262bdc33d47866b4942d350be2bd5787ae</string>
+	<string>14a84fd03d26d9f0720f2e7332f2ec0a453ee5d9</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1790686743.025200</string>
+	<string>1791217514.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1790688067</integer>
+	<integer>1791219746</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>581.0.0</string>
+	<string>582.0.0</string>
 	<key>FacebookAppID</key>
 	<string>437626316973788</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -474,6 +474,7 @@
 		<string>hatch</string>
 		<string>ember</string>
 		<string>fb-pma</string>
+		<string>fb-pulse</string>
 		<string>kbank.kplus</string>
 		<string>scbeasyembedded</string>
 		<string>bualuangmbanking</string>
@@ -513,10 +514,10 @@
 		<string>fb619487934836296</string>
 		<string>fb1161754946049195</string>
 		<string>fb141987249766567</string>
-		<string>otpauth</string>
-		<string>fb-ama</string>
 		<string>comgooglemaps</string>
 		<string>waze</string>
+		<string>otpauth</string>
+		<string>fb-ama</string>
 		<string>duo</string>
 		<string>googleauthenticator</string>
 		<string>http</string>

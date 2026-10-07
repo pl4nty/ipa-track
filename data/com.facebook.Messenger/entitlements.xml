@@ -39,6 +39,7 @@
 		<string>webcredentials:m.facebook.com</string>
 		<string>webcredentials:facebook.com</string>
 		<string>webcredentials:accounts.meta.com</string>
+		<string>webcredentials:agent.meta.ai</string>
 		<string>webcredentials:www.messenger.com</string>
 		<string>webcredentials:messenger.com</string>
 	</array>

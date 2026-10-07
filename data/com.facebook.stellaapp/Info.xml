@@ -31,7 +31,7 @@
 		<string>com.meta.mwa.air.backgroundDownload</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-09-24T11:52:46</string>
+	<string>2026-10-02T22:25:05</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -72,7 +72,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>292.0.0</string>
+	<string>293.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -90,7 +90,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1076189368</string>
+	<string>1082915700</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTPlatformBuild</key>
@@ -108,23 +108,23 @@
 	<key>DTXcodeBuild</key>
 	<string>27A266a</string>
 	<key>FBAppVersion</key>
-	<string>292.0.0.7.160</string>
+	<string>293.0.0.18.159</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1076189368</integer>
+	<integer>1082915700</integer>
 	<key>FBBuildRevision</key>
-	<string>1d8dfc4247f9302ef392a8f05792cf9f3d012a78</string>
+	<string>e42410bead057cf3927bbf8a8c6670fe3ec8d8b4</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1790248905.025200</string>
+	<string>1790978766.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1790250766</integer>
+	<integer>1790979905</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>292.0.0</string>
+	<string>293.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -232,18 +232,10 @@
 	<key>UIAppFonts</key>
 	<array>
 		<string>Ray-BanSans-Bold.otf</string>
-		<string>brick_display_black.otf</string>
-		<string>value_sans_black_italic.otf</string>
-		<string>pantograph_medium.otf</string>
-		<string>marche_super.otf</string>
-		<string>goodall_medium.otf</string>
 		<string>OptimisticAIVF_A_DrkmOpszWghtItal.ttf</string>
 		<string>OptimisticMonoVF_A_DrkmOpszWght.ttf</string>
 		<string>OptimisticAI_A_Light.ttf</string>
 		<string>Optimistic_VF_App_Lite.ttf</string>
-		<string>Lato-Regular.ttf</string>
-		<string>Lato-Italic.ttf</string>
-		<string>Lato-Bold.ttf</string>
 	</array>
 	<key>UIBackgroundModes</key>
 	<array>

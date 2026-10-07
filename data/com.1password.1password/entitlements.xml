@@ -29,9 +29,11 @@
 		<string>applinks:b5dev.com</string>
 		<string>applinks:b5test.com</string>
 		<string>applinks:b5dev.ca</string>
+		<string>applinks:b5dev.eu</string>
 		<string>applinks:*.b5dev.com</string>
 		<string>applinks:*.b5test.com</string>
 		<string>applinks:*.b5dev.ca</string>
+		<string>applinks:*.b5dev.eu</string>
 		<string>applinks:*.b5rev.ca</string>
 		<string>webcredentials:1password.com</string>
 		<string>webcredentials:1password.ca</string>
