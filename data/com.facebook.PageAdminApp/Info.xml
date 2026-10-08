@@ -5,7 +5,7 @@
 	<key>ApplicationIdentifier</key>
 	<string>T84QZS65DQ.com.facebook.PageAdminApp</string>
 	<key>CFBuildDate</key>
-	<string>2026-09-29T13:30:46</string>
+	<string>2026-10-06T06:32:23</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDisplayName</key>
@@ -72,7 +72,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>509.0</string>
+	<string>510.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -117,9 +117,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1080204431</string>
+	<string>1085127907</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A261</string>
+	<string>27A9275</string>
 	<key>DTPlatformBuild</key>
 	<string>24A430</string>
 	<key>DTPlatformName</key>
@@ -135,19 +135,19 @@
 	<key>DTXcodeBuild</key>
 	<string>27A266a</string>
 	<key>FBAppVersion</key>
-	<string>509.0.0.24.104</string>
+	<string>510.0.0.25.107</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1080204431</integer>
+	<integer>1085127907</integer>
 	<key>FBBuildRevision</key>
-	<string>b5ac0b262bdc33d47866b4942d350be2bd5787ae</string>
+	<string>0e3f08d3a016398cc04fad6ffe0b010f5d757d9b</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1790686743.025200</string>
+	<string>1791265905.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1790688646</integer>
+	<integer>1791268343</integer>
 	<key>FBColorPalette</key>
 	<string>PMAStandardColorPalette</string>
 	<key>FBDisableAutoRegisterForPush</key>
@@ -159,7 +159,7 @@
 	<key>FBPhotoActionSheetHideSendAsMessageOption</key>
 	<true/>
 	<key>FBPlatformVersion</key>
-	<string>509.0</string>
+	<string>510.0</string>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
 	<false/>
 	<key>FacebookAppID</key>
@@ -190,10 +190,10 @@
 		<string>spotify</string>
 		<string>soundcloud</string>
 		<string>dhits</string>
-		<string>comgooglemaps</string>
-		<string>waze</string>
 		<string>duo</string>
 		<string>googleauthenticator</string>
+		<string>comgooglemaps</string>
+		<string>waze</string>
 		<string>http</string>
 		<string>https</string>
 	</array>

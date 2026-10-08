@@ -24,10 +24,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon60x60</string>
+				<string>classroom_ios60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>AppIcon</string>
+			<string>classroom_ios</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -36,11 +36,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>AppIcon60x60</string>
-				<string>AppIcon76x76</string>
+				<string>classroom_ios60x60</string>
+				<string>classroom_ios76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>AppIcon</string>
+			<string>classroom_ios</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -132,7 +132,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.67.300052130</string>
+	<string>3.68.300052585</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -145,11 +145,12 @@
 				<string>com.google.sso.900820440409-7gfka708ktpb360g4rdkbgjhk5km3u6s</string>
 				<string>com.google.sso.900820440409-fbmgl9p4k9hlmkq01gjmjs2aiirbjaca</string>
 				<string>com.google.sso.900820440409-ca5l71369b712g6nbav8lq35r11qv1u7</string>
+				<string>com.google.sso.212634856644-r26g2va3av7a3bvh4b202i3f11gs2akg</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.67.982064125</string>
+	<string>3.68.991701869</string>
 	<key>CrashBackendEnvironment</key>
 	<string>production</string>
 	<key>DTAppStoreToolsBuild</key>
@@ -197,18 +198,14 @@
 		<string>googlechromes</string>
 		<string>googleclassroom</string>
 		<string>googledocs</string>
-		<string>googledocs-v2</string>
 		<string>googledrive</string>
-		<string>googledrive-v3</string>
 		<string>googlegemini</string>
 		<string>googlegmail</string>
 		<string>googlehome</string>
 		<string>googlenews</string>
 		<string>googlephotos</string>
 		<string>googlesheets</string>
-		<string>googlesheets-v2</string>
 		<string>googleslides</string>
-		<string>googleslides-v2</string>
 		<string>googletasks</string>
 		<string>googletranslate</string>
 		<string>googlevoice</string>

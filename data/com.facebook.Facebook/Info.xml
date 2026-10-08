@@ -18,7 +18,7 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBuildDate</key>
-	<string>2026-09-29T12:36:36</string>
+	<string>2026-10-05T17:02:21</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -185,7 +185,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>581.0.0</string>
+	<string>582.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -239,7 +239,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1080178719</string>
+	<string>1084662387</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTPlatformBuild</key>
@@ -257,25 +257,25 @@
 	<key>DTXcodeBuild</key>
 	<string>27A266a</string>
 	<key>FBAppVersion</key>
-	<string>581.0.0.64.71</string>
+	<string>582.0.0.37.71</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1080178719</integer>
+	<integer>1084662387</integer>
 	<key>FBBuildRevision</key>
-	<string>32d623cc2cab47ee9a5873e8619137bd08746ad3</string>
+	<string>14a84fd03d26d9f0720f2e7332f2ec0a453ee5d9</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1790683370.025200</string>
+	<string>1791217514.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1790685396</integer>
+	<integer>1791219741</integer>
 	<key>FBJSBundleRoot</key>
 	<string>EntryPoints/WildeBundle</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>581.0.0</string>
+	<string>582.0.0</string>
 	<key>FacebookAppID</key>
 	<string>6628568379</string>
 	<key>FacebookAppID~ipad</key>
@@ -299,8 +299,6 @@
 		<string>snapchat</string>
 		<string>com.amazon.mobile.map.3pssov2</string>
 		<string>fb-pulse</string>
-		<string>comgooglemaps</string>
-		<string>waze</string>
 		<string>fb1779658199047189</string>
 		<string>fb312563225523989</string>
 		<string>fb597615686992125</string>
@@ -334,6 +332,8 @@
 		<string>fb940359734982193</string>
 		<string>fb1917079541949096</string>
 		<string>fb286858916567029</string>
+		<string>comgooglemaps</string>
+		<string>waze</string>
 		<string>otpauth</string>
 		<string>fb-ama</string>
 		<string>spotify</string>

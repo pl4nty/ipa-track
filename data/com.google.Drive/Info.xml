@@ -227,7 +227,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.2639.40801</string>
+	<string>4.2640.41000</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -254,7 +254,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.2639.40801</string>
+	<string>4.2640.41000</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
@@ -296,18 +296,14 @@
 		<string>googlechromes</string>
 		<string>googleclassroom</string>
 		<string>googledocs</string>
-		<string>googledocs-v2</string>
 		<string>googledrive</string>
-		<string>googledrive-v3</string>
 		<string>googlegemini</string>
 		<string>googlegmail</string>
 		<string>googlehome</string>
 		<string>googlenews</string>
 		<string>googlephotos</string>
 		<string>googlesheets</string>
-		<string>googlesheets-v2</string>
 		<string>googleslides</string>
-		<string>googleslides-v2</string>
 		<string>googletasks</string>
 		<string>googletranslate</string>
 		<string>googlevoice</string>
