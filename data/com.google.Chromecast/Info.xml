@@ -117,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.32.23</string>
+	<string>4.33.16</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -147,7 +147,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.32.23.06</string>
+	<string>4.33.16.16</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTCompiler</key>
@@ -221,6 +221,7 @@
 		<string>smartcast</string>
 		<string>wx6f68a0e1253cd6e3</string>
 		<string>ecobee</string>
+		<string>ghpsampleapp</string>
 		<string>com.google.duo</string>
 		<string>slingtv</string>
 		<string>com.google.fit</string>

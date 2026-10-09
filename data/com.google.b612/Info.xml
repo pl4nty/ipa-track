@@ -75,7 +75,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>10.119.62</string>
+	<string>10.121.84</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -142,7 +142,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>10.119.62.3</string>
+	<string>10.121.84.0</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A261</string>
 	<key>DTCompiler</key>
@@ -180,7 +180,6 @@
 		<string>com.google.stella</string>
 		<string>comgoogleearthgeo</string>
 		<string>comgooglefamilylink</string>
-		<string>comgooglegemini</string>
 		<string>comgooglekeep</string>
 		<string>comgooglemaps</string>
 		<string>creatorstudio</string>
@@ -192,6 +191,7 @@
 		<string>googleclassroom</string>
 		<string>googledocs</string>
 		<string>googledrive</string>
+		<string>googlegemini</string>
 		<string>googlegmail</string>
 		<string>googlehome</string>
 		<string>googlenews</string>
@@ -206,7 +206,6 @@
 		<string>mailto</string>
 		<string>playmovies</string>
 		<string>tailwindAppShare</string>
-		<string>tel</string>
 		<string>vnd.google.calendar</string>
 		<string>vnd.youtube</string>
 		<string>vnd.youtube.kids</string>
