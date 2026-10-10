@@ -31,7 +31,7 @@
 		<string>com.meta.mwa.air.backgroundDownload</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-10-02T22:25:05</string>
+	<string>2026-10-08T21:07:13</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -72,7 +72,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>293.0.0</string>
+	<string>294.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -90,9 +90,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1082915700</string>
+	<string>1087161162</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A261</string>
+	<string>27A9275</string>
 	<key>DTPlatformBuild</key>
 	<string>24A430</string>
 	<key>DTPlatformName</key>
@@ -108,23 +108,23 @@
 	<key>DTXcodeBuild</key>
 	<string>27A266a</string>
 	<key>FBAppVersion</key>
-	<string>293.0.0.18.159</string>
+	<string>294.0.0.27.163</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1082915700</integer>
+	<integer>1087161162</integer>
 	<key>FBBuildRevision</key>
-	<string>e42410bead057cf3927bbf8a8c6670fe3ec8d8b4</string>
+	<string>6988bac0783c9428ebe88d94b12ed3ebffe48303</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1790978766.025200</string>
+	<string>1791492732.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1790979905</integer>
+	<integer>1791493633</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>293.0.0</string>
+	<string>294.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
