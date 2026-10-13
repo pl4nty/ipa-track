@@ -139,7 +139,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>441.5</string>
+	<string>442.4</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -177,27 +177,27 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>441.5.989047059</string>
+	<string>442.4.993077048</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A261</string>
+	<string>27A9275</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>24A430</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>27.0</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>24A430</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos27.0</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2700</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>27A266a</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
@@ -216,48 +216,29 @@
 	<array>
 		<string>com.googleusercontent.apps.262921625321-1o8a007khgs9bhptf7tpaurgachtsv2q</string>
 		<string>com.googleusercontent.apps.353013613329-p6dtc7bv44a4udqd4g4fqfps4udahi44</string>
-		<string>com.google.chat</string>
-		<string>com.google.fit</string>
 		<string>com.google.socratic</string>
-		<string>com.google.stella</string>
-		<string>comgoogleearthgeo</string>
-		<string>comgooglefamilylink</string>
-		<string>comgooglekeep</string>
-		<string>comgooglemaps</string>
-		<string>creatorstudio</string>
-		<string>fb-messenger</string>
-		<string>gmeet</string>
-		<string>googleapp</string>
-		<string>googlebooks</string>
 		<string>googlechrome</string>
 		<string>googlechromes</string>
-		<string>googleclassroom</string>
-		<string>googledocs</string>
-		<string>googledrive</string>
+		<string>googlephotos</string>
+		<string>fb-messenger</string>
+		<string>whatsapp</string>
+		<string>twitter</string>
+		<string>instagram</string>
 		<string>googlegemini</string>
 		<string>googlegmail</string>
-		<string>googlehome</string>
-		<string>googlenews</string>
-		<string>googlephotos</string>
-		<string>googlesheets</string>
-		<string>googleslides</string>
-		<string>googletasks</string>
-		<string>googletranslate</string>
-		<string>googlevoice</string>
-		<string>http</string>
-		<string>https</string>
-		<string>instagram</string>
-		<string>mailto</string>
-		<string>playmovies</string>
-		<string>tailwindAppShare</string>
-		<string>twitter</string>
 		<string>vnd.google.calendar</string>
 		<string>vnd.youtube</string>
-		<string>vnd.youtube.kids</string>
 		<string>vnd.youtube.music</string>
-		<string>vnd.youtube.tv</string>
+		<string>comgooglemaps</string>
 		<string>waze</string>
-		<string>whatsapp</string>
+		<string>googledrive</string>
+		<string>googledocs</string>
+		<string>googlesheets</string>
+		<string>googleslides</string>
+		<string>googletranslate</string>
+		<string>googlehome</string>
+		<string>comgoogleearthgeo</string>
+		<string>comgooglefamilylink</string>
 	</array>
 	<key>MinimumOSVersion</key>
 	<string>16.0</string>
@@ -330,18 +311,6 @@
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<false/>
-		<key>UISceneConfigurations</key>
-		<dict>
-			<key>UIWindowSceneSessionRoleApplication</key>
-			<array>
-				<dict>
-					<key>UISceneConfigurationName</key>
-					<string>Default Configuration</string>
-					<key>UISceneDelegateClassName</key>
-					<string>GMOMainWindowSceneDelegate</string>
-				</dict>
-			</array>
-		</dict>
 	</dict>
 	<key>UIApplicationShortcutItems</key>
 	<array>
