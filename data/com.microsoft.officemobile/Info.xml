@@ -93,7 +93,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.114.3</string>
+	<string>2.115</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -132,9 +132,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.114.26093034</string>
+	<string>2.115.26100924</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A261</string>
+	<string>27A9275</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -162,6 +162,10 @@
 		<dict>
 			<key>INAlternativeAppName</key>
 			<string>Microsoft Copilot</string>
+		</dict>
+		<dict>
+			<key>INAlternativeAppName</key>
+			<string>M365 Copilot</string>
 		</dict>
 	</array>
 	<key>InTuneMAMLSApplicationQueriesSchemes</key>
@@ -345,7 +349,7 @@
 		<string>90</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.114.930.3</string>
+	<string>2.115.1009.0</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
