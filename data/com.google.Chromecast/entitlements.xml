@@ -8,6 +8,7 @@
 		<string>applinks:g.co</string>
 		<string>applinks:oauth-redirect.googleusercontent.com</string>
 		<string>applinks:home.google.com</string>
+		<string>applinks:signin.google</string>
 		<string>webcredentials:google.com</string>
 	</array>
 	<key>com.apple.developer.networking.multicast</key>

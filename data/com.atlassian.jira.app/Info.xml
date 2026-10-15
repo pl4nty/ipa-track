@@ -101,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>266.0.0</string>
+	<string>266.2.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -158,7 +158,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>266.0.0.18409</string>
+	<string>266.2.0.18600</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A9275</string>
 	<key>DTCompiler</key>
@@ -202,26 +202,18 @@
 	</dict>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>confluence-server</string>
-		<string>confluence-server-intunemam</string>
+		<string>msauthv2</string>
+		<string>msauthv3</string>
 		<string>mailto</string>
 		<string>mailto-intunemam</string>
 		<string>jira</string>
-		<string>jira-intunemam</string>
 		<string>microsoft-edge-https</string>
 		<string>microsoft-edge-https-intunemam</string>
 		<string>confluence</string>
-		<string>confluence-intunemam</string>
 		<string>slack</string>
-		<string>slack-intunemam</string>
-		<string>jira-server</string>
-		<string>jira-server-intunemam</string>
 		<string>OpsGenie</string>
-		<string>OpsGenie-intunemam</string>
 		<string>trello</string>
-		<string>trello-intunemam</string>
 		<string>org-appextension-feature-password-management</string>
-		<string>org-appextension-feature-password-management-intunemam</string>
 		<string>http</string>
 		<string>http-intunemam</string>
 		<string>https</string>
@@ -229,22 +221,12 @@
 		<string>microsoft-edge-http</string>
 		<string>ms-outlook</string>
 		<string>companyportal</string>
-		<string>smart-ns</string>
-		<string>zips</string>
 		<string>lacoonsecurity</string>
-		<string>wandera</string>
 		<string>lookoutwork-ase</string>
-		<string>skycure</string>
 		<string>betteractiveshield</string>
-		<string>smsec</string>
-		<string>mvisionmobile</string>
-		<string>scmx</string>
 		<string>intunemam-mtd</string>
-		<string>msauthv2</string>
-		<string>msauthv3</string>
 		<string>loom</string>
 		<string>rovo</string>
-		<string>rovo-intunemam</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
