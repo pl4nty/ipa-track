@@ -4,6 +4,17 @@ import os
 import argparse
 import re
 
+# Tokens that GitHub push protection rejects, which blocks the whole data commit
+SECRET_PATTERNS = [
+    re.compile(rb'[ps]k\.eyJ[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+'),  # Mapbox access token (GitHub flags public ones too)
+]
+
+
+def redact_secrets(data):
+    for pattern in SECRET_PATTERNS:
+        data = pattern.sub(b'REDACTED', data)
+    return data
+
 
 def extract_info_plist(downloadedIPA, appBundleId):
     with zipfile.ZipFile(downloadedIPA, 'r') as zip_ref:
@@ -13,7 +24,7 @@ def extract_info_plist(downloadedIPA, appBundleId):
                 os.makedirs(appBundleId, exist_ok=True)
                 info_dict = plistlib.loads(plist_data)
                 with open(os.path.join(appBundleId, 'Info.xml'), 'wb') as f:
-                    plistlib.dump(info_dict, f, fmt=plistlib.FMT_XML)
+                    f.write(redact_secrets(plistlib.dumps(info_dict, fmt=plistlib.FMT_XML)))
                 break
 
 
@@ -33,7 +44,7 @@ def extract_entitlements(downloadedIPA, appBundleId):
                         f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
                         f.write(
                             b'<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">\n')
-                        f.write(entitlements_data)
+                        f.write(redact_secrets(entitlements_data))
                 break
 
 
@@ -43,7 +54,7 @@ def extract_privacy_info(downloadedIPA, appBundleId):
             if file_name.endswith('PrivacyInfo.xcprivacy') and file_name.startswith('Payload/'):
                 os.makedirs(appBundleId, exist_ok=True)
                 with open(os.path.join(appBundleId, 'PrivacyInfo.xcprivacy'), 'wb') as f:
-                    f.write(zip_ref.read(file_name))
+                    f.write(redact_secrets(zip_ref.read(file_name)))
                 break
 
 

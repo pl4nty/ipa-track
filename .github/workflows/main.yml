@@ -50,6 +50,13 @@ jobs:
             echo "Got Downloading JSON result for $dir_name: $output"
             downloadedIPA=$(echo "$output" | jq -r '.downloadedIPA // empty')
             if [ -z "$downloadedIPA" ]; then
+              # A first-time purchase can succeed without returning download info, so retry once as a redownload
+              echo "::notice::No IPA downloaded for $dir_name, retrying as redownload"
+              if output=$(python3 ipatool-py/main.py --json lookup -b "$dir_name" -c AU download -o ipaDown -s http://127.0.0.1:9000); then
+                downloadedIPA=$(echo "$output" | jq -r '.downloadedIPA // empty')
+              fi
+            fi
+            if [ -z "$downloadedIPA" ]; then
               echo "::warning::No IPA downloaded for $dir_name, skipping"
               continue
             fi
