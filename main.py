@@ -6,7 +6,7 @@ import re
 
 # Tokens that GitHub push protection rejects, which blocks the whole data commit
 SECRET_PATTERNS = [
-    re.compile(rb'sk\.eyJ[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+'),  # Mapbox secret access token
+    re.compile(rb'[ps]k\.eyJ[A-Za-z0-9_-]+\.[A-Za-z0-9_-]+'),  # Mapbox access token (GitHub flags public ones too)
 ]
 
 
