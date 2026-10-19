@@ -79,6 +79,7 @@
 		<string>fr</string>
 		<string>hu</string>
 		<string>it</string>
+		<string>ja</string>
 		<string>ko</string>
 		<string>ms</string>
 		<string>no</string>
@@ -87,13 +88,15 @@
 		<string>sv</string>
 		<string>tr</string>
 		<string>uk</string>
+		<string>zh_CN</string>
+		<string>zh_TW</string>
 	</array>
 	<key>CFBundleName</key>
 	<string>Copilot</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.115</string>
+	<string>2.115.1</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -132,7 +135,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.115.26100924</string>
+	<string>2.115.26101533</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A9275</string>
 	<key>DTCompiler</key>
@@ -304,7 +307,7 @@
 	<key>MSThirdPartySignInURL</key>
 	<string>ms-officemobile-tp</string>
 	<key>MinimumOSVersion</key>
-	<string>18.0</string>
+	<string>26.0</string>
 	<key>NSAppleMusicUsageDescription</key>
 	<string>This lets you insert audio into your document.</string>
 	<key>NSCameraUsageDescription</key>
@@ -349,7 +352,7 @@
 		<string>90</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.115.1009.0</string>
+	<string>2.115.1015.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

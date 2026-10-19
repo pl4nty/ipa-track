@@ -10,7 +10,7 @@
 	<key>BreakpadProduct</key>
 	<string>Google_Search_App_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>25G83</string>
+	<string>25G241</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -139,7 +139,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>442.5</string>
+	<string>443.5</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -177,7 +177,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>442.5.993077048</string>
+	<string>443.5.997327796</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
@@ -185,19 +185,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>24A430</string>
+	<string>24A94232</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>27.0</string>
+	<string>27.1</string>
 	<key>DTSDKBuild</key>
-	<string>24A430</string>
+	<string>24A94232</string>
 	<key>DTSDKName</key>
-	<string>iphoneos27.0</string>
+	<string>iphoneos27.1</string>
 	<key>DTXcode</key>
-	<string>2700</string>
+	<string>2710</string>
 	<key>DTXcodeBuild</key>
-	<string>27A266a</string>
+	<string>27A9275</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>

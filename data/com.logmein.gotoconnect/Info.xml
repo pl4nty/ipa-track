@@ -44,7 +44,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2026.10.1</string>
+	<string>2026.11.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -61,21 +61,11 @@
 				<string>com.logmein.gotoconnect</string>
 			</array>
 		</dict>
-		<dict>
-			<key>CFBundleTypeRole</key>
-			<string>Editor</string>
-			<key>CFBundleURLName</key>
-			<string>pendo-pairing</string>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>pendo-994992b4</string>
-			</array>
-		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2814</string>
+	<string>2835</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A261</string>
+	<string>27A9275</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -125,7 +115,7 @@
 		</dict>
 	</dict>
 	<key>NSAppleMusicUsageDescription</key>
-	<string>Enable access to media library to share files and images through the app.</string>
+	<string>GoTo accesses your media library so you can share files and images in the app.</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
 	<string>Allow bluetooth access to scan for GoToRoom meeting rooms and join meeting sessions via your mobile device.</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
@@ -133,21 +123,23 @@
 	<key>NSCalendarsUsageDescription</key>
 	<string>Enable access to calendar to sync meetings into the app.</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Allow camera access for your meetings and messages.</string>
+	<string>GoTo needs access to your camera for meetings and messages.</string>
 	<key>NSContactsUsageDescription</key>
-	<string>Access to contacts allows GoTo to sync your contacts into the app.</string>
+	<string>GoTo accesses your contacts so you can sync contacts into the app.</string>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>The app doesn’t require access to location.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>The app doesn’t require access to location.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Enable the microphone so that people can hear you during calls and meetings.</string>
+	<string>GoTo needs access to your microphone so others can hear you during sessions and calls.</string>
 	<key>NSMotionUsageDescription</key>
 	<string>The app doesn’t need access to motion detection.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Giving access allows you to share photos.</string>
+	<string>GoTo accesses your photos so you can share images in the app.</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
-	<string>Access to speech recognition will allow the app to convert speech to text.</string>
+	<string>GoTo uses speech recognition to turn your voicemails and calls into text.</string>
+	<key>RCTNewArchEnabled</key>
+	<false/>
 	<key>RTCAppGroupIdentifier</key>
 	<string>group.com.logmein.gotoconnect</string>
 	<key>RTCScreenSharingExtension</key>

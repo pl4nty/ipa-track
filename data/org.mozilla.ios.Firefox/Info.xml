@@ -339,7 +339,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>158.0</string>
+	<string>158.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -361,11 +361,11 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>77818</string>
+	<string>78316</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A261</string>
+	<string>27A9275</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
