@@ -31,7 +31,7 @@
 		<string>com.meta.mwa.air.backgroundDownload</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-10-10T17:44:57</string>
+	<string>2026-10-16T02:12:12</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -72,7 +72,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>294.1.0</string>
+	<string>295.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -90,7 +90,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1088611637</string>
+	<string>1092575485</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A9275</string>
 	<key>DTPlatformBuild</key>
@@ -108,23 +108,23 @@
 	<key>DTXcodeBuild</key>
 	<string>27A266a</string>
 	<key>FBAppVersion</key>
-	<string>294.1.0.28.163</string>
+	<string>295.0.0.30.167</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1088611637</integer>
+	<integer>1092575485</integer>
 	<key>FBBuildRevision</key>
-	<string>f42678015709e9367627a46d4deae626f3b4c5c1</string>
+	<string>92353388c5293a418998dab6346163cd55f55d22</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1791651615.025200</string>
+	<string>1792114165.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1791654297</integer>
+	<integer>1792116732</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>294.1.0</string>
+	<string>295.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -144,7 +144,6 @@
 		<string>ember</string>
 		<string>fb-ama</string>
 		<string>whatsapp-consumer</string>
-		<string>spotify</string>
 		<string>amznmp3</string>
 		<string>ihr</string>
 		<string>rbmaudible-v2</string>
@@ -159,6 +158,7 @@
 		<string>viber</string>
 		<string>waze</string>
 		<string>comgooglemaps</string>
+		<string>spotify</string>
 		<string>eclipse</string>
 		<string>calm</string>
 		<string>duo</string>

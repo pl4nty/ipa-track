@@ -28,6 +28,8 @@
 		<string>applinks:*.myworkday.com</string>
 		<string>applinks:*.workday.net</string>
 		<string>applinks:*.myworkday.net</string>
+		<string>applinks:*.workday.eu</string>
+		<string>applinks:*.myworkday.eu</string>
 		<string>applinks:*.megaleo.com</string>
 		<string>applinks:*.workdaysuv.com</string>
 	</array>

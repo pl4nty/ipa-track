@@ -48,7 +48,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.10.11</string>
+	<string>26.10.21</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSpokenName</key>
@@ -87,7 +87,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>462488</string>
+	<string>462748</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
@@ -139,6 +139,8 @@
 	</dict>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
+		<string>msauthv2</string>
+		<string>msauthv3</string>
 		<string>app-settings</string>
 		<string>app-settings-intunemam</string>
 		<string>betteractiveshield</string>
@@ -171,8 +173,6 @@
 		<string>microsoft-edge-https-intunemam</string>
 		<string>ms-outlook</string>
 		<string>ms-outlook-intunemam</string>
-		<string>msauthv2</string>
-		<string>msauthv3</string>
 		<string>mvisionmobile</string>
 		<string>ophttp</string>
 		<string>ophttp-intunemam</string>

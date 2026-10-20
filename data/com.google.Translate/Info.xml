@@ -22,10 +22,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_translate_color60x60</string>
+				<string>TranslateApp60x60</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_translate_color</string>
+			<string>TranslateApp</string>
 		</dict>
 	</dict>
 	<key>CFBundleIcons~ipad</key>
@@ -34,11 +34,11 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>logo_translate_color60x60</string>
-				<string>logo_translate_color76x76</string>
+				<string>TranslateApp60x60</string>
+				<string>TranslateApp76x76</string>
 			</array>
 			<key>CFBundleIconName</key>
-			<string>logo_translate_color</string>
+			<string>TranslateApp</string>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
@@ -135,7 +135,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>10.42.291</string>
+	<string>10.43.375</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -158,7 +158,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>10.42.291</string>
+	<string>10.43.375</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A9275</string>
 	<key>DTCompiler</key>
