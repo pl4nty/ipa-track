@@ -5,7 +5,7 @@
 	<key>AppIdentifierPrefix</key>
 	<string>RR65JMWDP3.</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24G830</string>
+	<string>25G241</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -377,7 +377,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.48.0</string>
+	<string>3.49.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -417,25 +417,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>930922</string>
+	<string>930924</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A261</string>
+	<string>27A9275</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23C57</string>
+	<string>24A94232</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>27.1</string>
 	<key>DTSDKBuild</key>
-	<string>23C57</string>
+	<string>24A94232</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos27.1</string>
 	<key>DTXcode</key>
-	<string>2630</string>
+	<string>2710</string>
 	<key>DTXcodeBuild</key>
-	<string>17C529</string>
+	<string>27A9275</string>
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>SafariViewControllerBlockedOverride</key>
@@ -520,6 +520,23 @@
 		<string>DSIndigo-Regular.otf</string>
 		<string>DSIndigo-Medium.otf</string>
 	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>DocuSignIt.SceneDelegate</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

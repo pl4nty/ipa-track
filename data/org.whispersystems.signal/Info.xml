@@ -13,11 +13,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Wed Oct  7 16:28:39 UTC 2026</string>
+		<string>Wed Oct 14 17:06:54 UTC 2026</string>
 		<key>SignalCommit</key>
-		<string>4046e74fe7b52f7790337ede04bde76fc173f23f Feature flags for .production.</string>
+		<string>0e7fc32f6c14b4c405c316f9b22a11120178e1a3 Disable unread reminders by default</string>
 		<key>Timestamp</key>
-		<integer>1791390519</integer>
+		<integer>1791997614</integer>
 		<key>XCodeVersion</key>
 		<string>2600.2660</string>
 	</dict>
@@ -179,7 +179,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.32</string>
+	<string>8.33</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -200,7 +200,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1910</string>
+	<string>1925</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27A9275</string>
 	<key>DTCompiler</key>
