@@ -48,7 +48,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.10.21</string>
+	<string>26.10.22</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSpokenName</key>
@@ -87,7 +87,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>462748</string>
+	<string>462750</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
@@ -141,38 +141,39 @@
 	<array>
 		<string>msauthv2</string>
 		<string>msauthv3</string>
+		<string>companyportal</string>
+		<string>microsoft-edge-https</string>
+		<string>microsoft-edge-https-intunemam</string>
+		<string>microsoft-edge-http</string>
+		<string>microsoft-edge-http-intunemam</string>
+		<string>mibrowsers</string>
+		<string>mibrowser</string>
+		<string>mibrowser-intunemam</string>
+		<string>ms-outlook</string>
+		<string>ms-outlook-intunemam</string>
+		<string>googlegmail</string>
+		<string>googlegmail-intunemam</string>
+		<string>ymail</string>
+		<string>message</string>
+		<string>message-intunemam</string>
+		<string>mailto</string>
+		<string>mailto-intunemam</string>
 		<string>app-settings</string>
 		<string>app-settings-intunemam</string>
-		<string>betteractiveshield</string>
-		<string>companyportal</string>
-		<string>facetime</string>
-		<string>facetime-intunemam</string>
+		<string>https-intunemam</string>
+		<string>http-intunemam</string>
 		<string>googlechrome</string>
 		<string>googlechrome-intunemam</string>
+		<string>betteractiveshield</string>
+		<string>facetime</string>
+		<string>facetime-intunemam</string>
 		<string>googlechromes</string>
 		<string>googlechromes-intunemam</string>
 		<string>googledrive</string>
 		<string>googledrive-intunemam</string>
-		<string>googlegmail</string>
-		<string>googlegmail-intunemam</string>
-		<string>http-intunemam</string>
-		<string>https-intunemam</string>
 		<string>intunemam-mtd</string>
 		<string>lacoonsecurity</string>
 		<string>lookoutwork-ase</string>
-		<string>mailto</string>
-		<string>mailto-intunemam</string>
-		<string>message</string>
-		<string>message-intunemam</string>
-		<string>mibrowser</string>
-		<string>mibrowser-intunemam</string>
-		<string>mibrowsers</string>
-		<string>microsoft-edge-http</string>
-		<string>microsoft-edge-http-intunemam</string>
-		<string>microsoft-edge-https</string>
-		<string>microsoft-edge-https-intunemam</string>
-		<string>ms-outlook</string>
-		<string>ms-outlook-intunemam</string>
 		<string>mvisionmobile</string>
 		<string>ophttp</string>
 		<string>ophttp-intunemam</string>
@@ -187,8 +188,8 @@
 		<string>tel</string>
 		<string>tel-intunemam</string>
 		<string>telprompt</string>
-		<string>telprompt-intunemam</string>
 		<string>wandera</string>
+		<string>telprompt-intunemam</string>
 		<string>zips</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>

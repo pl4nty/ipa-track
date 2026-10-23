@@ -13,7 +13,7 @@
 	<key>BreakpadProduct</key>
 	<string>Photos_iOS</string>
 	<key>BuildMachineOSBuild</key>
-	<string>25F80</string>
+	<string>25G83</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -101,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.97.0</string>
+	<string>7.98.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -121,27 +121,27 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>7.97.997554990</string>
+	<string>7.98.1003211257</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23E252</string>
+	<string>24A430</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.4</string>
+	<string>27.0</string>
 	<key>DTSDKBuild</key>
-	<string>23E252</string>
+	<string>24A430</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.4</string>
+	<string>iphoneos27.0</string>
 	<key>DTXcode</key>
-	<string>2641</string>
+	<string>2700</string>
 	<key>DTXcodeBuild</key>
-	<string>17E202</string>
+	<string>27A266a</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>FirebaseScreenReportingEnabled</key>
@@ -150,53 +150,31 @@
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>adobelightroom</string>
-		<string>adobesparkpost</string>
-		<string>capcut</string>
-		<string>com.google.chat</string>
-		<string>com.google.fit</string>
-		<string>com.google.stella</string>
-		<string>comgoogleearthgeo</string>
-		<string>comgooglefamilylink</string>
-		<string>comgooglekeep</string>
-		<string>comgooglemaps</string>
+		<string>googlesnapseed</string>
+		<string>comgoogleulrtestulr</string>
+		<string>comgoogleulrtestotherappulr</string>
 		<string>comgooglemapsulr</string>
 		<string>comgooglepaidtasksulr</string>
-		<string>comgoogleulrtestotherappulr</string>
-		<string>comgoogleulrtestulr</string>
-		<string>creatorstudio</string>
-		<string>gmeet</string>
-		<string>googleapp</string>
-		<string>googlebooks</string>
+		<string>vnd.youtube</string>
+		<string>photoscan</string>
+		<string>adobelightroom</string>
+		<string>adobesparkpost</string>
+		<string>vsco</string>
+		<string>capcut</string>
 		<string>googlechrome</string>
 		<string>googlechromes</string>
-		<string>googleclassroom</string>
-		<string>googledocs</string>
-		<string>googledrive</string>
-		<string>googlegemini</string>
+		<string>googleapp</string>
 		<string>googlegmail</string>
-		<string>googlehome</string>
-		<string>googlenews</string>
-		<string>googlephotos</string>
+		<string>vnd.google.calendar</string>
+		<string>vnd.youtube.music</string>
+		<string>googlegemini</string>
+		<string>comgooglemaps</string>
+		<string>waze</string>
+		<string>googledrive</string>
+		<string>googledocs</string>
 		<string>googlesheets</string>
 		<string>googleslides</string>
-		<string>googlesnapseed</string>
-		<string>googletasks</string>
 		<string>googletranslate</string>
-		<string>googlevoice</string>
-		<string>http</string>
-		<string>https</string>
-		<string>mailto</string>
-		<string>photoscan</string>
-		<string>playmovies</string>
-		<string>tailwindAppShare</string>
-		<string>vnd.google.calendar</string>
-		<string>vnd.youtube</string>
-		<string>vnd.youtube.kids</string>
-		<string>vnd.youtube.music</string>
-		<string>vnd.youtube.tv</string>
-		<string>vsco</string>
-		<string>waze</string>
 	</array>
 	<key>LSHasLocalizedDisplayName</key>
 	<true/>
