@@ -11,7 +11,7 @@
 		<string>com.microsoft.powerbimobile.BGAppRefresh.refresh</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25G76</string>
+	<string>25G83</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -80,7 +80,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>38.5</string>
+	<string>38.6</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -108,9 +108,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.2.261008.2128844</string>
+	<string>1.2.261020.2130988</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -218,11 +218,6 @@
 	<string>iOS</string>
 	<key>ONUpdateAppId</key>
 	<string>PowerBI</string>
-	<key>UIAppFonts</key>
-	<array>
-		<string>SF-Compact-Text-Semibold.otf</string>
-		<string>SF-Pro-Text-Bold.otf</string>
-	</array>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

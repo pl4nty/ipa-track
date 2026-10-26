@@ -18,7 +18,7 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBuildDate</key>
-	<string>2026-10-18T04:00:16</string>
+	<string>2026-10-23T00:52:23</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -185,7 +185,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>584.0.0</string>
+	<string>584.1.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -239,43 +239,43 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1094124691</string>
+	<string>1097955119</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTPlatformBuild</key>
 	<string>24A94232</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>27.0</string>
+	<string>27.1</string>
 	<key>DTSDKBuild</key>
 	<string>24A94232</string>
 	<key>DTSDKName</key>
-	<string>iphoneos27.0</string>
+	<string>iphoneos27.1</string>
 	<key>DTXcode</key>
 	<string>2710</string>
 	<key>DTXcodeBuild</key>
 	<string>27A9275</string>
 	<key>FBAppVersion</key>
-	<string>584.0.0.38.70</string>
+	<string>584.1.0.65.70</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1094124691</integer>
+	<integer>1097955119</integer>
 	<key>FBBuildRevision</key>
-	<string>573393c4ae60bcec674d623e7f8525d2291309c9</string>
+	<string>82a1dc42616fd8c7c99a6d51f53280bd3c69ff2e</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1792294814.025200</string>
+	<string>1792713212.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1792296016</integer>
+	<integer>1792716743</integer>
 	<key>FBJSBundleRoot</key>
 	<string>EntryPoints/WildeBundle</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>584.0.0</string>
+	<string>584.1.0</string>
 	<key>FacebookAppID</key>
 	<string>6628568379</string>
 	<key>FacebookAppID~ipad</key>
