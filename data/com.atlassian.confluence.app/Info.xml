@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>25E246</string>
+	<string>25G83</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -46,7 +46,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.24.1</string>
+	<string>5.25.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -87,25 +87,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>40</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23F81a</string>
+	<string>24A430</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.5</string>
+	<string>27.0</string>
 	<key>DTSDKBuild</key>
-	<string>23F81a</string>
+	<string>24A430</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.5</string>
+	<string>iphoneos27.0</string>
 	<key>DTXcode</key>
-	<string>2660</string>
+	<string>2700</string>
 	<key>DTXcodeBuild</key>
-	<string>17F113</string>
+	<string>27A266a</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>IntuneMAMSettings</key>
@@ -127,33 +127,23 @@
 	</dict>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
-		<string>scmx</string>
-		<string>smsec</string>
+		<string>msauthv2</string>
+		<string>msauthv3</string>
 		<string>microsoft-edge-http</string>
 		<string>microsoft-edge-http-intunemam</string>
 		<string>lookoutwork-ase</string>
-		<string>skycure</string>
-		<string>mvisionmobile</string>
 		<string>companyportal</string>
 		<string>lacoonsecurity</string>
 		<string>intunemam-mtd</string>
-		<string>msauthv2</string>
-		<string>wandera</string>
 		<string>betteractiveshield</string>
-		<string>msauthv3</string>
 		<string>microsoft-edge-https</string>
 		<string>microsoft-edge-https-intunemam</string>
-		<string>zips</string>
 		<string>ms-outlook</string>
 		<string>ms-outlook-intunemam</string>
-		<string>smart-ns</string>
 		<string>https-intunemam</string>
 		<string>http-intunemam</string>
 		<string>rovo</string>
-		<string>rovo-intunemam</string>
 		<string>jira</string>
-		<string>confluence-server</string>
-		<string>jira-server</string>
 		<string>trello</string>
 		<string>opsgenie</string>
 		<string>loom</string>

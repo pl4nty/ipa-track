@@ -584,7 +584,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>16.115</string>
+	<string>16.115.1</string>
 	<key>CFBundleSignature</key>
 	<string>MSON</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -615,9 +615,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>16115000.26101531</string>
+	<string>16115001.26102321</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -761,9 +761,9 @@
 	<key>MSOfeedbackPhoneAppID</key>
 	<string>248</string>
 	<key>MicrosoftExtendedBuildNumber</key>
-	<string>16.115/261015</string>
+	<string>16.115.1/261023</string>
 	<key>MinimumOSVersion</key>
-	<string>18.0</string>
+	<string>26.0</string>
 	<key>NSAppleMusicUsageDescription</key>
 	<string>This lets you insert audio into your notebook.</string>
 	<key>NSBluetoothAlwaysUsageDescription</key>
@@ -789,7 +789,7 @@
 		<string>com.microsoft.onenote.viewing-page</string>
 	</array>
 	<key>OfficeLegacyVersion</key>
-	<string>16.115.1015.0</string>
+	<string>16.115.1023.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>

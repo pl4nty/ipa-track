@@ -354,7 +354,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.115</string>
+	<string>2.115.1</string>
 	<key>CFBundleSignature</key>
 	<string>PPT3</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -409,9 +409,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.115.26101531</string>
+	<string>2.115.26102321</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -580,7 +580,7 @@
 	<key>MSThirdPartySignInURL</key>
 	<string>ms-powerpoint-tp</string>
 	<key>MinimumOSVersion</key>
-	<string>18.0</string>
+	<string>26.0</string>
 	<key>NSAppleMusicUsageDescription</key>
 	<string>This lets you insert audio into your presentation.</string>
 	<key>NSCameraUsageDescription</key>
@@ -628,7 +628,7 @@
 		<string>16</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.115.1015.0</string>
+	<string>2.115.1023.1</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
