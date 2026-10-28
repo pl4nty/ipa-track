@@ -65,7 +65,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>156.8078.54</string>
+	<string>157.8103.24</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -97,7 +97,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>156.0.8078.54</string>
+	<string>157.0.8103.24</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B47</string>
 	<key>DTCompiler</key>
@@ -123,7 +123,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Chrome</string>
 	<key>GTMUserAgentVersion</key>
-	<string>156.0.8078.54</string>
+	<string>157.0.8103.24</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
@@ -135,31 +135,30 @@
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>googledrive</string>
-		<string>com.google.chat</string>
-		<string>comgoogleearthgeo</string>
-		<string>comgooglekeep</string>
-		<string>comgooglemaps</string>
-		<string>gmeet</string>
-		<string>googleapp</string>
 		<string>googlechrome</string>
 		<string>googlechromes</string>
-		<string>googleclassroom</string>
-		<string>googledocs</string>
-		<string>googledrive</string>
-		<string>googlegemini</string>
+		<string>googleapp</string>
 		<string>googlegmail</string>
-		<string>googlehome</string>
+		<string>vnd.google.calendar</string>
+		<string>vnd.youtube</string>
+		<string>vnd.youtube.music</string>
+		<string>googlegemini</string>
+		<string>comgooglemaps</string>
+		<string>waze</string>
 		<string>googlephotos</string>
+		<string>googledocs</string>
 		<string>googlesheets</string>
 		<string>googleslides</string>
 		<string>googletranslate</string>
-		<string>googlevoice</string>
+		<string>googlehome</string>
+		<string>comgoogleearthgeo</string>
+		<string>comgooglefamilylink</string>
 		<string>tailwindAppShare</string>
-		<string>vnd.google.calendar</string>
-		<string>vnd.youtube</string>
+		<string>gmeet</string>
+		<string>googleclassroom</string>
 		<string>vnd.youtube.kids</string>
-		<string>vnd.youtube.music</string>
-		<string>waze</string>
+		<string>comgooglekeep</string>
+		<string>creatorstudio</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
@@ -204,7 +203,7 @@
 		<string>SearchInChromeIntent</string>
 	</array>
 	<key>SCMRevision</key>
-	<string>d009ad4a06d07c4399cb402b509b6e9cd5b007d4-refs/branch-heads/8078_46@{#6}</string>
+	<string>8ef11cbce449907186245733c79f6ca04fd9602d-refs/branch-heads/8103@{#874}</string>
 	<key>SSOAuthURLScheme</key>
 	<string>com.google.sso.chrome.stable</string>
 	<key>UIApplicationDelegate</key>

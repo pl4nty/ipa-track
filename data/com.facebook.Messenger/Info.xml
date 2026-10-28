@@ -20,7 +20,7 @@
 		<string>com.facebook.messenger.widget_suggestion_background_fetch</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-10-17T05:55:51</string>
+	<string>2026-10-27T04:11:09</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -211,7 +211,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>584.0.0</string>
+	<string>585.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -424,9 +424,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1093507478</string>
+	<string>1101076820</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTPlatformBuild</key>
 	<string>24A430</string>
 	<key>DTPlatformName</key>
@@ -442,23 +442,23 @@
 	<key>DTXcodeBuild</key>
 	<string>27A266a</string>
 	<key>FBAppVersion</key>
-	<string>584.0.0.33.109</string>
+	<string>585.0.0.28.107</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1093507478</integer>
+	<integer>1101076820</integer>
 	<key>FBBuildRevision</key>
-	<string>0e218a39e8b530ec48ce7d2f55da847a166d2923</string>
+	<string>44b6ba025ad152f3de5c043626044f0a1de11264</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1792214511.025200</string>
+	<string>1793069575.025200</string>
 	<key>FBBuildTime</key>
-	<integer>1792216551</integer>
+	<integer>1793074269</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>584.0.0</string>
+	<string>585.0.0</string>
 	<key>FacebookAppID</key>
 	<string>437626316973788</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -477,12 +477,7 @@
 		<string>ember</string>
 		<string>fb-pma</string>
 		<string>fb-pulse</string>
-		<string>kbank.kplus</string>
-		<string>scbeasyembedded</string>
-		<string>bualuangmbanking</string>
-		<string>krungsri-kma</string>
-		<string>ktbnext</string>
-		<string>tcb</string>
+		<string>fb-ama</string>
 		<string>fb289934484538965</string>
 		<string>fb166363243399924</string>
 		<string>fb269769129817122</string>
@@ -495,6 +490,8 @@
 		<string>fb199331106902</string>
 		<string>fb994723529589912</string>
 		<string>fb1065312064700600</string>
+		<string>comgooglemaps</string>
+		<string>waze</string>
 		<string>fb154072648063392</string>
 		<string>fb3824384190943218</string>
 		<string>fb210831918949520</string>
@@ -516,12 +513,15 @@
 		<string>fb619487934836296</string>
 		<string>fb1161754946049195</string>
 		<string>fb141987249766567</string>
-		<string>comgooglemaps</string>
-		<string>waze</string>
 		<string>otpauth</string>
-		<string>fb-ama</string>
 		<string>duo</string>
 		<string>googleauthenticator</string>
+		<string>kbank.kplus</string>
+		<string>scbeasyembedded</string>
+		<string>bualuangmbanking</string>
+		<string>krungsri-kma</string>
+		<string>ktbnext</string>
+		<string>tcb</string>
 		<string>http</string>
 		<string>https</string>
 	</array>
