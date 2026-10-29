@@ -85,6 +85,7 @@
 		<string>webcredentials:account.meta.com</string>
 		<string>webcredentials:accounts.meta.com</string>
 		<string>webcredentials:meta.com</string>
+		<string>webcredentials:auth.visa.com</string>
 		<string>applinks:familycenter.facebook.com</string>
 	</array>
 	<key>com.apple.developer.networking.wifi-info</key>

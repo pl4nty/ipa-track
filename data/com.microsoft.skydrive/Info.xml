@@ -75,7 +75,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>18.12.3</string>
+	<string>26.1.3</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -107,32 +107,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>58375731</string>
+	<string>58888823</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23F81a</string>
+	<string>24A430</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.5</string>
+	<string>27.0</string>
 	<key>DTSDKBuild</key>
-	<string>23F81a</string>
+	<string>24A430</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.5</string>
+	<string>iphoneos27.0</string>
 	<key>DTXcode</key>
-	<string>2660</string>
+	<string>2700</string>
 	<key>DTXcodeBuild</key>
-	<string>17F113</string>
-	<key>Fabric</key>
-	<dict>
-		<key>APIKey</key>
-		<string>8eeacbf2100759564b8a78688a755f1bca78e9d1</string>
-		<key>Kits</key>
-		<array/>
-	</dict>
+	<string>27A266a</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>IntuneMAMSettings</key>
@@ -155,9 +148,13 @@
 		<key>AriaMaxTeardownUploadTimeInSec</key>
 		<integer>2</integer>
 		<key>AriaMinimumTraceLevel</key>
-		<string>4</string>
+		<integer>4</integer>
 		<key>DebugSettingsEnabled</key>
 		<string>NO</string>
+		<key>FinishLaunchingAtStartup</key>
+		<true/>
+		<key>MAMPolicyRequired</key>
+		<false/>
 		<key>MaxFileProtectionLevel</key>
 		<string>NSFileProtectionCompleteUntilFirstUserAuthentication</string>
 		<key>MultiIdentity</key>
@@ -191,8 +188,6 @@
 		<string>msflow</string>
 		<string>onenote</string>
 		<string>scmx</string>
-		<string>tg</string>
-		<string>viber</string>
 		<string>whatsapp</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
@@ -200,7 +195,7 @@
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>18.0</string>
+	<string>26.0</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -211,22 +206,20 @@
 		<dict/>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string>OneDrive needs access to your camera to take photos and videos.</string>
+	<string>OneDrive needs access to your camera to capture photos and videos and save them to your files.</string>
 	<key>NSContactsUsageDescription</key>
 	<string>OneDrive needs access to share to contacts.</string>
 	<key>NSFaceIDUsageDescription</key>
 	<string>OneDrive needs access to configure passcode.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>OneDrive needs access to your microphone to record videos.</string>
+	<string>OneDrive needs access to your microphone to record videos and save them to your files.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string></string>
+	<string>OneDrive needs access to save photos and videos to your library.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>OneDrive needs access to upload photos and videos.</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>OneDrive uses speech recognition to convert your voice to text.</string>
 	<key>NSSupportsLiveActivities</key>
-	<true/>
-	<key>NSUbiquitousContainerIsDocumentScopePublic</key>
 	<true/>
 	<key>NSUserActivityTypes</key>
 	<array>
@@ -245,12 +238,8 @@
 			<key>UIWindowSceneSessionRoleApplication</key>
 			<array>
 				<dict>
-					<key>UISceneClassName</key>
-					<string>UIWindowScene</string>
 					<key>UISceneConfigurationName</key>
-					<string>Main</string>
-					<key>UISceneDelegateClassName</key>
-					<string>MODSceneDelegate</string>
+					<string>Default Configuration</string>
 				</dict>
 			</array>
 		</dict>
@@ -262,15 +251,13 @@
 		<string>processing</string>
 		<string>remote-notification</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
 		<integer>2</integer>
 	</array>
 	<key>UILaunchStoryboardName</key>
-	<string>Launch_Screen</string>
+	<string>LaunchScreen</string>
 	<key>UIPrerenderedIcon</key>
 	<true/>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -280,11 +267,17 @@
 	<key>UIRequiresFullScreen</key>
 	<false/>
 	<key>UIRequiresPersistentWiFi</key>
-	<string>true</string>
+	<true/>
 	<key>UIStatusBarHidden</key>
 	<true/>
 	<key>UIStatusBarStyle</key>
 	<string>UIStatusBarStyleLightContent</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
@@ -292,16 +285,23 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>UISupportedInterfaceOrientations~iphone</key>
-	<array>
-		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
-	</array>
 	<key>UISupportsDocumentBrowser</key>
 	<false/>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+	<key>UTExportedTypeDeclarations</key>
+	<array>
+		<dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>public.data</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>OneDrive Item</string>
+			<key>UTTypeIdentifier</key>
+			<string>com.microsoft.onedrive.item</string>
+		</dict>
+	</array>
 	<key>UTImportedTypeDeclarations</key>
 	<array>
 		<dict>
@@ -321,7 +321,5 @@
 			<string>com.microsoft.intune.mam.public.item</string>
 		</dict>
 	</array>
-	<key>branch_key</key>
-	<string>key_live_bdfyUornHWWDL1y75jObYdefEFemM4ih</string>
 </dict>
 </plist>

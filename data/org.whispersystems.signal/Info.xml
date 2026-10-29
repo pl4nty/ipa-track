@@ -13,16 +13,16 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Tue Oct 20 18:21:44 UTC 2026</string>
+		<string>Tue Oct 27 23:54:38 UTC 2026</string>
 		<key>SignalCommit</key>
-		<string>dbe8a9a41b1fd3a910c0866a12af2c1588f34896 Feature flags for .production.</string>
+		<string>5d7327e49859d44bfaaea09294ec4a1749f39ff0 Feature flags for .production.</string>
 		<key>Timestamp</key>
-		<integer>1792520504</integer>
+		<integer>1793145278</integer>
 		<key>XCodeVersion</key>
-		<string>2600.2660</string>
+		<string>2700.2710</string>
 	</dict>
 	<key>BuildMachineOSBuild</key>
-	<string>25F80</string>
+	<string>26A434</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -179,7 +179,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.34</string>
+	<string>8.35</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -200,25 +200,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1942</string>
+	<string>1954</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23F81a</string>
+	<string>24A94232</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.5</string>
+	<string>27.1</string>
 	<key>DTSDKBuild</key>
-	<string>23F81a</string>
+	<string>24A94232</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.5</string>
+	<string>iphoneos27.1</string>
 	<key>DTXcode</key>
-	<string>2660</string>
+	<string>2710</string>
 	<key>DTXcodeBuild</key>
-	<string>17F113</string>
+	<string>27A9275</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LOGS_EMAIL</key>
