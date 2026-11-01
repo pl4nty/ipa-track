@@ -9,7 +9,7 @@
 		<string>com.microsoft.CompanyPortal.BackgroundDevicePolling</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25F84</string>
+	<string>25G83</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -63,7 +63,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.2608.0</string>
+	<string>5.2610.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -84,25 +84,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>53.2608119.000</string>
+	<string>53.2610069.000</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>17F106</string>
+	<string>27A9275</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>17F113</string>
 	<key>LSApplicationCategoryType</key>
 	<string></string>
 	<key>LSApplicationQueriesSchemes</key>

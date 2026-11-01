@@ -13,11 +13,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Tue Oct 27 23:54:38 UTC 2026</string>
+		<string>Fri Oct 30 17:11:39 UTC 2026</string>
 		<key>SignalCommit</key>
-		<string>5d7327e49859d44bfaaea09294ec4a1749f39ff0 Feature flags for .production.</string>
+		<string>4f019b8ba2d10b924d68b4b294bfceb05bde2aa4 Bump version to 8.35.1</string>
 		<key>Timestamp</key>
-		<integer>1793145278</integer>
+		<integer>1793380299</integer>
 		<key>XCodeVersion</key>
 		<string>2700.2710</string>
 	</dict>
@@ -179,7 +179,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.35</string>
+	<string>8.35.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -200,9 +200,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1954</string>
+	<string>1964</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27B47</string>
+	<string>27B52</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

@@ -85,7 +85,7 @@
 		<string>com.alltrails.AllTrails.background.download</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25G83</string>
+	<string>25G76</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en-GB</string>
 	<key>CFBundleDisplayName</key>
@@ -124,7 +124,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.10.30</string>
+	<string>26.10.40</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -182,9 +182,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>114427</string>
+	<string>114678</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

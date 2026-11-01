@@ -50,7 +50,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.1.7</string>
+	<string>6.1.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -74,9 +74,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20261014.03</string>
+	<string>20261029.01</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -121,7 +121,7 @@
 		<key>AriaEnableAutoUserSession</key>
 		<true/>
 		<key>AriaIngestionKey</key>
-		<string></string>
+		<string>8a781fcb8f474302ae340795e151e48f-f32573f0-20c8-4a89-87e4-8b3992d22362-7139</string>
 		<key>AriaMaxTeardownUploadTimeInSec</key>
 		<integer>4</integer>
 		<key>AriaMinimumTraceLevel</key>
@@ -179,6 +179,8 @@
 		<string>mvisionmobile</string>
 	</array>
 	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>LoginExperienceRevampAllowed</key>
 	<true/>
 	<key>MinimumOSVersion</key>
 	<string>18.6</string>
@@ -241,8 +243,6 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-	<key>UIUserInterfaceStyle</key>
-	<string>Light</string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
 	<key>User Agent</key>

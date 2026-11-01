@@ -66,7 +66,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>7.2.3</string>
+	<string>7.2.5</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -92,29 +92,30 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>39345</string>
+	<string>39720</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27B47</string>
+	<string>27B52</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23C53</string>
+	<string>24A94232</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.2</string>
+	<string>27.1</string>
 	<key>DTSDKBuild</key>
-	<string>23C53</string>
+	<string>24A94232</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.2</string>
+	<string>iphoneos27.1</string>
 	<key>DTXcode</key>
-	<string>2620</string>
+	<string>2710</string>
 	<key>DTXcodeBuild</key>
-	<string>17C52</string>
+	<string>27A9275</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
+		<string>zoomdocs</string>
 		<string>dbapi-2</string>
 		<string>dbapi-8-emm</string>
 		<string>youtube</string>
