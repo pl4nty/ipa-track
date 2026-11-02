@@ -14,7 +14,7 @@
 		<string>org.mozilla.ios.firefox.suggest.ingest</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25G76</string>
+	<string>25G83</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en-US</string>
 	<key>CFBundleDisplayName</key>
@@ -339,7 +339,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>159.0</string>
+	<string>159.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -361,27 +361,27 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>78949</string>
+	<string>79158</string>
 	<key>CHANNEL</key>
 	<string>release</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23F73</string>
+	<string>24A94232</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.5</string>
+	<string>27.1</string>
 	<key>DTSDKBuild</key>
-	<string>23F73</string>
+	<string>24A94232</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.5</string>
+	<string>iphoneos27.1</string>
 	<key>DTXcode</key>
-	<string>2650</string>
+	<string>2710</string>
 	<key>DTXcodeBuild</key>
-	<string>17F42</string>
+	<string>27A9275</string>
 	<key>INIntentsSupported</key>
 	<array>
 		<string>QuickActionIntent</string>

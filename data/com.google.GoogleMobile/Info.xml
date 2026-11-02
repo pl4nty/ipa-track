@@ -99,7 +99,9 @@
 		<string>es_419</string>
 		<string>fa</string>
 		<string>fi</string>
+		<string>fil</string>
 		<string>fr</string>
+		<string>gu</string>
 		<string>he</string>
 		<string>hi</string>
 		<string>hr</string>
@@ -109,13 +111,17 @@
 		<string>ja</string>
 		<string>ka</string>
 		<string>kk</string>
+		<string>kn</string>
 		<string>ko</string>
 		<string>lt</string>
+		<string>ml</string>
 		<string>mr</string>
 		<string>ms</string>
 		<string>my</string>
 		<string>nb</string>
 		<string>nl</string>
+		<string>or</string>
+		<string>pa</string>
 		<string>pl</string>
 		<string>pt_BR</string>
 		<string>pt_PT</string>
@@ -129,6 +135,7 @@
 		<string>th</string>
 		<string>tr</string>
 		<string>uk</string>
+		<string>ur</string>
 		<string>uz</string>
 		<string>vi</string>
 		<string>zh_CN</string>
@@ -139,7 +146,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>444.2</string>
+	<string>445.5</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -177,7 +184,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>444.2.1001595231</string>
+	<string>445.5.1006576801</string>
 	<key>CoreSpotlightContinuation</key>
 	<true/>
 	<key>DTAppStoreToolsBuild</key>
