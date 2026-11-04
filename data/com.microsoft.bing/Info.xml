@@ -13,7 +13,7 @@
 	<key>BING_MAPS_KEY</key>
 	<string>AnG6pvmlxuPe85X7PEFJ7EP18DKkpcwTxTvIz7T-7j-TMGstR4CwHr1SRtCWY1CZ</string>
 	<key>BuildMachineOSBuild</key>
-	<string>24G830</string>
+	<string>24H232</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -54,7 +54,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>34.3.441015002</string>
+	<string>34.4.441029001</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -110,9 +110,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>441015002</string>
+	<string>441029001</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>

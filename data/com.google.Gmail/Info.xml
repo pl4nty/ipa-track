@@ -116,7 +116,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.0.261019</string>
+	<string>6.0.261026</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -139,9 +139,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>6.0.261019.1808708</string>
+	<string>6.0.261026.1808884</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27B47</string>
+	<string>27B52</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -159,7 +159,7 @@
 	<key>DTXcodeBuild</key>
 	<string>27A266a</string>
 	<key>DynamiteVersion</key>
-	<string>0.684.1004310816</string>
+	<string>0.686.1009128599</string>
 	<key>FirebaseDeepLinkPasteboardRetrievalEnabled</key>
 	<false/>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -246,8 +246,6 @@
 		<string>audio</string>
 		<string>voip</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>

@@ -7,7 +7,7 @@
 		<string>53q6r32wpb.adattributionkit</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
-	<string>25F80</string>
+	<string>25G72</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
@@ -110,6 +110,13 @@
 				<key>CFBundleIconFiles</key>
 				<array>
 					<string>GamingIcon</string>
+				</array>
+			</dict>
+			<key>HexagonIcon</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>HexagonIcon</string>
 				</array>
 			</dict>
 			<key>HoloWavesIcon</key>
@@ -296,6 +303,13 @@
 					<string>GamingIcon</string>
 				</array>
 			</dict>
+			<key>HexagonIcon</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>HexagonIcon</string>
+				</array>
+			</dict>
 			<key>HoloWavesIcon</key>
 			<dict>
 				<key>CFBundleIconFiles</key>
@@ -394,7 +408,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>351.0</string>
+	<string>352.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -415,25 +429,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>118370</string>
+	<string>120481</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27B47</string>
+	<string>27B52</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23F73</string>
+	<string>24A94232</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>26.5</string>
+	<string>27.1</string>
 	<key>DTSDKBuild</key>
-	<string>23F73</string>
+	<string>24A94232</string>
 	<key>DTSDKName</key>
-	<string>iphoneos26.5</string>
+	<string>iphoneos27.1</string>
 	<key>DTXcode</key>
-	<string>2650</string>
+	<string>2710</string>
 	<key>DTXcodeBuild</key>
-	<string>17F42</string>
+	<string>27A9275</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
@@ -524,7 +538,7 @@
 	<key>RELEASE_CHANNEL</key>
 	<string>ptb</string>
 	<key>SENTRY_RELEASE</key>
-	<string>discord_ios@351.0.118370+118370</string>
+	<string>discord_ios@352.0.120481+120481</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>abcgintonord-800-extrabold.ttf</string>
@@ -568,6 +582,7 @@
 		<string>mainframe-700-bold.ttf</string>
 		<string>headbang-400-normal.ttf</string>
 		<string>journal-700-bold.ttf</string>
+		<string>pricedown-700-bold.ttf</string>
 		<string>aivisualidentityglyphs-400-normal.ttf</string>
 	</array>
 	<key>UIApplicationSceneManifest</key>
