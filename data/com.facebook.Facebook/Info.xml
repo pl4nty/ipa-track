@@ -18,7 +18,7 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBuildDate</key>
-	<string>2026-10-27T18:27:15</string>
+	<string>2026-11-03T19:13:51</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -185,7 +185,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>585.0.0</string>
+	<string>586.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -239,9 +239,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1101557913</string>
+	<string>1106861720</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27B47</string>
+	<string>27B52</string>
 	<key>DTPlatformBuild</key>
 	<string>24A94232</string>
 	<key>DTPlatformName</key>
@@ -257,25 +257,25 @@
 	<key>DTXcodeBuild</key>
 	<string>27A9275</string>
 	<key>FBAppVersion</key>
-	<string>585.0.0.64.71</string>
+	<string>586.0.0.62.72</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1101557913</integer>
+	<integer>1106861720</integer>
 	<key>FBBuildRevision</key>
-	<string>1014f687a98c4e7e99f77e24896112a43a7aaea3</string>
+	<string>f7c27c29ac5826deb627e12700c12c15d998decb</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1793123625.025200</string>
+	<string>1793731271.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1793125635</integer>
+	<integer>1793733231</integer>
 	<key>FBJSBundleRoot</key>
 	<string>EntryPoints/WildeBundle</string>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>585.0.0</string>
+	<string>586.0.0</string>
 	<key>FacebookAppID</key>
 	<string>6628568379</string>
 	<key>FacebookAppID~ipad</key>
@@ -296,8 +296,6 @@
 		<string>ember</string>
 		<string>fb-pma</string>
 		<string>line</string>
-		<string>snapchat</string>
-		<string>com.amazon.mobile.map.3pssov2</string>
 		<string>fb-pulse</string>
 		<string>fb-ama</string>
 		<string>fb1779658199047189</string>
@@ -309,10 +307,11 @@
 		<string>fb153277661752118</string>
 		<string>fb503934352950298</string>
 		<string>vrbo</string>
-		<string>comgooglemaps</string>
-		<string>waze</string>
 		<string>fb1288706755009180</string>
 		<string>fb1833639896909350</string>
+		<string>comgooglemaps</string>
+		<string>waze</string>
+		<string>com.amazon.mobile.map.3pssov2</string>
 		<string>fb174103646072524</string>
 		<string>fb277064115737714</string>
 		<string>fb1615311772054438</string>
@@ -341,6 +340,7 @@
 		<string>dhits</string>
 		<string>duo</string>
 		<string>googleauthenticator</string>
+		<string>snapchat</string>
 		<string>http</string>
 		<string>https</string>
 	</array>

@@ -124,7 +124,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.10.40</string>
+	<string>26.11.10</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -133,16 +133,6 @@
 	</array>
 	<key>CFBundleURLTypes</key>
 	<array>
-		<dict>
-			<key>CFBundleTypeRole</key>
-			<string>Editor</string>
-			<key>CFBundleURLName</key>
-			<string>AmplitudeURLSchemeProd</string>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>amp-78a97e4e908a64fb</string>
-			</array>
-		</dict>
 		<dict>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
@@ -182,9 +172,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>114678</string>
+	<string>115934</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27B47</string>
+	<string>27B52</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
