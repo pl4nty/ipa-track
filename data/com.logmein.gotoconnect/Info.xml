@@ -44,7 +44,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2026.11.0</string>
+	<string>2026.11.2</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -63,9 +63,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2835</string>
+	<string>2865</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27A9275</string>
+	<string>27B47</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -139,7 +139,7 @@
 	<key>NSSpeechRecognitionUsageDescription</key>
 	<string>GoTo uses speech recognition to turn your voicemails and calls into text.</string>
 	<key>RCTNewArchEnabled</key>
-	<false/>
+	<true/>
 	<key>RTCAppGroupIdentifier</key>
 	<string>group.com.logmein.gotoconnect</string>
 	<key>RTCScreenSharingExtension</key>
