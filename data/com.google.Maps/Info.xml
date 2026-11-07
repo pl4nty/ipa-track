@@ -111,7 +111,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.44.4</string>
+	<string>26.45.1</string>
 	<key>CFBundleSpokenName</key>
 	<string>Google Maps</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -142,7 +142,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>26.44.4.0068774210</string>
+	<string>26.45.1.0117382790</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>
