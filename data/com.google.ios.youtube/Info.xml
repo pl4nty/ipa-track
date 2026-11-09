@@ -166,7 +166,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>21.44.4</string>
+	<string>21.45.4</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -189,7 +189,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>21.44.4</string>
+	<string>21.45.4</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>
@@ -363,8 +363,6 @@
 		<string>fetch</string>
 		<string>external-accessory</string>
 	</array>
-	<key>UIDesignRequiresCompatibility</key>
-	<true/>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
