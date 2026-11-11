@@ -13,11 +13,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Fri Nov  6 21:59:38 UTC 2026</string>
+		<string>Mon Nov  9 22:49:13 UTC 2026</string>
 		<key>SignalCommit</key>
-		<string>012f2f29307dd084476c641968e382f25cb76737 Only process iDEAL redirects once per donation</string>
+		<string>7cb861982549eb2c240b1e1737b4015b60c93c5a Bump version to 8.36.1</string>
 		<key>Timestamp</key>
-		<integer>1794002378</integer>
+		<integer>1794264553</integer>
 		<key>XCodeVersion</key>
 		<string>2700.2710</string>
 	</dict>
@@ -179,7 +179,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.36</string>
+	<string>8.36.1</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -200,7 +200,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1981</string>
+	<string>1988</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>

@@ -29,9 +29,13 @@
 		<string>com.meta.mwa.activeGlassesDemo.sessionSync.bgProcessingTask</string>
 		<string>com.meta.mwa.air.download.refreshTask</string>
 		<string>com.meta.mwa.air.backgroundDownload</string>
+		<string>com.meta.mwa.deidentifiedemgupload.consentRefreshTask</string>
+		<string>com.meta.mwa.deidentifiedemgupload.credentialRefillTask</string>
+		<string>com.meta.mwa.deidentifiedemgupload.deletionCredentialRefillTask</string>
+		<string>com.meta.mwa.deidentifiedemgupload.processingTask</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-11-04T07:02:58</string>
+	<string>2026-11-05T19:23:51</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en_US</string>
 	<key>CFBundleDisplayName</key>
@@ -72,7 +76,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>297.1.0</string>
+	<string>298.0.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -90,7 +94,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1107269446</string>
+	<string>1108416498</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTPlatformBuild</key>
@@ -108,23 +112,23 @@
 	<key>DTXcodeBuild</key>
 	<string>27A9275</string>
 	<key>FBAppVersion</key>
-	<string>297.1.0.17.153</string>
+	<string>298.0.0.35.151</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1107269446</integer>
+	<integer>1108416498</integer>
 	<key>FBBuildRevision</key>
-	<string>af62c4f8559f3aeaaca06315356c421dfa7dfd7a</string>
+	<string>6e0cf5ec7732a4cfd87f32e7d1816239b65d1a08</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1793774096.028800</string>
+	<string>1793905546.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1793775778</integer>
+	<integer>1793906631</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>297.1.0</string>
+	<string>298.0.0</string>
 	<key>FacebookAppID</key>
 	<string>538293343755232</string>
 	<key>FacebookDisplayName</key>
@@ -144,20 +148,15 @@
 		<string>ember</string>
 		<string>fb-ama</string>
 		<string>whatsapp-consumer</string>
-		<string>amznmp3</string>
 		<string>ihr</string>
 		<string>rbmaudible-v2</string>
-		<string>org.bemyeyes.bemyeyes</string>
 		<string>gcm-ciq</string>
 		<string>strava</string>
 		<string>i8birdies</string>
-		<string>tg</string>
-		<string>snapchat</string>
-		<string>twitter</string>
-		<string>line</string>
-		<string>viber</string>
 		<string>waze</string>
 		<string>comgooglemaps</string>
+		<string>amznmp3</string>
+		<string>org.bemyeyes.bemyeyes</string>
 		<string>spotify</string>
 		<string>eclipse</string>
 		<string>calm</string>
@@ -167,6 +166,11 @@
 		<string>googleauthenticator</string>
 		<string>sgtestapp-sg-creds</string>
 		<string>fb-pma</string>
+		<string>snapchat</string>
+		<string>tg</string>
+		<string>twitter</string>
+		<string>line</string>
+		<string>viber</string>
 		<string>http</string>
 		<string>https</string>
 	</array>

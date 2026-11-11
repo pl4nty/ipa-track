@@ -7,6 +7,7 @@
 	<key>com.apple.developer.icloud-container-identifiers</key>
 	<array>
 		<string>57T9237FN3.net.whatsapp.WhatsApp</string>
+		<string>iCloud.net.whatsapp.WhatsApp.CloudKit.production</string>
 	</array>
 	<key>com.apple.developer.pushkit.unrestricted-voip</key>
 	<true/>
@@ -53,6 +54,7 @@
 	<key>com.apple.developer.icloud-services</key>
 	<array>
 		<string>CloudDocuments</string>
+		<string>CloudKit</string>
 	</array>
 	<key>com.apple.developer.kernel.extended-virtual-addressing</key>
 	<true/>

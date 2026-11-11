@@ -101,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>267.1.0</string>
+	<string>268.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -158,9 +158,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>267.1.0.33202</string>
+	<string>268.0.0.35349</string>
 	<key>DTAppStoreToolsBuild</key>
-	<string>27B47</string>
+	<string>27B52</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -791,7 +791,7 @@
 	<key>NSFaceIDUsageDescription</key>
 	<string>Use FaceID to unlock Jira</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>To attach files to Jira issues</string>
+	<string>To attach recordings to Jira issues and talk with Rovo</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>Allow Jira to save images and videos to Photos?</string>
 	<key>NSPhotoLibraryUsageDescription</key>

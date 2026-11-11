@@ -5,6 +5,7 @@
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
 		<string>chrome.app.refresh</string>
+		<string>com.google.chrome.ios.continuedProcessingTask.*</string>
 	</array>
 	<key>BuildMachineOSBuild</key>
 	<string>25G241</string>
@@ -65,7 +66,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>157.8103.37</string>
+	<string>158.8127.32</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -97,7 +98,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>157.0.8103.37</string>
+	<string>158.0.8127.32</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>
@@ -123,7 +124,7 @@
 	<key>GTMUserAgentID</key>
 	<string>Chrome</string>
 	<key>GTMUserAgentVersion</key>
-	<string>157.0.8103.37</string>
+	<string>158.0.8127.32</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
@@ -203,7 +204,7 @@
 		<string>SearchInChromeIntent</string>
 	</array>
 	<key>SCMRevision</key>
-	<string>d09ee2bfb4a80804ef5cc4a963d4ab2053db49de-refs/branch-heads/8103@{#1025}</string>
+	<string>da263bccfe72cac45faea4b455b5294b2de62cb8-refs/branch-heads/8127@{#1523}</string>
 	<key>SSOAuthURLScheme</key>
 	<string>com.google.sso.chrome.stable</string>
 	<key>UIApplicationDelegate</key>
@@ -263,6 +264,7 @@
 		<string>audio</string>
 		<string>fetch</string>
 		<string>remote-notification</string>
+		<string>processing</string>
 	</array>
 	<key>UIDeviceFamily</key>
 	<array>
