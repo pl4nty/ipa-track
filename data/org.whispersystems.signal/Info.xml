@@ -13,11 +13,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Mon Nov  9 22:49:13 UTC 2026</string>
+		<string>Tue Nov 10 23:47:42 UTC 2026</string>
 		<key>SignalCommit</key>
-		<string>7cb861982549eb2c240b1e1737b4015b60c93c5a Bump version to 8.36.1</string>
+		<string>1c925a184f7d0412c64ad754bab2ed2cc09682e9 Restrict screenshot blocking to internal</string>
 		<key>Timestamp</key>
-		<integer>1794264553</integer>
+		<integer>1794354462</integer>
 		<key>XCodeVersion</key>
 		<string>2700.2710</string>
 	</dict>
@@ -179,7 +179,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>8.36.1</string>
+	<string>8.37</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -200,7 +200,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1988</string>
+	<string>1993</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>

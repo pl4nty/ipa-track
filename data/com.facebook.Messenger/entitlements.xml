@@ -17,8 +17,10 @@
 	<string>T84QZS65DQ.com.facebook.Messenger</string>
 	<key>aps-environment</key>
 	<string>production</string>
-	<key>com.apple.developer.icloud-container-environment</key>
-	<string>Production</string>
+	<key>com.apple.developer.wifi-aware</key>
+	<array>
+		<string>Subscribe</string>
+	</array>
 	<key>com.apple.developer.kernel.increased-memory-limit</key>
 	<true/>
 	<key>com.apple.developer.associated-domains</key>
@@ -81,5 +83,7 @@
 		<string>group.com.facebook.msysstorage</string>
 		<string>group.com.metaplatforms.family</string>
 	</array>
+	<key>com.apple.developer.icloud-container-environment</key>
+	<string>Production</string>
 </dict>
 </plist>

@@ -117,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>4.37.27</string>
+	<string>4.38.29</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -147,7 +147,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>4.37.27.16</string>
+	<string>4.38.29.06</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>
@@ -473,7 +473,7 @@
 	<key>NSMicrophoneUsageDescription</key>
 	<string>The microphone can be used to speak with a voice assistant or for two way audio on supported devices, and to transcribe speech to text for features where voice input is enabled.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Google Home needs permission to use your camera in order to scan your card.</string>
+	<string>Google Home needs access to your photo library to save photos and videos from your cameras.</string>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>processing</string>
