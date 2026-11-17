@@ -117,7 +117,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>384.0</string>
+	<string>385.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -140,7 +140,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>384.0.111376</string>
+	<string>385.0.112138</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>
@@ -209,6 +209,8 @@
 	<string>This lets you speak during calls and use your voice to search</string>
 	<key>NSMotionUsageDescription</key>
 	<string>This allows you to be automatically prompted to enter Meet On-The-Go</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Give Meet permission to save your captured photo to your photo library.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>To complete this action, let Meet access your photos.</string>
 	<key>NSUserActivityTypes</key>

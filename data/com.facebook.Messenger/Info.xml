@@ -21,7 +21,7 @@
 		<string>com.facebook.odvm.prefetch</string>
 	</array>
 	<key>CFBuildDate</key>
-	<string>2026-11-10T17:42:40</string>
+	<string>2026-11-14T05:47:44</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -212,7 +212,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>587.0.0</string>
+	<string>588.0.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -425,7 +425,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1111963724</string>
+	<string>1114939974</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTPlatformBuild</key>
@@ -443,23 +443,23 @@
 	<key>DTXcodeBuild</key>
 	<string>27A9275</string>
 	<key>FBAppVersion</key>
-	<string>587.0.0.25.106</string>
+	<string>588.0.0.20.106</string>
 	<key>FBBuck2</key>
 	<true/>
 	<key>FBBuildBranchName</key>
 	<string>dev</string>
 	<key>FBBuildNumber</key>
-	<integer>1111963724</integer>
+	<integer>1114939974</integer>
 	<key>FBBuildRevision</key>
-	<string>c3d05fdd3b2ac7f9d09f43e15ac2c18dcb39ddd2</string>
+	<string>12823df456adfbb463136e7302da512f23919bdf</string>
 	<key>FBBuildRevisionTime</key>
-	<string>1794313884.028800</string>
+	<string>1794631982.028800</string>
 	<key>FBBuildTime</key>
-	<integer>1794332560</integer>
+	<integer>1794635264</integer>
 	<key>FBKeychainAccessGroup</key>
 	<string>T84QZS65DQ.platformFamily</string>
 	<key>FBPlatformVersion</key>
-	<string>587.0.0</string>
+	<string>588.0.0</string>
 	<key>FacebookAppID</key>
 	<string>437626316973788</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
@@ -639,13 +639,13 @@
 	<array>
 		<string>audio</string>
 		<string>bluetooth-central</string>
+		<string>bluetooth-peripheral</string>
 		<string>fetch</string>
 		<string>location</string>
 		<string>processing</string>
 		<string>remote-notification</string>
 		<string>voip</string>
 		<string>external-accessory</string>
-		<string>bluetooth-peripheral</string>
 	</array>
 	<key>UIDeviceFamily</key>
 	<array>

@@ -4,11 +4,15 @@
 <dict>
 	<key>com.apple.developer.usernotifications.communication</key>
 	<true/>
+	<key>com.apple.security.hardened-process.checked-allocations</key>
+	<true/>
 	<key>com.apple.developer.icloud-container-identifiers</key>
 	<array>
 		<string>57T9237FN3.net.whatsapp.WhatsApp</string>
 		<string>iCloud.net.whatsapp.WhatsApp.CloudKit.production</string>
 	</array>
+	<key>com.apple.security.hardened-process</key>
+	<true/>
 	<key>com.apple.developer.avfoundation.multitasking-camera-access</key>
 	<true/>
 	<key>application-identifier</key>
@@ -50,6 +54,8 @@
 	<true/>
 	<key>com.apple.developer.kernel.increased-memory-limit</key>
 	<true/>
+	<key>com.apple.security.hardened-process.enhanced-security-version-string</key>
+	<string>1</string>
 	<key>aps-environment</key>
 	<string>production</string>
 	<key>com.apple.developer.icloud-container-environment</key>
@@ -71,6 +77,8 @@
 		<string>webcredentials:*.whatsapp.com</string>
 		<string>webcredentials:meta.iniciador.com.br</string>
 	</array>
+	<key>com.apple.developer.authentication-services.account-creation-requires-phone-number</key>
+	<true/>
 	<key>com.apple.developer.calling-app</key>
 	<true/>
 	<key>com.apple.developer.team-identifier</key>
@@ -80,7 +88,7 @@
 		<string>CloudDocuments</string>
 		<string>CloudKit</string>
 	</array>
-	<key>com.apple.developer.authentication-services.account-creation-requires-phone-number</key>
+	<key>com.apple.security.hardened-process.checked-allocations.soft-mode</key>
 	<true/>
 	<key>com.apple.developer.ubiquity-kvstore-identifier</key>
 	<string>57T9237FN3.net.whatsapp.WhatsApp</string>

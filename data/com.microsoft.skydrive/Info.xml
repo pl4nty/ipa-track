@@ -75,7 +75,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.1.4</string>
+	<string>26.2.2</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -107,7 +107,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>59151816</string>
+	<string>59823292</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>
@@ -227,6 +227,8 @@
 		<string>com.microsoft.activity-type-scan</string>
 		<string>com.microsoft.activity-type-open-file</string>
 	</array>
+	<key>ODApplicationResourceBundle</key>
+	<string>BrownfieldResources</string>
 	<key>PHPhotoLibraryPreventAutomaticLimitedAccessAlert</key>
 	<true/>
 	<key>UIApplicationSceneManifest</key>
