@@ -94,7 +94,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2026.23</string>
+	<string>2026.24</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -129,25 +129,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>20261105.171901</string>
+	<string>20261117.192244</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>24A430</string>
+	<string>24B8118</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>27.0</string>
+	<string>27.2</string>
 	<key>DTSDKBuild</key>
-	<string>24A430</string>
+	<string>24B8118</string>
 	<key>DTSDKName</key>
-	<string>iphoneos27.0</string>
+	<string>iphoneos27.2</string>
 	<key>DTXcode</key>
-	<string>2700</string>
+	<string>2720</string>
 	<key>DTXcodeBuild</key>
-	<string>27A266a</string>
+	<string>27B52</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LSApplicationQueriesSchemes</key>
