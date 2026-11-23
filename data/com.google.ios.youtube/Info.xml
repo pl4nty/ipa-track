@@ -51,6 +51,42 @@
 				<key>UIPrerenderedIcon</key>
 				<false/>
 			</dict>
+			<key>icon4</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>icon4</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>icon5</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>icon5</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>icon6</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>icon6</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
+			<key>icon7</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>icon7</string>
+				</array>
+				<key>UIPrerenderedIcon</key>
+				<false/>
+			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
@@ -166,7 +202,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>21.46.3</string>
+	<string>21.47.6</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>iPhoneOS</string>
@@ -189,7 +225,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>21.46.3</string>
+	<string>21.47.6</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>
@@ -245,7 +281,7 @@
 		<string>vnd.youtube.music</string>
 		<string>vnd.youtube.kids</string>
 		<string>vnd.youtube.tv</string>
-		<string>vnd.youtube.sandbox</string>
+		<string>vnd.youtube.tamba</string>
 		<string>comgooglemaps</string>
 		<string>googlechrome</string>
 		<string>googleapp</string>

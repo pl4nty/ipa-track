@@ -80,7 +80,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>38.7</string>
+	<string>38.8</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -108,25 +108,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.2.261103.2133451</string>
+	<string>1.2.261119.2136392</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>23F73</string>
+	<string>23F81a</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
 	<string>26.5</string>
 	<key>DTSDKBuild</key>
-	<string>23F73</string>
+	<string>23F81a</string>
 	<key>DTSDKName</key>
 	<string>iphoneos26.5</string>
 	<key>DTXcode</key>
-	<string>2650</string>
+	<string>2660</string>
 	<key>DTXcodeBuild</key>
-	<string>17F42</string>
+	<string>17F113</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>IntuneMAMSettings</key>
