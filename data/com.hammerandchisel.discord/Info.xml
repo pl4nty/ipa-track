@@ -22,179 +22,128 @@
 		<dict>
 			<key>AngryIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>AngryIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>AngryIcon</string>
 			</dict>
 			<key>BeanieIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>BeanieIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>BeanieIcon</string>
 			</dict>
 			<key>BlurpleTwilightIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>BlurpleTwilight</string>
-					<string>BlurpleTwilightIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>BlurpleTwilightIcon</string>
 			</dict>
 			<key>BlushIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>BlushIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>BlushIcon</string>
 			</dict>
 			<key>BrandDarkIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>BrandDarkIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>BrandDarkIcon</string>
 			</dict>
 			<key>BrandInvertedIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>BrandInvertedIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>BrandInvertedIcon</string>
 			</dict>
 			<key>CamoIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>CamoIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>CamoIcon</string>
 			</dict>
 			<key>CherryBlossomIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>CherryBlossomIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>CherryBlossomIcon</string>
 			</dict>
 			<key>CircuitIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>CircuitIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>CircuitIcon</string>
 			</dict>
 			<key>ColorWaveIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>ColorWaveIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>ColorWaveIcon</string>
 			</dict>
 			<key>ControllerIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>ControllerIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>ControllerIcon</string>
 			</dict>
 			<key>GalaxyIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>GalaxyIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>GalaxyIcon</string>
 			</dict>
 			<key>GamingIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>GamingIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>GamingIcon</string>
 			</dict>
 			<key>HexagonIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>HexagonIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>HexagonIcon</string>
 			</dict>
 			<key>HoloWavesIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>HoloWavesIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>HoloWavesIcon</string>
 			</dict>
 			<key>InRainbowsIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>InRainbowsIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>InRainbowsIcon</string>
 			</dict>
 			<key>MangaIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>MangaIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>MangaIcon</string>
 			</dict>
 			<key>MatteDarkIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>MatteDarkIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>MatteDarkIcon</string>
 			</dict>
 			<key>MatteLightIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>MatteLightIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>MatteLightIcon</string>
 			</dict>
 			<key>MidnightPrismIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>MidnightPrismIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>MidnightPrismIcon</string>
 			</dict>
 			<key>MushroomIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>MushroomIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>MushroomIcon</string>
 			</dict>
 			<key>PastelIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>PastelIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>PastelIcon</string>
 			</dict>
 			<key>PirateIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>PirateIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>PirateIcon</string>
 			</dict>
 			<key>SunsetIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>SunsetIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>SunsetIcon</string>
 			</dict>
 			<key>Y2KIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>Y2KIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>Y2KIcon</string>
 			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
@@ -213,179 +162,128 @@
 		<dict>
 			<key>AngryIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>AngryIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>AngryIcon</string>
 			</dict>
 			<key>BeanieIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>BeanieIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>BeanieIcon</string>
 			</dict>
 			<key>BlurpleTwilightIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>BlurpleTwilight</string>
-					<string>BlurpleTwilightIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>BlurpleTwilightIcon</string>
 			</dict>
 			<key>BlushIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>BlushIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>BlushIcon</string>
 			</dict>
 			<key>BrandDarkIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>BrandDarkIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>BrandDarkIcon</string>
 			</dict>
 			<key>BrandInvertedIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>BrandInvertedIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>BrandInvertedIcon</string>
 			</dict>
 			<key>CamoIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>CamoIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>CamoIcon</string>
 			</dict>
 			<key>CherryBlossomIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>CherryBlossomIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>CherryBlossomIcon</string>
 			</dict>
 			<key>CircuitIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>CircuitIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>CircuitIcon</string>
 			</dict>
 			<key>ColorWaveIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>ColorWaveIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>ColorWaveIcon</string>
 			</dict>
 			<key>ControllerIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>ControllerIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>ControllerIcon</string>
 			</dict>
 			<key>GalaxyIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>GalaxyIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>GalaxyIcon</string>
 			</dict>
 			<key>GamingIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>GamingIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>GamingIcon</string>
 			</dict>
 			<key>HexagonIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>HexagonIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>HexagonIcon</string>
 			</dict>
 			<key>HoloWavesIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>HoloWavesIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>HoloWavesIcon</string>
 			</dict>
 			<key>InRainbowsIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>InRainbowsIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>InRainbowsIcon</string>
 			</dict>
 			<key>MangaIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>MangaIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>MangaIcon</string>
 			</dict>
 			<key>MatteDarkIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>MatteDarkIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>MatteDarkIcon</string>
 			</dict>
 			<key>MatteLightIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>MatteLightIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>MatteLightIcon</string>
 			</dict>
 			<key>MidnightPrismIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>MidnightPrismIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>MidnightPrismIcon</string>
 			</dict>
 			<key>MushroomIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>MushroomIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>MushroomIcon</string>
 			</dict>
 			<key>PastelIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>PastelIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>PastelIcon</string>
 			</dict>
 			<key>PirateIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>PirateIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>PirateIcon</string>
 			</dict>
 			<key>SunsetIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>SunsetIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>SunsetIcon</string>
 			</dict>
 			<key>Y2KIcon</key>
 			<dict>
-				<key>CFBundleIconFiles</key>
-				<array>
-					<string>Y2KIcon</string>
-				</array>
+				<key>CFBundleIconName</key>
+				<string>Y2KIcon</string>
 			</dict>
 		</dict>
 		<key>CFBundlePrimaryIcon</key>
@@ -408,7 +306,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>354.0</string>
+	<string>355.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -429,7 +327,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>123054</string>
+	<string>124114</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>
@@ -538,7 +436,7 @@
 	<key>RELEASE_CHANNEL</key>
 	<string>ptb</string>
 	<key>SENTRY_RELEASE</key>
-	<string>discord_ios@354.0.123054+123054</string>
+	<string>discord_ios@355.0.124114+124114</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>abcgintonord-800-extrabold.ttf</string>

@@ -96,7 +96,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.116.1</string>
+	<string>2.116.2</string>
 	<key>CFBundleSignature</key>
 	<string>OFV2</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -135,25 +135,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.116.26111319</string>
+	<string>2.116.26111940</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>24A94232</string>
+	<string>24B8118</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>27.1</string>
+	<string>27.2</string>
 	<key>DTSDKBuild</key>
-	<string>24A94232</string>
+	<string>24B8118</string>
 	<key>DTSDKName</key>
-	<string>iphoneos27.1</string>
+	<string>iphoneos27.2</string>
 	<key>DTXcode</key>
-	<string>2710</string>
+	<string>2720</string>
 	<key>DTXcodeBuild</key>
-	<string>27A9275</string>
+	<string>27B52</string>
 	<key>GIDClientID</key>
 	<string>293702255113-1p4acvo98b7o6e20ku8vsp3l9j7snbja.apps.googleusercontent.com</string>
 	<key>INAlternativeAppNames</key>
@@ -352,7 +352,7 @@
 		<string>90</string>
 	</dict>
 	<key>OfficeLegacyVersion</key>
-	<string>2.116.1113.1</string>
+	<string>2.116.1119.2</string>
 	<key>OneAuthConfiguration</key>
 	<dict>
 		<key>OneAuthApplicationID</key>
