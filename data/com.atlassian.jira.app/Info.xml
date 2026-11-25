@@ -101,7 +101,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>268.1.2</string>
+	<string>269.1.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -158,25 +158,25 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>268.1.2.38611</string>
+	<string>269.1.0.38959</string>
 	<key>DTAppStoreToolsBuild</key>
 	<string>27B52</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>24A94232</string>
+	<string>24B8118</string>
 	<key>DTPlatformName</key>
 	<string>iphoneos</string>
 	<key>DTPlatformVersion</key>
-	<string>27.1</string>
+	<string>27.2</string>
 	<key>DTSDKBuild</key>
-	<string>24A94232</string>
+	<string>24B8118</string>
 	<key>DTSDKName</key>
-	<string>iphoneos27.1</string>
+	<string>iphoneos27.2</string>
 	<key>DTXcode</key>
-	<string>2710</string>
+	<string>2720</string>
 	<key>DTXcodeBuild</key>
-	<string>27A9275</string>
+	<string>27B52</string>
 	<key>GIDClientId</key>
 	<string>1065897371335-d7hdpn6lsht3v2ajg9si1s89vn59tu78.apps.googleusercontent.com</string>
 	<key>GIDServerClientId</key>
@@ -787,7 +787,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>Jira needs access to your device’s camera in order to take photos or scan QR codes.</string>
 	<key>NSContactsUsageDescription</key>
-	<string>This will allow you to choose a contact to invite to Jira. Only the selected contact’s details will be sent to our servers.</string>
+	<string>Alerts’ Call/SMS phone numbers will be added automatically to your contacts to save time and effort for you. No need for access to any other contacts in your phone.</string>
 	<key>NSFaceIDUsageDescription</key>
 	<string>Use FaceID to unlock Jira</string>
 	<key>NSMicrophoneUsageDescription</key>
